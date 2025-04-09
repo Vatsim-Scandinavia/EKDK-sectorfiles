@@ -1,5 +1,5 @@
 # EKDK-sectorfiles
-Polaris FIR plugins and configurations for the Norwegian Euroscope sector file used on VATSIM.
+CPH FIR plugins and configurations for the Norwegian Euroscope sector file used on VATSIM.
 
 This repository contains non-automatically generated files from our sector file provider AeroNav GNG, including:
 - Plugins
