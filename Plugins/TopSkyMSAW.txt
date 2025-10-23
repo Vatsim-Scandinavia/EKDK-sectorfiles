@@ -1,0 +1,43 @@
+// Area
+// A:MinLat(double):MaxLat(double):MinLon(double):MaxLon(double):MSA(int)
+
+// Area list
+// L:Lat1(double):Lon1(double):dlat(double):dlon(double):n(int):MSA1(int):MSA2(int):...:MSAn(int)
+
+// Polygon
+// P:n(int):Lat1(double):Lon1(double):Lat2(double):lon2(double):...:Latn(double):Lonn(double):MSA(int)
+
+// Circle
+// C:Lat(ES):Lon(ES):r(double):MSA(int)
+
+// Sector
+// S:Lat(ES):Lon(ES):Rdl1(double):Rdl2(double):r1(double):r2(double):MSA(int)
+
+
+
+// ARP's
+
+C:N055.44.25.160:E009.09.06.400:8:-1 // EKBI
+C:N055.03.47.760:E014.45.34.410:8:-1 // EKRN
+C:N055.31.33.390:E008.33.12.250:8:-1 // EKEB
+C:N056.11.05.090:E009.02.40.020:8:-1 // EKHG
+C:N056.17.50.850:E009.07.28.660:8:-1 // EKKA
+C:N055.37.04.500:E012.39.21.500:8:-1 // EKCH
+C:N055.35.08.040:E012.07.53.140:8:-1 // EKRK
+C:N055.26.10.620:E009.19.51.330:8:-1 // EKVD
+C:N055.28.35.990:E010.19.51.360:8:-1 // EKOD
+C:N057.30.12.690:E010.13.45.740:8:-1 // EKSN
+C:N054.57.51.720:E009.47.30.230:8:-1 // EKSB
+C:N055.59.24.440:E008.21.14.060:8:-1 // EKVJ
+C:N055.13.31.990:E009.15.50.150:8:-1 // EKSP
+C:N057.05.34.040:E009.50.56.990:8:-1 // EKYT
+C:N056.18.00.060:E010.37.08.430:8:-1 // EKAH
+
+
+// Area Minimum Altitudes from En-route chart 13APR2006
+//	     4     5     6     7     8     9    10    11    12    13    14    15    16
+L:58:9:1:1: 2:                               2200: 1500
+L:57:7:1:1: 5:                   1500: 1600: 1900: 1800: 1800
+L:56:4:1:1: 9: 1400: 1400: 1400: 1400: 1700: 2300: 2100: 1500: 2600
+L:55:5:1:1:11:       1400: 1400: 1400: 2200: 2300: 2200: 2300: 2100: 2600: 2500: 1700
+L:54:8:1:1: 8:                         1800: 2000: 2300: 1800: 1900: 1900: 1500: 1700
