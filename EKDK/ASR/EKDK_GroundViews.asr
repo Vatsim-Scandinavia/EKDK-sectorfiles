@@ -1,0 +1,334 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Free Text:EKAH TWY & Stands & Runways\1:freetext
+Free Text:EKAH TWY & Stands & Runways\10L:freetext
+Free Text:EKAH TWY & Stands & Runways\10R:freetext
+Free Text:EKAH TWY & Stands & Runways\15:freetext
+Free Text:EKAH TWY & Stands & Runways\16:freetext
+Free Text:EKAH TWY & Stands & Runways\2:freetext
+Free Text:EKAH TWY & Stands & Runways\28L:freetext
+Free Text:EKAH TWY & Stands & Runways\28R:freetext
+Free Text:EKAH TWY & Stands & Runways\3:freetext
+Free Text:EKAH TWY & Stands & Runways\4:freetext
+Free Text:EKAH TWY & Stands & Runways\A:freetext
+Free Text:EKAH TWY & Stands & Runways\B:freetext
+Free Text:EKAH TWY & Stands & Runways\E:freetext
+Free Text:EKAH TWY & Stands & Runways\G:freetext
+Free Text:EKAH TWY & Stands & Runways\W:freetext
+Free Text:EKAH TWY & Stands & Runways\X:freetext
+Free Text:EKAH TWY & Stands & Runways\Y:freetext
+Free Text:EKAH TWY & Stands & Runways\Z:freetext
+Free Text:EKBI TWY & Stands\0:freetext
+Free Text:EKBI TWY & Stands\1:freetext
+Free Text:EKBI TWY & Stands\2:freetext
+Free Text:EKBI TWY & Stands\25:freetext
+Free Text:EKBI TWY & Stands\26:freetext
+Free Text:EKBI TWY & Stands\27:freetext
+Free Text:EKBI TWY & Stands\28:freetext
+Free Text:EKBI TWY & Stands\29:freetext
+Free Text:EKBI TWY & Stands\3:freetext
+Free Text:EKBI TWY & Stands\31:freetext
+Free Text:EKBI TWY & Stands\32:freetext
+Free Text:EKBI TWY & Stands\34:freetext
+Free Text:EKBI TWY & Stands\35:freetext
+Free Text:EKBI TWY & Stands\36:freetext
+Free Text:EKBI TWY & Stands\37:freetext
+Free Text:EKBI TWY & Stands\38:freetext
+Free Text:EKBI TWY & Stands\39:freetext
+Free Text:EKBI TWY & Stands\4:freetext
+Free Text:EKBI TWY & Stands\40:freetext
+Free Text:EKBI TWY & Stands\5:freetext
+Free Text:EKBI TWY & Stands\6:freetext
+Free Text:EKBI TWY & Stands\65:freetext
+Free Text:EKBI TWY & Stands\66:freetext
+Free Text:EKBI TWY & Stands\67:freetext
+Free Text:EKBI TWY & Stands\68:freetext
+Free Text:EKBI TWY & Stands\69:freetext
+Free Text:EKBI TWY & Stands\7:freetext
+Free Text:EKBI TWY & Stands\90:freetext
+Free Text:EKBI TWY & Stands\91:freetext
+Free Text:EKBI TWY & Stands\92:freetext
+Free Text:EKBI TWY & Stands\93:freetext
+Free Text:EKBI TWY & Stands\94:freetext
+Free Text:EKBI TWY & Stands\A:freetext
+Free Text:EKBI TWY & Stands\B:freetext
+Free Text:EKBI TWY & Stands\C:freetext
+Free Text:EKBI TWY & Stands\D:freetext
+Free Text:EKBI TWY & Stands\F:freetext
+Free Text:EKBI TWY & Stands\G:freetext
+Free Text:EKBI TWY & Stands\G2:freetext
+Free Text:EKBI TWY & Stands\G3:freetext
+Free Text:EKBI TWY & Stands\G4:freetext
+Free Text:EKBI TWY & Stands\J:freetext
+Free Text:EKBI TWY & Stands\K:freetext
+Free Text:EKBI TWY & Stands\M:freetext
+Free Text:EKBI TWY & Stands\N:freetext
+Free Text:EKCH TWY\A:freetext
+Free Text:EKCH TWY\A1:freetext
+Free Text:EKCH TWY\A10:freetext
+Free Text:EKCH TWY\A11:freetext
+Free Text:EKCH TWY\A12:freetext
+Free Text:EKCH TWY\A2:freetext
+Free Text:EKCH TWY\A3:freetext
+Free Text:EKCH TWY\A4:freetext
+Free Text:EKCH TWY\A5:freetext
+Free Text:EKCH TWY\A6:freetext
+Free Text:EKCH TWY\A7:freetext
+Free Text:EKCH TWY\A8:freetext
+Free Text:EKCH TWY\A9:freetext
+Free Text:EKCH TWY\B:freetext
+Free Text:EKCH TWY\B1:freetext
+Free Text:EKCH TWY\B2:freetext
+Free Text:EKCH TWY\B3:freetext
+Free Text:EKCH TWY\B4:freetext
+Free Text:EKCH TWY\B5:freetext
+Free Text:EKCH TWY\C:freetext
+Free Text:EKCH TWY\D:freetext
+Free Text:EKCH TWY\E1:freetext
+Free Text:EKCH TWY\E2:freetext
+Free Text:EKCH TWY\E3:freetext
+Free Text:EKCH TWY\E4:freetext
+Free Text:EKCH TWY\F:freetext
+Free Text:EKCH TWY\F1:freetext
+Free Text:EKCH TWY\F2:freetext
+Free Text:EKCH TWY\G:freetext
+Free Text:EKCH TWY\G1:freetext
+Free Text:EKCH TWY\G2:freetext
+Free Text:EKCH TWY\G3:freetext
+Free Text:EKCH TWY\G4:freetext
+Free Text:EKCH TWY\G5:freetext
+Free Text:EKCH TWY\G6:freetext
+Free Text:EKCH TWY\I:freetext
+Free Text:EKCH TWY\J:freetext
+Free Text:EKCH TWY\K:freetext
+Free Text:EKCH TWY\K1:freetext
+Free Text:EKCH TWY\K2:freetext
+Free Text:EKCH TWY\K3:freetext
+Free Text:EKCH TWY\L:freetext
+Free Text:EKCH TWY\M:freetext
+Free Text:EKCH TWY\N1:freetext
+Free Text:EKCH TWY\N2:freetext
+Free Text:EKCH TWY\P:freetext
+Free Text:EKCH TWY\Q:freetext
+Free Text:EKCH TWY\R:freetext
+Free Text:EKCH TWY\S:freetext
+Free Text:EKCH TWY\T:freetext
+Free Text:EKCH TWY\U:freetext
+Free Text:EKCH TWY\V:freetext
+Free Text:EKCH TWY\V1:freetext
+Free Text:EKCH TWY\V2:freetext
+Free Text:EKCH TWY\W:freetext
+Free Text:EKCH TWY\Y:freetext
+Free Text:EKCH TWY\Z:freetext
+Free Text:EKDK VFR\Biersted:freetext
+Free Text:EKDK VFR\Bogense:freetext
+Free Text:EKDK VFR\Borup:freetext
+Free Text:EKDK VFR\Bovrup:freetext
+Free Text:EKDK VFR\Broager:freetext
+Free Text:EKDK VFR\Bøjden:freetext
+Free Text:EKDK VFR\Dorid:freetext
+Free Text:EKDK VFR\Dueodde:freetext
+Free Text:EKDK VFR\Ebeltoft:freetext
+Free Text:EKDK VFR\Fynshav:freetext
+Free Text:EKDK VFR\Gelting:freetext
+Free Text:EKDK VFR\Give:freetext
+Free Text:EKDK VFR\Grenaa:freetext
+Free Text:EKDK VFR\Gørding:freetext
+Free Text:EKDK VFR\Hasle:freetext
+Free Text:EKDK VFR\Hasseris:freetext
+Free Text:EKDK VFR\Holding West:freetext
+Free Text:EKDK VFR\Højen:freetext
+Free Text:EKDK VFR\Ikast:freetext
+Free Text:EKDK VFR\Ilskov:freetext
+Free Text:EKDK VFR\Ishøj:freetext
+Free Text:EKDK VFR\Karlskov:freetext
+Free Text:EKDK VFR\Knebel:freetext
+Free Text:EKDK VFR\Kongenshus:freetext
+Free Text:EKDK VFR\Køge:freetext
+Free Text:EKDK VFR\Langsø:freetext
+Free Text:EKDK VFR\Lem:freetext
+Free Text:EKDK VFR\Lindø:freetext
+Free Text:EKDK VFR\Lumby:freetext
+Free Text:EKDK VFR\Nordborg:freetext
+Free Text:EKDK VFR\North:freetext
+Free Text:EKDK VFR\Nødager:freetext
+Free Text:EKDK VFR\Ryomgård:freetext
+Free Text:EKDK VFR\Sjørup:freetext
+Free Text:EKDK VFR\Skads:freetext
+Free Text:EKDK VFR\Skjern West:freetext
+Free Text:EKDK VFR\South:freetext
+Free Text:EKDK VFR\Stensby:freetext
+Free Text:EKDK VFR\Store Darum:freetext
+Free Text:EKDK VFR\Svenstrup:freetext
+Free Text:EKDK VFR\Sønder Omme:freetext
+Free Text:EKDK VFR\Tuborg:freetext
+Free Text:EKDK VFR\Tørring:freetext
+Free Text:EKDK VFR\Valby:freetext
+Free Text:EKDK VFR\Vallensbæk:freetext
+Free Text:EKDK VFR\Vandel:freetext
+Free Text:EKDK VFR\Varde:freetext
+Free Text:EKDK VFR\Vester Nebel:freetext
+Free Text:EKDK VFR\Vildmosen:freetext
+Free Text:EKDK VFR\Vissenbjerg:freetext
+Free Text:EKDK VFR\Vorbasse Vest:freetext
+Free Text:EKDK VFR\Ærø North:freetext
+Free Text:EKEB TWY & Stands\1:freetext
+Free Text:EKEB TWY & Stands\2:freetext
+Free Text:EKEB TWY & Stands\3:freetext
+Free Text:EKEB TWY & Stands\4:freetext
+Free Text:EKEB TWY & Stands\5:freetext
+Free Text:EKEB TWY & Stands\A:freetext
+Free Text:EKEB TWY & Stands\B:freetext
+Free Text:EKEB TWY & Stands\C:freetext
+Free Text:EKEB TWY & Stands\D:freetext
+Free Text:EKEB TWY & Stands\E:freetext
+Free Text:EKEB TWY & Stands\F:freetext
+Free Text:EKEB TWY & Stands\I:freetext
+Free Text:EKKA Twy & Stands\03:freetext
+Free Text:EKKA Twy & Stands\09:freetext
+Free Text:EKKA Twy & Stands\09L:freetext
+Free Text:EKKA Twy & Stands\09R:freetext
+Free Text:EKKA Twy & Stands\1:freetext
+Free Text:EKKA Twy & Stands\14:freetext
+Free Text:EKKA Twy & Stands\2:freetext
+Free Text:EKKA Twy & Stands\21:freetext
+Free Text:EKKA Twy & Stands\27:freetext
+Free Text:EKKA Twy & Stands\27L:freetext
+Free Text:EKKA Twy & Stands\27R:freetext
+Free Text:EKKA Twy & Stands\3:freetext
+Free Text:EKKA Twy & Stands\32:freetext
+Free Text:EKKA Twy & Stands\4:freetext
+Free Text:EKKA Twy & Stands\5:freetext
+Free Text:EKKA Twy & Stands\E:freetext
+Free Text:EKKA Twy & Stands\E1:freetext
+Free Text:EKKA Twy & Stands\MIL:freetext
+Free Text:EKKA Twy & Stands\P:freetext
+Free Text:EKKA Twy & Stands\S:freetext
+Free Text:EKKA Twy & Stands\W:freetext
+Free Text:EKKA Twy & Stands\X:freetext
+Free Text:EKOD Twy & stand\A:freetext
+Free Text:EKOD Twy & stand\B:freetext
+Free Text:EKRK TWY & Stand\1:freetext
+Free Text:EKRK TWY & Stand\A:freetext
+Free Text:EKRK TWY & Stand\A1:freetext
+Free Text:EKRK TWY & Stand\A2:freetext
+Free Text:EKRK TWY & Stand\A3:freetext
+Free Text:EKRK TWY & Stand\A4:freetext
+Free Text:EKRK TWY & Stand\A5:freetext
+Free Text:EKRK TWY & Stand\B:freetext
+Free Text:EKRK TWY & Stand\B1:freetext
+Free Text:EKRK TWY & Stand\B2:freetext
+Free Text:EKRK TWY & Stand\B3:freetext
+Free Text:EKRK TWY & Stand\B4:freetext
+Free Text:EKRK TWY & Stand\B5:freetext
+Free Text:EKRK TWY & Stand\C:freetext
+Free Text:EKRK TWY & Stand\D:freetext
+Free Text:EKRK TWY & Stand\E:freetext
+Free Text:EKRK TWY & Stand\F:freetext
+Free Text:EKRK TWY & Stand\G:freetext
+Free Text:EKRK TWY & Stand\H:freetext
+Free Text:EKRK TWY & Stand\J:freetext
+Free Text:EKRK TWY & Stand\M:freetext
+Free Text:EKRN TWY & Stands\1:freetext
+Free Text:EKRN TWY & Stands\2:freetext
+Free Text:EKRN TWY & Stands\A:freetext
+Free Text:EKRN TWY & Stands\B:freetext
+Free Text:EKRN TWY & Stands\C:freetext
+Free Text:EKRN TWY & Stands\FUEL:freetext
+Free Text:EKSB TWY\14:freetext
+Free Text:EKSB TWY\32:freetext
+Free Text:EKSB TWY\A:freetext
+Free Text:EKSB TWY\B:freetext
+Free Text:EKSB TWY\C:freetext
+Free Text:EKSB TWY\D:freetext
+Free Text:EKSB TWY\E:freetext
+Free Text:EKSN TWY\A:freetext
+Free Text:EKSN TWY\B:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\09L:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\09R:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\1:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\28L:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\28R:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\A:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\B:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\C:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\CIVIL APR:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\D:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\MIL:freetext
+Free Text:EKSP Skrydstrup taxiways & stand\North TWY:freetext
+Free Text:EKSP Stauning twy\09:freetext
+Free Text:EKSP Stauning twy\27:freetext
+Free Text:EKSP Stauning twy\C:freetext
+Free Text:EKSP Stauning twy\E:freetext
+Free Text:EKSP Stauning twy\W:freetext
+Free Text:EKYT TWY & Stands & Runways\08L:freetext
+Free Text:EKYT TWY & Stands & Runways\08R:freetext
+Free Text:EKYT TWY & Stands & Runways\1:freetext
+Free Text:EKYT TWY & Stands & Runways\10:freetext
+Free Text:EKYT TWY & Stands & Runways\2:freetext
+Free Text:EKYT TWY & Stands & Runways\26L:freetext
+Free Text:EKYT TWY & Stands & Runways\26R:freetext
+Free Text:EKYT TWY & Stands & Runways\3:freetext
+Free Text:EKYT TWY & Stands & Runways\4:freetext
+Free Text:EKYT TWY & Stands & Runways\5:freetext
+Free Text:EKYT TWY & Stands & Runways\6:freetext
+Free Text:EKYT TWY & Stands & Runways\7:freetext
+Free Text:EKYT TWY & Stands & Runways\8:freetext
+Free Text:EKYT TWY & Stands & Runways\A:freetext
+Free Text:EKYT TWY & Stands & Runways\B:freetext
+Free Text:EKYT TWY & Stands & Runways\C:freetext
+Free Text:EKYT TWY & Stands & Runways\D:freetext
+Free Text:EKYT TWY & Stands & Runways\E:freetext
+Free Text:EKYT TWY & Stands & Runways\F:freetext
+Free Text:EKYT TWY & Stands & Runways\G:freetext
+Free Text:EKYT TWY & Stands & Runways\H:freetext
+Free Text:EKYT TWY & Stands & Runways\J:freetext
+Free Text:EKYT TWY & Stands & Runways\K:freetext
+Free Text:EKYT TWY & Stands & Runways\N:freetext
+Free Text:EKYT TWY & Stands & Runways\SAR ONLY:freetext
+Geo:EKAH Groundlayout Aarhus Airport Groundlayout:
+Geo:EKBI Groundlayout Billund airport Ground Layout:
+Geo:EKCH Groundlayout EKCH Ground Layout:
+Geo:EKDK Bornholm Coastline:
+Geo:EKEB Groundlayout Esbjerg Airport:
+Geo:EKKA Groundlayout Karup Airport:
+Geo:EKOD Groundlayout Odense Airport:
+Geo:EKRK Groundlayout EKRK Groundlayout v2:
+Geo:EKRN Groundlayout Roenne Airport:
+Geo:EKSB Groundlayout:
+Geo:EKSN Groundlayout:
+Geo:EKYT Groundlayout EKYT Ground layout:
+Geo:NONE Denmark Coastlines:
+Geo:NONE Sweden Coastline:
+Regions:EKAH Aarhus Region Networ:polygon
+Regions:EKBI Billund Regions netw:polygon
+Regions:EKCH EKCH Ground:polygon
+Regions:EKEB Esbjerg Airport Regi:polygon
+Regions:EKKA Karup Airport Region:polygon
+Regions:EKOD Odense Airport:polygon
+Regions:EKRK Roskilde ground layo:polygon
+Regions:EKRN Roenne Airport Regio:polygon
+Regions:EKSB Sonderborg Regions N:polygon
+Regions:EKSN Sindal Regions Netwo:polygon
+Regions:EKSP EKDK:polygon
+Regions:EKVJ Stauning Ground regi:polygon
+Regions:EKYT Aalborg Airport Regi:polygon
+SHOWC:0
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:0
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_B
+WINDOWAREA:54.943697:9.745500:54.973969:9.842241
+PLUGIN:Ground Radar plugin:AirportElevation:247
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:GroundMode:EKBI
+PLUGIN:TopSky plugin:NoDraw:1
