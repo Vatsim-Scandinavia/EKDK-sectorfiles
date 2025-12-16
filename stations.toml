@@ -1,0 +1,336 @@
+[stations]
+selected_profile = "ACC"
+
+[stations.profiles.1_ACC]
+include = [
+    "EK*",
+    "EDDH*_APP",
+    "EDUU*H*CTR",
+    "EDUU*O*CTR",
+    "EDUU*OH*CTR",
+    "EDWW*B*CTR",
+    "EDWW*E*CTR",
+    "EDWW*H*CTR",
+    "EDWW*K*CTR",
+    "EDWW*M*CTR",
+    "EDWW*W*CTR",
+    "EDWW_CTR",
+    "EDYY*BB*CTR",
+    "EDYY*HH*CTR",
+    "EDYY*HL*CTR",
+    "EDYY*JH*CTR",
+    "EDYY*JL*CTR",
+    "ENOR*S*CTR",
+    "ENOR_CTR",
+    "ENOS*4*CTR",
+    "ENOS*8*CTR",
+    "ENOS_CTR",
+    "ENSV*N*CTR",
+    "ENSV*O*CTR",
+    "ENSV*W*CTR",
+    "ENSV_CTR",
+    "ESAA_CTR",
+    "ESGG*_APP",
+    "ESMM*_CTR",
+    "ESMS*_APP",
+    "SCO*E*CTR",
+    "SCO*H*CTR",
+    "SCO*L*CTR",
+    "SCO*N*CTR",
+    "SCO_CTR",
+]
+exclude = [
+    "ESMM*6*CTR",
+    "ESMM*Y*CTR",
+]
+priority = [
+    "*_FMP",
+    "*_FSS",
+    "EKDK*",
+    "EK*_APP",
+    "EK*_TWR*",
+    "EK*_GND*",
+    "EK*_DEL",
+    "ED*_CTR",
+    "ED*_APP",
+    "ES*_CTR",
+    "ES*_APP",
+    "EN*_CTR",
+    "SCO*_CTR",
+]
+frequencies = "ShowAll"
+grouping = "None"
+
+[stations.profiles.1_ACC.aliases]
+"124.155" = "MM 7"
+"124.075" = "WW EID"
+"128.055" = "MM 3"
+"125.500" = "OR"
+"134.980" = "MM L"
+"135.565" = "DK V"
+"135.290" = "DK A"
+"136.555" = "DK UN"
+"131.280" = "MM K"
+"123.225" = "WW BOR"
+"118.105" = "CH A TWR"
+"134.680" = "DK N"
+"123.980" = "YT APP"
+"118.305" = "YT TWR"
+"128.235" = "UU HVL"
+"124.175" = "WW MRZ"
+"126.825" = "MM ALL"
+"118.280" = "SP TWR"
+"119.355" = "CH D TWR"
+"136.485" = "DK UA"
+"120.430" = "KA APP"
+"119.530" = "OD AFIS"
+"134.205" = "SV 21-O"
+"121.405" = "VJ AFIS"
+"124.705" = "SV 17-N"
+"119.255" = "BI FIN"
+"124.555" = "DK L"
+"126.785" = "UU OSE2"
+"136.280" = "SV 10-W"
+"132.780" = "YY HOL H"
+"125.855" = "WW HEI"
+"127.675" = "WW WEST"
+"120.860" = "YY HOL L"
+"118.530" = "AH TWR"
+"123.730" = "DK E"
+"133.035" = "UU OSE"
+"129.840" = "YY BB"
+"120.205" = "FIN"
+"134.355" = "OS 8"
+"121.730" = "CH C APN"
+"128.215" = "DK C"
+"125.530" = "RK APP"
+"135.985" = "MM 9"
+"124.105" = "SP APP"
+"118.330" = "RN TWR"
+"133.260" = "MM W"
+"119.555" = "DK B"
+"128.180" = "MM 8"
+"119.905" = "CH DEL"
+"133.725" = "WW ALL"
+"120.255" = "DEP R"
+"136.465" = "YY JEV L"
+"124.980" = "DEP K"
+"127.255" = "OS 5"
+"119.805" = "APP W"
+"121.630" = "CH A APN"
+"126.325" = "WW ALR"
+"120.540" = "DH APP"
+"133.155" = "DK D"
+"120.655" = "SV 9"
+"118.905" = "RK TWR"
+"121.550" = "NOR S"
+"127.755" = "MM 2"
+"126.055" = "DK UV"
+"119.055" = "BI TWR"
+"124.405" = "MM 4"
+"127.580" = "BI APP"
+"119.580" = "KA TWR"
+"118.580" = "CH C TWR"
+"124.680" = "GG APP E"
+"126.400" = "SB AFIS"
+"121.905" = "CH B GND"
+"119.280" = "AH APP"
+"134.515" = "NOR SC"
+"131.040" = "DK FMP"
+"127.865" = "DK UC"
+"118.455" = "APP O"
+"136.050" = "WW MAR"
+"132.765" = "MM 5"
+"129.735" = "YY JEV H"
+"121.380" = "DK I"
+"124.205" = "GG APP W"
+"118.880" = "OS 4"
+"120.705" = "YT FIN"
+"120.155" = "EB AFIS"
+"130.655" = "APP CO"
+
+[stations.profiles.2_APP]
+include = [
+    "EKDK*",
+    "EKCH*",
+    "EKRK*",
+    "ESMS*_APP",
+    "ESMM*_CTR",
+    "ESAA_CTR",
+    "*_FMP",
+]
+exclude = [
+    "ESMM*6*CTR",
+    "ESMM*Y*CTR",
+    "ESMM*3*CTR",
+    "ESMM*4*CTR",
+    "ESMM*W*CTR",
+    "ESMM*9*CTR",
+]
+priority = [
+    "*_FMP",
+    "EKCH*",
+    "EKDK*",
+    "*_APP*",
+    "*_TWR*",
+    "*_GND*",
+    "*_DEL*",
+]
+frequencies = "ShowAll"
+grouping = "None"
+
+[stations.profiles.2_APP.aliases]
+"128.055" = "MM 3"
+"119.805" = "APP W"
+"131.040" = "DK FMP"
+"120.205" = "FIN"
+"119.905" = "CH DEL"
+"118.580" = "CH C TWR"
+"121.730" = "CH C APN"
+"136.555" = "DK UN"
+"134.980" = "MM L"
+"121.905" = "CH B APN"
+"127.865" = "DK UC"
+"127.755" = "MM 2"
+"121.630" = "CH A APN"
+"118.105" = "CH A TWR"
+"134.680" = "DK N"
+"126.825" = "MM ALL"
+"118.455" = "APP O"
+"132.765" = "MM 5"
+"135.290" = "DK A"
+"135.565" = "DK V"
+"124.155" = "MM 7"
+"126.055" = "DK UV"
+"136.485" = "DK UA"
+"124.555" = "DK L"
+"133.155" = "DK D"
+"128.215" = "DK C"
+"124.405" = "MM 4"
+"120.255" = "DEP R"
+"119.555" = "DK B"
+"121.380" = "DK I"
+"128.180" = "MM 8"
+"123.730" = "DK E"
+"125.530" = "RK APP"
+"130.655" = "APP CO"
+"124.980" = "DEP K"
+"131.280" = "MM K"
+"119.355" = "CH D TWR"
+
+[stations.profiles.3_EKCH_GND]
+include = [
+    "EKCH*",
+    "EKDK*",
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "EKCH*",
+    "EKDK*",
+    "*_APP*",
+    "*_TWR*",
+    "*_GND*",
+    "*_DEL*",
+]
+frequencies = "ShowAll"
+grouping = "None"
+
+[stations.profiles.3_EKCH_GND.aliases]
+"121.905" = "CH B APN"
+"120.205" = "FIN"
+"135.565" = "DK V"
+"136.485" = "DK UA"
+"135.290" = "DK A"
+"120.255" = "DEP R"
+"133.155" = "DK D"
+"134.680" = "DK N"
+"124.555" = "DK L"
+"130.655" = "APP CO"
+"124.980" = "DEP K"
+"125.530" = "RK APP"
+"121.630" = "CH A APN"
+"118.455" = "APP O"
+"127.865" = "DK UC"
+"119.355" = "CH D TWR"
+"136.555" = "DK UN"
+"128.215" = "DK C"
+"119.555" = "DK B"
+"118.580" = "CH C TWR"
+"118.105" = "CH A TWR"
+"119.805" = "APP W"
+"119.905" = "CH DEL"
+"123.730" = "DK E"
+"121.380" = "DK I"
+"131.040" = "DK FMP"
+"126.055" = "DK UV"
+
+[stations.profiles.Default]
+include = []
+exclude = []
+priority = [
+    "*_FMP",
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+]
+frequencies = "ShowAll"
+grouping = "None"
+
+[stations.profiles.Default.aliases]
+
+[stations.profiles.4_REGIONALS]
+include = [
+    "EK*",
+    "*_FMP",
+]
+exclude = ["EKCH*"]
+priority = [
+    "*_FMP",
+    "EKDK*",
+    "EKBI*",
+    "EKYT*",
+    "EKAH*",
+    "EKKA*",
+    "*_APP*",
+    "*_TWR*",
+    "*_GND*",
+    "*_DEL*",
+]
+frequencies = "ShowAll"
+grouping = "None"
+
+[stations.profiles.4_REGIONALS.aliases]
+"124.555" = "DK L"
+"119.255" = "BI FIN"
+"127.865" = "DK UC"
+"119.580" = "KA TWR"
+"119.280" = "AH APP"
+"118.280" = "SP TWR"
+"120.430" = "KA APP"
+"119.055" = "BI TWR"
+"133.155" = "DK D"
+"118.305" = "YT TWR"
+"121.405" = "VJ AFIS"
+"124.105" = "SP APP"
+"120.705" = "YT FIN"
+"136.485" = "DK UA"
+"121.380" = "DK I"
+"120.155" = "EB AFIS"
+"125.530" = "RK APP"
+"135.290" = "DK A"
+"134.680" = "DK N"
+"119.555" = "DK B"
+"123.730" = "DK E"
+"123.980" = "YT APP"
+"127.580" = "BI APP"
+"126.055" = "DK UV"
+"135.565" = "DK V"
+"126.400" = "SB AFIS"
+"118.530" = "AH TWR"
+"136.555" = "DK UN"
+"131.040" = "DK FMP"
+"119.530" = "OD AFIS"
+"128.215" = "DK C"
