@@ -80,32 +80,32 @@ ATIS2:Kastrup Departure - Voice ATIS on 122.855 - Departures for Copenhagen Kast
 ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | Thank you for your feedback!
 ATIS4:vatsca.org/feedback - Enjoy your flight in Denmark!
 PROFILE:EKCH_C_TWR:50:4
-ATIS2:Kastrup Tower - Voice ATIS on 122.855 - Covering Ground movement area only.
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | Thank you for your feedback!
+ATIS2:Kastrup Tower - DCL [EKCH]
+ATIS3:Briefing at vats.im/ekch | Thank you for your feedback!
 ATIS4:vatsca.org/feedback - Enjoy your flight in Denmark!
 PROFILE:EKCH_D_TWR:50:4
-ATIS2:Kastrup Tower - Voice ATIS on 122.855 - Covering Departures only
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | Thank you for your feedback!
+ATIS2:Kastrup Tower - DCL [EKCH]
+ATIS3:Briefing at vats.im/ekch | Thank you for your feedback!
 ATIS4:vatsca.org/feedback - Enjoy your flight in Denmark!
 PROFILE:EKCH_A_TWR:50:4
-ATIS2:Kastrup Tower - Voice ATIS For Departures on 122.855. For arrivals on 122.755
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | Thank you for your feedback!
+ATIS2:Kastrup Tower - DCL [EKCH]
+ATIS3:Briefing at vats.im/ekch | Thank you for your feedback!
 ATIS4:vatsca.org/feedback - Enjoy your flight in Denmark!
 PROFILE:EKCH_A_GND:20:3
-ATIS2:Kastrup Apron - Contact for ATC clearance if DEL is offline.
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | Thank you for your feedback!
+ATIS2:Kastrup Apron - DCL [EKCH] - Contact for ATC clearance if DEL is offline
+ATIS3:Briefing at vats.im/ekch | Thank you for your feedback!
 ATIS4:vatsca.org/feedback - Enjoy your flight in Denmark!
 PROFILE:EKCH_B_GND:20:3
-ATIS2:Kastrup Apron - Contact for Startup
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | Thank you for your feedback!
+ATIS2:Kastrup Apron - DCL [EKCH]
+ATIS3:Briefing at vats.im/ekch | Thank you for your feedback!
 ATIS4:vatsca.org/feedback - Enjoy your flight in Denmark!
 PROFILE:EKCH_C_GND:20:3
-ATIS2:Kastrup Apron - Voice ATIS For Departures on 122.855. For arrivals on 122.755
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | Thank you for your feedback!
+ATIS2:Kastrup Apron - DCL [EKCH]
+ATIS3:Briefing at vats.im/ekch | Thank you for your feedback!
 ATIS4:vatsca.org/feedback - Enjoy your flight in Denmark!
 PROFILE:EKCH_DEL:20:2
-ATIS2:Kastrup Delivery - voice ATIS on 122.855 - Always confirm your startup on cdm.vatsim-scandinavia.org
-ATIS3:Clearance over PDC is available! | Thank you for your feedback!
+ATIS2:Kastrup Delivery - DCL [EKCH]
+ATIS3:Always confirm your startup on cdm.vatsim-scandinavia.org | Thank you for your feedback!
 ATIS4:vatsca.org/feedback - Enjoy your flight in Denmark!
 PROFILE:EKBI_APP:130:5
 ATIS2:Billund Approach - Voice ATIS on 118.005
