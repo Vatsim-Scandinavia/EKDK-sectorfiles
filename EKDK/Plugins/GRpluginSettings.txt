@@ -1,6 +1,8 @@
 System_State_OnFreq=START UP
 System_State_Push=PUSH
 System_SchengenArea=BI,BG,EB,ED,EE,EF,EH,EK,EL,EN,EP,ES,ET,EV,EY,GC,LB,LD,LE,LF,LG,LH,LI,LJ,LK,LM,LO,LP,LR,LS,LZ
+Label_GS=1,0,0,1
+Label_AFL=1,0,0,1
 
 
 [EKCH]
