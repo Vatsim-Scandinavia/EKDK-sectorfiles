@@ -1,14 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Fixes:EBELTOFT:name
-Fixes:EBELTOFT:symbol
-Fixes:GRENAA:name
-Fixes:GRENAA:symbol
-Fixes:KNEBEL:name
-Fixes:KNEBEL:symbol
-Fixes:RYOMGARD:name
-Fixes:RYOMGARD:symbol
 Free Text:EKAH TWY & Stands & Runways\1:freetext
 Free Text:EKAH TWY & Stands & Runways\10L:freetext
 Free Text:EKAH TWY & Stands & Runways\10R:freetext
