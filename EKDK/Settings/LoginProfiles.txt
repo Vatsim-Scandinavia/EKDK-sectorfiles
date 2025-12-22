@@ -1,171 +1,171 @@
 PROFILE
 PROFILE:EKDK_CTR:210:6
 ATIS2:Copenhagen Control - CPDLC Available on EKDK
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk | 
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_B_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC Available on EKDB - Covering Lower airspace around Copenhagen.
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_I_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC Available on EKDI - Covering Lower airspace around Copenhagen.
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk  
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_D_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC Available on EKDD - Covering Lower airspace around Copenhagen.
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_E_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC Available on EKDE - Covering Lower airspace around Copenhagen.
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_L_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC Available on EKDL - Covering Lower airspace over northern Denmark. NOT covering EKCH
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_V_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC Available on EKDV - Covering western Denmark. NOT covering EKCH
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_N_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC Available on EKDN - Covering western Denmark. NOT covering EKCH
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_A_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC Available on EKDA - Covering eastern Denmark.
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_C_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC Available on EKDC - Covering eastern Denmark.
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_UA_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC Available on EKUA - Covering eastern Denmark.
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_UC_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC Available on EKUC - Covering eastern Denmark.
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_UN_CTR:210:6
 ATIS2:Copenhagen Control - CPDLC Available on EKUN - Covering western Denmark.
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_UV_CTR:210:6
 ATIS2:Copenhagen Control - CPDLC Available on EKUV - Covering western Denmark. NOT covering EKCH.
-ATIS3:See sectorization at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_O_APP:150:5
 ATIS2:Copenhagen Approach - Voice ATIS on 122.755
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekch 
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_W_APP:150:5
 ATIS2:Copenhagen Approach - Voice ATIS For Departures on 122.855. For arrivals on 122.755
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_F_APP:150:5
 ATIS2:Kastrup Final - Report Callsign ONLY! 
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_P_APP:150:5
 ATIS2:Kastrup Final - Report Callsign ONLY! 
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_R_DEP:150:5
 ATIS2:Kastrup Departure - Voice ATIS on 122.855 - Departures for Copenhagen & Roskilde
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_K_DEP:150:5
 ATIS2:Kastrup Departure - Voice ATIS on 122.855 - Departures for Copenhagen Kastrup
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_C_TWR:50:4
 ATIS2:Kastrup Tower - DCL [EKCH]
-ATIS3:Briefing at vats.im/ekch | 
+ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_D_TWR:50:4
 ATIS2:Kastrup Tower - DCL [EKCH]
-ATIS3:Briefing at vats.im/ekch | 
+ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_A_TWR:50:4
 ATIS2:Kastrup Tower - DCL [EKCH]
-ATIS3:Briefing at vats.im/ekch | 
+ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_A_GND:20:3
 ATIS2:Kastrup Apron - DCL [EKCH] - Contact for ATC clearance if DEL is offline
-ATIS3:Briefing at vats.im/ekch | 
+ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_B_GND:20:3
 ATIS2:Kastrup Apron - DCL [EKCH]
-ATIS3:Briefing at vats.im/ekch | 
+ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_C_GND:20:3
 ATIS2:Kastrup Apron - DCL [EKCH]
-ATIS3:Briefing at vats.im/ekch | 
+ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_DEL:20:2
 ATIS2:Kastrup Delivery - DCL [EKCH]
-ATIS3:Always confirm your startup on cdm.vatsim-scandinavia.org | 
+ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKBI_APP:130:5
 ATIS2:Billund Approach - Voice ATIS on 118.005
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKYT_APP:100:5
 ATIS2:Aalborg Approach - Voice ATIS on 121.150
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKAH_APP:100:5
 ATIS2:Aarhus Approach
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKKA_APP:100:5
 ATIS2:Karup Approach
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKSP_APP:100:5
 ATIS2:Skrydstrup Approach
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKBI_TWR:50:4
 ATIS2:Billund Tower - Voice ATIS on 118.005
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKYT_TWR:50:4
 ATIS2:Aalborg Tower - Voice ATIS on 120.475
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKAH_TWR:50:4
 ATIS2:Aarhus Tower
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKKA_TWR:50:4
 ATIS2:Karup Tower
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKSP_TWR:50:4
 ATIS2:Skrydstrup Tower
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKSB_I_TWR:50:4
 ATIS2:Sonderborg Information
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKOD_I_TWR:50:4
 ATIS2:Odense Information
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKEB_I_TWR:50:4
 ATIS2:Esbjerg Information
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKVJ_I_TWR:50:4
 ATIS2:Stauning Information
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKRN_TWR:50:4
 ATIS2:Roenne Tower
-ATIS3:Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_M_APP:150:5
 ATIS2:ATC Mentoring - Copenhagen Approach
