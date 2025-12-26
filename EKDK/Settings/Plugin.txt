@@ -179,4 +179,13 @@ TopSky plugin:ACList/Traffic Management List 2/m_Column_15:ETA:5:1:10033:0:0:0:T
 TopSky plugin:ACList/Traffic Management List 2/m_Column_16:FText:7:0:10095:112:0:0:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Traffic Management List 2/m_Column_17:C:2:1:10103:131:0:0:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Traffic Management List 2/m_Column_18:HOLD:5:0:10097:121:0:0:TopSky plugin:TopSky plugin:
+Arrival Load Ballance:ACList/ALB RT Issues/m_Visible:1
+Arrival Load Ballance:ACList/ALB RT Issues/m_X:20
+Arrival Load Ballance:ACList/ALB RT Issues/m_Y:20
+Arrival Load Ballance:ACList/ALB RT Issues/m_LineNumber:1
+Arrival Load Ballance:ACList/ALB RT Issues/m_Resizable:1
+Arrival Load Ballance:ACList/ALB RT Issues/m_OrderingColumn:1
+Arrival Load Ballance:ACList/ALB RT Issues/m_Column_0:C/S:7:0:9:0:7:1:::
+Arrival Load Ballance:ACList/ALB RT Issues/m_Column_1:ADES:5:0:17:0:1:1:::
+Arrival Load Ballance:ACList/ALB RT Issues/m_Column_2:WHY:7:0:1291:0:0:1:Arrival Load Ballance::
 END
