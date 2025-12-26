@@ -1,6 +1,6 @@
 {
   "configFormatVersion": 2,
-  "openAutomatically": true,
+  "openAutomatically": false,
   "logging": true,
   "scratchpadRunwayOverride": true,
   "timeSyncBeacons": true,
@@ -353,7 +353,7 @@
         { "source": "directRouting", "width": 5, "defaultValue": "-----" },
 
 
-        { "source": "static", "width": 3, "defaultValue": " ¦ " },
+        { "source": "static", "width": 3, "defaultValue": " ï¿½ " },
 
 
         { "source": "viaFix", "width": 5 },
@@ -378,12 +378,12 @@
         { "source": "static", "width": 1 },
         { "source": "glEatCombi", "width": 6, "rightAligned": true },
 
-        { "source": "static", "width": 3, "defaultValue": " ¦ " },
+        { "source": "static", "width": 3, "defaultValue": " ï¿½ " },
 
         { "source": "viaFixToLandingSec", "width": 5 },
 
 
-        { "source": "static", "width": 3, "defaultValue": " ¦ " },
+        { "source": "static", "width": 3, "defaultValue": " ï¿½ " },
 
 
         { "source": "holdingFix", "width": 5 },
@@ -393,7 +393,7 @@
         { "source": "holdingEAT", "width": 4, "defaultValue": "----" },
 
 
-        { "source": "static", "width": 3, "defaultValue": " ¦ " },
+        { "source": "static", "width": 3, "defaultValue": " ï¿½ " },
 
 
         { "source": "targetFix", "width": 5 },
@@ -416,7 +416,7 @@
         { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
 
 
-        { "source": "static", "width": 3, "defaultValue": " ¦ " }
+        { "source": "static", "width": 3, "defaultValue": " ï¿½ " }
 
 
       ]
@@ -441,7 +441,7 @@
         { "source": "directRouting", "width": 5, "defaultValue": "-----" },
 
 
-        { "source": "static", "width": 3, "defaultValue": " ¦ " },
+        { "source": "static", "width": 3, "defaultValue": " ï¿½ " },
 
 
         { "source": "viaFix", "width": 5 },
@@ -469,7 +469,7 @@
         { "source": "viaFixToLandingSec", "width": 5 },
 
 
-        { "source": "static", "width": 3, "defaultValue": " ¦ " },
+        { "source": "static", "width": 3, "defaultValue": " ï¿½ " },
 
 
         { "source": "holdingFix", "width": 5 },
@@ -479,7 +479,7 @@
         { "source": "holdingEAT", "width": 4, "defaultValue": "----" },
 
 
-        { "source": "static", "width": 3, "defaultValue": " ¦ " },
+        { "source": "static", "width": 3, "defaultValue": " ï¿½ " },
 
 
         { "source": "targetFix", "width": 5 },
@@ -502,7 +502,7 @@
         { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
 
 
-        { "source": "static", "width": 3, "defaultValue": " ¦ " }
+        { "source": "static", "width": 3, "defaultValue": " ï¿½ " }
 
 
       ]
