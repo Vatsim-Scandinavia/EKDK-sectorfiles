@@ -1,0 +1,9 @@
+Shortcut_Map_Xfr_Combo=1,0x12
+Shortcut_Map_Xfr_Key=2,0x56 ; V
+Shortcut_Map_Target=2,EKDK\REGIONAL
+[_APP]
+Color_Rwy_App_Line_Inuse=62,160,216
+SYMBOLDEF:OBS
+POLYGON:6:8:0:0:-6:8:-6:10:0:2:6:10
+POLYGON:-0.75:-4:-0.75:10:0.75:10:0.75:-4
+SYMBOL:OBS:MOSIN:obstacle:0:0
