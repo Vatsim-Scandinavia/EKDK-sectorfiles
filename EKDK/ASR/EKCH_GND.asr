@@ -1,20 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Fixes:BORUP:name
-Fixes:BORUP:symbol
-Fixes:HOLD-WEST:name
-Fixes:HOLD-WEST:symbol
-Fixes:ISHOJ:name
-Fixes:ISHOJ:symbol
-Fixes:KOGE:name
-Fixes:KOGE:symbol
-Fixes:TUBORG:name
-Fixes:TUBORG:symbol
-Fixes:VALBY:name
-Fixes:VALBY:symbol
-Fixes:VALLENSBAK:name
-Fixes:VALLENSBAK:symbol
 Free Text:EKKA Twy & Stands\1:freetext
 Free Text:EKKA Twy & Stands\2:freetext
 Free Text:EKKA Twy & Stands\3:freetext

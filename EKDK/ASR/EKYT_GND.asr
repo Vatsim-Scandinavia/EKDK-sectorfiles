@@ -2,14 +2,6 @@ DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 ARTCC boundary:Airspace E EKYT Aalborg LTA:
-Fixes:BIERSTED:name
-Fixes:BIERSTED:symbol
-Fixes:HASSERIS:name
-Fixes:HASSERIS:symbol
-Fixes:SVENSTRUP:name
-Fixes:SVENSTRUP:symbol
-Fixes:VILDMOSEN:name
-Fixes:VILDMOSEN:symbol
 Free Text:EKSN TWY\A:freetext
 Free Text:EKSN TWY\B:freetext
 Free Text:EKYT TWY & Stands & Runways\08L:freetext

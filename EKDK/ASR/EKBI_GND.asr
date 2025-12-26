@@ -1,16 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Fixes:GIVE:name
-Fixes:GIVE:symbol
-Fixes:HOEJEN:name
-Fixes:HOEJEN:symbol
-Fixes:SONDEROMME:name
-Fixes:SONDEROMME:symbol
-Fixes:TOERRING:name
-Fixes:TOERRING:symbol
-Fixes:VORBASSEVEST:name
-Fixes:VORBASSEVEST:symbol
 Free Text:EKBI TWY & Stands\0:freetext
 Free Text:EKBI TWY & Stands\1:freetext
 Free Text:EKBI TWY & Stands\2:freetext
