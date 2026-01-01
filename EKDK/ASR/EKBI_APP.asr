@@ -1,0 +1,31 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:Airspace E EKAH Aarhus LTA:
+ARTCC boundary:Airspace E EKBI Billund LTA:
+ARTCC boundary:Airspace E EKKA Karup LTA:
+ARTCC boundary:Airspace E EKSP Skrydstrup LTA:
+ARTCC boundary:AoR CTR EKDK EKDK_D:
+ARTCC boundary:AoR CTR EKDK EKDK_E:
+ARTCC boundary:AoR CTR EKDK EKDK_L:
+ARTCC boundary:AoR CTR EKDK EKDK_N:
+ARTCC boundary:AoR CTR EKDK EKDK_V:
+ARTCC low boundary:FIZ EKEB TIZ EKEB:
+ARTCC low boundary:TMA EKBI Billund TMA 25-75:
+ARTCC low boundary:Tower CTR EKBI Billund Control zone:
+Geo:NONE Denmark Coastlines:
+Geo:NONE Sweden Coastline:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_B
+WINDOWAREA:55.125080:7.232293:56.458413:11.029494

@@ -1,0 +1,85 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Fixes:GIVE:name
+Fixes:GIVE:symbol
+Fixes:HOEJEN:name
+Fixes:HOEJEN:symbol
+Fixes:SONDEROMME:name
+Fixes:SONDEROMME:symbol
+Fixes:TOERRING:name
+Fixes:TOERRING:symbol
+Fixes:VORBASSEVEST:name
+Fixes:VORBASSEVEST:symbol
+Free Text:EKBI TWY & Stands\0:freetext
+Free Text:EKBI TWY & Stands\1:freetext
+Free Text:EKBI TWY & Stands\2:freetext
+Free Text:EKBI TWY & Stands\25:freetext
+Free Text:EKBI TWY & Stands\26:freetext
+Free Text:EKBI TWY & Stands\27:freetext
+Free Text:EKBI TWY & Stands\28:freetext
+Free Text:EKBI TWY & Stands\29:freetext
+Free Text:EKBI TWY & Stands\3:freetext
+Free Text:EKBI TWY & Stands\31:freetext
+Free Text:EKBI TWY & Stands\32:freetext
+Free Text:EKBI TWY & Stands\34:freetext
+Free Text:EKBI TWY & Stands\35:freetext
+Free Text:EKBI TWY & Stands\36:freetext
+Free Text:EKBI TWY & Stands\37:freetext
+Free Text:EKBI TWY & Stands\38:freetext
+Free Text:EKBI TWY & Stands\39:freetext
+Free Text:EKBI TWY & Stands\4:freetext
+Free Text:EKBI TWY & Stands\40:freetext
+Free Text:EKBI TWY & Stands\5:freetext
+Free Text:EKBI TWY & Stands\6:freetext
+Free Text:EKBI TWY & Stands\65:freetext
+Free Text:EKBI TWY & Stands\66:freetext
+Free Text:EKBI TWY & Stands\67:freetext
+Free Text:EKBI TWY & Stands\68:freetext
+Free Text:EKBI TWY & Stands\69:freetext
+Free Text:EKBI TWY & Stands\7:freetext
+Free Text:EKBI TWY & Stands\90:freetext
+Free Text:EKBI TWY & Stands\91:freetext
+Free Text:EKBI TWY & Stands\92:freetext
+Free Text:EKBI TWY & Stands\93:freetext
+Free Text:EKBI TWY & Stands\94:freetext
+Free Text:EKBI TWY & Stands\A:freetext
+Free Text:EKBI TWY & Stands\B:freetext
+Free Text:EKBI TWY & Stands\C:freetext
+Free Text:EKBI TWY & Stands\D:freetext
+Free Text:EKBI TWY & Stands\D:freetext
+Free Text:EKBI TWY & Stands\F:freetext
+Free Text:EKBI TWY & Stands\F:freetext
+Free Text:EKBI TWY & Stands\F:freetext
+Free Text:EKBI TWY & Stands\G:freetext
+Free Text:EKBI TWY & Stands\G2:freetext
+Free Text:EKBI TWY & Stands\G3:freetext
+Free Text:EKBI TWY & Stands\G4:freetext
+Free Text:EKBI TWY & Stands\J:freetext
+Free Text:EKBI TWY & Stands\K:freetext
+Free Text:EKBI TWY & Stands\K:freetext
+Free Text:EKBI TWY & Stands\K:freetext
+Free Text:EKBI TWY & Stands\M:freetext
+Free Text:EKBI TWY & Stands\N:freetext
+Free Text:EKBI TWY & Stands\N:freetext
+Geo:EKBI Groundlayout Billund airport Ground Layout:
+Geo:EKEB Groundlayout Esbjerg Airport:
+Regions:EKBI Billund Regions netw:polygon
+SHOWC:0
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:0
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_B
+WINDOWAREA:55.734739:9.119626:55.753931:9.180957
+PLUGIN:Ground Radar plugin:AirportElevation:247
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:GroundMode:EKBI
+PLUGIN:TopSky plugin:NoDraw:1

@@ -1,0 +1,46 @@
+RecentFiles	Recent1	\EKDK\ASR\EKCH_GND.asr
+RecentFiles	Recent2	\EKDK\ASR\EKBI_GND.asr
+RecentFiles	Recent3	\EKDK\ASR\EKYT_GND.asr
+RecentFiles	Recent4	\EKDK\ASR\EKDK_GroundViews.asr
+Settings	sector	\EKDK-EKDK-Copenhagen_20251228161633-251301-0008.sct
+Settings	Settingsfile	\EKDK\Settings\GeneralGND.txt
+Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
+Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\EKDK\Settings\LoginProfiles.txt
+Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
+Settings	SettingsfileSIL	\EKDK\Settings\ListsGND.txt
+Settings	SettingsfileSEL	\EKDK\Settings\ListsGND.txt
+Settings	SettingsfileDEP	\EKDK\Settings\ListsGND.txt
+Settings	SettingsfileARR	\EKDK\Settings\ListsGND.txt
+Settings	SettingsfileFP	\EKDK\Settings\ListsGND.txt
+Settings	SettingsfileCONFLICT	\EKDK\Settings\ListsGND.txt
+Settings	SettingsfilePLUGINS	\EKDK\Settings\PluginGND.txt
+Settings	SettingsfileSCREEN	\EKDK\Settings\Screen.txt
+Settings	airways	\EKDK\NavData\airway.txt
+Settings	airlines	\EKDK\ICAO\ICAO_Airlines.txt
+Settings	airports	\EKDK\ICAO\ICAO_Airports.txt
+Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\EKDK\NavData\icao.txt
+Settings	alias	\EKDK\Alias\alias.txt
+Plugins	Plugin0	\EKDK\Plugins\TopSky.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\EKDK\Plugins\GRplugin.dll
+Settings	AtisFolder	\ATIS\atisfiles.txt
+LastSession	atis_airport	EKCH
+LastSession	atis_letter	81
+Plugins	Plugin1Display0	Ground Radar display
+ASRFastKeys	1	\EKDK\ASR\EKCH_GND.asr
+ASRFastKeys	2	\EKDK\ASR\EKCH_APP.asr
+ASRFastKeys	3	\EKDK\ASR\EKDK_CTR.asr
+ASRFastKeys	4	\EKDK\ASR\EKBI_GND.asr
+ASRFastKeys	5	\EKDK\ASR\EKBI_APP.asr
+ASRFastKeys	6	\EKDK\ASR\EKYT_GND.asr
+ASRFastKeys	7	\EKDK\ASR\EKYT_APP.asr
+ASRFastKeys	8	\EKDK\ASR\EKDK_GroundViews.asr
+ASRFastKeys	9	\EKDK\ASR\EKDK_FMP.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin2	\EKDK\Plugins\CDM.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin2Display1	Ground Radar display

@@ -1,0 +1,149 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Fixes:BORUP:name
+Fixes:BORUP:symbol
+Fixes:HOLD-WEST:name
+Fixes:HOLD-WEST:symbol
+Fixes:ISHOJ:name
+Fixes:ISHOJ:symbol
+Fixes:KOGE:name
+Fixes:KOGE:symbol
+Fixes:TUBORG:name
+Fixes:TUBORG:symbol
+Fixes:VALBY:name
+Fixes:VALBY:symbol
+Fixes:VALLENSBAK:name
+Fixes:VALLENSBAK:symbol
+Free Text:EKKA Twy & Stands\1:freetext
+Free Text:EKKA Twy & Stands\2:freetext
+Free Text:EKKA Twy & Stands\3:freetext
+Free Text:EKKA Twy & Stands\4:freetext
+Free Text:EKKA Twy & Stands\5:freetext
+Free Text:EKKA Twy & Stands\E:freetext
+Free Text:EKKA Twy & Stands\E:freetext
+Free Text:EKKA Twy & Stands\E:freetext
+Free Text:EKKA Twy & Stands\E:freetext
+Free Text:EKKA Twy & Stands\P:freetext
+Free Text:EKKA Twy & Stands\S:freetext
+Free Text:EKKA Twy & Stands\S:freetext
+Free Text:EKKA Twy & Stands\S:freetext
+Free Text:EKKA Twy & Stands\W:freetext
+Free Text:EKKA Twy & Stands\W:freetext
+Free Text:EKKA Twy & Stands\X:freetext
+Free Text:EKKA Twy & Stands\X:freetext
+Free Text:EKRK TWY & Stand\1:freetext
+Free Text:EKRK TWY & Stand\1:freetext
+Free Text:EKRK TWY & Stand\A:freetext
+Free Text:EKRK TWY & Stand\A:freetext
+Free Text:EKRK TWY & Stand\A:freetext
+Free Text:EKRK TWY & Stand\A1:freetext
+Free Text:EKRK TWY & Stand\A2:freetext
+Free Text:EKRK TWY & Stand\A3:freetext
+Free Text:EKRK TWY & Stand\A4:freetext
+Free Text:EKRK TWY & Stand\A5:freetext
+Free Text:EKRK TWY & Stand\B:freetext
+Free Text:EKRK TWY & Stand\B:freetext
+Free Text:EKRK TWY & Stand\B:freetext
+Free Text:EKRK TWY & Stand\B1:freetext
+Free Text:EKRK TWY & Stand\B2:freetext
+Free Text:EKRK TWY & Stand\B3:freetext
+Free Text:EKRK TWY & Stand\B4:freetext
+Free Text:EKRK TWY & Stand\B5:freetext
+Free Text:EKRK TWY & Stand\C:freetext
+Free Text:EKRK TWY & Stand\D:freetext
+Free Text:EKRK TWY & Stand\E:freetext
+Free Text:EKRK TWY & Stand\F:freetext
+Free Text:EKRK TWY & Stand\G:freetext
+Free Text:EKRK TWY & Stand\H:freetext
+Free Text:EKRK TWY & Stand\H:freetext
+Free Text:EKRK TWY & Stand\H:freetext
+Free Text:EKRK TWY & Stand\H:freetext
+Free Text:EKRK TWY & Stand\J:freetext
+Free Text:EKRK TWY & Stand\M:freetext
+Geo:EKCH Groundlayout EKCH Ground Layout:
+Geo:EKRK Groundlayout EKRK Groundlayout v2:
+Geo:GEO:
+Ground Network:A:exit
+Ground Network:A:taxiway
+Ground Network:A:terminal taxiway
+Ground Network:A1:exit
+Ground Network:A1:taxiway
+Ground Network:A1:terminal taxiway
+Ground Network:A2:exit
+Ground Network:A2:taxiway
+Ground Network:A2:terminal taxiway
+Ground Network:A3:exit
+Ground Network:A3:taxiway
+Ground Network:A3:terminal taxiway
+Ground Network:A4:exit
+Ground Network:A4:taxiway
+Ground Network:A4:terminal taxiway
+Ground Network:A5:exit
+Ground Network:A5:taxiway
+Ground Network:A5:terminal taxiway
+Ground Network:A6:exit
+Ground Network:A6:taxiway
+Ground Network:A6:terminal taxiway
+Ground Network:A7:exit
+Ground Network:A7:taxiway
+Ground Network:A7:terminal taxiway
+Ground Network:B:exit
+Ground Network:B:taxiway
+Ground Network:B:terminal taxiway
+Ground Network:B1:exit
+Ground Network:B1:taxiway
+Ground Network:B1:terminal taxiway
+Ground Network:B2:exit
+Ground Network:B2:taxiway
+Ground Network:B2:terminal taxiway
+Ground Network:B3:exit
+Ground Network:B3:taxiway
+Ground Network:B3:terminal taxiway
+Ground Network:B4:exit
+Ground Network:B4:taxiway
+Ground Network:B4:terminal taxiway
+Ground Network:B5:exit
+Ground Network:B5:taxiway
+Ground Network:B5:terminal taxiway
+Ground Network:C:exit
+Ground Network:C:taxiway
+Ground Network:C:terminal taxiway
+Ground Network:D:exit
+Ground Network:D:taxiway
+Ground Network:D:terminal taxiway
+Ground Network:F:exit
+Ground Network:F:taxiway
+Ground Network:F:terminal taxiway
+Ground Network:K:exit
+Ground Network:K:taxiway
+Ground Network:K:terminal taxiway
+Ground Network:M:exit
+Ground Network:M:taxiway
+Ground Network:M:terminal taxiway
+NDBs:RK:frequency
+NDBs:RK:name
+NDBs:RK:symbol
+Regions:EKCH EKCH Ground:polygon
+Regions:EKRK Roskilde ground layo:polygon
+VORs:KAS:frequency
+VORs:KAS:name
+VORs:KAS:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_B
+WINDOWAREA:55.616429:12.621224:55.634732:12.679715
+PLUGIN:Ground Radar plugin:AirportElevation:16
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:GroundMode:EKCH
+PLUGIN:TopSky plugin:NoDraw:1
