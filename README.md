@@ -20,9 +20,3 @@ For installation instructions, visit our [EuroScope and Sector File Installation
 
 > [!WARNING]
 > Releases done in GitHub do not include all essential files for the sectorfile.
-
-## Sectorfile developers
-Over the years, several people have been involved in developing the sector file.\
-Current sector file developers:
-- Splendor Bouman
-- Bartek Zawadzki
