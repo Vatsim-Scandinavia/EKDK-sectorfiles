@@ -22,10 +22,10 @@ Settings	airports	\EKDK\ICAO\ICAO_Airports.txt
 Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
 Settings	alias	\EKDK\Alias\alias.txt
-Plugins	Plugin0	\EKDK\Plugins\TopSky\TopSky.dll
+Plugins	Plugin0	\EKDK\Plugins\TopSky.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1	\EKDK\Plugins\GRplugin\GRplugin.dll
+Plugins	Plugin1	\EKDK\Plugins\GRplugin.dll
 Settings	AtisFolder	\ATIS\atisfiles.txt
 LastSession	atis_airport	EKCH
 LastSession	atis_letter	81
@@ -41,7 +41,7 @@ ASRFastKeys	8	\EKDK\ASR\EKDK_GroundViews.asr
 ASRFastKeys	9	\EKDK\ASR\EKDK_FMP.asr
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-Plugins	Plugin2	\EKDK\Plugins\CDM\CDM.dll
+Plugins	Plugin2	\EKDK\Plugins\CDM.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin2Display1	Ground Radar display
-Plugins Plugin3 \EKDK\Plugins\VCH\VCH.dll
+Plugins Plugin3 \EKDK\Plugins\VCH.dll
