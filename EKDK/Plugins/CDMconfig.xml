@@ -2,7 +2,7 @@
 <CDM>
 	<rate ops="40" />
 	<rateLvo ops="10" />
-	<expiredCtot time="25" />
+	<expiredCtot time="5" />
 	<realMode mode="true" />
 	<pilotTobt mode="true" />
 	<autoAtot mode="true" />
