@@ -1,7 +1,7 @@
 PROFILE
 PROFILE:EKDK_CTR:210:6
 ATIS2:Copenhagen Control - CPDLC [EKDK]
-ATIS3:Briefing at vats.im/ekdk | 
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_B_CTR:180:6
 ATIS2:Copenhagen Control - CPDLC [EKDB]
