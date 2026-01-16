@@ -5,7 +5,8 @@ This repository contains non-automatically generated files from our sector file 
 - Plugins
 - Settings
 - Manuals
-
+> [!WARNING]
+> vATIS repository can be found under this link: https://github.com/Vatsim-Scandinavia/EKDK-vATIS
 ## Contributing
 Anyone is welcome to contribute to this project via pull requests.
 
