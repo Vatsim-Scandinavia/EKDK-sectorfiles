@@ -2,7 +2,7 @@
 <CDM>
 	<rate ops="40" />
 	<rateLvo ops="10" />
-	<expiredCtot time="25" />
+	<expiredCtot time="5" />
 	<realMode mode="true" />
 	<pilotTobt mode="true" />
 	<autoAtot mode="true" />
@@ -14,7 +14,7 @@
 	<sidInterval url="" />
 	<DefaultTaxiTime minutes="12" />
 	<DeIceTimes light="3" medium="5" heavy="7" super="9"/>
-	<DeIceRemTaxi Alpha="5" Bravo="6" Victor="10"/>
+	<DeIceRemTaxi rem1Name= "A" rem1="5" rem2Name= "B" rem2="6" rem3Name= "V" rem3="10" rem4Name= "REM4" rem4="10" rem5Name= "REM5" rem5="10"/>
 	<RefreshTime seconds="5" />
 	<Debug mode="false" />
 	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
