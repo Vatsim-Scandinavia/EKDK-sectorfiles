@@ -64,11 +64,11 @@ ATIS2:Copenhagen Approach
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_F_APP:150:5
-ATIS2:Kastrup Final
+ATIS2:Kastrup Final - Report Callsign ONLY!
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_P_APP:150:5
-ATIS2:Kastrup Final
+ATIS2:Kastrup Final - Report Callsign ONLY!
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_R_DEP:150:5
