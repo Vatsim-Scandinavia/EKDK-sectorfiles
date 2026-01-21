@@ -44,9 +44,10 @@ Settings	FreqKey	3604480
 Plugins	Plugin2	\EKDK\Plugins\CDM.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin2Display1	Ground Radar display
-Plugins Plugin3 \EKDK\Plugins\VCH\VCH.dll
+Plugins	Plugin3	\EKDK\Plugins\VCH\VCH.dll
 Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin3Display1	Ground Radar display
-Plugins Plugin4 \EKDK\Plugins\FlightStripsPlugin.dll
+Plugins	Plugin4	\EKDK\Plugins\FlightStripsPlugin.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
+
