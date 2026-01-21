@@ -2,6 +2,14 @@
   "configFormatVersion": 3,
   "openAutomatically": false,
   "logging": true,
+  "soundMute": {
+    "all": false,
+    "missed": false,
+    "ar": {
+      "all": false,
+      "unselected": false
+   }
+  },
   "scratchpadRunwayOverride": true,
   "timeSyncBeacons": true,
   "timelineSort": "targetFixEta",
