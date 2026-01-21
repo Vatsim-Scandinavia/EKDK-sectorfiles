@@ -47,3 +47,6 @@ ASRFastKeys	9	\EKDK\ASR\EKDK_FMP.asr
 Plugins	Plugin2	\EKDK\Plugins\CDM.dll
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
+Plugins	Plugin3	\EKDK\Plugins\Alb.dll
+Plugins	Plugin3Display0	Standard ES radar screen
+Plugins	Plugin3Display1	Ground Radar display
