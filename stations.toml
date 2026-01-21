@@ -8,21 +8,23 @@ include = [
 ]
 exclude = ["EKCH*"]
 priority = [
-    "*FMP",
+    "DK_FMP",
+    "*_FMP",
+    "APP CO",
     "DK*",
+    "APP*",
+    "DEP*",
+    "CH*",
     "BI*",
     "YT*",
     "AH*",
     "KA*",
     "SP*",
+    "RN*",
     "VJ*",
     "SB*",
     "OD*",
-    "RN*",
-    "*_APP*",
-    "*_TWR*",
-    "*_GND*",
-    "*_DEL*",
+    "EB*",
 ]
 frequencies = "ShowAll"
 grouping = "None"
@@ -105,28 +107,33 @@ exclude = [
     "EDUU*CHI*CTR",
 ]
 priority = [
+    "DK_FMP",
     "*_FMP",
     "APP CO",
     "DK*",
+    "WW*",
+    "YY*",
+    "UU*",
+    "MM*",
+    "OS*",
+    "NO*",
+    "SV*",
+    "SCO*",
+    "DH*",
+    "GG*",
     "APP*",
+    "DEP*",
     "CH*",
     "BI*",
     "YT*",
+    "AH*",
     "KA*",
     "SP*",
     "RN*",
     "VJ*",
     "SB*",
     "OD*",
-    "WW*",
-    "YY*",
-    "UU*",
-    "MM*",
-    "OS*",
-    "NOR*",
-    "SV*",
-    "DH*",
-    "SCO*",
+    "EB*",
 ]
 frequencies = "ShowAll"
 grouping = "None"
@@ -145,7 +152,7 @@ grouping = "None"
 "126.825" = "SAA"
 "119.530" = "OD AFIS"
 "134.980" = "MM L"
-"121.550" = "NOR S"
+"121.550" = "NOS"
 "136.555" = "DK UN"
 "119.255" = "BI FIN"
 "128.215" = "DK C"
@@ -153,7 +160,7 @@ grouping = "None"
 "121.905" = "CH B GND"
 "125.855" = "WW HEI"
 "135.565" = "DK V"
-"125.500" = "ENOR"
+"125.500" = "NOR"
 "126.400" = "SB AFIS"
 "119.580" = "KA TWR"
 "119.805" = "APP W"
@@ -174,10 +181,8 @@ grouping = "None"
 "136.485" = "DK UA"
 "127.255" = "OS 5"
 "127.755" = "MM 2"
-"126.400" = "SB AFIS"
-"121.905" = "CH B APN"
 "119.280" = "AH APP"
-"134.515" = "ENOR SC"
+"134.515" = "NOC"
 "123.225" = "WW BOR"
 "120.540" = "DH APP"
 "124.205" = "GG APP W"
@@ -229,13 +234,15 @@ include = [
 ]
 exclude = []
 priority = [
+    "DK FMP",
     "*_FMP",
-    "CH*",
+    "APP CO",
     "DK*",
-    "*_APP*",
-    "*_TWR*",
-    "*_GND*",
-    "*_DEL*",
+    "APP*",
+    "DEP*",
+    "CH*_TWR",
+    "CH*_GND",
+    "CH*_DEL",
 ]
 frequencies = "ShowAll"
 grouping = "None"
@@ -274,9 +281,9 @@ include = []
 exclude = []
 priority = [
     "*_FMP",
-    "CH*",
-    "APP*",
-    "",
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
     "*_GND",
 ]
 frequencies = "ShowAll"
@@ -303,15 +310,17 @@ exclude = [
     "ESMM*9*CTR",
 ]
 priority = [
+    "DK FMP",
     "*_FMP",
-    "CH*",
-    "APP*",
+    "APP CO",
     "DK*",
     "MM*",
+    "APP*",
+    "DEP*",
+    "CH*_TWR",
+    "CH*_GND*",
+    "CH*_DEL*",
     "RK*",
-    "*_TWR*",
-    "*_GND*",
-    "*_DEL*",
 ]
 frequencies = "ShowAll"
 grouping = "None"
