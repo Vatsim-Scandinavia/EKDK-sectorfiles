@@ -1,82 +1,82 @@
 PROFILE
 PROFILE:EKDK_CTR:210:6
-ATIS2:Copenhagen Control - CPDLC Available on EKDK
-ATIS3:Briefing at vats.im/ekdk | 
+ATIS2:Copenhagen Control - CPDLC [EKDK]
+ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_B_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC Available on EKDB - Covering Lower airspace around Copenhagen.
+ATIS2:Copenhagen Control - CPDLC [EKDB]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_I_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC Available on EKDI - Covering Lower airspace around Copenhagen.
+ATIS2:Copenhagen Control - CPDLC [EKDI]
 ATIS3:Briefing at vats.im/ekdk  
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_D_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC Available on EKDD - Covering Lower airspace around Copenhagen.
+ATIS2:Copenhagen Control - CPDLC [EKDD]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_E_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC Available on EKDE - Covering Lower airspace around Copenhagen.
+ATIS2:Copenhagen Control - CPDLC [EKDE]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_L_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC Available on EKDL - Covering Lower airspace over northern Denmark. NOT covering EKCH
+ATIS2:Copenhagen Control - CPDLC [EKDL]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_V_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC Available on EKDV - Covering western Denmark. NOT covering EKCH
+ATIS2:Copenhagen Control - CPDLC [EKDV]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_N_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC Available on EKDN - Covering western Denmark. NOT covering EKCH
+ATIS2:Copenhagen Control - CPDLC [EKDN]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_A_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC Available on EKDA - Covering eastern Denmark.
+ATIS2:Copenhagen Control - CPDLC [EKDA]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_C_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC Available on EKDC - Covering eastern Denmark.
+ATIS2:Copenhagen Control - CPDLC [EKDC]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_UA_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC Available on EKUA - Covering eastern Denmark.
+ATIS2:Copenhagen Control - CPDLC [EKUA] - NOT covering EKCH
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_UC_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC Available on EKUC - Covering eastern Denmark.
+ATIS2:Copenhagen Control - CPDLC [EKUC]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_UN_CTR:210:6
-ATIS2:Copenhagen Control - CPDLC Available on EKUN - Covering western Denmark.
+ATIS2:Copenhagen Control - CPDLC [EKUN]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_UV_CTR:210:6
-ATIS2:Copenhagen Control - CPDLC Available on EKUV - Covering western Denmark. NOT covering EKCH.
+ATIS2:Copenhagen Control - CPDLC [EKUV] - NOT covering EKCH
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_O_APP:150:5
-ATIS2:Copenhagen Approach - Voice ATIS on 122.755
+ATIS2:Copenhagen Approach - CPDLC/DCL [EKCO]
 ATIS3:Briefing at vats.im/ekch 
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKCH_W_APP:150:5
-ATIS2:Copenhagen Approach - Voice ATIS For Departures on 122.855. For arrivals on 122.755
+PROFILE:EKCH_W_APP:150:5 - CPDLC/DCL [EKCW]
+ATIS2:Copenhagen Approach
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_F_APP:150:5
-ATIS2:Kastrup Final - Report Callsign ONLY! 
+ATIS2:Kastrup Final - Report Callsign ONLY!
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_P_APP:150:5
-ATIS2:Kastrup Final - Report Callsign ONLY! 
+ATIS2:Kastrup Final - Report Callsign ONLY!
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_R_DEP:150:5
-ATIS2:Kastrup Departure - Voice ATIS on 122.855 - Departures for Copenhagen & Roskilde
+ATIS2:Kastrup Departure - CPDLC/DCL [EKCR]
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_K_DEP:150:5
-ATIS2:Kastrup Departure - Voice ATIS on 122.855 - Departures for Copenhagen Kastrup
+ATIS2:Kastrup Departure - CPDLC/DCL [EKCK]
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_C_TWR:50:4
@@ -108,11 +108,11 @@ ATIS2:Kastrup Delivery - DCL [EKCH]
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKBI_APP:130:5
-ATIS2:Billund Approach - Voice ATIS on 118.005
+ATIS2:Billund Approach
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKYT_APP:100:5
-ATIS2:Aalborg Approach - Voice ATIS on 121.150
+ATIS2:Aalborg Approach
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKAH_APP:100:5
@@ -128,11 +128,11 @@ ATIS2:Skrydstrup Approach
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKBI_TWR:50:4
-ATIS2:Billund Tower - Voice ATIS on 118.005
+ATIS2:Billund Tower
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKYT_TWR:50:4
-ATIS2:Aalborg Tower - Voice ATIS on 120.475
+ATIS2:Aalborg Tower
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKAH_TWR:50:4

@@ -118,7 +118,7 @@ m_AcceptPilotSquawkForCorrelation:0
 m_MTCA_Floor:25000
 m_MTCA_AltitudeDifference:0
 m_MTCA_Distance:0.0
-m_UseIsectForScratchPad:0
+m_UseIsectForScratchPad:1
 m_RotateRadarTargetSymbol:0
 m_RotateFlightPlanTrackSymbol:0
 m_RubberHeadingRounding:5
