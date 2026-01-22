@@ -64,7 +64,7 @@ m_X:5
 m_Y:76
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:3
+m_OrderingColumn:4
 m_HeaderOnly:0
 m_Column:GATE:4:0:1:1:0:0:Ground Radar plugin:Ground Radar plugin::1:0.0
 m_Column:REQ:4:1:540:548:0:1:VCH:VCH::0:0.0
