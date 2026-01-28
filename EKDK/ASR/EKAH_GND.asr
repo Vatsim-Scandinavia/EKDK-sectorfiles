@@ -54,4 +54,3 @@ WINDOWAREA:56.299969:10.595398:56.318194:10.653641
 PLUGIN:Ground Radar plugin:AirportElevation:82
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:GroundMode:EKAH
-PLUGIN:TopSky plugin:NoDraw:1
