@@ -249,3 +249,9 @@ Setup_LoadView=EKYT
 
 [EKCH_F_APP]
 MTCD_Sep_Lat=2.5
+[_DEL]
+Window_CPDLC_Setting=1,1,500
+[_GND]
+Window_CPDLC_Setting=1,1,500
+[_TWR]
+Window_CPDLC_Setting=1,1,500

@@ -60,7 +60,7 @@ ATIS2:Copenhagen Approach - CPDLC/DCL [EKCO]
 ATIS3:Briefing at vats.im/ekch 
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_W_APP:150:5 - CPDLC/DCL [EKCW]
-ATIS2:Copenhagen Approach
+ATIS2:Copenhagen Approach - CPDLC/DCL [EKCW]
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_F_APP:150:5
