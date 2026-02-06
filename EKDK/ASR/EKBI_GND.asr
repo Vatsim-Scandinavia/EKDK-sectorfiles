@@ -1,16 +1,16 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+Fixes:EGTVED:name
+Fixes:EGTVED:symbol
 Fixes:GIVE:name
 Fixes:GIVE:symbol
-Fixes:HOEJEN:name
-Fixes:HOEJEN:symbol
-Fixes:SONDEROMME:name
-Fixes:SONDEROMME:symbol
-Fixes:TOERRING:name
-Fixes:TOERRING:symbol
-Fixes:VORBASSEVEST:name
-Fixes:VORBASSEVEST:symbol
+Fixes:KARLSKOV:name
+Fixes:KARLSKOV:symbol
+Fixes:VANDEL:name
+Fixes:VANDEL:symbol
+Fixes:VORBASSE:name
+Fixes:VORBASSE:symbol
 Free Text:EKBI TWY & Stands\0:freetext
 Free Text:EKBI TWY & Stands\1:freetext
 Free Text:EKBI TWY & Stands\2:freetext
@@ -78,7 +78,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:55.734739:9.119626:55.753931:9.180957
+WINDOWAREA:55.720000:9.100000:55.770000:9.200000
 PLUGIN:Ground Radar plugin:AirportElevation:247
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:GroundMode:EKBI
