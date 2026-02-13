@@ -61,6 +61,9 @@ List_Inbound=22L,2,1523,275
 List_Inbound=04L,2,35,800
 List_Inbound=30,2,1205,768
 List_Inbound=12,2,502,196
+List_Inbound_DTT=1
+List_Inbound_TYPE=1
+List_Inbound_WTC=1
 
 [EKCH]
 AppPath=EKCH:22L:55.622764:12.663489:221.7:L:008:3.0:1.0:1.0
