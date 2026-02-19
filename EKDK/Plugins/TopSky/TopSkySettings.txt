@@ -7,6 +7,8 @@ Airspace_C_Flag=EK,ESGG,ESMS
 Airspace_C_No_Flag=EKVG,EKRN
 Airspace_NOTAM_Add=EKDK
 Airspace_SIGMET_Areas=ENOR,ESAA,EDWW,EHAA,EGPX
+Airspace_ModeS_Code_VFR=7000
+Airspace_ModeS_Code=1000
 
 HTTP_AUP_URL=https://lara.vatsim.pt/api/areas/EK/
 
