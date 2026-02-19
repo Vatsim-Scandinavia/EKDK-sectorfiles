@@ -92,7 +92,7 @@ m_Column:CFL:4:0:10049:12:39:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:ASSR:4:0:10042:62:0:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column::1:0:65:25:0:1::::1:0.0
 m_Column::3:0:10014:20:0:0:TopSky plugin:::1:0.0
-m_Column:STS:5:1:10048:13:0:1:TopSky plugin:Ground Radar plugin::1:0.0
+m_Column:STS:5:1:3:13:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
 m_Column:CLR:5:1:10128:155:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:DE :2:0:19:141:0:0:CDM Plugin:CDM Plugin::0:0.0
 m_Column:-ICE:4:0:1:141:0:0:FlightStrips:CDM Plugin::0:0.0
