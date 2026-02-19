@@ -168,7 +168,7 @@ m_Column:DATA:7:0:107:0:0:1::::1:0.0
 END
 STUP
 m_Visible:1
-m_X:705
+m_X:700
 m_Y:75
 m_LineNumber:0
 m_Resizable:1
@@ -198,7 +198,7 @@ m_Column:RUNW:7:1:47:19:19:1::::1:0.0
 m_Column:ADES:5:1:17:7:0:0::::1:0.0
 m_Column:SID:9:0:10020:17:17:0:TopSky plugin:::1:0.0
 m_Column:ASSR:5:1:10020:62:0:1:TopSky plugin:TopSky plugin::1:0.0
-m_Column:STS:5:0:10048:13:0:1:TopSky plugin:Ground Radar plugin::0:0.0
+m_Column:STS:5:0:3:13:0:1:Ground Radar plugin:Ground Radar plugin::0:0.0
 m_Column:CLR:5:1:10047:27:0:1:TopSky plugin:::1:0.0
 END
 TAXIOUT
