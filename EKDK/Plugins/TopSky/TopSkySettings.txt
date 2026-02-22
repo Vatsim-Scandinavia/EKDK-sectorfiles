@@ -1,6 +1,10 @@
 Setup_COOPANS=1
 Setup=DK
 
+BlindSpot=1
+BlindSpot_Level_Range=100
+BlindSpot_Time_Warning=400
+
 Airspace_AOR_Airports=EK
 Airspace_AOR_Positions=EK
 Airspace_C_Flag=EK,ESGG,ESMS
