@@ -255,3 +255,4 @@ Setup_LoadView=EKYT
 
 [EKCH_F_APP]
 MTCD_Sep_Lat=2.5
+Label_WTC_Highlight_WTC=HJ?
