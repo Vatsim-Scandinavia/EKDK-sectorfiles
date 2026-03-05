@@ -133,8 +133,9 @@ Color_WM_Frame=88,95,99
 CPDLC_AutoAcceptLogon=1
 CPDLC_AutoAcceptLogon_Time=5
 List_Holding=1024,50
-List_Holding_Points=OLBIP,LUGAS,ROSBI,TIDVU,ERNOV,ODDON
+List_Holding_Points=OLBIP,LUGAS,ROSBI,TIDVU,ERNOV,AAL
 List_Holding_Plugin=1
+List_OptionsInGlobalMenu=1
 RwyAppLines_Auto=1
 Window_SM_AppHoldTime=2
 List_Holding_MaxItems=20
@@ -172,52 +173,55 @@ SOIR:EKCH:22L/1000:22L/4000
 [_CTR]
 Window_CPDLC_Setting=1,30,100
 Window_UpperWinds=3,30,400
+Window_CPDLC_Current=1,30,990
 
 [B_CTR]
-Color_Rwy_App_Line_Inuse=62,160,216
 Setup_Informed=*:TIDVU:EKCH:2
-Window_UpperWinds=3,30,400
 
 [D_CTR]
-Color_Rwy_App_Line_Inuse=62,160,216
 Setup_Informed=*:TNO:EKCH:2
-Window_UpperWinds=3,30,400
 
 [E_CTR]
-Color_Rwy_App_Line_Inuse=62,160,216
 Setup_Informed=*:KOR:EKCH:2
-Window_UpperWinds=3,30,400
 
 [_APP]
 Color_Rwy_App_Line_Inuse=62,160,216
-Setup_Informed=EKCH:*:*:1
 Window_CPDLC_Setting=1,30,200
 Window_UpperWinds=3,30,400
+Window_CPDLC_Current=1,30,990
 
 [_DEP]
 Color_Rwy_App_Line_Inuse=62,160,216
 Setup_Informed=*:*:EKCH:2
 Window_CPDLC_Setting=1,30,200
 Window_UpperWinds=3,30,400
+Window_CPDLC_Current=1,30,990
 
 [O_APP]
+Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ABEGI,ERPUK,ADOVI,DOPEM,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
 
 [W_APP]
+Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ADOVI,DOPEM,ABEGI,ERPUK,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
 
 [EKCH_M_APP]
+Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ADOVI,DOPEM,ABEGI,ERPUK,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
 
 [P_APP]
 Color_Informed_2=149,214,149
 Color_Informed_3=0,183,230
+Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ABEGI,ERPUK,ADOVI,DOPEM,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
+MTCD_Sep_Lat=2.5
 
 [F_APP]
 Color_Informed_2=149,214,149
 Color_Informed_3=0,183,230
+Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ABEGI,ERPUK,ADOVI,DOPEM,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
+MTCD_Sep_Lat=2.5
 
 [EKAH_APP]
 Color_Rwy_App_Line_Inuse=230,230,230
@@ -248,6 +252,3 @@ Setup_LoadView=EKRK
 Color_Rwy_App_Line_Inuse=230,230,230
 Setup_LoadMap=EKYT
 Setup_LoadView=EKYT
-
-[EKCH_F_APP]
-MTCD_Sep_Lat=2.5

@@ -118,13 +118,14 @@ m_Column:CLR:5:1:10128:155:0:1:TopSky plugin:TopSky plugin::0:0.0
 END
 ARR
 m_Visible:0
-m_X:90
-m_Y:615
+m_X:1668
+m_Y:71
 m_LineNumber:6
 m_Resizable:0
-m_OrderingColumn:1
+m_OrderingColumn:-1
 m_HeaderOnly:0
 m_Column:C/S:9:0:22:0:0:1:TopSky plugin:::0:0.0
+m_Column:Gate:6:1:2:1:0:1:Ground Radar plugin:Ground Radar plugin::0:0.0
 m_Column:OP-TEXT2:8:0:19:29:0:1::::1:0.0
 END
 FP
