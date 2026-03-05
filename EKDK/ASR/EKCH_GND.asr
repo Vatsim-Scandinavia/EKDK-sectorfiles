@@ -21,29 +21,17 @@ Free Text:EKKA Twy & Stands\3:freetext
 Free Text:EKKA Twy & Stands\4:freetext
 Free Text:EKKA Twy & Stands\5:freetext
 Free Text:EKKA Twy & Stands\E:freetext
-Free Text:EKKA Twy & Stands\E:freetext
-Free Text:EKKA Twy & Stands\E:freetext
-Free Text:EKKA Twy & Stands\E:freetext
 Free Text:EKKA Twy & Stands\P:freetext
 Free Text:EKKA Twy & Stands\S:freetext
-Free Text:EKKA Twy & Stands\S:freetext
-Free Text:EKKA Twy & Stands\S:freetext
-Free Text:EKKA Twy & Stands\W:freetext
 Free Text:EKKA Twy & Stands\W:freetext
 Free Text:EKKA Twy & Stands\X:freetext
-Free Text:EKKA Twy & Stands\X:freetext
 Free Text:EKRK TWY & Stand\1:freetext
-Free Text:EKRK TWY & Stand\1:freetext
-Free Text:EKRK TWY & Stand\A:freetext
-Free Text:EKRK TWY & Stand\A:freetext
 Free Text:EKRK TWY & Stand\A:freetext
 Free Text:EKRK TWY & Stand\A1:freetext
 Free Text:EKRK TWY & Stand\A2:freetext
 Free Text:EKRK TWY & Stand\A3:freetext
 Free Text:EKRK TWY & Stand\A4:freetext
 Free Text:EKRK TWY & Stand\A5:freetext
-Free Text:EKRK TWY & Stand\B:freetext
-Free Text:EKRK TWY & Stand\B:freetext
 Free Text:EKRK TWY & Stand\B:freetext
 Free Text:EKRK TWY & Stand\B1:freetext
 Free Text:EKRK TWY & Stand\B2:freetext
@@ -55,9 +43,6 @@ Free Text:EKRK TWY & Stand\D:freetext
 Free Text:EKRK TWY & Stand\E:freetext
 Free Text:EKRK TWY & Stand\F:freetext
 Free Text:EKRK TWY & Stand\G:freetext
-Free Text:EKRK TWY & Stand\H:freetext
-Free Text:EKRK TWY & Stand\H:freetext
-Free Text:EKRK TWY & Stand\H:freetext
 Free Text:EKRK TWY & Stand\H:freetext
 Free Text:EKRK TWY & Stand\J:freetext
 Free Text:EKRK TWY & Stand\M:freetext
@@ -133,7 +118,7 @@ SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
-LEADER:5
+LEADER:-1
 SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:0
@@ -142,7 +127,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:55.616429:12.621224:55.634732:12.679715
+WINDOWAREA:55.616429:12.620209:55.634732:12.680730
 PLUGIN:Ground Radar plugin:AirportElevation:16
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:GroundMode:EKCH

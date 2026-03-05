@@ -1,6 +1,6 @@
 {
   "configFormatVersion": 3,
-  "openAutomatically": false,
+  "openAutomatically": true,
   "logging": true,
   "soundMute": {
     "all": false,
@@ -93,7 +93,6 @@
       "viaFixColors": [ "6E996E", "00BFFF",         "96D796", "00FF7F", "00FFFF" ],
       "ArrivalScenarios": {
         "Green": [ 2, 2, 2, 2, 2 ]
-        "Yellow": [ 3, 3, 3, 3, 3 ]
       }
     },
     "EKCH-SI-12VTC": {

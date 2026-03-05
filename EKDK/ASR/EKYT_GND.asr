@@ -28,18 +28,13 @@ Free Text:EKYT TWY & Stands & Runways\8:freetext
 Free Text:EKYT TWY & Stands & Runways\A:freetext
 Free Text:EKYT TWY & Stands & Runways\B:freetext
 Free Text:EKYT TWY & Stands & Runways\C:freetext
-Free Text:EKYT TWY & Stands & Runways\C:freetext
 Free Text:EKYT TWY & Stands & Runways\D:freetext
 Free Text:EKYT TWY & Stands & Runways\E:freetext
 Free Text:EKYT TWY & Stands & Runways\F:freetext
 Free Text:EKYT TWY & Stands & Runways\G:freetext
-Free Text:EKYT TWY & Stands & Runways\G:freetext
 Free Text:EKYT TWY & Stands & Runways\H:freetext
 Free Text:EKYT TWY & Stands & Runways\J:freetext
 Free Text:EKYT TWY & Stands & Runways\K:freetext
-Free Text:EKYT TWY & Stands & Runways\N:freetext
-Free Text:EKYT TWY & Stands & Runways\N:freetext
-Free Text:EKYT TWY & Stands & Runways\N:freetext
 Free Text:EKYT TWY & Stands & Runways\N:freetext
 Free Text:EKYT TWY & Stands & Runways\SAR ONLY:freetext
 Geo:EKSN Groundlayout:
@@ -60,7 +55,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:57.072437:9.779924:57.124115:9.945072
+WINDOWAREA:57.072437:9.777060:57.124115:9.947936
 PLUGIN:Ground Radar plugin:AirportElevation:10
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:GroundMode:EKYT
