@@ -1,6 +1,12 @@
-Shortcut_Map_Xfr_Combo=1,0x12
 Shortcut_Map_Xfr_Key=2,0x56 ; V
-Shortcut_Map_Target=2,EKDK\REGIONAL
+Shortcut_Map_Target=2,DIRECTS\DIRECTS-REGIONAL
+
+Shortcut_Map_Xfr_Key=2,0x56 ; M
+Shortcut_Map_Target=2,MIL\MIL-GEN
+
+Shortcut_Map_Xfr_Key=2,0x56 ; B
+Shortcut_Map_Target=2,ACC\ACC-HELP
+
 [_APP]
 Color_Rwy_App_Line_Inuse=62,160,216
 SYMBOLDEF:OBS
