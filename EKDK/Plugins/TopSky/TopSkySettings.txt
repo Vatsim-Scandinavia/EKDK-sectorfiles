@@ -136,6 +136,10 @@ Color_WM_Fg=20,20,21
 Color_WM_Frame=88,95,99
 CPDLC_AutoAcceptLogon=1
 CPDLC_AutoAcceptLogon_Time=5
+CPDLC_Transfer=1
+CPDLC_CFL=1
+CPDLC_DCT=1
+
 List_Holding=1024,50
 List_Holding_Points=OLBIP,LUGAS,ROSBI,TIDVU,ERNOV,AAL
 List_Holding_Plugin=1
@@ -147,7 +151,8 @@ Window_DCL_SetCFL=1
 Window_DCL_SetASSR=1
 Window_PDC_SetASSR=1
 Window_PDC_SetCFL=1
-
+Window_DCL_SetNFREQ=1
+Window_CPDLC_Setting=1,30,100
 
 [EKDK_FMP]
 Color_Informed_2=149,214,149
@@ -219,6 +224,7 @@ Color_Informed_3=0,183,230
 Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ABEGI,ERPUK,ADOVI,DOPEM,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
 MTCD_Sep_Lat=2.5
+Label_WTC_Highlight_WTC=HJ?
 
 [F_APP]
 Color_Informed_2=149,214,149
@@ -226,6 +232,7 @@ Color_Informed_3=0,183,230
 Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ABEGI,ERPUK,ADOVI,DOPEM,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
 MTCD_Sep_Lat=2.5
+Label_WTC_Highlight_WTC=HJ?
 
 [EKAH_APP]
 Color_Rwy_App_Line_Inuse=230,230,230
@@ -257,6 +264,3 @@ Color_Rwy_App_Line_Inuse=230,230,230
 Setup_LoadMap=EKYT
 Setup_LoadView=EKYT
 
-[EKCH_F_APP]
-MTCD_Sep_Lat=2.5
-Label_WTC_Highlight_WTC=HJ?
