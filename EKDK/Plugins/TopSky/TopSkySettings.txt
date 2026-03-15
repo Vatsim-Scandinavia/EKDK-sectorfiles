@@ -1,6 +1,10 @@
 Setup_COOPANS=1
 Setup=DK
 
+BlindSpot=1
+BlindSpot_Level_Range=100
+BlindSpot_Time_Warning=400
+
 Airspace_AOR_Airports=EK
 Airspace_AOR_Positions=EK
 Airspace_C_Flag=EK,ESGG,ESMS
@@ -252,3 +256,7 @@ Setup_LoadView=EKRK
 Color_Rwy_App_Line_Inuse=230,230,230
 Setup_LoadMap=EKYT
 Setup_LoadView=EKYT
+
+[EKCH_F_APP]
+MTCD_Sep_Lat=2.5
+Label_WTC_Highlight_WTC=HJ?
