@@ -1,4 +1,6 @@
-*.sct
-*.rwy
 *.ese
+*.rwy
+*.sct
+EKDK/Settings/LoginProfiles.txt
+EKDK/Plugins/TopSky/TopSkyCPDLChoppieCode.txt
 /EKDK/Plugins/ALB

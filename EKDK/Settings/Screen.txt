@@ -36,8 +36,8 @@ m_ScreenMaximized:0
 m_ShowTitleSelectedAc:0
 m_PlanesListX:1240
 m_PlanesListY:1
-m_MetarListX:1255
-m_MetarListY:50
+m_MetarListX:1492
+m_MetarListY:71
 m_VoiceListX:1954
 m_VoiceListY:42
 m_ControllerListX:2114
@@ -53,6 +53,8 @@ m_OnTheGroundAltitude:2000
 m_OnTheGroundSpeed:50
 m_ShowCdtOnCflCheck:0
 m_ShowTsVccsMiniControl:0
-ScenarioEditorX:0
-ScenarioEditorY:0
+ScenarioEditorX:1600
+ScenarioEditorY:357
 m_ShowSTARControllers:1
+MessageLinesNumber:4
+BackgroundGrphicsInThread:1

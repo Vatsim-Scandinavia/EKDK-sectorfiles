@@ -1,10 +1,10 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC boundary:Airspace E EKRK Roskilde WEST 35-65:
 ARTCC boundary:Airspace C EKCH Copenhagen Area LTA:
 ARTCC boundary:Airspace C EKCH Roskilde TMA:
 ARTCC boundary:Airspace C EKRK EKRK - Clutter for APP airspace:
+ARTCC boundary:Airspace E EKRK Roskilde WEST 35-65:
 ARTCC boundary:AoR CTR EKDK Global borders - ESAA KL:
 ARTCC low boundary:Tower CTR EKCH Kastrup Controlzone:
 Geo:NONE Denmark Coastlines:
@@ -14,7 +14,7 @@ SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
-LEADER:3
+LEADER:-1
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -23,4 +23,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:54.957485:10.446567:56.345362:14.881838
+WINDOWAREA:54.784000:9.796008:56.518847:15.532397
