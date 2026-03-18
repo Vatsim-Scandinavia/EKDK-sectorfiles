@@ -1,13 +1,13 @@
-RecentFiles	Recent1	\EKDK\ASR\EKDK_CTR.asr
-RecentFiles	Recent2	\EKDK\ASR\EKCH_APP.asr
-RecentFiles	Recent3	\EKDK\ASR\EKBI_APP.asr
-RecentFiles	Recent4	\EKDK\ASR\EKYT_APP.asr
-RecentFiles	Recent5	\EKDK\ASR\EKDK_FMP.asr
-RecentFiles	Recent6	\EKDK\ASR\EKCH_GND.asr
-RecentFiles	Recent7	\EKDK\ASR\EKBI_GND.asr
-RecentFiles	Recent8	\EKDK\ASR\EKYT_GND.asr
-RecentFiles	Recent9	\EKDK\ASR\EKDK_GroundViews.asr
-Settings	sector	\EKDK-EKDK-Copenhagen_20251228161633-251301-0008.sct
+RecentFiles	Recent1	\EKDK\ASR\EKCH_APP.asr
+RecentFiles	Recent9	\EKDK\ASR\EKDK_FMP.asr
+RecentFiles	Recent3	\EKDK\ASR\EKDK_CTR.asr
+RecentFiles	Recent5	\EKDK\ASR\EKBI_APP.asr
+RecentFiles	Recent7	\EKDK\ASR\EKYT_APP.asr
+RecentFiles	Recent4	\EKDK\ASR\EKBI_GND.asr
+RecentFiles	Recent2	\EKDK\ASR\EKCH_GND.asr
+RecentFiles	Recent8	\EKDK\ASR\EKDK_GroundViews.asr
+RecentFiles	Recent6	\EKDK\ASR\EKYT_GND.asr
+Settings	sector	\EKDK-EKDK-Copenhagen_20260318210517-260201-0017.sct
 Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
@@ -53,3 +53,6 @@ Plugins	Plugin3Display1	Ground Radar display
 Plugins	Plugin4	\EKDK\Plugins\VCH\VCH.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
+LastSession	atis_freq4	118000
+RecentFiles	Recent10	\EKDK\ASR\EKDK_FMP.asr
+RecentFiles	Recent11	\EKDK\ASR\EKAH_GND.asr

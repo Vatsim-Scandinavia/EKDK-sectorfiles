@@ -1,20 +1,30 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC boundary:Airspace E EKAH Aarhus LTA:
-ARTCC boundary:Airspace E EKBI Billund LTA:
-ARTCC boundary:Airspace E EKKA Karup LTA:
-ARTCC boundary:Airspace E EKSP Skrydstrup LTA:
+ARTCC boundary:Airspace C EKCH Copenhagen CTA:
+ARTCC boundary:Airspace E EKAH Aarhus CTA 35-65:
+ARTCC boundary:Airspace E EKBI Billund CTA 105-125:
+ARTCC boundary:Airspace E EKKA Karup CTA 35-125:
+ARTCC boundary:Airspace E EKRK Roskilde WEST 35-65:
+ARTCC boundary:Airspace E EKSP Skrydstrup CTR 35-65:
 ARTCC boundary:AoR CTR EKDK EKDK_D:
 ARTCC boundary:AoR CTR EKDK EKDK_E:
 ARTCC boundary:AoR CTR EKDK EKDK_L:
 ARTCC boundary:AoR CTR EKDK EKDK_N:
 ARTCC boundary:AoR CTR EKDK EKDK_V:
-ARTCC low boundary:FIZ EKEB TIZ EKEB:
-ARTCC low boundary:TMA EKBI Billund TMA 25-75:
-ARTCC low boundary:Tower CTR EKBI Billund Control zone:
-Geo:NONE Denmark Coastlines:
-Geo:NONE Sweden Coastline:
+ARTCC low boundary:TMA EKBI Billund (C) 15-25:
+ARTCC low boundary:TMA EKBI Billund (C) 25-45:
+ARTCC low boundary:TMA EKBI Billund (C) 45-75:
+Fixes:ABINO:symbol
+Fixes:BAMPI:symbol
+Fixes:GELBA:symbol
+Fixes:INTET:symbol
+Fixes:LOKSA:symbol
+Fixes:MIKRO:symbol
+Fixes:RERPA:symbol
+Fixes:RIDSI:symbol
+Geo:EKDK Landmark Coastline Denmark:
+VORs:ALS:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -28,4 +38,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:55.125080:6.926514:56.458413:11.335273
+WINDOWAREA:55.125080:6.925767:56.458413:11.336020

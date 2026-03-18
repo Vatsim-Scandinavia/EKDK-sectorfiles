@@ -1,8 +1,18 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC boundary:AoR CTR EKDK Global FIR borders - ACC Copenhagen:
-ARTCC boundary:AoR CTR EKDK Global borders - Foreign FIRs:
+Airports:EDDH:symbol
+Airports:EKAH:symbol
+Airports:EKBI:symbol
+Airports:EKCH:symbol
+Airports:EKYT:symbol
+Airports:ESGG:symbol
+Airports:ESMS:symbol
+ARTCC boundary:Airspace C EKCH Copenhagen CTA:
+ARTCC boundary:AoR CTR EKDK Copenhagen FIR:
+ARTCC boundary:AoR CTR EKDK EKDK_C:
+ARTCC boundary:AoR CTR EKDK EKDK_V:
+ARTCC high boundary:AoR CTR EKDK External Sectors:
 Fixes:BAKLI:symbol
 Fixes:ERNOV:symbol
 Fixes:GESKA:symbol
@@ -12,8 +22,16 @@ Fixes:OLPIB:symbol
 Fixes:ROSBI:symbol
 Fixes:TALSA:symbol
 Fixes:TIDVU:symbol
-Geo:NONE Denmark Coastlines:
-Geo:NONE Sweden Coastline:
+Regions:EKDK Copenhagen FIR:polygon
+Stars:EKCH Vectors Range Rings:
+Stars:HOLDING EKDK AAL R 263.0 3500 46000:
+Stars:HOLDING EKDK ERNOV L 179.0 10000:
+Stars:HOLDING EKDK GESKA R 30.0 21000 36000:
+Stars:HOLDING EKDK LUGAS L 73.0 3500 30000:
+Stars:HOLDING EKDK OLPIB R 30.0 15000 19000:
+Stars:HOLDING EKDK ROSBI L 103.0 3500 30000:
+Stars:HOLDING EKDK TALSA L 73.0 30000 46000:
+Stars:HOLDING EKDK TIDVU R 293.0 5000:
 VORs:AAL:symbol
 VORs:KOR:symbol
 VORs:TNO:symbol
@@ -30,4 +48,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:53.362341:-0.108396:58.911137:18.239083
+WINDOWAREA:53.362341:-0.111506:58.911137:18.242193

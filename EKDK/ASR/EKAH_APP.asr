@@ -5,8 +5,9 @@ ARTCC boundary:Airspace E EKAH Aarhus CTA 35-65:
 ARTCC boundary:Airspace E EKKA Karup CTA 35-125:
 ARTCC boundary:Airspace E EKYT Aalborg CTA 35-125:
 ARTCC boundary:AoR CTR EKDK EKDK_L:
-ARTCC low boundary:TMA EKYT Aalborg (D) 15-35:
-ARTCC low boundary:Tower CTR EKYT Aalborg (D) 00-15:
+ARTCC boundary:AoR CTR EKDK EKDK_E:
+ARTCC low boundary:TMA EKAH Aarhus (D) 15-35:
+ARTCC low boundary:Tower CTR EKAH Aarhus (D) 00-15:
 Fixes:BAKIT:symbol
 Fixes:GIPUG:symbol
 Geo:EKDK Landmark Coastline Denmark:
@@ -25,4 +26,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:56.288662:7.198329:57.971233:12.763752
+WINDOWAREA:56.299969:10.595398:56.318194:10.653641
