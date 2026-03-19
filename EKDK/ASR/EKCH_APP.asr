@@ -10,8 +10,8 @@ ARTCC boundary:Airspace C EKCH Roskilde TMA:
 ARTCC boundary:Airspace E EKRK Roskilde WEST 35-65:
 ARTCC boundary:AoR CTR ESMM ESMM_KL:
 ARTCC low boundary:Tower CTR EKCH Kastrup (D) 00-15:
-Geo:EKDK Landmark Coastline Denmark:
-Geo:EKDK Landmark Coastline Sweden:
+Geo:EKDK Coastline Denmark:
+Geo:EKDK Coastline Sweden:
 Regions:EKCH Copenhagen CTA:polygon
 SHOWC:1
 SHOWSB:0
