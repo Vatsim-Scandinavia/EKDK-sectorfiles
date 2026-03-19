@@ -290,7 +290,7 @@ Free Text:EKYT TWY & Stands & Runways\SAR ONLY:freetext
 Geo:EKAH Groundlayout Aarhus:
 Geo:EKBI Groundlayout Billund:
 Geo:EKCH Groundlayout Kastrup:
-Geo:EKDK Landmark Coastline Bornholm:
+Geo:EKDK Coastline Bornholm:
 Geo:EKEB Groundlayout Esbjerg:
 Geo:EKKA Groundlayout Karup:
 Geo:EKOD Groundlayout Odense:
@@ -299,8 +299,8 @@ Geo:EKRN Groundlayout Roenne:
 Geo:EKSB Groundlayout Sonderborg:
 Geo:EKSN Groundlayout Sindal:
 Geo:EKYT Groundlayout Aalborg:
-Geo:EKDK Landmark Coastline Denmark:
-Geo:EKDK Landmark Coastline Sweden:
+Geo:EKDK Coastline Denmark:
+Geo:EKDK Coastline Sweden:
 Regions:EKAH Aarhus GND:polygon
 Regions:EKBI Billund GND:polygon
 Regions:EKCH Kastrup GND:polygon
