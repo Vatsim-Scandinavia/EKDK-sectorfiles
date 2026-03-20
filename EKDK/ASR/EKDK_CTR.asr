@@ -17,6 +17,8 @@ ARTCC boundary:AoR CTR EKDK EKDK_L:
 ARTCC boundary:AoR CTR EKDK EKDK_N:
 ARTCC boundary:AoR CTR EKDK EKDK_V:
 ARTCC high boundary:AoR CTR EKDK External Sectors:
+Geo:EKDK Coastline Denmark:
+Geo:EKDK Coastline Sweden:
 SHOWC:1
 SHOWSB:0
 BELOW:0
