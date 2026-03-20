@@ -1,0 +1,29 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:Airspace E EKAH Aarhus CTA 35-65:
+ARTCC boundary:Airspace E EKKA Karup CTA 35-125:
+ARTCC boundary:Airspace E EKYT Aalborg CTA 35-125:
+ARTCC boundary:AoR CTR EKDK EKDK_L:
+ARTCC boundary:AoR CTR EKDK EKDK_E:
+ARTCC low boundary:TMA EKAH Aarhus (D) 15-35:
+ARTCC low boundary:Tower CTR EKAH Aarhus (D) 00-15:
+Fixes:BAKIT:symbol
+Fixes:GIPUG:symbol
+Geo:EKDK Coastline Denmark:
+VORs:AAL:symbol
+VORs:TNO:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_B
+WINDOWAREA:56.299969:10.595398:56.318194:10.653641

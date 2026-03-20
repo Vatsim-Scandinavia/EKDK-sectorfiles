@@ -1,12 +1,12 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC boundary:Airspace E EKAH Aarhus LTA:
-ARTCC boundary:Airspace E EKBI Billund LTA:
-ARTCC boundary:Airspace E EKKA Karup LTA:
+ARTCC boundary:Airspace E EKAH Aarhus CTA 35-65:
+ARTCC boundary:Airspace E EKBI Billund CTA 105-125:
+ARTCC boundary:Airspace E EKKA Karup CTA 35-125:
 ARTCC boundary:Airspace E EKRK Roskilde WEST 35-65:
-ARTCC boundary:Airspace E EKSP Skrydstrup LTA:
-ARTCC boundary:Airspace E EKYT Aalborg LTA:
+ARTCC boundary:Airspace E EKSP Skrydstrup CTR 35-65:
+ARTCC boundary:Airspace E EKYT Aalborg CTA 35-125:
 ARTCC boundary:AoR CTR EKDK EKDK_A:
 ARTCC boundary:AoR CTR EKDK EKDK_B:
 ARTCC boundary:AoR CTR EKDK EKDK_C:
@@ -16,10 +16,9 @@ ARTCC boundary:AoR CTR EKDK EKDK_I:
 ARTCC boundary:AoR CTR EKDK EKDK_L:
 ARTCC boundary:AoR CTR EKDK EKDK_N:
 ARTCC boundary:AoR CTR EKDK EKDK_V:
-ARTCC boundary:AoR CTR EKDK Global FIR borders - ACC Copenhagen:
-ARTCC boundary:AoR CTR EKDK Global borders - Foreign FIRs:
-Geo:NONE Denmark Coastlines:
-Geo:NONE Sweden Coastline:
+ARTCC high boundary:AoR CTR EKDK External Sectors:
+Geo:EKDK Coastline Denmark:
+Geo:EKDK Coastline Sweden:
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -33,4 +32,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:53.113439:-1.064581:59.966162:21.594423
+WINDOWAREA:53.362341:-0.111506:58.911137:18.242193

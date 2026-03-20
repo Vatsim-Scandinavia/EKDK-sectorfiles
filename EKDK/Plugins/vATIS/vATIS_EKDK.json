@@ -13402,13 +13402,23 @@
       ],
       "notamDefinitions": [
         {
-          "text": "ON FIRST CONTACT WITH KASTRUP APRON,\r\nADVISE IF UNABLE TO PERFORM PUSHBACK\r\nTO A RELEASE POINT",
+          "text": "DELIVERY FREQ 119.905 ACTIVE",
           "ordinal": 1,
+          "enabled": true
+        }
+        {
+          "text": "ON FIRST CONTACT WITH KASTRUP APRON,\r\nADVISE IF UNABLE TO PERFORM PUSHBACK\r\nTO A RELEASE POINT",
+          "ordinal": 2,
           "enabled": true
         },
         {
           "text": "STATE IF REQUESTING DEICING",
-          "ordinal": 2,
+          "ordinal": 3,
+          "enabled": true
+        }
+        {
+          "text": "AFTER PASSING 1000FT, CONTACT KASTRUP DEPARTURE\r\nUSING FREQ STATED ON CHARTS",
+          "ordinal": 4,
           "enabled": true
         }
       ]

@@ -11,9 +11,9 @@ Free Text:EKRN TWY & Stands\A:freetext
 Free Text:EKRN TWY & Stands\B:freetext
 Free Text:EKRN TWY & Stands\C:freetext
 Free Text:EKRN TWY & Stands\FUEL:freetext
-Geo:EKRN Groundlayout Roenne Airport:
+Geo:EKRN Groundlayout Roenne:
 Geo:GEO:
-Regions:EKRN Roenne Airport Regio:polygon
+Regions:EKRN Roenne GND:polygon
 SHOWC:0
 SHOWSB:0
 BELOW:0

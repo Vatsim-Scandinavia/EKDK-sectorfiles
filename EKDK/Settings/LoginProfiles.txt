@@ -40,7 +40,7 @@ ATIS2:Copenhagen Control - CPDLC [EKDC]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_UA_CTR:180:6
-ATIS2:Copenhagen Control - CPDLC [EKUA] - NOT covering EKCH
+ATIS2:Copenhagen Control - CPDLC [EKUA]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_UC_CTR:180:6
@@ -52,16 +52,16 @@ ATIS2:Copenhagen Control - CPDLC [EKUN]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKDK_UV_CTR:210:6
-ATIS2:Copenhagen Control - CPDLC [EKUV] - NOT covering EKCH
+ATIS2:Copenhagen Control - CPDLC [EKUV]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_O_APP:150:5
 ATIS2:Copenhagen Approach - CPDLC/DCL [EKCO]
-ATIS3:Briefing at vats.im/ekch 
+ATIS3:Briefing at vats.im/ekch | Departing A/C contact 124.980 / 120.255
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKCH_W_APP:150:5 - CPDLC/DCL [EKCW]
+PROFILE:EKCH_W_APP:150:5
 ATIS2:Copenhagen Approach - CPDLC/DCL [EKCW]
-ATIS3:Briefing at vats.im/ekch
+ATIS3:Briefing at vats.im/ekch | Departing A/C contact 120.255 / 124.980
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_F_APP:150:5
 ATIS2:Kastrup Final - Report Callsign ONLY!
@@ -92,15 +92,15 @@ ATIS2:Kastrup Tower - DCL [EKCH]
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_A_GND:20:3
-ATIS2:Kastrup Apron - DCL [EKCH] - Contact for ATC clearance if DEL is offline
+ATIS2:Kastrup Apron - Clearance via DCL [EKCH] or 119.905
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_B_GND:20:3
-ATIS2:Kastrup Apron - DCL [EKCH]
+ATIS2:Kastrup Apron - Clearance via DCL [EKCH] or 119.905
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_C_GND:20:3
-ATIS2:Kastrup Apron - DCL [EKCH]
+ATIS2:Kastrup Apron - Clearance via DCL [EKCH] or 119.905
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_DEL:20:2
@@ -167,24 +167,8 @@ PROFILE:EKRN_TWR:50:4
 ATIS2:Roenne Tower
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKCH_M_APP:150:5
-ATIS2:ATC Mentoring - Copenhagen Approach
-ATIS3:
-ATIS4:
-PROFILE:EKBI_M_APP:150:5
-ATIS2:ATC Mentoring - Billund
-ATIS3:
-ATIS4:
-PROFILE:EKCH_M_TWR:50:4
-ATIS2:ATC Mentoring - Kastrup
-ATIS3:
-ATIS4:
-PROFILE:EKDK_M_CTR:300:6
-ATIS2:ATC Mentoring - Copenhagen Control
-ATIS3:
-ATIS4:
-PROFILE:EKBI_M_TWR:50:4
-ATIS2:ATC mentoring - Billund Tower
+PROFILE:[ICAO]_M_:150:5
+ATIS2:ATC Mentoring
 ATIS3:
 ATIS4:
 PROFILE:[write initials here]_OBS:300:0

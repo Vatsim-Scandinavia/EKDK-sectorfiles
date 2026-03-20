@@ -46,8 +46,8 @@ Free Text:EKRK TWY & Stand\G:freetext
 Free Text:EKRK TWY & Stand\H:freetext
 Free Text:EKRK TWY & Stand\J:freetext
 Free Text:EKRK TWY & Stand\M:freetext
-Geo:EKCH Groundlayout EKCH Ground Layout:
-Geo:EKRK Groundlayout EKRK Groundlayout v2:
+Geo:EKCH Groundlayout Kastrup:
+Geo:EKRK Groundlayout Roskilde:
 Geo:GEO:
 Ground Network:A:exit
 Ground Network:A:taxiway
@@ -106,14 +106,9 @@ Ground Network:K:terminal taxiway
 Ground Network:M:exit
 Ground Network:M:taxiway
 Ground Network:M:terminal taxiway
-NDBs:RK:frequency
-NDBs:RK:name
 NDBs:RK:symbol
-Regions:EKCH EKCH Ground:polygon
-Regions:EKRK Roskilde ground layo:polygon
-VORs:KAS:frequency
-VORs:KAS:name
-VORs:KAS:symbol
+Regions:EKCH Kastrup GND:polygon
+Regions:EKRK Roskilde GND:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0

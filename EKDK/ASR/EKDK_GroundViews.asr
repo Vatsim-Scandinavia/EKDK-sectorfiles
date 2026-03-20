@@ -287,33 +287,33 @@ Free Text:EKYT TWY & Stands & Runways\J:freetext
 Free Text:EKYT TWY & Stands & Runways\K:freetext
 Free Text:EKYT TWY & Stands & Runways\N:freetext
 Free Text:EKYT TWY & Stands & Runways\SAR ONLY:freetext
-Geo:EKAH Groundlayout Aarhus Airport Groundlayout:
-Geo:EKBI Groundlayout Billund airport Ground Layout:
-Geo:EKCH Groundlayout EKCH Ground Layout:
-Geo:EKDK Bornholm Coastline:
-Geo:EKEB Groundlayout Esbjerg Airport:
-Geo:EKKA Groundlayout Karup Airport:
-Geo:EKOD Groundlayout Odense Airport:
-Geo:EKRK Groundlayout EKRK Groundlayout v2:
-Geo:EKRN Groundlayout Roenne Airport:
-Geo:EKSB Groundlayout:
-Geo:EKSN Groundlayout:
-Geo:EKYT Groundlayout EKYT Ground layout:
-Geo:NONE Denmark Coastlines:
-Geo:NONE Sweden Coastline:
-Regions:EKAH Aarhus Region Networ:polygon
-Regions:EKBI Billund Regions netw:polygon
-Regions:EKCH EKCH Ground:polygon
-Regions:EKEB Esbjerg Airport Regi:polygon
-Regions:EKKA Karup Airport Region:polygon
-Regions:EKOD Odense Airport:polygon
-Regions:EKRK Roskilde ground layo:polygon
-Regions:EKRN Roenne Airport Regio:polygon
-Regions:EKSB Sonderborg Regions N:polygon
-Regions:EKSN Sindal Regions Netwo:polygon
-Regions:EKSP EKDK:polygon
-Regions:EKVJ Stauning Ground regi:polygon
-Regions:EKYT Aalborg Airport Regi:polygon
+Geo:EKAH Groundlayout Aarhus:
+Geo:EKBI Groundlayout Billund:
+Geo:EKCH Groundlayout Kastrup:
+Geo:EKDK Coastline Bornholm:
+Geo:EKEB Groundlayout Esbjerg:
+Geo:EKKA Groundlayout Karup:
+Geo:EKOD Groundlayout Odense:
+Geo:EKRK Groundlayout Roskilde:
+Geo:EKRN Groundlayout Roenne:
+Geo:EKSB Groundlayout Sonderborg:
+Geo:EKSN Groundlayout Sindal:
+Geo:EKYT Groundlayout Aalborg:
+Geo:EKDK Coastline Denmark:
+Geo:EKDK Coastline Sweden:
+Regions:EKAH Aarhus GND:polygon
+Regions:EKBI Billund GND:polygon
+Regions:EKCH Kastrup GND:polygon
+Regions:EKEB Esbjerg GND:polygon
+Regions:EKKA Karup GND:polygon
+Regions:EKOD Odense GND:polygon
+Regions:EKRK Roskilde GND:polygon
+Regions:EKRN Roenne GND:polygon
+Regions:EKSB Sonderborg GND:polygon
+Regions:EKSN Sindal GND:polygon
+Regions:EKSP Skrydstrup GND:polygon
+Regions:EKVJ Stauning GND:polygon
+Regions:EKYT Aalborg GND:polygon
 SHOWC:0
 SHOWSB:0
 BELOW:0
@@ -330,5 +330,5 @@ TAGFAMILY:TopSky_B
 WINDOWAREA:54.943697:9.743822:54.973969:9.843919
 PLUGIN:Ground Radar plugin:AirportElevation:247
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
-PLUGIN:Ground Radar plugin:GroundMode:EKBI
+PLUGIN:Ground Radar plugin:GroundMode:EKAH
 PLUGIN:TopSky plugin:NoDraw:1

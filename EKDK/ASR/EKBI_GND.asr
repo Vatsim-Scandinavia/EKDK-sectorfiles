@@ -56,9 +56,12 @@ Free Text:EKBI TWY & Stands\J:freetext
 Free Text:EKBI TWY & Stands\K:freetext
 Free Text:EKBI TWY & Stands\M:freetext
 Free Text:EKBI TWY & Stands\N:freetext
-Geo:EKBI Groundlayout Billund airport Ground Layout:
-Geo:EKEB Groundlayout Esbjerg Airport:
-Regions:EKBI Billund Regions netw:polygon
+Geo:EKBI Groundlayout Billund:
+Geo:EKEB Groundlayout Esbjerg:
+Geo:EKVJ Groundlayout Stauning:
+Regions:EKBI Billund GND:polygon
+Regions:EKEB Esbjerg GND:polygon
+Regions:EKVJ Stauning GND:polygon
 SHOWC:0
 SHOWSB:0
 BELOW:0
@@ -72,7 +75,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:55.720000:9.067336:55.770000:9.232664
+WINDOWAREA:55.720000:9.067308:55.770000:9.232692
 PLUGIN:Ground Radar plugin:AirportElevation:247
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:GroundMode:EKBI
