@@ -1,40 +1,3 @@
-RecentFiles	Recent1	\EKDK\ASR\EKCH_APP.asr
-RecentFiles	Recent9	\EKDK\ASR\EKDK_FMP.asr
-RecentFiles	Recent3	\EKDK\ASR\EKDK_CTR.asr
-RecentFiles	Recent5	\EKDK\ASR\EKBI_APP.asr
-RecentFiles	Recent7	\EKDK\ASR\EKYT_APP.asr
-RecentFiles	Recent4	\EKDK\ASR\EKBI_GND.asr
-RecentFiles	Recent2	\EKDK\ASR\EKCH_GND.asr
-RecentFiles	Recent8	\EKDK\ASR\EKDK_GroundViews.asr
-RecentFiles	Recent6	\EKDK\ASR\EKYT_GND.asr
-Settings	sector	\EKDK-EKDK-Copenhagen_20260318210517-260201-0017.sct
-Settings	Settingsfile	\EKDK\Settings\General.txt
-Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
-Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\EKDK\Settings\LoginProfiles.txt
-Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
-Settings	SettingsfileSIL	\EKDK\Settings\Lists.txt
-Settings	SettingsfileSEL	\EKDK\Settings\Lists.txt
-Settings	SettingsfileDEP	\EKDK\Settings\Lists.txt
-Settings	SettingsfileARR	\EKDK\Settings\Lists.txt
-Settings	SettingsfileFP	\EKDK\Settings\Lists.txt
-Settings	SettingsfileCONFLICT	\EKDK\Settings\Lists.txt
-Settings	SettingsfilePLUGINS	\EKDK\Settings\Plugin.txt
-Settings	SettingsfileSCREEN	\EKDK\Settings\Screen.txt
-Settings	airways	\EKDK\NavData\airway.txt
-Settings	airlines	\EKDK\ICAO\ICAO_Airlines.txt
-Settings	airports	\EKDK\ICAO\ICAO_Airports.txt
-Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
-Settings	airportcoords	\EKDK\NavData\icao.txt
-Settings	alias	\EKDK\Alias\alias.txt
-Plugins	Plugin0	\EKDK\Plugins\TopSky\TopSky.dll
-Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1	\EKDK\Plugins\GRplugin\GRplugin.dll
-Settings	AtisFolder	\ATIS\atisfiles.txt
-LastSession	atis_airport	EKCH
-LastSession	atis_letter	81
-Plugins	Plugin1Display0	Ground Radar display
 ASRFastKeys	1	\EKDK\ASR\EKCH_GND.asr
 ASRFastKeys	2	\EKDK\ASR\EKCH_APP.asr
 ASRFastKeys	3	\EKDK\ASR\EKDK_CTR.asr
@@ -44,15 +7,49 @@ ASRFastKeys	6	\EKDK\ASR\EKYT_GND.asr
 ASRFastKeys	7	\EKDK\ASR\EKYT_APP.asr
 ASRFastKeys	8	\EKDK\ASR\EKDK_GroundViews.asr
 ASRFastKeys	9	\EKDK\ASR\EKDK_FMP.asr
+Plugins	Plugin0	\EKDK\Plugins\TopSky\TopSky.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\EKDK\Plugins\GRplugin\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin2	\EKDK\Plugins\CDM\CDM.dll
-Settings	AselKey	5111808
-Settings	FreqKey	3604480
 Plugins	Plugin3	\EKDK\Plugins\ALB\Alb.dll
 Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin3Display1	Ground Radar display
 Plugins	Plugin4	\EKDK\Plugins\VCH\VCH.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
-LastSession	atis_freq4	118000
+RecentFiles	Recent1	\EKDK\ASR\EKCH_APP.asr
 RecentFiles	Recent10	\EKDK\ASR\EKDK_FMP.asr
 RecentFiles	Recent11	\EKDK\ASR\EKAH_GND.asr
+RecentFiles	Recent2	\EKDK\ASR\EKCH_GND.asr
+RecentFiles	Recent3	\EKDK\ASR\EKDK_CTR.asr
+RecentFiles	Recent4	\EKDK\ASR\EKBI_GND.asr
+RecentFiles	Recent5	\EKDK\ASR\EKBI_APP.asr
+RecentFiles	Recent6	\EKDK\ASR\EKYT_GND.asr
+RecentFiles	Recent7	\EKDK\ASR\EKYT_APP.asr
+RecentFiles	Recent8	\EKDK\ASR\EKDK_GroundViews.asr
+RecentFiles	Recent9	\EKDK\ASR\EKDK_FMP.asr
+Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
+Settings	airlines	\EKDK\ICAO\ICAO_Airlines.txt
+Settings	airportcoords	\EKDK\NavData\icao.txt
+Settings	airports	\EKDK\ICAO\ICAO_Airports.txt
+Settings	airways	\EKDK\NavData\airway.txt
+Settings	alias	\EKDK\Alias\alias.txt
+Settings	AselKey	5111808
+Settings	AtisFolder	\ATIS\atisfiles.txt
+Settings	FreqKey	3604480
+Settings	sector	\EKDK-EKDK-Copenhagen_20260318210517-260201-0017.sct
+Settings	Settingsfile	\EKDK\Settings\General.txt
+Settings	SettingsfileARR	\EKDK\Settings\Lists.txt
+Settings	SettingsfileCONFLICT	\EKDK\Settings\Lists.txt
+Settings	SettingsfileDEP	\EKDK\Settings\Lists.txt
+Settings	SettingsfileFP	\EKDK\Settings\Lists.txt
+Settings	SettingsfilePLUGINS	\EKDK\Settings\Plugin.txt
+Settings	SettingsfilePROFILE	\EKDK\Settings\LoginProfiles.txt
+Settings	SettingsfileSCREEN	\EKDK\Settings\Screen.txt
+Settings	SettingsfileSEL	\EKDK\Settings\Lists.txt
+Settings	SettingsfileSIL	\EKDK\Settings\Lists.txt
+Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
+Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
+Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
