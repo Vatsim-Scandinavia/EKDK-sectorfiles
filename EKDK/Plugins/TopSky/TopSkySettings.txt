@@ -137,6 +137,7 @@ Color_WM_Frame=88,95,99
 CPDLC_AutoAcceptLogon=1
 CPDLC_AutoAcceptLogon_Time=5
 CPDLC_Transfer=1
+CPDLC_CFL=1
 CPDLC_DCT=1
 
 List_Holding=1024,50
