@@ -34,9 +34,9 @@ Free Text:EKAH TWY & Stands & Runways\Y:freetext
 Free Text:EKAH TWY & Stands & Runways\Y:freetext
 Free Text:EKAH TWY & Stands & Runways\Z:freetext
 Free Text:EKAH TWY & Stands & Runways\Z:freetext
-Geo:EKAH Groundlayout Aarhus Airport Groundlayout:
+Geo:EKAH Groundlayout Aarhus:
 Geo:GEO:
-Regions:EKAH Aarhus Region Networ:polygon
+Regions:EKAH Aarhus GND:polygon
 SHOWC:0
 SHOWSB:0
 BELOW:0

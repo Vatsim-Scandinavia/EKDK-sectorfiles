@@ -1,7 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC boundary:Airspace E EKYT Aalborg LTA:
 Fixes:BIERSTED:name
 Fixes:BIERSTED:symbol
 Fixes:HASSERIS:name
@@ -37,11 +36,11 @@ Free Text:EKYT TWY & Stands & Runways\J:freetext
 Free Text:EKYT TWY & Stands & Runways\K:freetext
 Free Text:EKYT TWY & Stands & Runways\N:freetext
 Free Text:EKYT TWY & Stands & Runways\SAR ONLY:freetext
-Geo:EKSN Groundlayout:
-Geo:EKYT Groundlayout EKYT Ground layout:
+Geo:EKSN Groundlayout Sindal:
+Geo:EKYT Groundlayout Aalborg:
 Geo:GEO:
-Regions:EKSN Sindal Regions Netwo:polygon
-Regions:EKYT Aalborg Airport Regi:polygon
+Regions:EKSN Sindal GND:polygon
+Regions:EKYT Aalborg GND:polygon
 SHOWC:0
 SHOWSB:0
 BELOW:0
