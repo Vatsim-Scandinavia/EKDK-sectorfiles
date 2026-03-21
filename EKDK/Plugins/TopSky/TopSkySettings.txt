@@ -14,7 +14,10 @@ Airspace_SIGMET_Areas=ENOR,ESAA,EDWW,EHAA,EGPX
 Airspace_ModeS_Code_VFR=7000
 Airspace_ModeS_Code=1000
 
-HTTP_AUP_URL=https://lara.vatsim.pt/api/areas/EK/
+System_UseAUP=1
+HTTP_AUP_URL=https://eaup.vatsim.pt/api/v2/areas/EK/
+HTTP_Areas_Remote_URL=https://lara-backend.lusep.fi/topsky/ekdk.txt
+Areas_PreActiveTime=900
 
 HTTP_GRIB_Latitude_Max=59
 HTTP_GRIB_Latitude_Min=54
