@@ -1,0 +1,105 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Free Text:EKDK VFR\Biersted:freetext
+Free Text:EKDK VFR\Bogense:freetext
+Free Text:EKDK VFR\Borup:freetext
+Free Text:EKDK VFR\Bovrup:freetext
+Free Text:EKDK VFR\Broager:freetext
+Free Text:EKDK VFR\Bøjden:freetext
+Free Text:EKDK VFR\Dorid:freetext
+Free Text:EKDK VFR\Dueodde:freetext
+Free Text:EKDK VFR\Ebeltoft:freetext
+Free Text:EKDK VFR\Fynshav:freetext
+Free Text:EKDK VFR\Gelting:freetext
+Free Text:EKDK VFR\Give:freetext
+Free Text:EKDK VFR\Grenaa:freetext
+Free Text:EKDK VFR\Gørding:freetext
+Free Text:EKDK VFR\Hasle:freetext
+Free Text:EKDK VFR\Hasseris:freetext
+Free Text:EKDK VFR\Holding West:freetext
+Free Text:EKDK VFR\Højen:freetext
+Free Text:EKDK VFR\Ikast:freetext
+Free Text:EKDK VFR\Ilskov:freetext
+Free Text:EKDK VFR\Ishøj:freetext
+Free Text:EKDK VFR\Karlskov:freetext
+Free Text:EKDK VFR\Knebel:freetext
+Free Text:EKDK VFR\Kongenshus:freetext
+Free Text:EKDK VFR\Køge:freetext
+Free Text:EKDK VFR\Langsø:freetext
+Free Text:EKDK VFR\Lem:freetext
+Free Text:EKDK VFR\Lindø:freetext
+Free Text:EKDK VFR\Lumby:freetext
+Free Text:EKDK VFR\Nordborg:freetext
+Free Text:EKDK VFR\North:freetext
+Free Text:EKDK VFR\Nødager:freetext
+Free Text:EKDK VFR\Ryomgård:freetext
+Free Text:EKDK VFR\Sjørup:freetext
+Free Text:EKDK VFR\Skads:freetext
+Free Text:EKDK VFR\Skjern West:freetext
+Free Text:EKDK VFR\South:freetext
+Free Text:EKDK VFR\Stensby:freetext
+Free Text:EKDK VFR\Store Darum:freetext
+Free Text:EKDK VFR\Svenstrup:freetext
+Free Text:EKDK VFR\Sønder Omme:freetext
+Free Text:EKDK VFR\Tuborg:freetext
+Free Text:EKDK VFR\Tørring:freetext
+Free Text:EKDK VFR\Valby:freetext
+Free Text:EKDK VFR\Vallensbæk:freetext
+Free Text:EKDK VFR\Vandel:freetext
+Free Text:EKDK VFR\Varde:freetext
+Free Text:EKDK VFR\Vester Nebel:freetext
+Free Text:EKDK VFR\Vildmosen:freetext
+Free Text:EKDK VFR\Vissenbjerg:freetext
+Free Text:EKDK VFR\Vorbasse Vest:freetext
+Free Text:EKDK VFR\Ærø North:freetext
+Free Text:EKRK TWY & Stand\1:freetext
+Free Text:EKRK TWY & Stand\1:freetext
+Free Text:EKRK TWY & Stand\A:freetext
+Free Text:EKRK TWY & Stand\A:freetext
+Free Text:EKRK TWY & Stand\A:freetext
+Free Text:EKRK TWY & Stand\A1:freetext
+Free Text:EKRK TWY & Stand\A2:freetext
+Free Text:EKRK TWY & Stand\A3:freetext
+Free Text:EKRK TWY & Stand\A4:freetext
+Free Text:EKRK TWY & Stand\A5:freetext
+Free Text:EKRK TWY & Stand\B:freetext
+Free Text:EKRK TWY & Stand\B:freetext
+Free Text:EKRK TWY & Stand\B:freetext
+Free Text:EKRK TWY & Stand\B1:freetext
+Free Text:EKRK TWY & Stand\B2:freetext
+Free Text:EKRK TWY & Stand\B3:freetext
+Free Text:EKRK TWY & Stand\B4:freetext
+Free Text:EKRK TWY & Stand\B5:freetext
+Free Text:EKRK TWY & Stand\C:freetext
+Free Text:EKRK TWY & Stand\D:freetext
+Free Text:EKRK TWY & Stand\E:freetext
+Free Text:EKRK TWY & Stand\F:freetext
+Free Text:EKRK TWY & Stand\G:freetext
+Free Text:EKRK TWY & Stand\H:freetext
+Free Text:EKRK TWY & Stand\H:freetext
+Free Text:EKRK TWY & Stand\H:freetext
+Free Text:EKRK TWY & Stand\H:freetext
+Free Text:EKRK TWY & Stand\J:freetext
+Free Text:EKRK TWY & Stand\M:freetext
+Geo:EKRK Groundlayout Roskilde:
+Regions:EKCH Kastrup GND:polygon
+Regions:EKRK Roskilde GND:polygon
+SHOWC:0
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:0
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_B
+WINDOWAREA:55.568274:12.071460:55.606114:12.196623
+PLUGIN:Ground Radar plugin:AirportElevation:247
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:GroundMode:EKRK
+PLUGIN:TopSky plugin:NoDraw:1
