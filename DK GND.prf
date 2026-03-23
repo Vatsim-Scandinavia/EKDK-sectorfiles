@@ -21,10 +21,10 @@ Plugins	Plugin3Display1	Ground Radar display
 Plugins	Plugin4	\EKDK\Plugins\FlightStrips\FlightStripsPlugin.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
-RecentFiles	Recent1	\EKDK\ASR\EKCH_GND.asr
-RecentFiles	Recent2	\EKDK\ASR\EKBI_GND.asr
-RecentFiles	Recent3	\EKDK\ASR\EKYT_GND.asr
-RecentFiles	Recent4	\EKDK\ASR\EKDK_GroundViews.asr
+RecentFiles	Recent1	\EKDK\ASR\EKRK_GND.asr
+RecentFiles	Recent2	\EKDK\ASR\EKCH_GND.asr
+RecentFiles	Recent3	\EKDK\ASR\EKBI_GND.asr
+RecentFiles	Recent4	\EKDK\ASR\EKYT_GND.asr
 RecentFiles	Recent5	\EKDK\ASR\EKDK_GroundViews.asr
 Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\EKDK\ICAO\ICAO_Airlines.txt
@@ -35,7 +35,7 @@ Settings	alias	\EKDK\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	AtisFolder	\ATIS\atisfiles.txt
 Settings	FreqKey	3604480
-Settings	sector	\EKDK-EKDK-Copenhagen_20260318210517-260201-0017.sct
+Settings	sector	\EKDK-EKDK-Copenhagen_20260319163603-260301-0001.sct
 Settings	Settingsfile	\EKDK\Settings\GeneralGND.txt
 Settings	SettingsfileARR	\EKDK\Settings\ListsGND.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\ListsGND.txt
@@ -49,3 +49,6 @@ Settings	SettingsfileSIL	\EKDK\Settings\ListsGND.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
 Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
+LastSession	atis_freq4	118000
+RecentFiles	Recent6	\EKDK\ASR\EKDK_GroundViews.asr
+RecentFiles	Recent7	\EKDK\ASR\EKDK_GroundViews.asr
