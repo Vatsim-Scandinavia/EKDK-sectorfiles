@@ -12,6 +12,8 @@ Shortcut_Map_Target=4,ATC HELP\SECTOR_LVL
 Shortcut_Map_Xfr_Key=5,0x4E ; N
 Shortcut_Map_Target=5,ATC HELP\SECTOR_FREQ
 
+System_TransferConfirmation=0
+
 [_APP]
 Color_Rwy_App_Line_Inuse=62,160,216
 SYMBOLDEF:OBS
