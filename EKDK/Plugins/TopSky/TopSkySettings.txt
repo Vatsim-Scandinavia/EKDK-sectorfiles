@@ -77,7 +77,9 @@ Color_Inactive_Sector=67,73,76
 Color_Info_Coord=1,255,255
 Color_Information=40,210,40
 Color_Information_FL=41,245,41
-Color_Informed=175,125,175
+//Color_Informed=175,125,175
+Color_Informed_2=104,163,195
+Color_Informed_3=147,124,108
 Color_Map_1=80,95,80
 Color_Map_2=44,44,44
 Color_Map_3=100,108,111
@@ -157,25 +159,6 @@ Window_PDC_SetCFL=1
 Window_DCL_SetNFREQ=1
 Window_CPDLC_Setting=1,30,100
 
-[EKDK_FMP]
-Color_Informed_2=149,214,149
-Color_Informed_3=0,163,220
-Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:2
-Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:3
-List_Holding_States=ABC
-System_Filters_Hard=1
-System_Filters_Alt_Allow=10000,35000
-Rings_Highlight=1
-Rings_HighlightStep=5
-Rings_Number=20
-Rings_Separation=20
-Airspace_No_DUPE_Codes=1000,1234,2000,
-Color_Informed=164,145,224
-Setup_Informed=*:*:EKBI:1
-Setup_Informed=*:*:ESMS:1
-Setup_Informed=*:*:EKAH:1
-Setup_Informed=*:*:EKRK:1
-
 FINALAPP:EKCH:04L
 SOIR:EKCH:04L/1000:04L/4000  
 
@@ -186,14 +169,22 @@ SOIR:EKCH:22L/1000:22L/4000
 Window_CPDLC_Setting=1,30,100
 Window_UpperWinds=3,30,400
 Window_CPDLC_Current=1,30,990
+Setup_Informed=*:*:EKBI:3
+Setup_Informed=*:*:ESMS:3
+Setup_Informed=*:*:EKAH:3
+Setup_Informed=*:*:EKRK:3
+Setup_Informed=*:TESPI,TNO,TUDLO,KOR,MONAK,NEKSO:EKCH:3
+Setup_Informed=*:*:EKYT:3
+Setup_Informed=*:LOBBI,MAKUR:ESGG:3
+List_Holding_States=23457BC
 
-[B_CTR]
+{B}
 Setup_Informed=*:TIDVU:EKCH:2
 
-[D_CTR]
+{D}
 Setup_Informed=*:TNO:EKCH:2
 
-[E_CTR]
+{E}
 Setup_Informed=*:KOR:EKCH:2
 
 [_APP]
@@ -202,50 +193,49 @@ Window_CPDLC_Setting=1,30,200
 Window_UpperWinds=3,30,400
 Window_CPDLC_Current=1,30,990
 
+{O}
+Setup_Informed=EKCH:*:*:1
+Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:3
+Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:2
+
+{W}
+Setup_Informed=EKCH:*:*:1
+Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:3
+Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:2
+
+{PLN}
+Color_Informed_3=149,214,149
+Setup_Informed=EKCH:*:*:1
+Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:3
+Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:2
+MTCD_Sep_Lat=2.5
+Label_WTC_Highlight_WTC=HJ?
+
+{P}
+Setup_Informed=EKCH:*:*:1
+Setup_Informed=*:*:EKCH:3
+MTCD_Sep_Lat=2.5
+Label_WTC_Highlight_WTC=HJ?
+
 [_DEP]
 Color_Rwy_App_Line_Inuse=62,160,216
+Setup_Informed=EKCH:*:*:3
 Setup_Informed=*:*:EKCH:2
 Window_CPDLC_Setting=1,30,200
 Window_UpperWinds=3,30,400
 Window_CPDLC_Current=1,30,990
 
-[O_APP]
-Setup_Informed=EKCH:*:*:1
-Setup_Informed=*:ABEGI,ERPUK,ADOVI,DOPEM,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
-
-[W_APP]
-Setup_Informed=EKCH:*:*:1
-Setup_Informed=*:ADOVI,DOPEM,ABEGI,ERPUK,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
-
-[EKCH_M_APP]
-Setup_Informed=EKCH:*:*:1
-Setup_Informed=*:ADOVI,DOPEM,ABEGI,ERPUK,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
-
-[P_APP]
-Color_Informed_2=149,214,149
-Color_Informed_3=0,183,230
-Setup_Informed=EKCH:*:*:1
-Setup_Informed=*:ABEGI,ERPUK,ADOVI,DOPEM,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
-MTCD_Sep_Lat=2.5
-Label_WTC_Highlight_WTC=HJ?
-
-[F_APP]
-Color_Informed_2=149,214,149
-Color_Informed_3=0,183,230
-Setup_Informed=EKCH:*:*:1
-Setup_Informed=*:ABEGI,ERPUK,ADOVI,DOPEM,FEDJO,HOFFO,AGTIC,COPHO:EKCH:2
-MTCD_Sep_Lat=2.5
-Label_WTC_Highlight_WTC=HJ?
+[EKBI_APP]
+Color_Rwy_App_Line_Inuse=62,160,216
+Setup_LoadMap=EKBI
+Setup_LoadView=EKBI
+Setup_Informed=EKBI:*:*:3
+Setup_Informed=*:*:EKBI:3
 
 [EKAH_APP]
 Color_Rwy_App_Line_Inuse=230,230,230
 Setup_LoadMap=EKAH
 Setup_LoadView=EKAH
-
-[EKBI_APP]
-Color_Rwy_App_Line_Inuse=230,230,230
-Setup_LoadMap=EKBI
-Setup_LoadView=EKBI
 
 [EKKA_APP]
 Color_Rwy_App_Line_Inuse=230,230,230
@@ -261,9 +251,30 @@ Setup_LoadView=EKSP
 Color_Rwy_App_Line_Inuse=230,230,230
 Setup_LoadMap=EKRK
 Setup_LoadView=EKRK
+Setup_Informed=EKRK:*:*:3
+Setup_Informed=*:*:EKRK:3
 
 [EKYT_APP]
 Color_Rwy_App_Line_Inuse=230,230,230
 Setup_LoadMap=EKYT
 Setup_LoadView=EKYT
 
+[EKDK_FMP]
+List_Holding_States=ABC
+System_Filters_Hard=1
+System_Filters_Alt_Allow=10000,35000
+Rings_Highlight=1
+Rings_HighlightStep=5
+Rings_Number=20
+Rings_Separation=20
+Airspace_No_DUPE_Codes=1000,1234,2000,
+Color_Informed=149,214,149
+//Color_Informed_2=0,163,220
+//Color_Informed_3=164,145,224
+Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:1
+Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:2
+Setup_Informed=*:*:EKBI:3
+Setup_Informed=*:*:ESMS:3
+Setup_Informed=*:*:EKAH:3
+Setup_Informed=*:*:EKRK:3
+Setup_Informed=*:*:EKYT:3
