@@ -2,38 +2,15 @@
 ;
 ;
 ;Aalborg Base 
-COLOR_HardSurface3
-      N057.08.38.000 E009.33.55.000
-N057.08.58.000 E009.39.55.000
-N057.12.28.000 E009.46.25.000
-N057.12.58.000 E009.53.55.000
-N057.10.28.000 E010.01.25.000
-N057.10.48.000 E010.06.55.000
-N057.02.48.000 E010.08.55.000
-N057.02.28.000 E010.03.15.000
-N056.58.58.000 E009.56.45.000
-N056.58.28.000 E009.49.10.000
-N057.01.08.000 E009.41.25.000
-N057.00.48.000 E009.35.55.000
+COLOR_Terrain1
+N057.10.47.999 E010.06.55.998
+          N057.02.48.199 E010.08.54.999
+          N057.00.47.998 E009.35.54.999
+          N057.08.38.000 E009.33.55.999
 ;
-;Aalborg Taxiways 
-COLOR_ApronSurface
-          N057.05.36.607 E009.50.00.273	; TWY THRs 08L
-          N057.05.38.090 E009.49.59.988	; TWY THRs 08L
-          N057.05.37.060 E009.49.43.931	; TWY THRs 08L
-          N057.05.35.591 E009.49.44.243	; TWY THRs 08L
-
-;
-;Aalborg Taxiways 
-COLOR_ApronSurface
- N057.05.48.170 E009.52.36.571 ; THR 26R
-          N057.05.46.701 E009.52.36.911 ; THR 26R S
-          N057.05.47.593 E009.52.50.019 ; THR 26R E
-          N057.05.48.980 E009.52.49.655 ; THR 26R N
-;
-;Aalborg Taxiways 
-COLOR_ApronSurface
- N057.05.38.090 E009.50.00.022	; TWY North outer
+;Perimiter north of rwy 26R/08L
+COLOR_HardSurface2
+N057.05.38.090 E009.50.00.022	; TWY North outer
           N057.05.38.104 E009.50.00.115	; TWY North outer
           N057.05.38.145 E009.50.00.136	; TWY North outer
           N057.05.38.186 E009.50.00.098	; TWY North outer
@@ -235,69 +212,12 @@ COLOR_ApronSurface
           N057.05.59.747 E009.49.58.134	; TWY North outer
           N057.06.00.008 E009.49.57.990	; TWY North outer
           N057.06.01.024 E009.49.56.483	; TWY North outer
-          N057.06.02.960 E009.50.00.860	; TWY North outer
-          N057.06.15.045 E009.50.06.085	; TWY North outer
-          N057.06.15.471 E009.50.06.082	; TWY North outer
-          N057.06.15.801 E009.50.05.828	; TWY North outer
-          N057.06.16.007 E009.50.05.430	; TWY North outer
-          N057.06.16.213 E009.50.04.606	; TWY North outer
-          N057.06.17.394 E009.49.55.309	; TWY North outer
-          N057.06.17.394 E009.49.54.756	; TWY North outer
-          N057.06.17.339 E009.49.54.203	; TWY North outer
-          N057.06.17.215 E009.49.53.671	; TWY North outer
-          N057.06.16.982 E009.49.53.317	; TWY North outer
-          N057.06.16.666 E009.49.53.022	; TWY North outer
-          N057.06.09.923 E009.49.50.111	; TWY North outer
-          N057.06.09.374 E009.49.49.915	; TWY North outer
-          N057.06.08.879 E009.49.48.988	; TWY North outer
-          N057.06.12.216 E009.49.44.054	; TWY North outer
-          N057.06.12.656 E009.49.44.676	; TWY North outer
-          N057.06.10.101 E009.49.48.329	; TWY North outer
-          N057.06.10.156 E009.49.48.628	; TWY North outer
-          N057.06.11.131 E009.49.49.596	; TWY North outer
-          N057.06.32.005 E009.49.58.594	; TWY North outer
-          N057.06.32.308 E009.49.58.495	; TWY North outer
-          N057.06.32.527 E009.49.58.083	; TWY North outer
-          N057.06.32.651 E009.49.57.609	; TWY North outer
-          N057.06.32.953 E009.49.55.508	; TWY North outer
-          N057.06.33.489 E009.49.55.703	; TWY North outer
-          N057.06.33.022 E009.49.59.027	; TWY North outer
-          N057.06.32.747 E009.50.00.016	; TWY North outer
-          N057.06.32.459 E009.49.59.957	; TWY North outer
-          N057.06.32.156 E009.50.00.074	; TWY North outer
-          N057.06.31.854 E009.50.00.314	; TWY North outer
-          N057.06.31.539 E009.50.00.805	; TWY North outer
-          N057.06.31.374 E009.50.01.320	; TWY North outer
-          N057.06.31.195 E009.50.02.189	; TWY North outer
-          N057.06.30.989 E009.50.03.950	; TWY North outer
-          N057.06.31.030 E009.50.04.324	; TWY North outer
-          N057.06.31.168 E009.50.04.781	; TWY North outer
-          N057.06.31.264 E009.50.04.939	; TWY North outer
-          N057.06.32.225 E009.50.05.337	; TWY North outer
-          N057.06.32.088 E009.50.06.333	; TWY North outer
-          N057.06.31.209 E009.50.05.934	; TWY North outer
-          N057.06.30.962 E009.50.06.082	; TWY North outer
-          N057.06.30.756 E009.50.06.340	; TWY North outer
-          N057.06.30.618 E009.50.06.673	; TWY North outer
-          N057.06.28.970 E009.50.19.303	; TWY North outer
-          N057.06.29.108 E009.50.20.024	; TWY North outer
-          N057.06.29.300 E009.50.20.557	; TWY North outer
-          N057.06.30.151 E009.50.20.965	; TWY North outer
-          N057.06.30.014 E009.50.21.957	; TWY North outer
-          N057.06.29.190 E009.50.21.559	; TWY North outer
-          N057.06.28.916 E009.50.21.779	; TWY North outer
-          N057.06.28.613 E009.50.22.180	; TWY North outer
-          N057.06.26.224 E009.50.40.957	; TWY North outer
-          N057.06.25.826 E009.50.45.176	; TWY North outer
-          N057.06.23.450 E009.51.53.827	; TWY North outer
-          N057.06.22.763 E009.52.01.562	; TWY North outer
-          N057.06.21.733 E009.52.07.405	; TWY North outer
-          N057.06.20.497 E009.52.12.040	; TWY North outer
-          N057.06.19.289 E009.52.15.621	; TWY North outer
-          N057.06.17.119 E009.52.20.730	; TWY North outer
-          N057.06.14.674 E009.52.25.038	; TWY North outer
-          N057.06.12.669 E009.52.27.459	; TWY North outer
-          N057.06.11.571 E009.52.29.059	; TWY North outer
+          N057.06.03.414 E009.50.02.121	; TWY North outer
+          N057.05.55.801 E009.50.13.399	; TWY North outer
+          N057.06.00.590 E009.50.30.633	; TWY North outer
+          N057.06.00.971 E009.50.49.829	; TWY North outer
+          N057.05.51.392 E009.51.32.134	; TWY North outer
+          N057.05.51.479 E009.51.33.698	; TWY North outer
           N057.06.11.488 E009.52.29.261	; TWY North outer
           N057.06.11.173 E009.52.29.612	; TWY North outer
           N057.06.11.104 E009.52.29.975	; TWY North outer
@@ -557,10 +477,10 @@ COLOR_ApronSurface
           N057.05.48.651 E009.52.36.900	; TWY North outer
           N057.05.48.431 E009.52.36.619	; TWY North outer
           N057.05.48.335 E009.52.36.447	; TWY North outer
-          N057.05.48.156 E009.52.36.481
+          N057.05.48.156 E009.52.36.481	; TWY North outer
 ;
 ;
-;Aalborg Taxiways 
+;Perimiter south of rwy 26L/08R 
 COLOR_ApronSurface
     N057.05.38.090 E009.49.59.988
          N057.05.36.616 E009.50.00.413	; TWY RWY 08L
@@ -576,8 +496,6 @@ COLOR_ApronSurface
          N057.05.32.528 E009.50.05.220	; TWY Southern part Outer
          N057.05.32.363 E009.50.05.746	; TWY at 08R
          N057.05.31.210 E009.50.07.936	; TWY 08R THRS N
-         N057.05.30.661 E009.49.58.810	; TWY 08R THRS W
-         N057.05.29.919 E009.49.58.948	; TWY 08R THRS S
          N057.05.30.496 E009.50.08.139	; RWY-LINE ; RWY 08R
          N057.05.35.839 E009.51.31.120	; TWY 08R > TWY C
          N057.05.35.877 E009.51.31.048 ; TWY Southern part Outer
@@ -604,8 +522,6 @@ COLOR_ApronSurface
          N057.05.36.066 E009.51.35.317 ; TWY Southern part Outer
          N057.05.36.030 E009.51.35.349	; TWY TWY C > RWY 08R
          N057.05.36.123 E009.51.35.535	; TWY Southern part Outer
-         N057.05.36.030 E009.51.35.676	; TWY Southern part Outer
-         N057.05.37.705 E009.52.03.066	; TWY RWY 08R
          N057.05.37.907 E009.52.03.244	; TWY MIL Apron
          N057.05.37.829 E009.52.03.670	; TWY Southern part Outer
          N057.05.37.664 E009.52.04.401	; TWY Southern part Outer
@@ -1060,8 +976,6 @@ COLOR_ApronSurface
          N057.05.39.120 E009.52.40.011	; TWY Southern part Outer
          N057.05.40.136 E009.52.38.332	; TWY RWY 08R / 26L
         N057.05.40.177 E009.52.38.493	; TWY RWY 26L THRS S
-        N057.05.40.699 E009.52.46.991	; TWY RWY 26L THRS E
-        N057.05.41.441 E009.52.46.812	; TWY RWY 26L THRS N
         N057.05.40.933 E009.52.38.325	; TWY RWY A
         N057.05.41.770 E009.52.38.912	; TWY Southern part Outer
         N057.05.42.100 E009.52.39.393	; TWY Southern part Outer
@@ -1078,140 +992,8 @@ COLOR_ApronSurface
         N057.05.46.701 E009.52.36.911 ; TWY RWY 26R
 ;
 ;
-;
-;Aalborg Taxiways 
-COLOR_ApronSurface
- N057.05.13.426 E009.50.47.071	; TWY Lowest RWY04
-          N057.05.12.025 E009.50.51.054	; TWY Lowest RWY04
-          N057.05.18.411 E009.50.58.356	; TWY Lowest RWY04
-          N057.05.18.768 E009.50.53.121	; TWY Lowest RWY04
-;
-;
-;Aalborg Taxiways 
-COLOR_ApronSurface
- N057.05.47.950 E009.52.43.015	; TWY Lowest RWY 26R/08L
-          N057.05.48.637 E009.52.42.692	; TWY Lowest RWY 26R/08L
-          N057.05.48.294 E009.52.37.151	; TWY Lowest RWY 26R/08L
-          N057.05.48.541 E009.52.37.096	; TWY Lowest RWY 26R/08L
-          N057.05.48.554 E009.52.36.564	; TWY Lowest RWY 26R/08L
-          N057.05.48.280 E009.52.34.809	; TWY Lowest RWY 26R/08L
-          N057.05.46.742 E009.52.10.753	; TWY Lowest RWY 26R/08L
-          N057.05.47.360 E009.52.10.468	; TWY Lowest RWY 26R/08L
-          N057.05.47.483 E009.52.10.361	; TWY Lowest RWY 26R/08L
-          N057.05.47.593 E009.52.10.197	; TWY Lowest RWY 26R/08L
-          N057.05.47.648 E009.52.09.905	; TWY Lowest RWY 26R/08L
-          N057.05.47.648 E009.52.09.610	; TWY Lowest RWY 26R/08L
-          N057.05.47.579 E009.52.09.328	; TWY Lowest RWY 26R/08L
-          N057.05.47.442 E009.52.09.153	; TWY Lowest RWY 26R/08L
-          N057.05.47.291 E009.52.09.119	; TWY Lowest RWY 26R/08L
-          N057.05.46.659 E009.52.09.074	; TWY Lowest RWY 26R/08L
-          N057.05.46.426 E009.52.05.802	; TWY Lowest RWY 26R/08L
-          N057.05.46.192 E009.52.02.245	; TWY Lowest RWY 26R/08L
-          N057.05.45.835 E009.51.56.330	; TWY Lowest RWY 26R/08L
-          N057.05.45.739 E009.51.56.340	; TWY Lowest RWY 26R/08L
-          N057.05.43.803 E009.51.26.255	; TWY Lowest RWY 26R/08L
-          N057.05.43.583 E009.51.22.894	; TWY Lowest RWY 26R/08L
-          N057.05.40.411 E009.50.33.304	; TWY Lowest RWY 26R/08L
-          N057.05.40.068 E009.50.27.691	; TWY Lowest RWY 26R/08L
-          N057.05.40.727 E009.50.27.244	; TWY Lowest RWY 26R/08L
-          N057.05.40.878 E009.50.27.090	; TWY Lowest RWY 26R/08L
-          N057.05.40.974 E009.50.26.870	; TWY Lowest RWY 26R/08L
-          N057.05.41.029 E009.50.26.565	; TWY Lowest RWY 26R/08L
-          N057.05.41.001 E009.50.26.283	; TWY Lowest RWY 26R/08L
-          N057.05.40.905 E009.50.26.046	; TWY Lowest RWY 26R/08L
-          N057.05.40.782 E009.50.25.881	; TWY Lowest RWY 26R/08L
-          N057.05.40.548 E009.50.25.785	; TWY Lowest RWY 26R/08L
-          N057.05.39.930 E009.50.25.675	; TWY Lowest RWY 26R/08L
-          N057.05.38.722 E009.50.07.582	; TWY Lowest RWY 26R/08L
-          N057.05.38.804 E009.50.07.469	; TWY Lowest RWY 26R/08L
-          N057.05.38.406 E009.50.01.330	; TWY Lowest RWY 26R/08L
-          N057.05.38.282 E009.49.59.295	; TWY Lowest RWY 26R/08L
-          N057.05.36.717 E009.49.59.600	; TWY Lowest RWY 26R/08L
-          N057.05.36.524 E009.50.01.152	; TWY Lowest RWY 26R/08L
-          N057.05.36.593 E009.50.03.524	; TWY Lowest RWY 26R/08L
-          N057.05.36.882 E009.50.07.967	; TWY Lowest RWY 26R/08L
-          N057.05.36.950 E009.50.07.950	; TWY Lowest RWY 26R/08L
-          N057.05.38.104 E009.50.25.995	; TWY Lowest RWY 26R/08L
-          N057.05.37.417 E009.50.26.482	; TWY Lowest RWY 26R/08L
-          N057.05.37.252 E009.50.26.654	; TWY Lowest RWY 26R/08L
-          N057.05.37.184 E009.50.26.819	; TWY Lowest RWY 26R/08L
-          N057.05.37.142 E009.50.27.021	; TWY Lowest RWY 26R/08L
-          N057.05.37.142 E009.50.27.282	; TWY Lowest RWY 26R/08L
-          N057.05.37.170 E009.50.27.492	; TWY Lowest RWY 26R/08L
-          N057.05.37.266 E009.50.27.732	; TWY Lowest RWY 26R/08L
-          N057.05.37.417 E009.50.27.900	; TWY Lowest RWY 26R/08L
-          N057.05.37.568 E009.50.27.938	; TWY Lowest RWY 26R/08L
-          N057.05.37.802 E009.50.27.979	; TWY Lowest RWY 26R/08L
-          N057.05.38.241 E009.50.28.161	; TWY Lowest RWY 26R/08L
-          N057.05.38.516 E009.50.32.343	; TWY Lowest RWY 26R/08L
-          N057.05.38.859 E009.50.37.723	; TWY Lowest RWY 26R/08L
-          N057.05.41.770 E009.51.22.715	; TWY Lowest RWY 26R/08L
-          N057.05.42.045 E009.51.27.247	; TWY Lowest RWY 26R/08L
-          N057.05.43.940 E009.51.56.735	; TWY Lowest RWY 26R/08L
-          N057.05.43.899 E009.51.56.745	; TWY Lowest RWY 26R/08L
-          N057.05.44.174 E009.52.00.910	; TWY Lowest RWY 26R/08L
-          N057.05.44.393 E009.52.04.394	; TWY Lowest RWY 26R/08L
-          N057.05.44.723 E009.52.09.503	; TWY Lowest RWY 26R/08L
-          N057.05.44.036 E009.52.09.771	; TWY Lowest RWY 26R/08L
-          N057.05.43.899 E009.52.09.946	; TWY Lowest RWY 26R/08L
-          N057.05.43.817 E009.52.10.142	; TWY Lowest RWY 26R/08L
-          N057.05.43.803 E009.52.10.413	; TWY Lowest RWY 26R/08L
-          N057.05.43.803 E009.52.10.629	; TWY Lowest RWY 26R/08L
-          N057.05.43.858 E009.52.10.856	; TWY Lowest RWY 26R/08L
-          N057.05.43.995 E009.52.11.052	; TWY Lowest RWY 26R/08L
-          N057.05.44.146 E009.52.11.134	; TWY Lowest RWY 26R/08L
-          N057.05.44.819 E009.52.11.144	; TWY Lowest RWY 26R/08L
-          N057.05.46.357 E009.52.34.971	; TWY Lowest RWY 26R/08L
-          N057.05.46.563 E009.52.37.295	; TWY Lowest RWY 26R/08L
-          N057.05.46.618 E009.52.37.395	; TWY Lowest RWY 26R/08L
-          N057.05.46.975 E009.52.42.490	; TWY Lowest RWY 26R/08L
-          N057.05.47.085 E009.52.42.534	; TWY Lowest RWY 26R/08L
-;
-;
-;Aalborg Taxiways 
-COLOR_ApronSurface
- N057.05.39.189 E009.50.38.512	; TWY Lowest TWY B
-          N057.05.38.873 E009.50.37.774	; TWY Lowest TWY B
-          N057.05.38.626 E009.50.37.414	; TWY Lowest TWY B
-          N057.05.38.433 E009.50.37.324	; TWY Lowest TWY B
-          N057.05.30.427 E009.50.49.094	; TWY Lowest TWY B
-          N057.05.30.070 E009.50.43.384	; TWY Lowest TWY B
-          N057.05.38.104 E009.50.31.704	; TWY Lowest TWY B
-          N057.05.38.186 E009.50.32.896	; TWY Lowest TWY B
-          N057.05.40.534 E009.50.29.325	; TWY Lowest TWY B
-          N057.05.40.480 E009.50.28.285	; TWY Lowest TWY B
-          N057.05.46.371 E009.50.19.472	; TWY Lowest TWY B
-          N057.05.46.714 E009.50.25.164	; TWY Lowest TWY B
-          N057.05.40.864 E009.50.33.747	; TWY Lowest TWY B
-          N057.05.40.768 E009.50.32.617	; TWY Lowest TWY B
-          N057.05.40.081 E009.50.33.850	; TWY Lowest TWY B
-;
-;Aalborg Taxiways 
-COLOR_ApronSurface
- N057.05.33.695 E009.51.09.944	; TWY Lowest TWY H
-          N057.05.34.025 E009.51.15.886	; TWY Lowest TWY H
-          N057.05.43.803 E009.51.26.268	; TWY Lowest TWY H
-          N057.05.43.954 E009.51.25.863	; TWY Lowest TWY H
-          N057.05.44.064 E009.51.25.616	; TWY Lowest TWY H
-          N057.05.44.187 E009.51.25.486	; TWY Lowest TWY H
-          N057.05.44.297 E009.51.27.515	; TWY Lowest TWY H
-          N057.05.44.297 E009.51.27.504	; TWY Lowest TWY H
-          N057.05.49.653 E009.51.33.674	; TWY Lowest TWY H
-          N057.05.50.202 E009.51.32.026	; TWY Lowest TWY H
-          N057.05.50.862 E009.51.32.651	; TWY Lowest TWY H
-          N057.05.50.601 E009.51.28.919	; TWY Lowest TWY H
-          N057.05.44.641 E009.51.22.200	; TWY Lowest TWY H
-          N057.05.44.421 E009.51.22.962	; TWY Lowest TWY H
-          N057.05.44.050 E009.51.23.446	; TWY Lowest TWY H
-          N057.05.43.144 E009.51.22.296	; TWY Lowest TWY H
-          N057.05.41.564 E009.51.14.201	; TWY Lowest TWY H
-          N057.05.40.892 E009.51.16.165	; TWY Lowest TWY H
-          N057.05.40.122 E009.51.16.930	; TWY Lowest TWY H
-
-
-;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area between B, rwy 26R, A, rwy 08L 
+COLOR_Terrain1
     N057.05.46.495 E009.52.33.721	;TWY-LINE ; ;Aalborg Background ISLAND AB
           N057.05.46.440 E009.52.34.607	;TWY-LINE ; ;Aalborg Background ISLAND AB
           N057.05.46.275 E009.52.35.359	;TWY-LINE ; ;Aalborg Background ISLAND AB
@@ -1247,8 +1029,8 @@ COLOR_GrasSurface
           N057.05.44.611 E009.52.04.473	;TWY-LINE ; 26R / 08L
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area between C, rwy 26R, B, rwy 08L 
+COLOR_Terrain1
     N057.05.44.353 E009.52.00.453	;TWY-LINE ; ;Aalborg Background ISLAND BC - TWY B
           N057.05.44.311 E009.52.00.930	;TWY-LINE ; ;Aalborg Background ISLAND BC
           N057.05.44.174 E009.52.01.360	;TWY-LINE ; ;Aalborg Background ISLAND BC
@@ -1281,8 +1063,8 @@ COLOR_GrasSurface
 ;
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area between D, rwy 26R, C, rwy 08L
+COLOR_Terrain1
     N057.05.41.900 E009.51.22.381	;TWY-LINE ; ;Aalborg Background ISLAND CD
           N057.05.41.867 E009.51.22.846	;TWY-LINE ; ;Aalborg Background ISLAND CD
           N057.05.41.757 E009.51.23.247	;TWY-LINE ; ;Aalborg Background ISLAND CD
@@ -1311,8 +1093,8 @@ COLOR_GrasSurface
           N057.05.39.020 E009.50.37.700	;TWY-LINE ; RWY 26R / 08L
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area between E, rwy 26R, D, rwy 08L
+COLOR_Terrain1
     N057.05.38.667 E009.50.32.220	;TWY-LINE ; ;Aalborg Background ISLAND DE
           N057.05.38.612 E009.50.32.703	;TWY-LINE ; ;Aalborg Background ISLAND DE
           N057.05.38.447 E009.50.33.287	;TWY-LINE ; ;Aalborg Background ISLAND DE
@@ -1345,8 +1127,8 @@ COLOR_GrasSurface
           N057.05.36.847 E009.50.04.000	;TWY-LINE ; 26R / 08L;
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area between F, N, G, rwy 26R
+COLOR_Terrain1
     N057.05.39.917 E009.50.28.350	;TWY-LINE ; ;Aalborg Background ISLAND G F
           N057.05.40.040 E009.50.28.841	;TWY-LINE ; ;Aalborg Background ISLAND G F
           N057.05.40.301 E009.50.29.308	;TWY-LINE ; ;Aalborg Background ISLAND G F
@@ -1375,8 +1157,8 @@ COLOR_GrasSurface
           N057.05.38.251 E009.50.02.510	;TWY-LINE ; RWY 26R / 08L
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area between G, N, H, rwy 26R
+COLOR_Terrain1
     N057.05.43.420 E009.51.22.789	;TWY-LINE ; RWY 08L > 26R
           N057.05.40.247 E009.50.33.503	;TWY-LINE ; ;Aalborg Background ISLAND G H
           N057.05.40.287 E009.50.32.878	;TWY-LINE ; ;Aalborg Background ISLAND G H
@@ -1400,8 +1182,8 @@ COLOR_GrasSurface
           N057.05.47.882 E009.51.27.837	;TWY-LINE ; ;Aalborg Background ISLAND G H
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area between H, N, J, rwy 26R
+COLOR_Terrain1
     N057.05.43.674 E009.51.26.730	;TWY-LINE ; ;Aalborg Background ISLAND H J
           N057.05.43.696 E009.51.26.453	;TWY-LINE ; ;Aalborg Background ISLAND H J
           N057.05.43.734 E009.51.26.310	;TWY-LINE ; ;Aalborg Background ISLAND H J
@@ -1433,8 +1215,8 @@ COLOR_GrasSurface
           N057.05.46.289 E009.52.02.438	;TWY-LINE ; ;Aalborg Background ISLAND H J
           N057.05.45.951 E009.52.02.106	;TWY-LINE ; 26R / 08L
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area between J, N, K, rwy 26R
+COLOR_Terrain1
     N057.05.46.147 E009.52.05.149	;TWY-LINE ; ;Aalborg Background ISLAND J K
           N057.05.46.467 E009.52.05.517	;TWY-LINE ; ;Aalborg Background ISLAND J K
           N057.05.46.508 E009.52.05.263	;TWY-LINE ; ;Aalborg Background ISLAND J K
@@ -1464,8 +1246,8 @@ COLOR_GrasSurface
           N057.05.48.009 E009.52.34.080	;TWY-LINE ; RWY 26R / 08L
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area inside MIL Area East
+COLOR_Terrain1
     N057.05.26.939 E009.52.25.337	;TWY-LINE ; Area SE ;Aalborg Background ISLAND 2
           N057.05.30.647 E009.52.18.714	;TWY-LINE ; Area SE ;Aalborg Background ISLAND 2
           N057.05.30.784 E009.52.18.457	;TWY-LINE ; Area SE ;Aalborg Background ISLAND 2
@@ -1882,8 +1664,8 @@ COLOR_GrasSurface
           N057.05.26.856 E009.52.25.574	;TWY-LINE ; Area SE ;Aalborg Background ISLAND 2
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area between MIL Area East and rwy 08L
+COLOR_Terrain1
     N057.05.38.248 E009.52.08.551	;TWY-LINE ; SE-area ;Aalborg Background ISLAND 1 west
          N057.05.38.104 E009.52.07.993	;TWY-LINE ; SE-area ;Aalborg Background ISLAND 1
          N057.05.37.898 E009.52.07.653	;TWY-LINE ; SE-area ;Aalborg Background ISLAND 1
@@ -2010,38 +1792,8 @@ COLOR_GrasSurface
          N057.05.40.011 E009.52.35.927	;TWY-LINE ; 26L / 08R
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
-          N057.06.03.427 E009.50.02.154	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.56.520 E009.50.12.258	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.56.451 E009.50.12.475	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.56.423 E009.50.12.691	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.56.423 E009.50.12.849	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.56.451 E009.50.13.031	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.57.453 E009.50.15.335	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.57.550 E009.50.15.534	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.57.618 E009.50.15.592	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.57.728 E009.50.15.626	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.57.838 E009.50.15.585	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.58.003 E009.50.15.396	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.58.332 E009.50.15.094	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.58.621 E009.50.14.978	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.59.060 E009.50.14.861	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.05.59.417 E009.50.14.875	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.06.00.159 E009.50.15.211	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.06.08.124 E009.50.18.558	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.06.08.687 E009.50.18.033	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.06.08.865 E009.50.17.710	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.06.09.071 E009.50.17.319	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.06.12.409 E009.50.08.454	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.06.12.532 E009.50.07.624	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.06.12.450 E009.50.06.920	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.06.12.271 E009.50.06.312	; TWY ;Aalborg Background ISLAND TWY G (N)
-          N057.06.11.777 E009.50.05.701	; TWY ;Aalborg Background ISLAND TWY G (N)
-;
-;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area between rwy 26R and Dolphin Apron
+COLOR_Terrain1
           N057.05.47.154 E009.50.27.430	; TWY ;Aalborg Background ISLAND TWY G N Mil
           N057.05.49.227 E009.50.59.740	; TWY ;Aalborg Background ISLAND TWY G N Mil
           N057.05.49.282 E009.50.59.905	; TWY ;Aalborg Background ISLAND TWY G N Mil
@@ -2070,8 +1822,8 @@ COLOR_GrasSurface
           N057.05.47.140 E009.50.26.523	; TWY ;Aalborg Background ISLAND TWY G N Mil
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Small area between N, F, and MIL Area West
+COLOR_Terrain1
           N057.05.44.435 E009.49.53.613	; TWY TWY F N
           N057.05.44.270 E009.49.50.814	; TWY TWY F N
           N057.05.44.215 E009.49.50.574	; TWY TWY F N
@@ -2090,7 +1842,8 @@ COLOR_GrasSurface
           N057.05.44.174 E009.49.53.207	; TWY TWY F N
 ;
 ;
-;Aalborg Background ISLAND          N057.05.44.668 E009.49.49.167	; TWY MIL area NW Inner
+;Area inside MIL Area West   
+COLOR_Terrain1
           N057.05.45.478 E009.50.02.141	; TWY MIL area NW Inner
           N057.05.45.478 E009.50.02.154	; TWY MIL area NW Inner
           N057.05.45.684 E009.50.02.745	; TWY MIL area NW Inner
@@ -2270,8 +2023,8 @@ COLOR_GrasSurface
           N057.05.44.696 E009.49.48.806	; TWY MIL area NW Inner
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area inside MIL Area Northeast 
+COLOR_Terrain1
           N057.05.57.550 E009.52.38.387	; TWY MIL NE inner
           N057.05.56.602 E009.52.38.768	; TWY MIL NE inner
           N057.05.56.039 E009.52.39.465	; TWY MIL NE inner
@@ -2476,164 +2229,9 @@ COLOR_GrasSurface
           N057.05.59.829 E009.52.37.240	; TWY MIL NE inner
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
-     N057.06.29.630 E009.49.58.659	; TWY ;Aalborg Background ISLAND North West
-         N057.06.19.220 E009.49.54.131	; TWY ;Aalborg Background ISLAND North West
-         N057.06.18.616 E009.49.54.134	; TWY ;Aalborg Background ISLAND North West
-         N057.06.18.135 E009.49.54.667	; TWY ;Aalborg Background ISLAND North West
-         N057.06.17.970 E009.49.55.267	; TWY ;Aalborg Background ISLAND North West
-         N057.06.16.734 E009.50.04.630	; TWY ;Aalborg Background ISLAND North West
-         N057.06.16.679 E009.50.05.533	; TWY ;Aalborg Background ISLAND North West
-         N057.06.16.789 E009.50.06.182	; TWY ;Aalborg Background ISLAND North West
-         N057.06.17.064 E009.50.06.769	; TWY ;Aalborg Background ISLAND North West
-         N057.06.17.449 E009.50.07.153	; TWY ;Aalborg Background ISLAND North West
-         N057.06.24.411 E009.50.10.185	; TWY ;Aalborg Background ISLAND North West
-         N057.06.24.645 E009.50.10.233	; TWY ;Aalborg Background ISLAND North West
-         N057.06.24.809 E009.50.10.082	; TWY ;Aalborg Background ISLAND North West
-         N057.06.24.919 E009.50.09.762	; TWY ;Aalborg Background ISLAND North West
-         N057.06.25.194 E009.50.07.617	; TWY ;Aalborg Background ISLAND North West
-         N057.06.26.279 E009.50.08.080	; TWY ;Aalborg Background ISLAND North West
-         N057.06.26.279 E009.50.08.097	; TWY ;Aalborg Background ISLAND North West
-         N057.06.26.045 E009.50.10.308	; TWY ;Aalborg Background ISLAND North West
-         N057.06.26.073 E009.50.10.641	; TWY ;Aalborg Background ISLAND North West
-         N057.06.26.155 E009.50.10.858	; TWY ;Aalborg Background ISLAND North West
-         N057.06.26.293 E009.50.10.985	; TWY ;Aalborg Background ISLAND North West
-         N057.06.28.064 E009.50.11.764	; TWY ;Aalborg Background ISLAND North West
-         N057.06.28.490 E009.50.11.767	; TWY ;Aalborg Background ISLAND North West
-         N057.06.28.847 E009.50.11.541	; TWY ;Aalborg Background ISLAND North West
-         N057.06.29.149 E009.50.11.211	; TWY ;Aalborg Background ISLAND North West
-         N057.06.29.396 E009.50.10.700	; TWY ;Aalborg Background ISLAND North West
-         N057.06.29.396 E009.50.10.727	; TWY ;Aalborg Background ISLAND North West
-         N057.06.29.575 E009.50.10.089	; TWY ;Aalborg Background ISLAND North West
-         N057.06.30.646 E009.50.01.914	; TWY ;Aalborg Background ISLAND North West
-         N057.06.30.728 E009.50.01.258	; TWY ;Aalborg Background ISLAND North West
-         N057.06.30.701 E009.50.00.579	; TWY ;Aalborg Background ISLAND North West
-         N057.06.30.563 E009.49.59.947	; TWY ;Aalborg Background ISLAND North West
-         N057.06.30.344 E009.49.59.339	; TWY ;Aalborg Background ISLAND North West
-         N057.06.30.028 E009.49.58.913	; TWY ;Aalborg Background ISLAND North West
-;
-;
-;Aalborg Background 
-COLOR_GrasSurface
-     N057.06.27.927 E009.50.12.749	; TWY ;Aalborg Background ISLAND North West
-          N057.06.14.455 E009.50.06.954	; TWY ;Aalborg Background ISLAND North West
-          N057.06.14.057 E009.50.07.030	; TWY ;Aalborg Background ISLAND North West
-          N057.06.13.686 E009.50.07.232	; TWY ;Aalborg Background ISLAND North West
-          N057.06.13.329 E009.50.07.792	; TWY ;Aalborg Background ISLAND North West
-          N057.06.09.937 E009.50.16.766	; TWY ;Aalborg Background ISLAND North West
-          N057.06.09.799 E009.50.17.848	; TWY ;Aalborg Background ISLAND North West
-          N057.06.10.005 E009.50.18.939	; TWY ;Aalborg Background ISLAND North West
-          N057.06.10.458 E009.50.19.533	; TWY ;Aalborg Background ISLAND North West
-          N057.06.11.214 E009.50.19.863	; TWY ;Aalborg Background ISLAND North West
-          N057.06.11.365 E009.50.19.849	; TWY ;Aalborg Background ISLAND North West
-          N057.06.11.488 E009.50.19.722	; TWY ;Aalborg Background ISLAND North West
-          N057.06.11.571 E009.50.19.430	; TWY ;Aalborg Background ISLAND North West
-          N057.06.11.749 E009.50.18.208	; TWY ;Aalborg Background ISLAND North West
-          N057.06.12.875 E009.50.18.675	; TWY ;Aalborg Background ISLAND North West
-          N057.06.12.738 E009.50.19.808	; TWY ;Aalborg Background ISLAND North West
-          N057.06.12.738 E009.50.20.114	; TWY ;Aalborg Background ISLAND North West
-          N057.06.12.807 E009.50.20.381	; TWY ;Aalborg Background ISLAND North West
-          N057.06.13.013 E009.50.20.646	; TWY ;Aalborg Background ISLAND North West
-          N057.06.14.263 E009.50.21.161	; TWY ;Aalborg Background ISLAND North West
-          N057.06.14.386 E009.50.20.972	; TWY ;Aalborg Background ISLAND North West
-          N057.06.14.468 E009.50.20.934	; TWY ;Aalborg Background ISLAND North West
-          N057.06.16.075 E009.50.21.648	; TWY ;Aalborg Background ISLAND North West
-          N057.06.16.377 E009.50.19.671	; TWY ;Aalborg Background ISLAND North West
-          N057.06.17.449 E009.50.20.124	; TWY ;Aalborg Background ISLAND North West
-          N057.06.17.270 E009.50.21.456	; TWY ;Aalborg Background ISLAND North West
-          N057.06.17.270 E009.50.21.858	; TWY ;Aalborg Background ISLAND North West
-          N057.06.17.311 E009.50.22.222	; TWY ;Aalborg Background ISLAND North West
-          N057.06.17.449 E009.50.22.448	; TWY ;Aalborg Background ISLAND North West
-          N057.06.17.668 E009.50.22.623	; TWY ;Aalborg Background ISLAND North West
-          N057.06.23.628 E009.50.25.061	; TWY ;Aalborg Background ISLAND North West
-          N057.06.24.246 E009.50.24.357	; TWY ;Aalborg Background ISLAND North West
-          N057.06.24.452 E009.50.22.589	; TWY ;Aalborg Background ISLAND North West
-          N057.06.25.043 E009.50.22.826	; TWY ;Aalborg Background ISLAND North West
-          N057.06.24.823 E009.50.24.621	; TWY ;Aalborg Background ISLAND North West
-          N057.06.25.166 E009.50.25.724	; TWY ;Aalborg Background ISLAND North West
-          N057.06.26.100 E009.50.26.070	; TWY ;Aalborg Background ISLAND North West
-          N057.06.26.512 E009.50.26.153	; TWY ;Aalborg Background ISLAND North West
-          N057.06.26.787 E009.50.26.115	; TWY ;Aalborg Background ISLAND North West
-          N057.06.27.075 E009.50.25.899	; TWY ;Aalborg Background ISLAND North West
-          N057.06.27.364 E009.50.25.469	; TWY ;Aalborg Background ISLAND North West
-          N057.06.27.556 E009.50.25.013	; TWY ;Aalborg Background ISLAND North West
-          N057.06.27.721 E009.50.24.518	; TWY ;Aalborg Background ISLAND North West
-          N057.06.28.916 E009.50.15.331	; TWY ;Aalborg Background ISLAND North West
-          N057.06.28.861 E009.50.14.696	; TWY ;Aalborg Background ISLAND North West
-          N057.06.28.764 E009.50.14.164	; TWY ;Aalborg Background ISLAND North West
-          N057.06.28.627 E009.50.13.711	; TWY ;Aalborg Background ISLAND North West
-          N057.06.28.421 E009.50.13.275	; TWY ;Aalborg Background ISLAND North West
-          N057.06.28.201 E009.50.12.945	; TWY ;Aalborg Background ISLAND North West
-;
-;
-;Aalborg Background 
-COLOR_GrasSurface
-     N057.06.26.073 E009.50.27.011	; TWY ;Aalborg Background ISLAND North west
-          N057.06.09.332 E009.50.19.952	; TWY ;Aalborg Background ISLAND North west
-          N057.06.09.140 E009.50.19.921	; TWY ;Aalborg Background ISLAND North west
-          N057.06.08.948 E009.50.19.969	; TWY ;Aalborg Background ISLAND North west
-          N057.06.08.769 E009.50.20.141	; TWY ;Aalborg Background ISLAND North west
-          N057.06.03.125 E009.50.31.423	; TWY ;Aalborg Background ISLAND North west
-          N057.06.03.098 E009.50.31.855	; TWY ;Aalborg Background ISLAND North west
-          N057.06.03.153 E009.50.32.229	; TWY ;Aalborg Background ISLAND North west
-          N057.06.03.290 E009.50.32.542	; TWY ;Aalborg Background ISLAND North west
-          N057.06.03.523 E009.50.32.724	; TWY ;Aalborg Background ISLAND North west
-          N057.06.03.812 E009.50.32.727	; TWY ;Aalborg Background ISLAND North west
-          N057.06.04.100 E009.50.32.590	; TWY ;Aalborg Background ISLAND North west
-          N057.06.04.389 E009.50.32.326	; TWY ;Aalborg Background ISLAND North west
-          N057.06.04.649 E009.50.31.924	; TWY ;Aalborg Background ISLAND North west
-          N057.06.05.679 E009.50.28.896	; TWY ;Aalborg Background ISLAND North west
-          N057.06.05.858 E009.50.28.676	; TWY ;Aalborg Background ISLAND North west
-          N057.06.06.366 E009.50.28.343	; TWY ;Aalborg Background ISLAND North west
-          N057.06.06.847 E009.50.30.489	; TWY ;Aalborg Background ISLAND North west
-          N057.06.05.583 E009.50.31.392	; TWY ;Aalborg Background ISLAND North west
-          N057.06.05.419 E009.50.31.629	; TWY ;Aalborg Background ISLAND North west
-          N057.06.05.020 E009.50.32.854	; TWY ;Aalborg Background ISLAND North west
-          N057.06.04.979 E009.50.33.088	; TWY ;Aalborg Background ISLAND North west
-          N057.06.05.034 E009.50.33.283	; TWY ;Aalborg Background ISLAND North west
-          N057.06.05.144 E009.50.33.393	; TWY ;Aalborg Background ISLAND North west
-          N057.06.12.038 E009.50.36.397	; TWY ;Aalborg Background ISLAND North west
-          N057.06.12.367 E009.50.36.480	; TWY ;Aalborg Background ISLAND North west
-          N057.06.12.532 E009.50.36.356	; TWY ;Aalborg Background ISLAND North west
-          N057.06.12.642 E009.50.36.174	; TWY ;Aalborg Background ISLAND North west
-          N057.06.12.642 E009.50.36.116	; TWY ;Aalborg Background ISLAND North west
-          N057.06.12.903 E009.50.34.475	; TWY ;Aalborg Background ISLAND North west
-          N057.06.14.015 E009.50.34.877	; TWY ;Aalborg Background ISLAND North west
-          N057.06.13.823 E009.50.36.432	; TWY ;Aalborg Background ISLAND North west
-          N057.06.13.823 E009.50.36.796	; TWY ;Aalborg Background ISLAND North west
-          N057.06.13.905 E009.50.37.074	; TWY ;Aalborg Background ISLAND North west
-          N057.06.14.043 E009.50.37.269	; TWY ;Aalborg Background ISLAND North west
-          N057.06.24.136 E009.50.41.602	; TWY ;Aalborg Background ISLAND North west
-          N057.06.24.645 E009.50.41.616	; TWY ;Aalborg Background ISLAND North west
-          N057.06.25.084 E009.50.41.358	; TWY ;Aalborg Background ISLAND North west
-          N057.06.25.496 E009.50.40.761	; TWY ;Aalborg Background ISLAND North west
-          N057.06.25.784 E009.50.39.927	; TWY ;Aalborg Background ISLAND North west
-          N057.06.26.361 E009.50.35.536	; TWY ;Aalborg Background ISLAND North west
-          N057.06.26.361 E009.50.35.481	; TWY ;Aalborg Background ISLAND North west
-          N057.06.26.320 E009.50.35.052	; TWY ;Aalborg Background ISLAND North west
-          N057.06.26.169 E009.50.34.774	; TWY ;Aalborg Background ISLAND North west
-          N057.06.25.963 E009.50.34.691	; TWY ;Aalborg Background ISLAND North west
-          N057.06.25.798 E009.50.34.746	; TWY ;Aalborg Background ISLAND North west
-          N057.06.25.633 E009.50.35.120	; TWY ;Aalborg Background ISLAND North west
-          N057.06.25.592 E009.50.35.189	; TWY ;Aalborg Background ISLAND North west
-          N057.06.25.180 E009.50.34.955	; TWY ;Aalborg Background ISLAND North west
-          N057.06.25.482 E009.50.32.714	; TWY ;Aalborg Background ISLAND North west
-          N057.06.25.894 E009.50.32.902	; TWY ;Aalborg Background ISLAND North west
-          N057.06.25.990 E009.50.33.376	; TWY ;Aalborg Background ISLAND North west
-          N057.06.26.128 E009.50.33.582	; TWY ;Aalborg Background ISLAND North west
-          N057.06.26.334 E009.50.33.665	; TWY ;Aalborg Background ISLAND North west
-          N057.06.26.512 E009.50.33.496	; TWY ;Aalborg Background ISLAND North west
-          N057.06.26.691 E009.50.33.078	; TWY ;Aalborg Background ISLAND North west
-          N057.06.27.103 E009.50.29.840	; TWY ;Aalborg Background ISLAND North west
-          N057.06.27.103 E009.50.29.067	; TWY ;Aalborg Background ISLAND North west
-          N057.06.26.883 E009.50.28.141	; TWY ;Aalborg Background ISLAND North west
-          N057.06.26.567 E009.50.27.481	; TWY ;Aalborg Background ISLAND North west
-;
-;
-;Aalborg Background 
-COLOR_GrasSurface
-     N057.05.50.765 E009.50.27.217	; TWY ;Aalborg Background ISLAND North Mid
+;Area northeast of Dolphin Apron 
+COLOR_Terrain1
+          N057.05.50.765 E009.50.27.217	; TWY ;Aalborg Background ISLAND North Mid
           N057.05.54.542 E009.50.28.872	; TWY ;Aalborg Background ISLAND North Mid
           N057.05.54.940 E009.50.29.078	; TWY ;Aalborg Background ISLAND North Mid
           N057.05.55.297 E009.50.29.469	; TWY ;Aalborg Background ISLAND North Mid
@@ -2650,35 +2248,7 @@ COLOR_GrasSurface
           N057.05.56.643 E009.50.47.428	; TWY ;Aalborg Background ISLAND North Mid
           N057.05.55.297 E009.50.47.500	; TWY ;Aalborg Background ISLAND North Mid
           N057.05.49.378 E009.51.02.160	; TWY ;Aalborg Background ISLAND North Mid
-          N057.05.51.274 E009.51.31.985	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.21.417 E009.52.05.950	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.21.678 E009.52.04.515	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.22.186 E009.52.01.493	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.22.640 E009.51.57.332	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.22.942 E009.51.52.512	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.25.249 E009.50.44.926	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.25.180 E009.50.44.235	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.25.015 E009.50.43.648	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.24.782 E009.50.43.103	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.24.384 E009.50.42.739	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.23.876 E009.50.42.419	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.19.096 E009.50.40.366	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.18.932 E009.50.40.356	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.18.794 E009.50.40.500	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.18.671 E009.50.40.830	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.18.479 E009.50.42.642	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.18.561 E009.50.42.945	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.18.424 E009.50.44.270	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.17.517 E009.50.43.913	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.17.888 E009.50.40.607	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.17.888 E009.50.40.243	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.17.792 E009.50.39.978	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.17.655 E009.50.39.796	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.08.632 E009.50.35.979	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.08.440 E009.50.35.941	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.08.275 E009.50.36.133	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.08.165 E009.50.36.439	; TWY ;Aalborg Background ISLAND North Mid
-          N057.06.07.973 E009.50.37.980	; TWY ;Aalborg Background ISLAND North Mid
+          N057.05.51.505 E009.51.33.621	; TWY ;Aalborg Background ISLAND North Mid
           N057.06.06.847 E009.50.37.503	; TWY ;Aalborg Background ISLAND North Mid
           N057.06.07.108 E009.50.35.656	; TWY ;Aalborg Background ISLAND North Mid
           N057.06.06.874 E009.50.35.216	; TWY ;Aalborg Background ISLAND North Mid
@@ -2697,8 +2267,8 @@ COLOR_GrasSurface
           N057.05.58.209 E009.50.16.316	; TWY ;Aalborg Background ISLAND North Mid
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Area west of MIL Area Northeast 
+COLOR_Terrain1
      N057.05.51.370 E009.51.33.355	; TWY ;Aalborg Background ISLAND North east
           N057.05.55.242 E009.52.34.466	; TWY ;Aalborg Background ISLAND North east
           N057.05.55.297 E009.52.34.885	; TWY ;Aalborg Background ISLAND North east
@@ -2765,28 +2335,21 @@ COLOR_GrasSurface
           N057.06.13.837 E009.52.24.675	; TWY ;Aalborg Background ISLAND North east
           N057.06.13.988 E009.52.24.575	; TWY ;Aalborg Background ISLAND North east
           N057.06.15.032 E009.52.23.058	; TWY ;Aalborg Background ISLAND North east
-          N057.06.17.297 E009.52.18.714	; TWY ;Aalborg Background ISLAND North east
-          N057.06.18.602 E009.52.15.645	; TWY ;Aalborg Background ISLAND North east
-          N057.06.20.305 E009.52.10.475	; TWY ;Aalborg Background ISLAND North east
-          N057.06.21.198 E009.52.06.952	; TWY ;Aalborg Background ISLAND North east
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
-    N057.05.55.435 E009.50.12.365	; TWY ;Aalborg Background ISLAND North TWY G (e)
+;West of Dolphin Apron 
+COLOR_Terrain1
+          N057.05.55.435 E009.50.12.365	; TWY ;Aalborg Background ISLAND North TWY G (e)
           N057.05.47.785 E009.50.23.509	; TWY ;Aalborg Background ISLAND North TWY G (e)
           N057.05.49.598 E009.50.26.239	; TWY ;Aalborg Background ISLAND North TWY G (e)
           N057.05.49.983 E009.50.26.664	; TWY ;Aalborg Background ISLAND North TWY G (e)
-          N057.05.50.312 E009.50.27.004	; TWY ;Aalborg Background ISLAND North TWY G (e)
-          N057.05.57.124 E009.50.17.072	; TWY ;Aalborg Background ISLAND North TWY G (e)
-          N057.05.57.206 E009.50.16.856	; TWY ;Aalborg Background ISLAND North TWY G (e)
-          N057.05.57.234 E009.50.16.670	; TWY ;Aalborg Background ISLAND North TWY G (e)
-          N057.05.57.206 E009.50.16.409	; TWY ;Aalborg Background ISLAND North TWY G (e)
+          N057.05.52.002 E009.50.27.721	; TWY ;Aalborg Background ISLAND North TWY G (e)
+          N057.05.58.903 E009.50.17.918	; TWY ;Aalborg Background ISLAND North TWY G (e)
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
-     N057.05.56.629 E009.50.46.948	; TWY ;Aalborg Background ISLAND Mil Apron
+;East of Dolphin Apron
+COLOR_Terrain1
+          N057.05.56.629 E009.50.46.948	; TWY ;Aalborg Background ISLAND Mil Apron
           N057.05.56.575 E009.50.44.493	; TWY ;Aalborg Background ISLAND Mil Apron
           N057.05.56.396 E009.50.44.915	; TWY ;Aalborg Background ISLAND Mil Apron
           N057.05.56.217 E009.50.45.224	; TWY ;Aalborg Background ISLAND Mil Apron
@@ -2794,8 +2357,8 @@ COLOR_GrasSurface
           N057.05.55.751 E009.50.47.030	; TWY ;Aalborg Background ISLAND Mil Apron
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area West
+COLOR_Terrain1
           N057.05.44.929 E009.49.46.574	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.44.956 E009.49.46.279	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.44.874 E009.49.46.032	; TWY MIL NW Park ;Aalborg Background ISLAND
@@ -2808,8 +2371,8 @@ COLOR_GrasSurface
           N057.05.44.737 E009.49.46.760	; TWY MIL NW Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area West 
+COLOR_Terrain1
           N057.05.45.355 E009.49.45.002	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.45.520 E009.49.44.806	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.45.478 E009.49.44.339	; TWY MIL NW Park ;Aalborg Background ISLAND
@@ -2823,8 +2386,8 @@ COLOR_GrasSurface
           N057.05.45.259 E009.49.45.029	; TWY MIL NW Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area West 
+COLOR_Terrain1
           N057.05.46.055 E009.49.43.007	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.46.028 E009.49.42.640	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.45.382 E009.49.41.569	; TWY MIL NW Park ;Aalborg Background ISLAND
@@ -2838,8 +2401,8 @@ COLOR_GrasSurface
           N057.05.45.890 E009.49.43.193	; TWY MIL NW Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area West 
+COLOR_Terrain1
           N057.05.46.591 E009.49.41.133	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.46.522 E009.49.40.803	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.46.412 E009.49.40.467	; TWY MIL NW Park ;Aalborg Background ISLAND
@@ -2856,8 +2419,8 @@ COLOR_GrasSurface
           N057.05.46.495 E009.49.41.445	; TWY MIL NW Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area West 
+COLOR_Terrain1
           N057.05.47.277 E009.49.39.540	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.47.222 E009.49.39.166	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.46.646 E009.49.37.624	; TWY MIL NW Park ;Aalborg Background ISLAND
@@ -2873,8 +2436,8 @@ COLOR_GrasSurface
           N057.05.47.291 E009.49.39.849	; TWY MIL NW Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area West 
+COLOR_Terrain1
           N057.05.48.143 E009.49.38.894	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.48.156 E009.49.38.407	; TWY MIL NW Park ;Aalborg Background ISLAND
           N057.05.48.115 E009.49.38.063	; TWY MIL NW Park ;Aalborg Background ISLAND
@@ -2891,8 +2454,8 @@ COLOR_GrasSurface
           N057.05.47.978 E009.49.39.035	; TWY MIL NW Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area Northeast 
+COLOR_Terrain1
           N057.05.59.376 E009.52.33.388	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.05.59.225 E009.52.33.807	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.05.59.184 E009.52.34.264	; TWY MIL NE Park ;Aalborg Background ISLAND
@@ -2906,8 +2469,8 @@ COLOR_GrasSurface
           N057.05.59.596 E009.52.33.392	; TWY MIL NE Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area Northeast 
+COLOR_Terrain1
           N057.06.00.667 E009.52.32.684	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.06.00.502 E009.52.32.592	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.06.00.392 E009.52.32.791	; TWY MIL NE Park ;Aalborg Background ISLAND
@@ -2924,8 +2487,8 @@ COLOR_GrasSurface
           N057.06.00.928 E009.52.33.745	; TWY MIL NE Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area Northeast 
+COLOR_Terrain1
           N057.06.01.793 E009.52.32.132	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.06.01.738 E009.52.31.871	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.06.01.642 E009.52.31.788	; TWY MIL NE Park ;Aalborg Background ISLAND
@@ -2940,8 +2503,8 @@ COLOR_GrasSurface
           N057.06.02.136 E009.52.33.852	; TWY MIL NE Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area Northeast 
+COLOR_Terrain1
           N057.06.02.796 E009.52.31.129	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.06.02.644 E009.52.31.023	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.06.02.521 E009.52.31.129	; TWY MIL NE Park ;Aalborg Background ISLAND
@@ -2958,8 +2521,8 @@ COLOR_GrasSurface
           N057.06.02.823 E009.52.31.517	; TWY MIL NE Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area Northeast 
+COLOR_Terrain1
           N057.06.03.922 E009.52.30.848	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.06.03.839 E009.52.30.470	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.06.03.812 E009.52.30.329	; TWY MIL NE Park ;Aalborg Background ISLAND
@@ -2976,8 +2539,8 @@ COLOR_GrasSurface
           N057.06.04.265 E009.52.32.660	; TWY MIL NE Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in MIL Area Northeast 
+COLOR_Terrain1
           N057.06.04.636 E009.52.29.821	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.06.04.540 E009.52.29.962	; TWY MIL NE Park ;Aalborg Background ISLAND
           N057.06.04.485 E009.52.30.223	; TWY MIL NE Park ;Aalborg Background ISLAND
@@ -2995,8 +2558,8 @@ COLOR_GrasSurface
           N057.06.04.814 E009.52.29.962	; TWY MIL NE Park ;Aalborg Background ISLAND
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in Dolphin Apron 
+COLOR_Terrain1
           N057.05.55.174 E009.50.32.672	; TWY ;Aalborg Background ISLAND at MIL apron W
           N057.05.55.297 E009.50.32.604	; TWY ;Aalborg Background ISLAND at MIL apron W
           N057.05.55.393 E009.50.32.425	; TWY ;Aalborg Background ISLAND at MIL apron W
@@ -3016,8 +2579,8 @@ COLOR_GrasSurface
           N057.05.53.732 E009.50.32.796	; TWY ;Aalborg Background ISLAND at MIL apron W
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
+;Internal area in Dolphin Apron 
+COLOR_Terrain1
           N057.05.56.190 E009.50.42.206	; TWY ;Aalborg Background ISLAND at MIL apron E
           N057.05.54.034 E009.50.42.361	; TWY ;Aalborg Background ISLAND at MIL apron E
           N057.05.53.869 E009.50.42.430	; TWY ;Aalborg Background ISLAND at MIL apron E
@@ -3031,9 +2594,9 @@ COLOR_GrasSurface
           N057.05.56.245 E009.50.44.146	; TWY ;Aalborg Background ISLAND at MIL apron E
 ;
 ;
-;Aalborg Background 
-COLOR_GrasSurface
-    N057.05.58.470 E009.49.58.179	;TWY-LINE ; ;Aalborg Background ISLAND MIL NW ; Connect TWY G til hangars
+;Area between MIL Area West and G/MIL Apron 
+COLOR_Terrain1
+          N057.05.58.470 E009.49.58.179	;TWY-LINE ; ;Aalborg Background ISLAND MIL NW ; Connect TWY G til hangars
           N057.05.56.382 E009.49.53.939	;TWY-LINE ; ;Aalborg Background ISLAND MIL NW ; Hangars
           N057.05.56.190 E009.49.54.011	;TWY-LINE ; ;Aalborg Background ISLAND MIL NW
           N057.05.56.039 E009.49.53.983	;TWY-LINE ; ;Aalborg Background ISLAND MIL NW
@@ -3153,9 +2716,9 @@ COLOR_GrasSurface
           N057.05.58.634 E009.49.59.123	;TWY-LINE ; ;Aalborg Background ISLAND MIL NW
           N057.05.58.593 E009.49.58.601	;TWY-LINE ; ;Aalborg Background ISLAND MIL NW
 ;
-;Aalborg Apron
-COLOR_ApronSurface
-    N057.05.15.163 E009.52.02.810 
+;Civil Apron
+COLOR_HardSurface2
+          N057.05.15.163 E009.52.02.810 
           N057.05.15.174 E009.52.04.396 
           N057.05.16.637 E009.52.08.341 
           N057.05.12.990 E009.52.12.944 
@@ -3244,16 +2807,16 @@ COLOR_ApronSurface
           N057.05.11.450 E009.52.06.884
           N057.05.13.654 E009.52.03.318 
           N057.05.15.075 E009.52.01.233
-
-;Aalborg Apron
-COLOR_ApronSurface
-    N057.05.10.116 E009.52.06.219 
+;
+;Civil apron parking 11/12 entrance
+COLOR_HardSurface2
+          N057.05.10.116 E009.52.06.219 
           N057.05.10.040 E009.52.06.040
           N057.05.10.513 E009.52.05.319
           N057.05.10.590 E009.52.05.536
-
-;Aalborg Terminal 
-COLOR_ApronSurface
+;
+;Tower location 
+COLOR_HardSurface2
           N057.05.25.552 E009.51.53.679 ; Tower
           N057.05.25.044 E009.51.52.502	; Tower
           N057.05.24.687 E009.51.53.055	; Tower
@@ -3268,41 +2831,26 @@ COLOR_ApronSurface
           N057.05.24.797 E009.51.53.927	; Tower
           N057.05.24.934 E009.51.53.679	; Tower
           N057.05.25.167 E009.51.54.232	; Tower
-
-
-;Aalborg Terminal 
-COLOR_ApronSurface
-         N057.05.15.533 E009.52.10.541 ; Main TERM-LINE
-			N057.05.15.608 E009.52.10.691 ; Main TERM-LINE
-			N057.05.15.608 E009.52.10.691 ; Main TERM-LINE
-			N057.05.16.534 E009.52.13.057 ; Main TERM-LINE
-			N057.05.16.534 E009.52.13.057 ; Main TERM-LINE 
-			N057.05.08.617 E009.52.23.022 ; Main TERM-LINE
-			N057.05.08.617 E009.52.23.022 ; Main TERM-LINE
-			N057.05.07.671 E009.52.20.565 ; Main TERM-LINE
-			N057.05.07.671 E009.52.20.565 ; Main TERM-LINE
-			N057.05.15.533 E009.52.10.541 ; Main TERM-LINE
-
 ;
 ;
-;Aalborg Terminal 
-COLOR_ApronSurface
+;North Flying building location 
+COLOR_HardSurface2
           N057.05.06.298 E009.52.23.195 ; North Flying
           N057.05.04.980 E009.52.19.714	; North Flying
           N057.05.04.156 E009.52.20.771	; North Flying
           N057.05.05.447 E009.52.24.269	; North Flying
 ;
 ;Aalborg Runways 
-COLOR_RunwayConcrete
-       N057.05.48.170 E009.52.36.571 ; 26R/08L N
+COLOR_HardSurface4
+          N057.05.48.170 E009.52.36.571 ; 26R/08L N
           N057.05.38.090 E009.49.59.988 ; 26R/08L W
           N057.05.36.607 E009.50.00.273 ; 26R/08L S
           N057.05.46.701 E009.52.36.911 ; 26R/08L E
 ;
 ;
 ;Aalborg Runways 
-COLOR_RunwayConcrete
-       N057.05.40.933 E009.52.38.325 ; 08R/26L
+COLOR_HardSurface4
+          N057.05.40.933 E009.52.38.325 ; 08R/26L
           N057.05.31.210 E009.50.07.936 ; 08R/26L
           N057.05.30.496 E009.50.08.139 ; 08R/26L
           N057.05.40.177 E009.52.38.493 ; 08R/26L
