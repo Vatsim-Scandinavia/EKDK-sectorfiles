@@ -1,0 +1,2221 @@
+;Aarhus Base 
+COLOR_HardSurface3
+      N056.20.38.999 E010.54.06.199 ;BASE
+          N056.12.28.999 E010.51.46.000 ; BASE
+          N056.15.47.998 E010.19.54.998 ; BASE
+          N056.23.38.000 E010.22.24.999 ; BASE
+;
+;Aarhus Taxiways 
+COLOR_ApronSurface
+       N056.18.05.696 E010.38.24.818 ; RWY 28R Lowest
+          N056.18.05.682 E010.38.24.162 ; RWY 28R Lowest
+          N056.18.06.163 E010.38.19.507 ; RWY 28R Lowest
+          N056.18.05.833 E010.38.19.393 ; RWY 28R Lowest
+          N056.18.09.170 E010.37.46.472 ; RWY 28R Lowest
+          N056.18.09.843 E010.37.43.430 ; RWY 28R Lowest
+          N056.18.09.651 E010.37.42.757 ; RWY 28R Lowest
+          N056.18.09.624 E010.37.42.153 ; RWY 28R Lowest
+          N056.18.16.243 E010.36.36.163 ; RWY 28R Lowest
+          N056.18.14.320 E010.36.35.559 ; RWY 28R Lowest
+          N056.18.03.677 E010.38.20.725 ; RWY 28R Lowest
+          N056.18.03.512 E010.38.21.436 ; RWY 28R Lowest
+          N056.18.03.210 E010.38.21.893 ; RWY 28R Lowest
+          N056.18.02.853 E010.38.22.243 ; RWY 28R Lowest
+          N056.18.02.606 E010.38.22.370 ; RWY 28R Lowest
+          N056.18.02.002 E010.38.22.452 ; RWY 28R Lowest
+          N056.18.03.320 E010.38.24.622 ; RWY 28R Lowest
+          N056.18.03.224 E010.38.25.553 ; RWY 28R Lowest
+          N056.18.04.858 E010.38.26.105 ;
+;Aarhus Taxiways  
+COLOR_ApronSurface
+       N056.18.18.491 E010.37.17.534 ; TWY Apron
+          N056.18.18.509 E010.37.18.014	; TWY Apron
+          N056.18.18.536 E010.37.18.302	; TWY Apron
+          N056.18.18.591 E010.37.18.546	; TWY Apron
+          N056.18.18.701 E010.37.18.814	; TWY Apron
+          N056.18.23.027 E010.37.25.478	; TWY Apron
+          N056.18.23.343 E010.37.25.818	; TWY Apron
+          N056.18.23.549 E010.37.25.952	; TWY Apron
+          N056.18.23.700 E010.37.25.989	; TWY Apron
+          N056.18.23.823 E010.37.25.948	; TWY Apron
+          N056.18.23.947 E010.37.25.832	; TWY Apron
+          N056.18.24.290 E010.37.25.320	; TWY Apron
+          N056.18.24.592 E010.37.24.681	; TWY Apron
+          N056.18.24.853 E010.37.23.991	; TWY Apron
+          N056.18.25.046 E010.37.23.260	; TWY Apron
+          N056.18.25.183 E010.37.22.488	; TWY Apron
+          N056.18.25.279 E010.37.21.674	; TWY Apron
+          N056.18.25.361 E010.37.20.702	; TWY Apron
+          N056.18.25.883 E010.37.20.853	; TWY Apron
+          N056.18.26.364 E010.37.16.129	; TWY Apron
+          N056.18.26.446 E010.37.15.590	; TWY Apron
+          N056.18.26.570 E010.37.15.140	; TWY Apron
+          N056.18.26.721 E010.37.14.859	; TWY Apron
+          N056.18.26.982 E010.37.14.571	; TWY Apron
+          N056.18.27.641 E010.37.13.973	; TWY Apron
+          N056.18.27.778 E010.37.13.894	; TWY Apron
+          N056.18.27.902 E010.37.13.860	; TWY Apron
+          N056.18.28.039 E010.37.13.870	; TWY Apron
+          N056.18.28.177 E010.37.13.908	; TWY Apron
+          N056.18.32.338 E010.37.15.274	; TWY Apron
+          N056.18.32.200 E010.37.16.685	; TWY Apron
+          N056.18.32.667 E010.37.16.837	; TWY Apron
+          N056.18.32.228 E010.37.21.293	; TWY Apron
+          N056.18.31.418 E010.37.21.022	; TWY Apron
+          N056.18.31.528 E010.37.20.009	; TWY Apron
+          N056.18.31.143 E010.37.19.885	; TWY Apron
+          N056.18.31.473 E010.37.16.445	; TWY Apron
+          N056.18.31.857 E010.37.16.569	; TWY Apron
+          N056.18.31.885 E010.37.16.304	; TWY Apron
+          N056.18.31.885 E010.37.16.095	; TWY Apron
+          N056.18.31.843 E010.37.15.916	; TWY Apron
+          N056.18.31.775 E010.37.15.779	; TWY Apron
+          N056.18.31.692 E010.37.15.704	; TWY Apron
+          N056.18.31.596 E010.37.15.628	; TWY Apron
+          N056.18.31.514 E010.37.15.597	; TWY Apron
+          N056.18.28.644 E010.37.14.663	; TWY Apron
+          N056.18.28.520 E010.37.15.906	; TWY Apron
+          N056.18.29.426 E010.37.16.184	; TWY Apron
+          N056.18.29.220 E010.37.18.124	; TWY Apron
+          N056.18.28.328 E010.37.17.849	; TWY Apron
+          N056.18.28.163 E010.37.19.494	; TWY Apron
+          N056.18.28.396 E010.37.19.573	; TWY Apron
+          N056.18.29.069 E010.37.20.510	; TWY Apron
+          N056.18.29.564 E010.37.20.651	; TWY Apron
+          N056.18.29.193 E010.37.24.307	; TWY Apron
+          N056.18.28.699 E010.37.24.204	; TWY Apron
+          N056.18.28.616 E010.37.26.566	; TWY Apron
+          N056.18.31.198 E010.37.27.184	; TWY Apron
+          N056.18.30.662 E010.37.30.587	; TWY Apron
+          N056.18.30.882 E010.37.30.755	; TWY Apron
+          N056.18.30.346 E010.37.32.018	; TWY Apron
+          N056.18.29.042 E010.37.31.582	; TWY Apron
+          N056.18.27.531 E010.37.30.964 ;
+          N056.18.27.408 E010.37.31.754	; TWY Apron
+          N056.18.25.842 E010.37.46.448	; TWY Apron
+          N056.18.25.622 E010.37.46.115	; TWY Apron
+          N056.18.25.471 E010.37.46.019	; TWY Apron
+          N056.18.23.576 E010.37.46.839	; TWY Apron
+          N056.18.21.571 E010.37.49.205	; TWY Apron
+          N056.18.16.298 E010.37.47.502	; TWY Apron
+          N056.18.16.051 E010.37.47.574	; TWY Apron
+          N056.18.15.858 E010.37.47.718	; TWY Apron
+          N056.18.15.693 E010.37.47.931	; TWY Apron
+          N056.18.15.529 E010.37.48.196	; TWY Apron
+          N056.18.15.433 E010.37.48.467	; TWY Apron
+          N056.18.15.303 E010.37.49.091
+;
+          N056.18.10.387 E010.38.30.780	; TWY TWY X Outer
+          N056.18.09.459 E010.38.30.016	; TWY TWY X Outer
+          N056.18.08.566 E010.38.30.644	; TWY TWY X Outer
+          N056.18.07.825 E010.38.30.445	; TWY TWY X Outer
+          N056.18.07.220 E010.38.30.036	; TWY TWY X Outer
+          N056.18.06.753 E010.38.29.635	; TWY TWY X Outer
+          N056.18.06.314 E010.38.29.147	; TWY TWY X Outer
+          N056.18.05.847 E010.38.28.406	; TWY TWY X Outer
+          N056.18.05.710 E010.38.28.114	; TWY TWY X Outer
+          N056.18.05.435 E010.38.26.480	; TWY TWY X Outer
+          N056.18.05.119 E010.38.26.188	; TWY TWY X Outer
+          N056.18.04.858 E010.38.26.105
+;
+          N056.18.03.542 E010.38.24.790	; TWY South Outer East
+          N056.18.02.977 E010.38.24.279	; TWY South Outer
+          N056.18.02.565 E010.38.24.567	; TWY South Outer
+          N056.18.02.194 E010.38.24.859	; TWY South Outer
+          N056.18.01.878 E010.38.24.880	; TWY South Outer
+          N056.18.01.452 E010.38.24.739	; TWY South Outer
+          N056.18.00.834 E010.38.24.406	; TWY South Outer
+          N056.18.00.381 E010.38.23.984	; TWY South Outer
+          N056.17.59.887 E010.38.23.369	; TWY South Outer
+          N056.17.59.585 E010.38.22.885	; TWY South Outer
+          N056.17.59.324 E010.38.22.353	; TWY South Outer
+          N056.17.59.159 E010.38.21.683	; TWY South Outer
+          N056.17.59.104 E010.38.21.100	; TWY South Outer
+          N056.17.59.159 E010.38.20.894	; TWY South Outer
+          N056.17.51.235 E010.38.13.883	; TWY South Outer
+          N056.17.50.878 E010.38.13.828	; TWY South Outer
+          N056.17.50.562 E010.38.14.103	; TWY South Outer
+          N056.17.50.370 E010.38.14.329	; TWY South Outer
+          N056.17.50.178 E010.38.14.824	; TWY South Outer
+          N056.17.50.137 E010.38.15.078	; TWY South Outer
+          N056.17.50.164 E010.38.15.280	; TWY South Outer
+          N056.17.50.205 E010.38.15.545	; TWY South Outer
+          N056.17.50.233 E010.38.15.771	; TWY South Outer
+          N056.17.50.205 E010.38.16.025	; TWY South Outer
+          N056.17.50.150 E010.38.16.238	; TWY South Outer
+          N056.17.50.068 E010.38.16.430	; TWY South Outer
+          N056.17.49.985 E010.38.16.564	; TWY South Outer
+          N056.17.49.876 E010.38.16.636	; TWY South Outer
+          N056.17.49.779 E010.38.16.678	; TWY South Outer
+          N056.17.49.834 E010.38.17.666	; TWY South Outer
+          N056.17.49.024 E010.38.17.605	; TWY South Outer
+          N056.17.49.244 E010.38.16.204	; TWY South Outer
+          N056.17.49.203 E010.38.15.994	; TWY South Outer
+          N056.17.49.189 E010.38.15.761	; TWY South Outer
+          N056.17.49.216 E010.38.15.455	; TWY South Outer
+          N056.17.49.285 E010.38.15.243	; TWY South Outer
+          N056.17.49.395 E010.38.15.019	; TWY South Outer
+          N056.17.49.546 E010.38.14.875	; TWY South Outer
+          N056.17.49.642 E010.38.14.813	; TWY South Outer
+          N056.17.49.779 E010.38.14.662	; TWY South Outer
+          N056.17.49.862 E010.38.14.237	; TWY South Outer
+          N056.17.49.917 E010.38.13.962	; TWY South Outer
+          N056.17.49.931 E010.38.13.663	; TWY South Outer
+          N056.17.49.903 E010.38.13.306	; TWY South Outer
+          N056.17.49.848 E010.38.12.980	; TWY South Outer
+          N056.17.49.711 E010.38.12.609	; TWY South Outer
+          N056.17.49.615 E010.38.12.462	; TWY South Outer
+          N056.17.48.804 E010.38.11.744	; TWY South Outer
+          N056.17.48.626 E010.38.11.675	; TWY South Outer
+          N056.17.48.406 E010.38.11.724	; TWY South Outer
+          N056.17.48.173 E010.38.11.919	; TWY South Outer
+          N056.17.47.912 E010.38.12.314	; TWY South Outer
+          N056.17.47.939 E010.38.12.585	; TWY South Outer
+          N056.17.47.912 E010.38.12.932	; TWY South Outer
+          N056.17.47.816 E010.38.13.272	; TWY South Outer
+          N056.17.47.665 E010.38.13.529	; TWY South Outer
+          N056.17.47.445 E010.38.13.687	; TWY South Outer
+          N056.17.47.211 E010.38.13.680	; TWY South Outer
+          N056.17.47.047 E010.38.13.574	; TWY South Outer
+          N056.17.46.992 E010.38.13.478	; TWY South Outer
+          N056.17.46.442 E010.38.13.251	; TWY South Outer
+          N056.17.46.511 E010.38.12.352	; TWY South Outer
+          N056.17.46.786 E010.38.12.414	; TWY South Outer
+          N056.17.46.813 E010.38.12.197	; TWY South Outer
+          N056.17.46.896 E010.38.11.988	; TWY South Outer
+          N056.17.47.005 E010.38.11.796	; TWY South Outer
+          N056.17.47.143 E010.38.11.686	; TWY South Outer
+          N056.17.47.321 E010.38.11.651	; TWY South Outer
+          N056.17.47.541 E010.38.11.689	; TWY South Outer
+          N056.17.47.637 E010.38.11.452	; TWY South Outer
+          N056.17.47.651 E010.38.11.209	; TWY South Outer
+          N056.17.47.596 E010.38.10.680	; TWY South Outer
+          N056.17.46.539 E010.38.09.729	; TWY South Outer
+          N056.17.46.305 E010.38.09.626	; TWY South Outer
+          N056.17.46.003 E010.38.09.564	; TWY South Outer
+          N056.17.45.838 E010.38.09.585	; TWY South Outer
+          N056.17.45.687 E010.38.09.650	; TWY South Outer
+          N056.17.45.385 E010.38.09.873	; TWY South Outer
+          N056.17.45.385 E010.38.10.247	; TWY South Outer
+          N056.17.45.316 E010.38.10.529	; TWY South Outer
+          N056.17.45.193 E010.38.10.803	; TWY South Outer
+          N056.17.45.028 E010.38.10.996	; TWY South Outer
+          N056.17.44.822 E010.38.11.068	; TWY South Outer
+          N056.17.44.575 E010.38.10.989	; TWY South Outer
+          N056.17.44.355 E010.38.10.748	; TWY South Outer
+          N056.17.44.259 E010.38.10.474	; TWY South Outer
+          N056.17.44.204 E010.38.10.110	; TWY South Outer
+          N056.17.44.231 E010.38.09.722	; TWY South Outer
+          N056.17.44.328 E010.38.09.361	; TWY South Outer
+          N056.17.44.479 E010.38.09.097	; TWY South Outer
+          N056.17.44.712 E010.38.08.956	; TWY South Outer
+          N056.17.44.918 E010.38.08.956	; TWY South Outer
+          N056.17.45.138 E010.38.09.125	; TWY South Outer
+          N056.17.45.467 E010.38.08.774	; TWY South Outer
+          N056.17.42.817 E010.38.06.357	; TWY South Outer
+          N056.17.43.092 E010.38.05.482	; TWY South Outer
+          N056.17.46.017 E010.38.08.160	; TWY South Outer
+          N056.17.46.484 E010.38.07.676	; TWY South Outer
+          N056.17.46.621 E010.38.07.422	; TWY South Outer
+          N056.17.46.717 E010.38.07.130	; TWY South Outer
+          N056.17.46.772 E010.38.06.835	; TWY South Outer
+          N056.17.46.772 E010.38.06.481	; TWY South Outer
+          N056.17.46.690 E010.38.05.894	; TWY South Outer
+          N056.17.46.580 E010.38.05.458	; TWY South Outer
+          N056.17.46.456 E010.38.05.190	; TWY South Outer
+          N056.17.46.250 E010.38.04.891	; TWY South Outer
+          N056.17.46.044 E010.38.04.730	; TWY South Outer
+          N056.17.45.852 E010.38.04.665	; TWY South Outer
+          N056.17.45.687 E010.38.04.716	; TWY South Outer
+          N056.17.45.371 E010.38.04.878	; TWY South Outer
+          N056.17.45.289 E010.38.05.025	; TWY South Outer
+          N056.17.45.261 E010.38.05.245	; TWY South Outer
+          N056.17.45.220 E010.38.05.430	; TWY South Outer
+          N056.17.45.097 E010.38.05.626	; TWY South Outer
+          N056.17.44.932 E010.38.05.811	; TWY South Outer
+          N056.17.44.712 E010.38.05.887	; TWY South Outer
+          N056.17.44.520 E010.38.05.811	; TWY South Outer
+          N056.17.44.314 E010.38.05.633	; TWY South Outer
+          N056.17.44.204 E010.38.05.406	; TWY South Outer
+          N056.17.44.122 E010.38.05.094	; TWY South Outer
+          N056.17.44.122 E010.38.04.788	; TWY South Outer
+          N056.17.44.176 E010.38.04.449	; TWY South Outer
+          N056.17.44.300 E010.38.04.095	; TWY South Outer
+          N056.17.44.451 E010.38.03.903	; TWY South Outer
+          N056.17.44.602 E010.38.03.813	; TWY South Outer
+          N056.17.44.753 E010.38.03.800	; TWY South Outer
+          N056.17.44.918 E010.38.03.844	; TWY South Outer
+          N056.17.45.000 E010.38.03.944	; TWY South Outer
+          N056.17.45.124 E010.38.04.026	; TWY South Outer
+          N056.17.45.275 E010.38.04.002	; TWY South Outer
+          N056.17.45.509 E010.38.03.837	; TWY South Outer
+          N056.17.45.742 E010.38.03.549	; TWY South Outer
+          N056.17.45.866 E010.38.03.161	; TWY South Outer
+          N056.17.45.934 E010.38.02.797	; TWY South Outer
+          N056.17.45.962 E010.38.02.258	; TWY South Outer
+          N056.17.45.824 E010.38.01.159	; TWY South Outer
+          N056.17.45.742 E010.38.00.809	; TWY South Outer
+          N056.17.45.563 E010.38.00.480	; TWY South Outer
+          N056.17.45.440 E010.38.00.281	; TWY South Outer
+          N056.17.45.165 E010.38.00.085	; TWY South Outer
+          N056.17.44.932 E010.38.00.054	; TWY South Outer
+          N056.17.44.712 E010.38.00.140	; TWY South Outer
+          N056.17.44.602 E010.38.00.315	; TWY South Outer
+          N056.17.44.465 E010.38.00.638	; TWY South Outer
+          N056.17.44.273 E010.38.00.813	; TWY South Outer
+          N056.17.43.984 E010.38.00.840	; TWY South Outer
+          N056.17.43.723 E010.38.00.644	; TWY South Outer
+          N056.17.43.572 E010.38.00.346	; TWY South Outer
+          N056.17.43.476 E010.37.59.934	; TWY South Outer
+          N056.17.43.490 E010.37.59.608	; TWY South Outer
+          N056.17.43.572 E010.37.59.271	; TWY South Outer
+          N056.17.43.696 E010.37.59.003	; TWY South Outer
+          N056.17.43.888 E010.37.58.804	; TWY South Outer
+          N056.17.44.094 E010.37.58.729	; TWY South Outer
+          N056.17.44.328 E010.37.58.787	; TWY South Outer
+          N056.17.44.506 E010.37.59.031	; TWY South Outer
+          N056.17.44.588 E010.37.59.196	; TWY South Outer
+          N056.17.44.671 E010.37.59.251	; TWY South Outer
+          N056.17.44.849 E010.37.59.209	; TWY South Outer
+          N056.17.45.179 E010.37.59.021	; TWY South Outer
+          N056.17.45.385 E010.37.58.691	; TWY South Outer
+          N056.17.45.536 E010.37.58.306	; TWY South Outer
+          N056.17.45.618 E010.37.57.864	; TWY South Outer
+          N056.17.45.632 E010.37.56.693	; TWY South Outer
+          N056.17.45.591 E010.37.56.222	; TWY South Outer
+          N056.17.45.495 E010.37.55.872	; TWY South Outer
+          N056.17.45.385 E010.37.55.659	; TWY South Outer
+          N056.17.45.151 E010.37.55.416	; TWY South Outer
+          N056.17.44.987 E010.37.55.296	; TWY South Outer
+          N056.17.44.987 E010.37.55.302	; TWY South Outer
+          N056.17.44.616 E010.37.55.172	; TWY South Outer
+          N056.17.44.533 E010.37.55.412	; TWY South Outer
+          N056.17.44.382 E010.37.55.598	; TWY South Outer
+          N056.17.44.176 E010.37.55.677	; TWY South Outer
+          N056.17.43.888 E010.37.55.618	; TWY South Outer
+          N056.17.43.696 E010.37.55.374	; TWY South Outer
+          N056.17.43.558 E010.37.55.093	; TWY South Outer
+          N056.17.43.119 E010.37.54.551	; TWY South Outer
+          N056.17.43.421 E010.37.53.764	; TWY South Outer
+          N056.17.43.627 E010.37.54.005	; TWY South Outer
+          N056.17.43.723 E010.37.53.785	; TWY South Outer
+          N056.17.43.929 E010.37.53.579	; TWY South Outer
+          N056.17.44.149 E010.37.53.531	; TWY South Outer
+          N056.17.44.369 E010.37.53.648	; TWY South Outer
+          N056.17.44.533 E010.37.53.847	; TWY South Outer
+          N056.17.44.630 E010.37.54.084	; TWY South Outer
+          N056.17.44.671 E010.37.54.286	; TWY South Outer
+          N056.17.45.083 E010.37.54.413	; TWY South Outer
+          N056.17.45.385 E010.37.54.283	; TWY South Outer
+          N056.17.45.591 E010.37.54.070	; TWY South Outer
+          N056.17.45.742 E010.37.53.854	; TWY South Outer
+          N056.17.45.852 E010.37.53.390	; TWY South Outer
+          N056.17.46.017 E010.37.52.192	; TWY South Outer
+          N056.17.46.030 E010.37.51.718	; TWY South Outer
+          N056.17.45.934 E010.37.51.241	; TWY South Outer
+          N056.17.45.769 E010.37.50.870	; TWY South Outer
+          N056.17.45.563 E010.37.50.599	; TWY South Outer
+          N056.17.45.385 E010.37.50.413	; TWY South Outer
+          N056.17.45.193 E010.37.50.359	; TWY South Outer
+          N056.17.45.083 E010.37.50.434	; TWY South Outer
+          N056.17.44.891 E010.37.50.527	; TWY South Outer
+          N056.17.44.643 E010.37.50.489	; TWY South Outer
+          N056.17.44.451 E010.37.50.276	; TWY South Outer
+          N056.17.44.341 E010.37.50.022	; TWY South Outer
+          N056.17.44.314 E010.37.49.778	; TWY South Outer
+          N056.17.43.668 E010.37.48.882	; TWY South Outer
+          N056.17.44.245 E010.37.47.986	; TWY South Outer
+          N056.17.44.561 E010.37.48.820	; TWY South Outer
+          N056.17.44.739 E010.37.48.687	; TWY South Outer
+          N056.17.44.904 E010.37.48.697	; TWY South Outer
+          N056.17.45.055 E010.37.48.776	; TWY South Outer
+          N056.17.45.206 E010.37.48.999	; TWY South Outer
+          N056.17.45.303 E010.37.49.253	; TWY South Outer
+          N056.17.45.344 E010.37.49.490	; TWY South Outer
+          N056.17.45.509 E010.37.49.710	; TWY South Outer
+          N056.17.45.701 E010.37.49.713	; TWY South Outer
+          N056.17.45.879 E010.37.49.782	; TWY South Outer
+          N056.17.46.127 E010.37.49.744	; TWY South Outer
+          N056.17.46.360 E010.37.49.617	; TWY South Outer
+          N056.17.46.511 E010.37.49.384	; TWY South Outer
+          N056.17.46.662 E010.37.49.126	; TWY South Outer
+          N056.17.46.978 E010.37.48.010	; TWY South Outer
+          N056.17.47.033 E010.37.47.584	; TWY South Outer
+          N056.17.47.005 E010.37.47.131	; TWY South Outer
+          N056.17.46.937 E010.37.46.785	; TWY South Outer
+          N056.17.46.827 E010.37.46.503	; TWY South Outer
+          N056.17.46.635 E010.37.46.197	; TWY South Outer
+          N056.17.46.429 E010.37.45.933	; TWY South Outer
+          N056.17.46.236 E010.37.46.053	; TWY South Outer
+          N056.17.46.017 E010.37.46.081	; TWY South Outer
+          N056.17.45.838 E010.37.45.978	; TWY South Outer
+          N056.17.45.687 E010.37.45.765	; TWY South Outer
+          N056.17.45.605 E010.37.45.535	; TWY South Outer
+          N056.17.45.522 E010.37.45.150	; TWY South Outer
+          N056.17.45.550 E010.37.44.721	; TWY South Outer
+          N056.17.45.618 E010.37.44.447	; TWY South Outer
+          N056.17.45.687 E010.37.44.278	; TWY South Outer
+          N056.17.45.811 E010.37.43.403	; TWY South Outer
+          N056.17.46.305 E010.37.43.640	; TWY South Outer
+          N056.17.46.264 E010.37.43.997	; TWY South Outer
+          N056.17.46.387 E010.37.44.072	; TWY South Outer
+          N056.17.46.511 E010.37.44.223	; TWY South Outer
+          N056.17.46.607 E010.37.44.443	; TWY South Outer
+          N056.17.46.676 E010.37.44.735	; TWY South Outer
+          N056.17.46.703 E010.37.44.979	; TWY South Outer
+          N056.17.46.703 E010.37.45.188	; TWY South Outer
+          N056.17.46.964 E010.37.45.518	; TWY South Outer
+          N056.17.47.211 E010.37.45.662	; TWY South Outer
+          N056.17.47.472 E010.37.45.707	; TWY South Outer
+          N056.17.47.678 E010.37.45.634	; TWY South Outer
+          N056.17.47.898 E010.37.45.428	; TWY South Outer
+          N056.17.48.475 E010.37.44.357	; TWY South Outer
+          N056.17.48.557 E010.37.43.887	; TWY South Outer
+          N056.17.48.585 E010.37.43.482	; TWY South Outer
+          N056.17.48.571 E010.37.43.128	; TWY South Outer
+          N056.17.48.502 E010.37.42.768	; TWY South Outer
+          N056.17.48.406 E010.37.42.538	; TWY South Outer
+          N056.17.48.200 E010.37.42.095	; TWY South Outer
+          N056.17.47.953 E010.37.42.163	; TWY South Outer
+          N056.17.47.706 E010.37.42.054	; TWY South Outer
+          N056.17.47.527 E010.37.41.758	; TWY South Outer
+          N056.17.47.390 E010.37.41.271	; TWY South Outer
+          N056.17.47.417 E010.37.40.804	; TWY South Outer
+          N056.17.47.500 E010.37.40.457	; TWY South Outer
+          N056.17.47.678 E010.37.40.176	; TWY South Outer
+          N056.17.47.884 E010.37.40.079	; TWY South Outer
+          N056.17.48.200 E010.37.40.114	; TWY South Outer
+          N056.17.48.392 E010.37.40.364	; TWY South Outer
+          N056.17.48.502 E010.37.40.608	; TWY South Outer
+          N056.17.48.585 E010.37.40.962	; TWY South Outer
+          N056.17.48.585 E010.37.41.291	; TWY South Outer
+          N056.17.48.530 E010.37.41.504	; TWY South Outer
+          N056.17.48.750 E010.37.41.944	; TWY South Outer
+          N056.17.49.024 E010.37.42.218	; TWY South Outer
+          N056.17.49.326 E010.37.42.349	; TWY South Outer
+          N056.17.49.587 E010.37.42.270	; TWY South Outer
+          N056.17.49.807 E010.37.42.160	; TWY South Outer
+          N056.17.50.494 E010.37.41.247	; TWY South Outer
+          N056.17.51.359 E010.37.40.364	; TWY South Outer
+          N056.17.52.155 E010.37.39.688	; TWY South Outer
+          N056.17.53.117 E010.37.39.286	; TWY South Outer
+          N056.17.53.542 E010.37.39.211	; TWY South Outer
+          N056.17.53.666 E010.37.39.053	; TWY South Outer
+          N056.17.53.735 E010.37.38.892	; TWY South Outer
+          N056.17.53.762 E010.37.38.744	; TWY South Outer
+          N056.17.53.789 E010.37.37.419	; TWY South Outer
+          N056.17.53.240 E010.37.37.408	; TWY South Outer
+          N056.17.53.268 E010.37.34.827	; TWY South Outer
+          N056.17.54.888 E010.37.34.919	; TWY South Outer
+          N056.17.54.847 E010.37.37.511	; TWY South Outer
+          N056.17.54.572 E010.37.37.501	; TWY South Outer
+          N056.17.54.462 E010.37.37.587	; TWY South Outer
+          N056.17.54.353 E010.37.37.738	; TWY South Outer
+          N056.17.54.284 E010.37.37.954	; TWY South Outer
+          N056.17.54.270 E010.37.38.212	; TWY South Outer
+          N056.17.54.256 E010.37.38.957	; TWY South Outer
+          N056.17.54.298 E010.37.39.118	; TWY South Outer
+          N056.17.54.353 E010.37.39.207	; TWY South Outer
+          N056.17.54.462 E010.37.39.262	; TWY South Outer
+          N056.17.54.806 E010.37.39.379	; TWY South Outer
+          N056.17.55.904 E010.37.39.736	; TWY South Outer
+          N056.17.57.209 E010.37.40.189	; TWY South Outer
+          N056.17.57.333 E010.37.40.100	; TWY South Outer
+          N056.17.57.401 E010.37.39.990	; TWY South Outer
+          N056.17.57.456 E010.37.39.791	; TWY South Outer
+          N056.17.57.470 E010.37.39.578	; TWY South Outer
+          N056.17.57.442 E010.37.39.407	; TWY South Outer
+          N056.17.57.374 E010.37.39.231	; TWY South Outer
+          N056.17.57.291 E010.37.38.936	; TWY South Outer
+          N056.17.57.264 E010.37.38.631	; TWY South Outer
+          N056.17.57.278 E010.37.38.315	; TWY South Outer
+          N056.17.57.360 E010.37.38.078	; TWY South Outer
+          N056.17.57.497 E010.37.37.824	; TWY South Outer
+          N056.17.57.635 E010.37.37.714	; TWY South Outer
+          N056.17.57.827 E010.37.37.673	; TWY South Outer
+          N056.17.57.992 E010.37.37.779	; TWY South Outer
+          N056.17.58.198 E010.37.36.914	; TWY South Outer
+          N056.17.58.802 E010.37.37.711	; TWY South Outer
+          N056.17.58.280 E010.37.38.771	; TWY South Outer
+          N056.17.58.239 E010.37.38.974	; TWY South Outer
+          N056.17.58.170 E010.37.39.194	; TWY South Outer
+          N056.17.58.074 E010.37.39.372	; TWY South Outer
+          N056.17.57.964 E010.37.39.492	; TWY South Outer
+          N056.17.57.896 E010.37.39.667	; TWY South Outer
+          N056.17.57.854 E010.37.39.829	; TWY South Outer
+          N056.17.57.841 E010.37.39.983	; TWY South Outer
+          N056.17.57.854 E010.37.40.107	; TWY South Outer
+          N056.17.57.896 E010.37.40.327	; TWY South Outer
+          N056.17.57.951 E010.37.40.406	; TWY South Outer
+          N056.18.00.560 E010.37.41.254	; TWY South Outer
+          N056.18.00.876 E010.37.41.226	; TWY South Outer
+          N056.18.01.260 E010.37.40.941	; TWY South Outer
+          N056.18.01.494 E010.37.40.540	; TWY South Outer
+          N056.18.01.617 E010.37.40.079	; TWY South Outer
+          N056.18.09.294 E010.36.23.961	; TWY South Outer
+          N056.18.09.266 E010.36.23.481	; TWY South Outer
+          N056.18.09.170 E010.36.23.014	; TWY South Outer
+          N056.18.09.019 E010.36.22.653	; TWY South Outer
+          N056.18.08.703 E010.36.22.265	; TWY South Outer
+          N056.18.08.525 E010.36.22.173	; TWY South Outer
+          N056.18.04.515 E010.36.20.895	; TWY South Outer
+          N056.18.04.350 E010.36.22.516	; TWY South Outer
+          N056.18.04.034 E010.36.22.410	; TWY South Outer
+          N056.18.04.199 E010.36.20.789	; TWY South Outer
+          N056.18.02.579 E010.36.20.229	; TWY South Outer
+          N056.18.02.359 E010.36.20.209	; TWY South Outer
+          N056.18.02.221 E010.36.20.291	; TWY South Outer
+          N056.18.02.153 E010.36.20.463	; TWY South Outer
+          N056.18.02.070 E010.36.20.672	; TWY South Outer
+          N056.18.01.988 E010.36.21.160	; TWY South Outer
+          N056.18.01.988 E010.36.21.562	; TWY South Outer
+          N056.18.02.070 E010.36.21.750	; TWY South Outer
+          N056.18.02.139 E010.36.21.884	; TWY South Outer
+          N056.18.02.400 E010.36.21.994	; TWY South Outer
+          N056.18.01.933 E010.36.24.463	; TWY South Outer
+          N056.18.00.422 E010.36.23.618	; TWY South Outer
+          N056.18.00.821 E010.36.21.342	; TWY South Outer
+          N056.18.00.958 E010.36.21.153	; TWY South Outer
+          N056.18.01.205 E010.36.21.297	; TWY South Outer
+          N056.18.01.384 E010.36.21.146	; TWY South Outer
+          N056.18.01.452 E010.36.20.995	; TWY South Outer
+          N056.18.01.562 E010.36.20.655	; TWY South Outer
+          N056.18.01.617 E010.36.20.284	; TWY South Outer
+          N056.18.01.631 E010.36.20.013	; TWY South Outer
+          N056.18.01.549 E010.36.19.708	; TWY South Outer
+          N056.18.01.329 E010.36.19.481	; TWY South Outer
+          N056.18.00.670 E010.36.18.908	; TWY South Outer
+          N056.18.00.079 E010.36.18.279	; TWY South Outer
+          N056.17.59.640 E010.36.17.685	; TWY South Outer
+          N056.17.59.077 E010.36.16.813	; TWY South Outer
+          N056.17.58.747 E010.36.16.254	; TWY South Outer
+          N056.17.58.569 E010.36.16.051	; TWY South Outer
+          N056.17.58.390 E010.36.15.948	; TWY South Outer
+          N056.17.58.184 E010.36.15.986	; TWY South Outer
+          N056.17.57.909 E010.36.16.068	; TWY South Outer
+          N056.17.57.703 E010.36.16.209	; TWY South Outer
+          N056.17.57.552 E010.36.16.371	; TWY South Outer
+          N056.17.57.442 E010.36.16.628	; TWY South Outer
+          N056.17.57.429 E010.36.16.910	; TWY South Outer
+          N056.17.57.388 E010.36.17.263	; TWY South Outer
+          N056.17.57.264 E010.36.17.493	; TWY South Outer
+          N056.17.57.154 E010.36.17.658	; TWY South Outer
+          N056.17.57.072 E010.36.17.675	; TWY South Outer
+          N056.17.57.168 E010.36.18.489	; TWY South Outer
+          N056.17.56.509 E010.36.18.636	; TWY South Outer
+          N056.17.56.522 E010.36.17.479	; TWY South Outer
+          N056.17.56.426 E010.36.16.793	; TWY South Outer
+          N056.17.56.467 E010.36.16.484	; TWY South Outer
+          N056.17.56.564 E010.36.16.171	; TWY South Outer
+          N056.17.56.673 E010.36.15.972	; TWY South Outer
+          N056.17.56.838 E010.36.15.897	; TWY South Outer
+          N056.17.57.017 E010.36.15.904	; TWY South Outer
+          N056.17.57.113 E010.36.15.941	; TWY South Outer
+          N056.17.57.195 E010.36.15.928	; TWY South Outer
+          N056.17.57.305 E010.36.15.838	; TWY South Outer
+          N056.17.57.442 E010.36.15.625	; TWY South Outer
+          N056.17.57.635 E010.36.15.186	; TWY South Outer
+          N056.17.57.758 E010.36.14.695	; TWY South Outer
+          N056.17.57.799 E010.36.14.396	; TWY South Outer
+          N056.17.57.731 E010.36.13.912	; TWY South Outer
+          N056.17.57.607 E010.36.13.390	; TWY South Outer
+          N056.17.57.374 E010.36.12.663	; TWY South Outer
+          N056.17.57.236 E010.36.12.350	; TWY South Outer
+          N056.17.57.099 E010.36.12.168	; TWY South Outer
+          N056.17.56.934 E010.36.11.983	; TWY South Outer
+          N056.17.56.715 E010.36.11.890	; TWY South Outer
+          N056.17.56.509 E010.36.11.911	; TWY South Outer
+          N056.17.56.275 E010.36.12.024	; TWY South Outer
+          N056.17.56.000 E010.36.12.158	; TWY South Outer
+          N056.17.55.987 E010.36.12.415	; TWY South Outer
+          N056.17.55.904 E010.36.12.714	; TWY South Outer
+          N056.17.55.767 E010.36.12.978	; TWY South Outer
+          N056.17.55.602 E010.36.13.106	; TWY South Outer
+          N056.17.55.451 E010.36.13.119	; TWY South Outer
+          N056.17.55.245 E010.36.13.044	; TWY South Outer
+          N056.17.55.122 E010.36.12.896	; TWY South Outer
+          N056.17.55.012 E010.36.12.676	; TWY South Outer
+          N056.17.54.971 E010.36.12.518	; TWY South Outer
+          N056.17.54.298 E010.36.11.842	; TWY South Outer
+          N056.17.54.806 E010.36.10.740	; TWY South Outer
+          N056.17.55.122 E010.36.11.512	; TWY South Outer
+          N056.17.55.286 E010.36.11.372	; TWY South Outer
+          N056.17.55.437 E010.36.11.337	; TWY South Outer
+          N056.17.55.575 E010.36.11.355	; TWY South Outer
+          N056.17.55.698 E010.36.11.403	; TWY South Outer
+          N056.17.55.808 E010.36.11.530	; TWY South Outer
+          N056.17.55.973 E010.36.11.461	; TWY South Outer
+          N056.17.56.124 E010.36.11.296	; TWY South Outer
+          N056.17.56.316 E010.36.11.066	; TWY South Outer
+          N056.17.56.454 E010.36.10.788	; TWY South Outer
+          N056.17.56.564 E010.36.10.524	; TWY South Outer
+          N056.17.56.646 E010.36.10.232	; TWY South Outer
+          N056.17.56.646 E010.36.09.882	; TWY South Outer
+          N056.17.56.632 E010.36.09.549	; TWY South Outer
+          N056.17.56.426 E010.36.08.385	; TWY South Outer
+          N056.17.56.316 E010.36.08.038	; TWY South Outer
+          N056.17.56.206 E010.36.07.770	; TWY South Outer
+          N056.17.56.069 E010.36.07.595	; TWY South Outer
+          N056.17.55.877 E010.36.07.468	; TWY South Outer
+          N056.17.55.630 E010.36.07.399	; TWY South Outer
+          N056.17.55.355 E010.36.07.454	; TWY South Outer
+          N056.17.55.149 E010.36.07.592	; TWY South Outer
+          N056.17.55.108 E010.36.07.853	; TWY South Outer
+          N056.17.54.998 E010.36.08.055	; TWY South Outer
+          N056.17.54.833 E010.36.08.237	; TWY South Outer
+          N056.17.54.641 E010.36.08.316	; TWY South Outer
+          N056.17.54.421 E010.36.08.251	; TWY South Outer
+          N056.17.54.215 E010.36.08.041	; TWY South Outer
+          N056.17.54.119 E010.36.07.787	; TWY South Outer
+          N056.17.54.050 E010.36.07.489	; TWY South Outer
+          N056.17.54.023 E010.36.07.145	; TWY South Outer
+          N056.17.54.064 E010.36.06.891	; TWY South Outer
+          N056.17.54.174 E010.36.06.558	; TWY South Outer
+          N056.17.54.366 E010.36.06.294	; TWY South Outer
+          N056.17.54.545 E010.36.06.177	; TWY South Outer
+          N056.17.54.710 E010.36.06.160	; TWY South Outer
+          N056.17.54.902 E010.36.06.291	; TWY South Outer
+          N056.17.55.067 E010.36.06.569	; TWY South Outer
+          N056.17.55.135 E010.36.06.634	; TWY South Outer
+          N056.17.55.465 E010.36.06.514	; TWY South Outer
+          N056.17.55.753 E010.36.06.246	; TWY South Outer
+          N056.17.55.891 E010.36.06.061	; TWY South Outer
+          N056.17.55.987 E010.36.05.803	; TWY South Outer
+          N056.17.56.097 E010.36.05.357	; TWY South Outer
+          N056.17.56.055 E010.36.03.815	; TWY South Outer
+          N056.17.55.973 E010.36.03.365	; TWY South Outer
+          N056.17.55.877 E010.36.03.115	; TWY South Outer
+          N056.17.55.671 E010.36.02.771	; TWY South Outer
+          N056.17.55.437 E010.36.02.552	; TWY South Outer
+          N056.17.55.204 E010.36.02.469	; TWY South Outer
+          N056.17.54.929 E010.36.02.339	; TWY South Outer
+          N056.17.54.819 E010.36.02.428	; TWY South Outer
+          N056.17.54.627 E010.36.02.699	; TWY South Outer
+          N056.17.54.421 E010.36.02.871	; TWY South Outer
+          N056.17.54.229 E010.36.02.885	; TWY South Outer
+          N056.17.54.037 E010.36.02.741	; TWY South Outer
+          N056.17.53.844 E010.36.02.421	; TWY South Outer
+          N056.17.53.776 E010.36.02.081	; TWY South Outer
+          N056.17.53.776 E010.36.01.845	; TWY South Outer
+          N056.17.53.295 E010.36.00.777	; TWY South Outer
+          N056.17.53.941 E010.36.00.162	; TWY South Outer
+          N056.17.54.147 E010.36.01.100	; TWY South Outer
+          N056.17.54.325 E010.36.01.051	; TWY South Outer
+          N056.17.54.462 E010.36.01.106	; TWY South Outer
+          N056.17.54.613 E010.36.01.281	; TWY South Outer
+          N056.17.54.723 E010.36.01.515	; TWY South Outer
+          N056.17.54.792 E010.36.01.673	; TWY South Outer
+          N056.17.54.957 E010.36.01.759	; TWY South Outer
+          N056.17.55.314 E010.36.01.635	; TWY South Outer
+          N056.17.55.534 E010.36.01.614	; TWY South Outer
+          N056.17.55.712 E010.36.01.470	; TWY South Outer
+          N056.17.55.877 E010.36.01.275	; TWY South Outer
+          N056.17.56.000 E010.36.01.021	; TWY South Outer
+          N056.17.56.124 E010.36.00.619	; TWY South Outer
+          N056.17.56.248 E010.35.59.242	; TWY South Outer
+          N056.17.56.234 E010.35.58.923	; TWY South Outer
+          N056.17.56.206 E010.35.58.628	; TWY South Outer
+          N056.17.56.124 E010.35.58.353	; TWY South Outer
+          N056.17.56.028 E010.35.58.140	; TWY South Outer
+          N056.17.55.836 E010.35.57.845	; TWY South Outer
+          N056.17.55.671 E010.35.57.701	; TWY South Outer
+          N056.17.55.410 E010.35.57.532	; TWY South Outer
+          N056.17.55.259 E010.35.57.697	; TWY South Outer
+          N056.17.55.080 E010.35.57.845	; TWY South Outer
+          N056.17.54.888 E010.35.57.934	; TWY South Outer
+          N056.17.54.682 E010.35.57.824	; TWY South Outer
+          N056.17.54.531 E010.35.57.663	; TWY South Outer
+          N056.17.54.394 E010.35.57.282	; TWY South Outer
+          N056.17.54.325 E010.35.56.908	; TWY South Outer
+          N056.17.54.353 E010.35.56.526	; TWY South Outer
+          N056.17.54.462 E010.35.56.145	; TWY South Outer
+          N056.17.54.572 E010.35.55.912	; TWY South Outer
+          N056.17.54.765 E010.35.55.747	; TWY South Outer
+          N056.17.54.916 E010.35.55.747	; TWY South Outer
+          N056.17.55.149 E010.35.55.823	; TWY South Outer
+          N056.17.55.314 E010.35.56.042	; TWY South Outer
+          N056.17.55.437 E010.35.56.358	; TWY South Outer
+          N056.17.55.506 E010.35.56.698	; TWY South Outer
+          N056.17.55.849 E010.35.56.884	; TWY South Outer
+          N056.17.56.083 E010.35.56.894	; TWY South Outer
+          N056.17.56.275 E010.35.56.808	; TWY South Outer
+          N056.17.56.454 E010.35.56.691	; TWY South Outer
+          N056.17.56.564 E010.35.56.530	; TWY South Outer
+          N056.17.56.701 E010.35.56.255	; TWY South Outer
+          N056.17.56.770 E010.35.56.032	; TWY South Outer
+          N056.17.57.003 E010.35.55.016	; TWY South Outer
+          N056.17.57.058 E010.35.54.573	; TWY South Outer
+          N056.17.57.072 E010.35.54.209	; TWY South Outer
+          N056.17.57.003 E010.35.53.900	; TWY South Outer
+          N056.17.56.921 E010.35.53.581	; TWY South Outer
+          N056.17.56.783 E010.35.53.340	; TWY South Outer
+          N056.17.56.591 E010.35.53.073	; TWY South Outer
+          N056.17.56.371 E010.35.52.873	; TWY South Outer
+          N056.17.56.206 E010.35.53.028	; TWY South Outer
+          N056.17.55.959 E010.35.53.076	; TWY South Outer
+          N056.17.55.753 E010.35.52.976	; TWY South Outer
+          N056.17.55.588 E010.35.52.722	; TWY South Outer
+          N056.17.55.492 E010.35.52.386	; TWY South Outer
+          N056.17.55.451 E010.35.52.005	; TWY South Outer
+          N056.17.55.520 E010.35.51.541	; TWY South Outer
+          N056.17.55.643 E010.35.51.246	; TWY South Outer
+          N056.17.55.794 E010.35.51.054	; TWY South Outer
+          N056.17.55.946 E010.35.51.002	; TWY South Outer
+          N056.17.56.152 E010.35.50.996	; TWY South Outer
+          N056.17.56.385 E010.35.51.153	; TWY South Outer
+          N056.17.56.509 E010.35.51.425	; TWY South Outer
+          N056.17.56.591 E010.35.51.686	; TWY South Outer
+          N056.17.56.605 E010.35.51.964	; TWY South Outer
+          N056.17.56.591 E010.35.52.111	; TWY South Outer
+          N056.17.56.989 E010.35.52.455	; TWY South Outer
+          N056.17.57.223 E010.35.52.534	; TWY South Outer
+          N056.17.57.484 E010.35.52.468	; TWY South Outer
+          N056.17.57.676 E010.35.52.348	; TWY South Outer
+          N056.17.57.841 E010.35.52.149	; TWY South Outer
+          N056.17.57.937 E010.35.51.991	; TWY South Outer
+          N056.17.58.363 E010.35.50.920	; TWY South Outer
+          N056.17.58.472 E010.35.50.364	; TWY South Outer
+          N056.17.58.445 E010.35.49.914	; TWY South Outer
+          N056.17.58.363 E010.35.49.499	; TWY South Outer
+          N056.17.58.266 E010.35.49.217	; TWY South Outer
+          N056.17.58.170 E010.35.48.884	; TWY South Outer
+          N056.17.58.047 E010.35.48.685	; TWY South Outer
+          N056.17.57.923 E010.35.48.647	; TWY South Outer
+          N056.17.57.758 E010.35.48.709	; TWY South Outer
+          N056.17.57.580 E010.35.48.616	; TWY South Outer
+          N056.17.57.388 E010.35.48.397	; TWY South Outer
+          N056.17.57.305 E010.35.48.139	; TWY South Outer
+          N056.17.57.236 E010.35.47.796	; TWY South Outer
+          N056.17.57.236 E010.35.47.586	; TWY South Outer
+          N056.17.57.291 E010.35.47.312	; TWY South Outer
+          N056.17.57.360 E010.35.47.130	; TWY South Outer
+          N056.17.57.360 E010.35.45.753	; TWY South Outer
+          N056.17.58.047 E010.35.45.887	; TWY South Outer
+          N056.17.57.937 E010.35.46.907	; TWY South Outer
+          N056.17.58.088 E010.35.47.040	; TWY South Outer
+          N056.17.58.184 E010.35.47.264	; TWY South Outer
+          N056.17.58.253 E010.35.47.542	; TWY South Outer
+          N056.17.58.253 E010.35.47.809	; TWY South Outer
+          N056.17.58.253 E010.35.47.991	; TWY South Outer
+          N056.17.58.363 E010.35.48.304	; TWY South Outer
+          N056.17.58.541 E010.35.48.493	; TWY South Outer
+          N056.17.58.788 E010.35.48.736	; TWY South Outer
+          N056.17.59.063 E010.35.48.795	; TWY South Outer
+          N056.17.59.365 E010.35.48.750	; TWY South Outer
+          N056.17.59.557 E010.35.48.551	; TWY South Outer
+          N056.18.00.134 E010.35.47.682	; TWY South Outer
+          N056.18.00.271 E010.35.47.415	; TWY South Outer
+          N056.18.00.368 E010.35.47.010	; TWY South Outer
+          N056.18.00.354 E010.35.46.543	; TWY South Outer
+          N056.18.00.313 E010.35.46.234	; TWY South Outer
+          N056.18.00.230 E010.35.45.880	; TWY South Outer
+          N056.18.00.079 E010.35.45.451	; TWY South Outer
+          N056.17.59.983 E010.35.45.331	; TWY South Outer
+          N056.17.59.750 E010.35.45.300	; TWY South Outer
+          N056.17.59.585 E010.35.45.180	; TWY South Outer
+          N056.17.59.475 E010.35.44.908	; TWY South Outer
+          N056.17.59.379 E010.35.44.575	; TWY South Outer
+          N056.17.59.379 E010.35.44.249	; TWY South Outer
+          N056.17.59.393 E010.35.43.923	; TWY South Outer
+          N056.17.59.516 E010.35.43.597	; TWY South Outer
+          N056.17.59.667 E010.35.43.374	; TWY South Outer
+          N056.17.59.846 E010.35.43.267	; TWY South Outer
+          N056.17.59.928 E010.35.43.250	; TWY South Outer
+          N056.17.59.969 E010.35.42.941	; TWY South Outer
+          N056.17.59.983 E010.35.42.591	; TWY South Outer
+          N056.17.59.928 E010.35.42.055	; TWY South Outer
+          N056.17.59.832 E010.35.41.685	; TWY South Outer
+          N056.17.59.736 E010.35.41.431	; TWY South Outer
+          N056.17.59.557 E010.35.41.159	; TWY South Outer
+          N056.17.57.305 E010.35.39.844	; TWY South Outer
+          N056.17.57.964 E010.35.36.178	; TWY South Outer
+          N056.17.59.557 E010.35.37.022	; TWY South Outer
+          N056.18.00.931 E010.35.36.696	; TWY South Outer
+          N056.18.02.194 E010.35.37.407	; TWY South Outer
+          N056.18.02.730 E010.35.41.111	; TWY South Outer
+          N056.18.04.007 E010.35.42.436	; TWY South Outer
+          N056.18.14.348 E010.35.48.180	; TWY South Outer
+          N056.18.15.021 E010.35.47.425	; TWY South Outer
+          N056.18.15.419 E010.35.47.226	; TWY South Outer
+          N056.18.15.954 E010.35.47.288	; TWY South Outer
+          N056.18.16.435 E010.35.47.401	; TWY South Outer
+          N056.18.16.847 E010.35.47.662	; TWY South Outer
+          N056.18.17.424 E010.35.48.033	; TWY South Outer
+          N056.18.17.891 E010.35.48.472	; TWY South Outer
+          N056.18.18.234 E010.35.48.994	; TWY South Outer
+          N056.18.18.454 E010.35.49.828	; TWY South Outer
+          N056.18.18.687 E010.35.50.625	; TWY South Outer
+          N056.18.19.072 E010.35.50.923	; TWY South Outer
+;
+          N056.18.20.514 E010.35.51.363	; TWY TWY Z outer
+          N056.18.21.049 E010.35.51.569	; TWY TWY Z outer
+          N056.18.21.612 E010.35.50.511	; TWY TWY Z outer
+          N056.18.21.667 E010.35.50.450	; TWY TWY Z outer
+          N056.18.22.203 E010.35.50.151	; TWY TWY Z outer
+          N056.18.22.752 E010.35.50.014	; TWY TWY Z outer
+          N056.18.23.192 E010.35.49.986	; TWY TWY Z outer
+          N056.18.23.768 E010.35.50.069	; TWY TWY Z outer
+          N056.18.24.359 E010.35.50.309	; TWY TWY Z outer
+          N056.18.24.867 E010.35.50.645	; TWY TWY Z outer
+          N056.18.25.513 E010.35.51.929	; TWY TWY Z outer
+          N056.18.26.390 E010.35.51.970	; RWY 10L
+;
+         N056.18.27.130 E010.35.52.000	; TWY MIL Apron NW
+          N056.18.31.459 E010.35.52.245	; TWY MIL Apron NW
+          N056.18.33.162 E010.35.52.437	; TWY MIL Apron NW
+          N056.18.34.823 E010.35.52.805	; TWY MIL Apron NW
+          N056.18.35.098 E010.35.52.880	; TWY MIL Apron NW
+          N056.18.35.208 E010.35.52.822	; TWY MIL Apron NW
+          N056.18.35.277 E010.35.52.695	; TWY MIL Apron NW
+          N056.18.35.332 E010.35.52.558	; TWY MIL Apron NW
+          N056.18.35.496 E010.35.50.027	; TWY MIL Apron NW
+          N056.18.35.661 E010.35.50.065	; TWY MIL Apron NW
+          N056.18.35.826 E010.35.49.938	; TWY MIL Apron NW
+          N056.18.35.991 E010.35.49.931	; TWY MIL Apron NW
+          N056.18.36.101 E010.35.50.185	; TWY MIL Apron NW
+          N056.18.36.183 E010.35.50.470	; TWY MIL Apron NW
+          N056.18.36.169 E010.35.50.838	; TWY MIL Apron NW
+          N056.18.36.059 E010.35.51.215	; TWY MIL Apron NW
+          N056.18.35.881 E010.35.51.339	; TWY MIL Apron NW
+          N056.18.35.716 E010.35.51.339	; TWY MIL Apron NW
+          N056.18.35.579 E010.35.51.559	; TWY MIL Apron NW
+          N056.18.35.510 E010.35.52.482	; TWY MIL Apron NW
+          N056.18.35.524 E010.35.52.709	; TWY MIL Apron NW
+          N056.18.35.579 E010.35.52.887	; TWY MIL Apron NW
+          N056.18.35.647 E010.35.53.014	; TWY MIL Apron NW
+          N056.18.37.172 E010.35.53.358	; TWY MIL Apron NW
+          N056.18.37.419 E010.35.53.299	; TWY MIL Apron NW
+          N056.18.37.529 E010.35.53.104	; TWY MIL Apron NW
+          N056.18.37.584 E010.35.52.863	; TWY MIL Apron NW
+          N056.18.37.625 E010.35.52.310	; TWY MIL Apron NW
+          N056.18.37.625 E010.35.52.022	; TWY MIL Apron NW
+          N056.18.37.543 E010.35.51.806	; TWY MIL Apron NW
+          N056.18.37.446 E010.35.51.713	; TWY MIL Apron NW
+          N056.18.37.117 E010.35.51.620	; TWY MIL Apron NW
+          N056.18.37.309 E010.35.49.011	; TWY MIL Apron NW
+          N056.18.38.916 E010.35.49.406	; TWY MIL Apron NW
+          N056.18.38.710 E010.35.52.032	; TWY MIL Apron NW
+          N056.18.38.353 E010.35.51.953	; TWY MIL Apron NW
+          N056.18.38.243 E010.35.51.998	; TWY MIL Apron NW
+          N056.18.38.174 E010.35.52.149	; TWY MIL Apron NW
+          N056.18.38.119 E010.35.52.379	; TWY MIL Apron NW
+          N056.18.38.092 E010.35.52.678	; TWY MIL Apron NW
+          N056.18.38.092 E010.35.52.990	; TWY MIL Apron NW
+          N056.18.38.119 E010.35.53.279	; TWY MIL Apron NW
+          N056.18.38.174 E010.35.53.495	; TWY MIL Apron NW
+          N056.18.38.284 E010.35.53.601	; TWY MIL Apron NW
+          N056.18.38.243 E010.35.54.302	; TWY MIL Apron NW
+          N056.18.37.282 E010.35.54.099	; TWY MIL Apron NW
+          N056.18.37.034 E010.35.54.309	; TWY MIL Apron NW
+          N056.18.36.870 E010.35.54.566	; TWY MIL Apron NW
+          N056.18.36.746 E010.35.54.851	; TWY MIL Apron NW
+          N056.18.36.691 E010.35.55.249	; TWY MIL Apron NW
+          N056.18.36.664 E010.35.55.754	; TWY MIL Apron NW
+          N056.18.36.719 E010.35.56.217	; TWY MIL Apron NW
+          N056.18.37.144 E010.35.57.323	; TWY MIL Apron NW
+          N056.18.37.405 E010.35.58.212	; TWY MIL Apron NW
+          N056.18.37.639 E010.35.59.009	; TWY MIL Apron NW
+          N056.18.37.803 E010.35.59.428	; TWY MIL Apron NW
+          N056.18.38.051 E010.35.59.733	; TWY MIL Apron NW
+          N056.18.38.270 E010.35.59.877	; TWY MIL Apron NW
+          N056.18.38.463 E010.35.59.888	; TWY MIL Apron NW
+          N056.18.38.682 E010.35.59.850	; TWY MIL Apron NW
+          N056.18.38.971 E010.35.59.603	; TWY MIL Apron NW
+          N056.18.39.026 E010.35.59.270	; TWY MIL Apron NW
+          N056.18.39.149 E010.35.58.919	; TWY MIL Apron NW
+          N056.18.39.300 E010.35.58.696	; TWY MIL Apron NW
+          N056.18.39.506 E010.35.58.583	; TWY MIL Apron NW
+          N056.18.39.754 E010.35.58.600	; TWY MIL Apron NW
+          N056.18.39.932 E010.35.58.789	; TWY MIL Apron NW
+          N056.18.40.111 E010.35.59.108	; TWY MIL Apron NW
+          N056.18.40.193 E010.35.59.582	; TWY MIL Apron NW
+          N056.18.40.124 E010.36.00.090	; TWY MIL Apron NW
+          N056.18.40.014 E010.36.00.430	; TWY MIL Apron NW
+          N056.18.39.822 E010.36.00.667	; TWY MIL Apron NW
+          N056.18.39.630 E010.36.00.736	; TWY MIL Apron NW
+          N056.18.39.438 E010.36.00.670	; TWY MIL Apron NW
+          N056.18.39.287 E010.36.00.536	; TWY MIL Apron NW
+          N056.18.39.177 E010.36.00.385	; TWY MIL Apron NW
+          N056.18.38.792 E010.36.00.708	; TWY MIL Apron NW
+          N056.18.38.627 E010.36.00.942	; TWY MIL Apron NW
+          N056.18.38.531 E010.36.01.165	; TWY MIL Apron NW
+          N056.18.38.463 E010.36.01.391	; TWY MIL Apron NW
+          N056.18.38.421 E010.36.01.614	; TWY MIL Apron NW
+          N056.18.38.394 E010.36.01.917	; TWY MIL Apron NW
+          N056.18.38.408 E010.36.02.277	; TWY MIL Apron NW
+          N056.18.38.614 E010.36.03.609	; TWY MIL Apron NW
+          N056.18.38.751 E010.36.03.987	; TWY MIL Apron NW
+          N056.18.38.957 E010.36.04.289	; TWY MIL Apron NW
+          N056.18.39.177 E010.36.04.485	; TWY MIL Apron NW
+          N056.18.39.465 E010.36.04.529	; TWY MIL Apron NW
+          N056.18.39.795 E010.36.04.426	; TWY MIL Apron NW
+          N056.18.39.863 E010.36.04.080	; TWY MIL Apron NW
+          N056.18.40.014 E010.36.03.815	; TWY MIL Apron NW
+          N056.18.40.207 E010.36.03.619	; TWY MIL Apron NW
+          N056.18.40.481 E010.36.03.592	; TWY MIL Apron NW
+          N056.18.40.701 E010.36.03.764	; TWY MIL Apron NW
+          N056.18.40.880 E010.36.04.083	; TWY MIL Apron NW
+          N056.18.40.976 E010.36.04.505	; TWY MIL Apron NW
+          N056.18.40.962 E010.36.04.952	; TWY MIL Apron NW
+          N056.18.40.838 E010.36.05.319	; TWY MIL Apron NW
+          N056.18.40.660 E010.36.05.614	; TWY MIL Apron NW
+          N056.18.40.426 E010.36.05.731	; TWY MIL Apron NW
+          N056.18.40.207 E010.36.05.690	; TWY MIL Apron NW
+          N056.18.40.069 E010.36.05.594	; TWY MIL Apron NW
+          N056.18.39.973 E010.36.05.412	; TWY MIL Apron NW
+          N056.18.39.877 E010.36.05.247	; TWY MIL Apron NW
+          N056.18.39.685 E010.36.05.305	; TWY MIL Apron NW
+          N056.18.39.451 E010.36.05.436	; TWY MIL Apron NW
+          N056.18.39.204 E010.36.05.690	; TWY MIL Apron NW
+          N056.18.39.053 E010.36.06.054	; TWY MIL Apron NW
+          N056.18.38.957 E010.36.06.349	; TWY MIL Apron NW
+          N056.18.38.916 E010.36.06.771	; TWY MIL Apron NW
+          N056.18.38.971 E010.36.07.956	; TWY MIL Apron NW
+          N056.18.39.053 E010.36.08.347	; TWY MIL Apron NW
+          N056.18.39.204 E010.36.08.666	; TWY MIL Apron NW
+          N056.18.39.342 E010.36.08.876	; TWY MIL Apron NW
+          N056.18.39.575 E010.36.09.058	; TWY MIL Apron NW
+          N056.18.39.795 E010.36.09.140	; TWY MIL Apron NW
+          N056.18.40.770 E010.36.09.137	; TWY MIL Apron NW
+          N056.18.40.880 E010.36.08.900	; TWY MIL Apron NW
+          N056.18.40.962 E010.36.08.721	; TWY MIL Apron NW
+          N056.18.41.182 E010.36.08.574	; TWY MIL Apron NW
+          N056.18.41.305 E010.36.08.522	; TWY MIL Apron NW
+          N056.18.41.319 E010.36.08.131	; TWY MIL Apron NW
+          N056.18.41.717 E010.36.08.155	; TWY MIL Apron NW
+          N056.18.41.704 E010.36.08.821	; TWY MIL Apron NW
+          N056.18.41.841 E010.36.09.106	; TWY MIL Apron NW
+          N056.18.41.896 E010.36.09.518	; TWY MIL Apron NW
+          N056.18.41.896 E010.36.09.837	; TWY MIL Apron NW
+          N056.18.41.841 E010.36.10.115	; TWY MIL Apron NW
+          N056.18.41.690 E010.36.10.376	; TWY MIL Apron NW
+          N056.18.41.511 E010.36.10.589	; TWY MIL Apron NW
+          N056.18.41.319 E010.36.10.654	; TWY MIL Apron NW
+          N056.18.41.127 E010.36.10.599	; TWY MIL Apron NW
+          N056.18.40.962 E010.36.10.462	; TWY MIL Apron NW
+          N056.18.40.838 E010.36.10.211	; TWY MIL Apron NW
+          N056.18.40.770 E010.36.09.995	; TWY MIL Apron NW
+          N056.18.39.767 E010.36.09.950	; TWY MIL Apron NW
+          N056.18.39.534 E010.36.10.002	; TWY MIL Apron NW
+          N056.18.39.342 E010.36.10.163	; TWY MIL Apron NW
+          N056.18.39.177 E010.36.10.390	; TWY MIL Apron NW
+          N056.18.39.081 E010.36.10.572	; TWY MIL Apron NW
+          N056.18.38.998 E010.36.10.829	; TWY MIL Apron NW
+          N056.18.38.930 E010.36.11.183	; TWY MIL Apron NW
+          N056.18.38.847 E010.36.12.230	; TWY MIL Apron NW
+          N056.18.38.888 E010.36.12.645	; TWY MIL Apron NW
+          N056.18.38.998 E010.36.13.051	; TWY MIL Apron NW
+          N056.18.39.163 E010.36.13.404	; TWY MIL Apron NW
+          N056.18.39.410 E010.36.13.689	; TWY MIL Apron NW
+          N056.18.39.671 E010.36.13.851	; TWY MIL Apron NW
+          N056.18.39.877 E010.36.13.806	; TWY MIL Apron NW
+          N056.18.40.083 E010.36.13.607	; TWY MIL Apron NW
+          N056.18.40.330 E010.36.13.535	; TWY MIL Apron NW
+          N056.18.40.591 E010.36.13.713	; TWY MIL Apron NW
+          N056.18.40.729 E010.36.13.981	; TWY MIL Apron NW
+          N056.18.40.989 E010.36.13.682	; TWY MIL Apron NW
+          N056.18.41.237 E010.36.14.853	; TWY MIL Apron NW
+          N056.18.40.674 E010.36.15.049	; TWY MIL Apron NW
+          N056.18.40.440 E010.36.15.361	; TWY MIL Apron NW
+          N056.18.40.179 E010.36.15.375	; TWY MIL Apron NW
+          N056.18.40.001 E010.36.15.238	; TWY MIL Apron NW
+          N056.18.39.863 E010.36.15.014	; TWY MIL Apron NW
+          N056.18.39.740 E010.36.14.760	; TWY MIL Apron NW
+          N056.18.39.644 E010.36.14.599	; TWY MIL Apron NW
+          N056.18.39.534 E010.36.14.561	; TWY MIL Apron NW
+          N056.18.39.287 E010.36.14.547	; TWY MIL Apron NW
+          N056.18.38.998 E010.36.14.599	; TWY MIL Apron NW
+          N056.18.38.833 E010.36.14.750	; TWY MIL Apron NW
+          N056.18.38.655 E010.36.14.983	; TWY MIL Apron NW
+          N056.18.38.504 E010.36.15.341	; TWY MIL Apron NW
+          N056.18.38.243 E010.36.16.721	; TWY MIL Apron NW
+          N056.18.38.257 E010.36.17.356	; TWY MIL Apron NW
+          N056.18.38.367 E010.36.17.806	; TWY MIL Apron NW
+          N056.18.38.531 E010.36.18.128	; TWY MIL Apron NW
+          N056.18.38.696 E010.36.18.334	; TWY MIL Apron NW
+          N056.18.38.998 E010.36.18.588	; TWY MIL Apron NW
+          N056.18.39.190 E010.36.18.365	; TWY MIL Apron NW
+          N056.18.39.410 E010.36.18.303	; TWY MIL Apron NW
+          N056.18.39.644 E010.36.18.410	; TWY MIL Apron NW
+          N056.18.39.822 E010.36.18.671	; TWY MIL Apron NW
+          N056.18.39.946 E010.36.19.024	; TWY MIL Apron NW
+          N056.18.39.987 E010.36.19.399	; TWY MIL Apron NW
+          N056.18.39.973 E010.36.19.611	; TWY MIL Apron NW
+          N056.18.40.344 E010.36.19.924	; TWY MIL Apron NW
+          N056.18.40.069 E010.36.20.765	; TWY MIL Apron NW
+          N056.18.39.630 E010.36.20.353	; TWY MIL Apron NW
+          N056.18.39.451 E010.36.20.429	; TWY MIL Apron NW
+          N056.18.39.300 E010.36.20.429	; TWY MIL Apron NW
+          N056.18.39.108 E010.36.20.343	; TWY MIL Apron NW
+          N056.18.38.984 E010.36.20.178	; TWY MIL Apron NW
+          N056.18.38.888 E010.36.19.951	; TWY MIL Apron NW
+          N056.18.38.833 E010.36.19.742	; TWY MIL Apron NW
+          N056.18.38.792 E010.36.19.388	; TWY MIL Apron NW
+          N056.18.38.353 E010.36.19.062	; TWY MIL Apron NW
+          N056.18.38.119 E010.36.19.062	; TWY MIL Apron NW
+          N056.18.37.886 E010.36.19.179	; TWY MIL Apron NW
+          N056.18.37.707 E010.36.19.316	; TWY MIL Apron NW
+          N056.18.37.556 E010.36.19.598	; TWY MIL Apron NW
+          N056.18.37.446 E010.36.19.862	; TWY MIL Apron NW
+          N056.18.37.131 E010.36.20.844	; TWY MIL Apron NW
+          N056.18.37.062 E010.36.21.338	; TWY MIL Apron NW
+          N056.18.37.076 E010.36.21.706	; TWY MIL Apron NW
+          N056.18.37.158 E010.36.22.138	; TWY MIL Apron NW
+          N056.18.37.295 E010.36.22.533	; TWY MIL Apron NW
+          N056.18.37.639 E010.36.22.983	; TWY MIL Apron NW
+          N056.18.37.817 E010.36.22.866	; TWY MIL Apron NW
+          N056.18.38.009 E010.36.22.852	; TWY MIL Apron NW
+          N056.18.38.243 E010.36.22.990	; TWY MIL Apron NW
+          N056.18.38.408 E010.36.23.244	; TWY MIL Apron NW
+          N056.18.38.518 E010.36.23.687	; TWY MIL Apron NW
+          N056.18.38.518 E010.36.24.119	; TWY MIL Apron NW
+          N056.18.38.421 E010.36.24.545	; TWY MIL Apron NW
+          N056.18.38.270 E010.36.24.827	; TWY MIL Apron NW
+          N056.18.38.037 E010.36.24.933	; TWY MIL Apron NW
+          N056.18.37.776 E010.36.24.906	; TWY MIL Apron NW
+          N056.18.37.570 E010.36.24.751	; TWY MIL Apron NW
+          N056.18.37.433 E010.36.24.456	; TWY MIL Apron NW
+          N056.18.37.378 E010.36.24.133	; TWY MIL Apron NW
+          N056.18.37.364 E010.36.23.711	; TWY MIL Apron NW
+          N056.18.37.048 E010.36.23.288	; TWY MIL Apron NW
+          N056.18.36.773 E010.36.23.144	; TWY MIL Apron NW
+          N056.18.36.540 E010.36.23.148	; TWY MIL Apron NW
+          N056.18.36.307 E010.36.23.230	; TWY MIL Apron NW
+          N056.18.36.087 E010.36.23.484	; TWY MIL Apron NW
+          N056.18.35.579 E010.36.24.504	; TWY MIL Apron NW
+          N056.18.35.455 E010.36.25.019	; TWY MIL Apron NW
+          N056.18.35.414 E010.36.25.548	; TWY MIL Apron NW
+          N056.18.35.469 E010.36.26.001	; TWY MIL Apron NW
+          N056.18.35.592 E010.36.26.382	; TWY MIL Apron NW
+          N056.18.35.826 E010.36.26.808	; TWY MIL Apron NW
+          N056.18.36.004 E010.36.26.742	; TWY MIL Apron NW
+          N056.18.36.183 E010.36.26.794	; TWY MIL Apron NW
+          N056.18.36.361 E010.36.26.921	; TWY MIL Apron NW
+          N056.18.36.554 E010.36.26.667	; TWY MIL Apron NW
+          N056.18.36.911 E010.36.27.384	; TWY MIL Apron NW
+          N056.18.36.609 E010.36.27.820	; TWY MIL Apron NW
+          N056.18.36.554 E010.36.28.291	; TWY MIL Apron NW
+          N056.18.36.389 E010.36.28.655	; TWY MIL Apron NW
+          N056.18.36.128 E010.36.28.867	; TWY MIL Apron NW
+          N056.18.35.812 E010.36.28.850	; TWY MIL Apron NW
+          N056.18.35.592 E010.36.28.631	; TWY MIL Apron NW
+          N056.18.35.483 E010.36.28.267	; TWY MIL Apron NW
+          N056.18.35.428 E010.36.27.886	; TWY MIL Apron NW
+          N056.18.35.469 E010.36.27.415	; TWY MIL Apron NW
+          N056.18.35.153 E010.36.26.801	; TWY MIL Apron NW
+          N056.18.34.933 E010.36.26.615	; TWY MIL Apron NW
+          N056.18.34.617 E010.36.26.564	; TWY MIL Apron NW
+          N056.18.34.356 E010.36.26.622	; TWY MIL Apron NW
+          N056.18.34.233 E010.36.26.715	; TWY MIL Apron NW
+          N056.18.33.533 E010.36.27.680	; TWY MIL Apron NW
+          N056.18.33.395 E010.36.28.095	; TWY MIL Apron NW
+          N056.18.33.354 E010.36.28.569	; TWY MIL Apron NW
+          N056.18.33.381 E010.36.29.091	; TWY MIL Apron NW
+          N056.18.33.615 E010.36.29.887	; TWY MIL Apron NW
+          N056.18.33.835 E010.36.29.918	; TWY MIL Apron NW
+          N056.18.34.082 E010.36.30.182	; TWY MIL Apron NW
+          N056.18.34.247 E010.36.30.697	; TWY MIL Apron NW
+          N056.18.34.233 E010.36.31.137	; TWY MIL Apron NW
+          N056.18.34.137 E010.36.31.614	; TWY MIL Apron NW
+          N056.18.33.958 E010.36.31.878	; TWY MIL Apron NW
+          N056.18.33.697 E010.36.32.002	; TWY MIL Apron NW
+          N056.18.33.464 E010.36.31.933	; TWY MIL Apron NW
+          N056.18.33.464 E010.36.31.926	; TWY MIL Apron NW
+          N056.18.33.244 E010.36.31.717	; TWY MIL Apron NW
+          N056.18.33.107 E010.36.31.370	; TWY MIL Apron NW
+          N056.18.33.066 E010.36.30.910	; TWY MIL Apron NW
+          N056.18.33.134 E010.36.30.515	; TWY MIL Apron NW
+          N056.18.33.203 E010.36.30.333	; TWY MIL Apron NW
+          N056.18.32.942 E010.36.29.544	; TWY MIL Apron NW
+          N056.18.32.791 E010.36.29.283	; TWY MIL Apron NW
+          N056.18.32.626 E010.36.29.087	; TWY MIL Apron NW
+          N056.18.32.406 E010.36.28.970	; TWY MIL Apron NW
+          N056.18.32.159 E010.36.28.970	; TWY MIL Apron NW
+          N056.18.31.582 E010.36.29.228	; TWY MIL Apron NW
+          N056.18.31.390 E010.36.29.448	; TWY MIL Apron NW
+          N056.18.31.239 E010.36.29.743	; TWY MIL Apron NW
+          N056.18.31.157 E010.36.30.100	; TWY MIL Apron NW
+          N056.18.31.102 E010.36.30.454	; TWY MIL Apron NW
+          N056.18.31.102 E010.36.31.274	; TWY MIL Apron NW
+          N056.18.31.253 E010.36.31.484	; TWY MIL Apron NW
+          N056.18.31.376 E010.36.31.727	; TWY MIL Apron NW
+          N056.18.31.445 E010.36.31.999	; TWY MIL Apron NW
+          N056.18.31.459 E010.36.32.208	; TWY MIL Apron NW
+          N056.18.31.734 E010.36.32.349	; TWY MIL Apron NW
+          N056.18.31.555 E010.36.33.214	; TWY MIL Apron NW
+          N056.18.31.239 E010.36.33.073	; TWY MIL Apron NW
+          N056.18.31.074 E010.36.33.238	; TWY MIL Apron NW
+          N056.18.30.868 E010.36.33.327	; TWY MIL Apron NW
+          N056.18.30.607 E010.36.33.207	; TWY MIL Apron NW
+          N056.18.30.429 E010.36.32.980	; TWY MIL Apron NW
+          N056.18.30.305 E010.36.32.627	; TWY MIL Apron NW
+          N056.18.30.278 E010.36.32.297	; TWY MIL Apron NW
+          N056.18.30.319 E010.36.31.861	; TWY MIL Apron NW
+          N056.18.30.415 E010.36.31.566	; TWY MIL Apron NW
+          N056.18.30.621 E010.36.31.274	; TWY MIL Apron NW
+          N056.18.30.607 E010.36.30.395	; TWY MIL Apron NW
+          N056.18.30.552 E010.36.29.976	; TWY MIL Apron NW
+          N056.18.30.443 E010.36.29.678	; TWY MIL Apron NW
+          N056.18.30.319 E010.36.29.461	; TWY MIL Apron NW
+          N056.18.30.140 E010.36.29.259	; TWY MIL Apron NW
+          N056.18.24.428 E010.36.27.391	; TWY MIL Apron NW
+          N056.18.23.961 E010.36.27.528	; TWY MIL Apron NW
+          N056.18.23.796 E010.36.27.693	; TWY MIL Apron NW
+          N056.18.23.645 E010.36.27.995	; TWY MIL Apron NW
+          N056.18.23.521 E010.36.28.322	; TWY MIL Apron NW
+          N056.18.23.428 E010.36.28.652	; TWY MIL Apron NW
+;
+;
+;Aarhus Taxiways  
+COLOR_ApronSurface
+       N056.18.04.858 E010.38.26.105 ; THRS RWY 28L nw
+          N056.18.03.595 E010.38.38.812 ; THRS RWY 28L ne
+          N056.18.02.167 E010.38.38.345 ;               se
+          N056.18.03.457 E010.38.25.635 ; THRS RWY 28L sw
+;
+;
+;Aarhus Taxiways  
+COLOR_ApronSurface
+       N056.18.20.514 E010.35.51.363 ; THRS RWY 10R NE
+          N056.18.22.162 E010.35.34.997 ; THRS RWY 10R NW
+          N056.18.20.720 E010.35.34.509 ; THRS RWY 10R SW
+          N056.18.19.072 E010.35.50.923 ; THRS RWY 10R SE
+;
+; ISLAND
+;Aarhus Background 
+COLOR_GrasSurface
+          N056.18.08.896 E010.37.46.204	; TWY TWY E X
+          N056.18.09.239 E010.37.45.913	; TWY TWY E X
+          N056.18.11.175 E010.37.45.864	; TWY TWY E X
+          N056.18.12.906 E010.37.46.458	; TWY TWY E X
+          N056.18.14.595 E010.37.47.584	; TWY TWY E X
+          N056.18.14.636 E010.37.48.268	; TWY TWY E X
+          N056.18.10.859 E010.38.25.728	; TWY TWY E X
+          N056.18.10.379 E010.38.27.688	; TWY TWY E X
+          N056.18.10.324 E010.38.27.822	; TWY TWY E X
+          N056.18.10.159 E010.38.28.018	; TWY TWY E X
+          N056.18.09.871 E010.38.28.251	; TWY TWY E X
+          N056.18.09.747 E010.38.28.292	; TWY TWY E X
+          N056.18.09.610 E010.38.28.244	; TWY TWY E X
+          N056.18.08.305 E010.38.27.523	; TWY TWY E X
+          N056.18.06.712 E010.38.26.133	; TWY TWY E X
+          N056.18.06.410 E010.38.25.841	; TWY TWY E X
+          N056.18.05.888 E010.38.25.250	; TWY TWY E X
+          N056.18.05.325 E010.38.24.121	; TWY TWY E X
+          N056.18.05.175 E010.38.22.970 ; RWY-LINE
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+          N056.18.16.951 E010.36.26.581	; TWY TWY Y E
+          N056.18.17.067 E010.36.26.608	; TWY TWY Y E
+          N056.18.17.904 E010.36.25.554	; TWY TWY Y E
+          N056.18.22.052 E010.36.26.886	; TWY TWY Y E
+          N056.18.22.409 E010.36.27.147	; TWY TWY Y E
+          N056.18.22.656 E010.36.27.745	; TWY TWY Y E
+          N056.18.22.711 E010.36.28.274	; TWY TWY Y E
+          N056.18.15.048 E010.37.44.299	; TWY TWY Y E
+          N056.18.14.938 E010.37.44.673	; TWY TWY Y E
+          N056.18.14.815 E010.37.44.917	; TWY TWY Y E
+          N056.18.14.691 E010.37.45.051	; TWY TWY Y E
+          N056.18.13.029 E010.37.45.123	; TWY TWY Y E
+          N056.18.11.313 E010.37.44.543	; TWY TWY Y E
+          N056.18.09.500 E010.37.43.180	; TWY TWY Y E
+          N056.18.09.244 E010.37.42.750	; RWY-LINE
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+          N056.18.20.157 E010.35.54.892	; TWY TWY Z Y
+          N056.18.20.404 E010.35.54.127	; TWY TWY Z Y
+          N056.18.20.555 E010.35.53.790	; TWY TWY Z Y
+          N056.18.20.788 E010.35.53.406	; TWY TWY Z Y
+          N056.18.21.036 E010.35.53.069	; TWY TWY Z Y
+          N056.18.21.351 E010.35.52.822	; TWY TWY Z Y
+          N056.18.21.695 E010.35.52.685	; TWY TWY Z Y
+          N056.18.22.038 E010.35.52.613	; TWY TWY Z Y
+          N056.18.25.004 E010.35.52.764	; TWY TWY Z Y
+          N056.18.25.485 E010.35.53.306	; TWY TWY Z Y
+          N056.18.25.718 E010.35.53.752	; TWY TWY Z Y
+          N056.18.25.870 E010.35.54.254	; TWY TWY Z Y
+          N056.18.25.966 E010.35.54.786	; TWY TWY Z Y
+          N056.18.25.993 E010.35.55.150	; TWY TWY Z Y
+          N056.18.26.061 E010.35.55.242	; RWY-LINE ; RWY 28R / 10L
+          N056.18.23.113 E010.36.24.494	; TWY TWY Z Y
+          N056.18.23.041 E010.36.24.799	; TWY TWY Z Y
+          N056.18.22.931 E010.36.25.081	; TWY TWY Z Y
+          N056.18.22.574 E010.36.25.623	; TWY TWY Z Y
+          N056.18.17.781 E010.36.24.082	; TWY TWY Z Y
+          N056.18.17.630 E010.36.23.797	; TWY TWY Z Y
+          N056.18.20.157 E010.35.54.892	; RWY-LINE
+          N056.18.17.324 E010.36.22.890	; RWY-LINE
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+          N056.18.15.791 E010.37.44.273 ;	RWY-LINE ; TWY W Apron E
+          N056.18.17.992 E010.37.22.475	; TWY TWY W Apron E (west)
+          N056.18.18.179 E010.37.22.089	; TWY TWY W Apron E
+          N056.18.18.385 E010.37.21.801	; TWY TWY W Apron E
+          N056.18.18.550 E010.37.21.629	; TWY TWY W Apron E
+          N056.18.18.742 E010.37.21.519	; TWY TWY W Apron E
+          N056.18.19.017 E010.37.21.468	; TWY TWY W Apron E
+          N056.18.19.154 E010.37.21.478	; TWY TWY W Apron E
+          N056.18.19.264 E010.37.21.530	; TWY TWY W Apron E
+          N056.18.19.443 E010.37.21.688	; TWY TWY W Apron E
+          N056.18.22.272 E010.37.26.058	; TWY TWY W Apron E
+          N056.18.22.505 E010.37.26.652	; TWY TWY W Apron E
+          N056.18.22.725 E010.37.27.473	; TWY TWY W Apron E
+          N056.18.22.944 E010.37.28.396	; TWY TWY W Apron E
+          N056.18.23.096 E010.37.29.289	; TWY TWY W Apron E
+          N056.18.23.260 E010.37.30.463	; TWY TWY W Apron E
+          N056.18.23.356 E010.37.31.514	; TWY TWY W Apron E
+          N056.18.23.370 E010.37.33.182	; TWY TWY W Apron E
+          N056.18.23.356 E010.37.33.587	; TWY TWY W Apron E
+          N056.18.22.272 E010.37.44.113	; TWY TWY W Apron E
+          N056.18.21.873 E010.37.46.338	; TWY TWY W Apron E
+          N056.18.21.708 E010.37.46.785	; TWY TWY W Apron E
+          N056.18.21.557 E010.37.47.042	; TWY TWY W Apron E
+          N056.18.21.338 E010.37.47.265	; TWY TWY W Apron E
+          N056.18.21.200 E010.37.47.354	; TWY TWY W Apron E
+          N056.18.20.981 E010.37.47.382	; TWY TWY W Apron E
+          N056.18.19.772 E010.37.47.303	; TWY TWY W Apron E
+          N056.18.16.421 E010.37.46.204	; TWY TWY W Apron E
+          N056.18.16.215 E010.37.46.012	; TWY TWY W Apron E
+          N056.18.16.064 E010.37.45.765	; TWY TWY W Apron E
+          N056.18.15.941 E010.37.45.449	; TWY TWY W Apron E
+          N056.18.15.845 E010.37.45.075	; TWY TWY W Apron E
+          N056.18.15.803 E010.37.44.742	; TWY TWY W Apron E
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+          N056.18.18.719 E010.35.54.429	; TWY South TWY Z Y
+          N056.18.18.687 E010.35.53.855	; TWY South TWY Z Y
+          N056.18.18.646 E010.35.53.285	; TWY South TWY Z Y
+          N056.18.18.522 E010.35.52.877	; TWY South TWY Z Y
+          N056.18.18.316 E010.35.52.242	; TWY South TWY Z Y
+          N056.18.18.097 E010.35.51.706	; TWY South TWY Z Y
+          N056.18.17.891 E010.35.51.394	; TWY South TWY Z Y
+          N056.18.17.465 E010.35.50.978	; TWY South TWY Z Y
+          N056.18.14.718 E010.35.49.457	; TWY South TWY Z Y
+          N056.18.14.252 E010.35.49.447	; TWY South TWY Z Y
+          N056.18.13.881 E010.35.49.650	; TWY South TWY Z Y
+          N056.18.13.551 E010.35.50.031	; TWY South TWY Z Y
+          N056.18.13.276 E010.35.50.549	; TWY South TWY Z Y
+          N056.18.13.112 E010.35.51.068	; TWY South TWY Z Y
+          N056.18.10.159 E010.36.20.216	; TWY South TWY Z Y
+          N056.18.10.214 E010.36.20.871	; TWY South TWY Z Y
+          N056.18.10.406 E010.36.21.606	; TWY South TWY Z Y
+          N056.18.10.859 E010.36.22.073	; TWY South TWY Z Y
+          N056.18.14.966 E010.36.23.391	; TWY South TWY Z Y
+          N056.18.15.281 E010.36.23.271	; TWY South TWY Z Y
+          N056.18.15.515 E010.36.23.076	; TWY South TWY Z Y
+          N056.18.15.666 E010.36.22.815	; TWY South TWY Z Y
+          N056.18.18.719 E010.35.54.429	; RWY-LINE
+          N056.18.15.916 E010.36.22.196	; RWY-LINE
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+          N056.18.15.440 E010.36.26.915	; TWY South TWY Y E
+          N056.18.15.405 E010.36.26.234	; TWY South TWY Y E
+          N056.18.15.336 E010.36.25.829	; TWY South TWY Y E
+          N056.18.14.966 E010.36.24.892	; TWY South TWY Y E
+          N056.18.14.842 E010.36.24.600	; TWY South TWY Y E
+          N056.18.14.581 E010.36.24.315	; TWY South TWY Y E
+          N056.18.14.361 E010.36.24.088	; TWY South TWY Y E
+          N056.18.10.791 E010.36.22.925	; TWY South TWY Y E
+          N056.18.10.310 E010.36.23.014	; TWY South TWY Y E
+          N056.18.09.926 E010.36.23.563	; TWY South TWY Y E
+          N056.18.09.761 E010.36.24.099	; TWY South TWY Y E
+          N056.18.02.084 E010.37.40.261	; TWY South TWY Y E
+          N056.18.02.139 E010.37.40.910	; TWY South TWY Y E
+          N056.18.02.304 E010.37.41.432	; TWY South TWY Y E
+          N056.18.02.661 E010.37.41.899	; TWY South TWY Y E
+          N056.18.02.839 E010.37.42.012	; TWY South TWY Y E
+          N056.18.06.163 E010.37.43.111	; TWY South TWY Y E
+          N056.18.06.561 E010.37.43.046	; TWY South TWY Y E
+          N056.18.06.904 E010.37.42.816	; TWY South TWY Y E
+          N056.18.07.234 E010.37.42.466	; TWY South TWY Y E
+          N056.18.07.591 E010.37.41.600	; TWY South TWY Y E
+          N056.18.07.955 E010.37.41.090	; RWY-LINE
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+          N056.18.07.424 E010.37.46.340	; TWY South TWY E X
+          N056.18.07.220 E010.37.45.758	; TWY South TWY E X
+          N056.18.07.097 E010.37.44.972	; TWY South TWY E X
+          N056.18.06.946 E010.37.44.625	; TWY South TWY E X
+          N056.18.06.575 E010.37.44.120	; TWY South TWY E X
+          N056.18.02.606 E010.37.42.826	; TWY South TWY E X
+          N056.18.02.304 E010.37.42.984	; TWY South TWY E X
+          N056.18.02.070 E010.37.43.183	; TWY South TWY E X
+          N056.18.01.892 E010.37.43.478	; TWY South TWY E X
+          N056.18.01.713 E010.37.44.000	; TWY South TWY E X
+          N056.17.58.349 E010.38.17.131	; TWY South TWY E X
+          N056.17.58.417 E010.38.17.962	; TWY South TWY E X
+          N056.17.58.582 E010.38.18.703	; TWY South TWY E X
+          N056.17.58.733 E010.38.19.108	; TWY South TWY E X
+          N056.17.59.090 E010.38.19.819	; TWY South TWY E X
+          N056.17.59.365 E010.38.20.138	; TWY South TWY E X
+          N056.18.02.455 E010.38.22.844	; TWY South TWY E X
+          N056.18.02.936 E010.38.23.005	; TWY South TWY E X
+          N056.18.03.512 E010.38.22.658	; TWY South TWY E X
+          N056.18.03.852 E010.38.21.730	; RWY-LINE
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+     N056.18.23.831 E010.36.24.665	; RWY 10L/28R
+          N056.18.26.905 E010.35.54.230	; TWY MIL Apron NW Inner
+          N056.18.26.982 E010.35.53.986	; TWY MIL Apron NW Inner
+          N056.18.27.147 E010.35.53.598	; TWY MIL Apron NW Inner
+          N056.18.27.353 E010.35.53.303	; TWY MIL Apron NW Inner
+          N056.18.27.518 E010.35.53.104	; TWY MIL Apron NW Inner
+          N056.18.27.765 E010.35.52.956	; TWY MIL Apron NW Inner
+          N056.18.27.929 E010.35.52.925	; TWY MIL Apron NW Inner
+          N056.18.31.775 E010.35.53.117	; TWY MIL Apron NW Inner
+          N056.18.33.793 E010.35.53.443	; TWY MIL Apron NW Inner
+          N056.18.34.178 E010.35.53.643	; TWY MIL Apron NW Inner
+          N056.18.34.741 E010.35.54.079	; TWY MIL Apron NW Inner
+          N056.18.34.988 E010.35.54.329	; TWY MIL Apron NW Inner
+          N056.18.35.112 E010.35.54.539	; TWY MIL Apron NW Inner
+          N056.18.35.277 E010.35.55.054	; TWY MIL Apron NW Inner
+          N056.18.35.263 E010.35.55.658	; TWY MIL Apron NW Inner
+          N056.18.35.208 E010.35.56.084	; TWY MIL Apron NW Inner
+          N056.18.35.126 E010.35.56.447	; TWY MIL Apron NW Inner
+          N056.18.34.961 E010.35.56.695	; TWY MIL Apron NW Inner
+          N056.18.34.782 E010.35.56.599	; TWY MIL Apron NW Inner
+          N056.18.34.604 E010.35.56.629	; TWY MIL Apron NW Inner
+          N056.18.34.466 E010.35.56.667	; TWY MIL Apron NW Inner
+          N056.18.34.343 E010.35.56.801	; TWY MIL Apron NW Inner
+          N056.18.34.233 E010.35.57.014	; TWY MIL Apron NW Inner
+          N056.18.34.137 E010.35.57.392	; TWY MIL Apron NW Inner
+          N056.18.34.151 E010.35.57.814	; TWY MIL Apron NW Inner
+          N056.18.34.205 E010.35.58.240	; TWY MIL Apron NW Inner
+          N056.18.34.329 E010.35.58.518	; TWY MIL Apron NW Inner
+          N056.18.34.466 E010.35.58.658	; TWY MIL Apron NW Inner
+          N056.18.34.604 E010.35.58.720	; TWY MIL Apron NW Inner
+          N056.18.34.768 E010.35.59.232	; TWY MIL Apron NW Inner
+          N056.18.35.112 E010.35.58.899	; TWY MIL Apron NW Inner
+          N056.18.35.002 E010.35.58.604	; TWY MIL Apron NW Inner
+          N056.18.35.098 E010.35.58.459	; TWY MIL Apron NW Inner
+          N056.18.35.194 E010.35.58.202	; TWY MIL Apron NW Inner
+          N056.18.35.277 E010.35.57.862	; TWY MIL Apron NW Inner
+          N056.18.35.277 E010.35.57.580	; TWY MIL Apron NW Inner
+          N056.18.35.263 E010.35.57.429	; TWY MIL Apron NW Inner
+          N056.18.35.483 E010.35.57.086	; TWY MIL Apron NW Inner
+          N056.18.35.702 E010.35.56.928	; TWY MIL Apron NW Inner
+          N056.18.35.922 E010.35.56.866	; TWY MIL Apron NW Inner
+          N056.18.36.114 E010.35.56.880	; TWY MIL Apron NW Inner
+          N056.18.36.279 E010.35.56.962	; TWY MIL Apron NW Inner
+          N056.18.36.430 E010.35.57.144	; TWY MIL Apron NW Inner
+          N056.18.36.567 E010.35.57.371	; TWY MIL Apron NW Inner
+          N056.18.36.705 E010.35.57.738	; TWY MIL Apron NW Inner
+          N056.18.37.199 E010.35.59.366	; TWY MIL Apron NW Inner
+          N056.18.37.254 E010.35.59.726	; TWY MIL Apron NW Inner
+          N056.18.37.254 E010.36.00.135	; TWY MIL Apron NW Inner
+          N056.18.37.185 E010.36.00.526	; TWY MIL Apron NW Inner
+          N056.18.37.076 E010.36.00.835	; TWY MIL Apron NW Inner
+          N056.18.36.966 E010.36.01.075	; TWY MIL Apron NW Inner
+          N056.18.36.828 E010.36.01.227	; TWY MIL Apron NW Inner
+          N056.18.36.554 E010.36.01.422	; TWY MIL Apron NW Inner
+          N056.18.36.444 E010.36.01.254	; TWY MIL Apron NW Inner
+          N056.18.36.307 E010.36.01.158	; TWY MIL Apron NW Inner
+          N056.18.36.142 E010.36.01.127	; TWY MIL Apron NW Inner
+          N056.18.35.950 E010.36.01.185	; TWY MIL Apron NW Inner
+          N056.18.35.757 E010.36.01.367	; TWY MIL Apron NW Inner
+          N056.18.35.620 E010.36.01.676	; TWY MIL Apron NW Inner
+          N056.18.35.551 E010.36.02.085	; TWY MIL Apron NW Inner
+          N056.18.35.579 E010.36.02.497	; TWY MIL Apron NW Inner
+          N056.18.35.661 E010.36.02.806	; TWY MIL Apron NW Inner
+          N056.18.35.812 E010.36.03.074	; TWY MIL Apron NW Inner
+          N056.18.36.032 E010.36.03.256	; TWY MIL Apron NW Inner
+          N056.18.36.293 E010.36.03.214	; TWY MIL Apron NW Inner
+          N056.18.36.471 E010.36.03.080	; TWY MIL Apron NW Inner
+          N056.18.36.636 E010.36.02.789	; TWY MIL Apron NW Inner
+          N056.18.36.719 E010.36.02.524	; TWY MIL Apron NW Inner
+          N056.18.36.732 E010.36.02.263	; TWY MIL Apron NW Inner
+          N056.18.37.021 E010.36.02.037	; TWY MIL Apron NW Inner
+          N056.18.37.158 E010.36.02.023	; TWY MIL Apron NW Inner
+          N056.18.37.501 E010.36.02.088	; TWY MIL Apron NW Inner
+          N056.18.37.652 E010.36.02.239	; TWY MIL Apron NW Inner
+          N056.18.37.776 E010.36.02.404	; TWY MIL Apron NW Inner
+          N056.18.37.927 E010.36.02.703	; TWY MIL Apron NW Inner
+          N056.18.38.023 E010.36.03.087	; TWY MIL Apron NW Inner
+          N056.18.38.174 E010.36.04.076	; TWY MIL Apron NW Inner
+          N056.18.38.284 E010.36.05.085	; TWY MIL Apron NW Inner
+          N056.18.38.243 E010.36.05.614	; TWY MIL Apron NW Inner
+          N056.18.38.161 E010.36.06.026	; TWY MIL Apron NW Inner
+          N056.18.38.051 E010.36.06.287	; TWY MIL Apron NW Inner
+          N056.18.37.913 E010.36.06.476	; TWY MIL Apron NW Inner
+          N056.18.37.707 E010.36.06.661	; TWY MIL Apron NW Inner
+          N056.18.37.488 E010.36.06.764	; TWY MIL Apron NW Inner
+          N056.18.37.364 E010.36.06.764	; TWY MIL Apron NW Inner
+          N056.18.37.254 E010.36.06.503	; TWY MIL Apron NW Inner
+          N056.18.37.076 E010.36.06.325	; TWY MIL Apron NW Inner
+          N056.18.36.828 E010.36.06.260	; TWY MIL Apron NW Inner
+          N056.18.36.609 E010.36.06.332	; TWY MIL Apron NW Inner
+          N056.18.36.416 E010.36.06.596	; TWY MIL Apron NW Inner
+          N056.18.36.265 E010.36.06.929	; TWY MIL Apron NW Inner
+          N056.18.36.238 E010.36.07.269	; TWY MIL Apron NW Inner
+          N056.18.36.265 E010.36.07.671	; TWY MIL Apron NW Inner
+          N056.18.36.389 E010.36.08.031	; TWY MIL Apron NW Inner
+          N056.18.36.609 E010.36.08.292	; TWY MIL Apron NW Inner
+          N056.18.36.870 E010.36.08.364	; TWY MIL Apron NW Inner
+          N056.18.37.103 E010.36.08.223	; TWY MIL Apron NW Inner
+          N056.18.37.268 E010.36.07.980	; TWY MIL Apron NW Inner
+          N056.18.37.391 E010.36.07.640	; TWY MIL Apron NW Inner
+          N056.18.37.707 E010.36.07.602	; TWY MIL Apron NW Inner
+          N056.18.37.900 E010.36.07.688	; TWY MIL Apron NW Inner
+          N056.18.38.119 E010.36.07.884	; TWY MIL Apron NW Inner
+          N056.18.38.270 E010.36.08.083	; TWY MIL Apron NW Inner
+          N056.18.38.380 E010.36.08.371	; TWY MIL Apron NW Inner
+          N056.18.38.463 E010.36.08.635	; TWY MIL Apron NW Inner
+          N056.18.38.476 E010.36.09.041	; TWY MIL Apron NW Inner
+          N056.18.38.476 E010.36.10.242	; TWY MIL Apron NW Inner
+          N056.18.38.435 E010.36.11.121	; TWY MIL Apron NW Inner
+          N056.18.38.394 E010.36.11.451	; TWY MIL Apron NW Inner
+          N056.18.38.257 E010.36.11.753	; TWY MIL Apron NW Inner
+          N056.18.38.106 E010.36.12.017	; TWY MIL Apron NW Inner
+          N056.18.37.913 E010.36.12.237	; TWY MIL Apron NW Inner
+          N056.18.37.735 E010.36.12.330	; TWY MIL Apron NW Inner
+          N056.18.37.501 E010.36.12.343	; TWY MIL Apron NW Inner
+          N056.18.37.282 E010.36.12.251	; TWY MIL Apron NW Inner
+          N056.18.37.172 E010.36.11.842	; TWY MIL Apron NW Inner
+          N056.18.37.021 E010.36.11.585	; TWY MIL Apron NW Inner
+          N056.18.36.787 E010.36.11.430	; TWY MIL Apron NW Inner
+          N056.18.36.540 E010.36.11.454	; TWY MIL Apron NW Inner
+          N056.18.36.361 E010.36.11.643	; TWY MIL Apron NW Inner
+          N056.18.36.252 E010.36.11.849	; TWY MIL Apron NW Inner
+          N056.18.36.169 E010.36.12.069	; TWY MIL Apron NW Inner
+          N056.18.36.142 E010.36.12.185	; TWY MIL Apron NW Inner
+          N056.18.35.977 E010.36.12.106	; TWY MIL Apron NW Inner
+          N056.18.35.840 E010.36.12.769	; TWY MIL Apron NW Inner
+          N056.18.36.142 E010.36.12.913	; TWY MIL Apron NW Inner
+          N056.18.36.169 E010.36.13.147	; TWY MIL Apron NW Inner
+          N056.18.36.293 E010.36.13.360	; TWY MIL Apron NW Inner
+          N056.18.36.471 E010.36.13.524	; TWY MIL Apron NW Inner
+          N056.18.36.691 E010.36.13.572	; TWY MIL Apron NW Inner
+          N056.18.36.925 E010.36.13.456	; TWY MIL Apron NW Inner
+          N056.18.37.089 E010.36.13.294	; TWY MIL Apron NW Inner
+          N056.18.37.185 E010.36.13.071	; TWY MIL Apron NW Inner
+          N056.18.37.474 E010.36.13.195	; TWY MIL Apron NW Inner
+          N056.18.37.707 E010.36.13.408	; TWY MIL Apron NW Inner
+          N056.18.37.872 E010.36.13.689	; TWY MIL Apron NW Inner
+          N056.18.37.982 E010.36.14.026	; TWY MIL Apron NW Inner
+          N056.18.38.037 E010.36.14.293	; TWY MIL Apron NW Inner
+          N056.18.38.078 E010.36.14.664	; TWY MIL Apron NW Inner
+          N056.18.37.996 E010.36.15.258	; TWY MIL Apron NW Inner
+          N056.18.37.817 E010.36.16.329	; TWY MIL Apron NW Inner
+          N056.18.37.597 E010.36.17.246	; TWY MIL Apron NW Inner
+          N056.18.37.378 E010.36.17.579	; TWY MIL Apron NW Inner
+          N056.18.37.172 E010.36.17.740	; TWY MIL Apron NW Inner
+          N056.18.37.007 E010.36.17.778	; TWY MIL Apron NW Inner
+          N056.18.36.815 E010.36.17.740	; TWY MIL Apron NW Inner
+          N056.18.36.622 E010.36.17.675	; TWY MIL Apron NW Inner
+          N056.18.36.375 E010.36.17.483	; TWY MIL Apron NW Inner
+          N056.18.36.348 E010.36.17.061	; TWY MIL Apron NW Inner
+          N056.18.36.252 E010.36.16.765	; TWY MIL Apron NW Inner
+          N056.18.36.101 E010.36.16.528	; TWY MIL Apron NW Inner
+          N056.18.35.881 E010.36.16.395	; TWY MIL Apron NW Inner
+          N056.18.35.661 E010.36.16.425	; TWY MIL Apron NW Inner
+          N056.18.35.441 E010.36.16.573	; TWY MIL Apron NW Inner
+          N056.18.35.290 E010.36.16.875	; TWY MIL Apron NW Inner
+          N056.18.35.222 E010.36.17.253	; TWY MIL Apron NW Inner
+          N056.18.35.222 E010.36.17.624	; TWY MIL Apron NW Inner
+          N056.18.35.290 E010.36.17.994	; TWY MIL Apron NW Inner
+          N056.18.35.428 E010.36.18.324	; TWY MIL Apron NW Inner
+          N056.18.35.661 E010.36.18.503	; TWY MIL Apron NW Inner
+          N056.18.35.853 E010.36.18.496	; TWY MIL Apron NW Inner
+          N056.18.36.046 E010.36.18.389	; TWY MIL Apron NW Inner
+          N056.18.36.142 E010.36.18.262	; TWY MIL Apron NW Inner
+          N056.18.36.430 E010.36.18.557	; TWY MIL Apron NW Inner
+          N056.18.36.595 E010.36.18.836	; TWY MIL Apron NW Inner
+          N056.18.36.719 E010.36.19.131	; TWY MIL Apron NW Inner
+          N056.18.36.773 E010.36.19.399	; TWY MIL Apron NW Inner
+          N056.18.36.801 E010.36.19.738	; TWY MIL Apron NW Inner
+          N056.18.36.801 E010.36.20.010	; TWY MIL Apron NW Inner
+          N056.18.36.746 E010.36.20.336	; TWY MIL Apron NW Inner
+          N056.18.36.265 E010.36.21.678	; TWY MIL Apron NW Inner
+          N056.18.35.991 E010.36.22.300	; TWY MIL Apron NW Inner
+          N056.18.35.785 E010.36.22.592	; TWY MIL Apron NW Inner
+          N056.18.35.606 E010.36.22.708	; TWY MIL Apron NW Inner
+          N056.18.35.386 E010.36.22.746	; TWY MIL Apron NW Inner
+          N056.18.35.180 E010.36.22.701	; TWY MIL Apron NW Inner
+          N056.18.35.016 E010.36.22.561	; TWY MIL Apron NW Inner
+          N056.18.34.727 E010.36.22.300	; TWY MIL Apron NW Inner
+          N056.18.34.645 E010.36.21.925	; TWY MIL Apron NW Inner
+          N056.18.34.672 E010.36.21.768	; TWY MIL Apron NW Inner
+          N056.18.34.659 E010.36.21.555	; TWY MIL Apron NW Inner
+          N056.18.34.590 E010.36.21.362	; TWY MIL Apron NW Inner
+          N056.18.34.521 E010.36.21.156	; TWY MIL Apron NW Inner
+          N056.18.34.521 E010.36.19.924	; TWY MIL Apron NW Inner
+          N056.18.33.766 E010.36.20.065	; TWY MIL Apron NW Inner
+          N056.18.33.931 E010.36.20.892	; TWY MIL Apron NW Inner
+          N056.18.33.793 E010.36.21.002	; TWY MIL Apron NW Inner
+          N056.18.33.629 E010.36.21.428	; TWY MIL Apron NW Inner
+          N056.18.33.615 E010.36.21.871	; TWY MIL Apron NW Inner
+          N056.18.33.684 E010.36.22.269	; TWY MIL Apron NW Inner
+          N056.18.33.848 E010.36.22.550	; TWY MIL Apron NW Inner
+          N056.18.34.054 E010.36.22.712	; TWY MIL Apron NW Inner
+          N056.18.34.247 E010.36.22.698	; TWY MIL Apron NW Inner
+          N056.18.34.370 E010.36.22.732	; TWY MIL Apron NW Inner
+          N056.18.34.494 E010.36.22.856	; TWY MIL Apron NW Inner
+          N056.18.34.576 E010.36.23.069	; TWY MIL Apron NW Inner
+          N056.18.34.755 E010.36.23.738	; TWY MIL Apron NW Inner
+          N056.18.34.768 E010.36.24.092	; TWY MIL Apron NW Inner
+          N056.18.34.755 E010.36.24.360	; TWY MIL Apron NW Inner
+          N056.18.34.727 E010.36.24.634	; TWY MIL Apron NW Inner
+          N056.18.34.631 E010.36.24.902	; TWY MIL Apron NW Inner
+          N056.18.34.535 E010.36.25.091	; TWY MIL Apron NW Inner
+          N056.18.33.999 E010.36.25.960	; TWY MIL Apron NW Inner
+          N056.18.33.587 E010.36.26.512	; TWY MIL Apron NW Inner
+          N056.18.33.368 E010.36.26.722	; TWY MIL Apron NW Inner
+          N056.18.33.079 E010.36.26.749	; TWY MIL Apron NW Inner
+          N056.18.32.791 E010.36.26.622	; TWY MIL Apron NW Inner
+          N056.18.32.626 E010.36.26.426	; TWY MIL Apron NW Inner
+          N056.18.32.475 E010.36.26.231	; TWY MIL Apron NW Inner
+          N056.18.32.338 E010.36.25.932	; TWY MIL Apron NW Inner
+          N056.18.32.324 E010.36.25.743	; TWY MIL Apron NW Inner
+          N056.18.32.338 E010.36.25.530	; TWY MIL Apron NW Inner
+          N056.18.32.393 E010.36.25.283	; TWY MIL Apron NW Inner
+          N056.18.32.420 E010.36.25.043	; TWY MIL Apron NW Inner
+          N056.18.32.365 E010.36.24.737	; TWY MIL Apron NW Inner
+          N056.18.32.228 E010.36.24.353	; TWY MIL Apron NW Inner
+          N056.18.32.077 E010.36.24.222	; TWY MIL Apron NW Inner
+          N056.18.31.885 E010.36.24.154	; TWY MIL Apron NW Inner
+          N056.18.31.335 E010.36.23.254	; TWY MIL Apron NW Inner
+          N056.18.30.923 E010.36.24.521	; TWY MIL Apron NW Inner
+          N056.18.31.404 E010.36.24.796	; TWY MIL Apron NW Inner
+          N056.18.31.363 E010.36.25.091	; TWY MIL Apron NW Inner
+          N056.18.31.404 E010.36.25.383	; TWY MIL Apron NW Inner
+          N056.18.31.514 E010.36.25.709	; TWY MIL Apron NW Inner
+          N056.18.31.665 E010.36.25.901	; TWY MIL Apron NW Inner
+          N056.18.31.830 E010.36.26.028	; TWY MIL Apron NW Inner
+          N056.18.32.008 E010.36.26.193	; TWY MIL Apron NW Inner
+          N056.18.32.049 E010.36.26.392	; TWY MIL Apron NW Inner
+          N056.18.32.077 E010.36.26.636	; TWY MIL Apron NW Inner
+          N056.18.32.077 E010.36.27.192	; TWY MIL Apron NW Inner
+          N056.18.31.994 E010.36.27.587	; TWY MIL Apron NW Inner
+          N056.18.31.843 E010.36.27.978	; TWY MIL Apron NW Inner
+          N056.18.31.692 E010.36.28.195	; TWY MIL Apron NW Inner
+          N056.18.31.363 E010.36.28.421	; TWY MIL Apron NW Inner
+          N056.18.30.951 E010.36.28.476	; TWY MIL Apron NW Inner
+          N056.18.30.470 E010.36.28.442	; TWY MIL Apron NW Inner
+          N056.18.30.017 E010.36.28.328	; TWY MIL Apron NW Inner
+          N056.18.24.524 E010.36.26.533	; TWY MIL Apron NW Inner
+          N056.18.24.139 E010.36.26.124	; TWY MIL Apron NW Inner
+          N056.18.24.043 E010.36.25.918	; TWY MIL Apron NW Inner
+          N056.18.23.947 E010.36.25.630	; TWY MIL Apron NW Inner
+          N056.18.23.878 E010.36.25.273	; TWY MIL Apron NW Inner
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+     N056.18.09.692 E010.36.19.986	; TWY MIL Apron SW
+          N056.18.12.755 E010.35.49.763	; TWY MIL Apron SW
+          N056.18.12.700 E010.35.49.197	; TWY MIL Apron SW
+          N056.18.12.617 E010.35.48.815	; TWY MIL Apron SW
+          N056.18.12.439 E010.35.48.400	; TWY MIL Apron SW
+          N056.18.12.164 E010.35.48.043	; TWY MIL Apron SW
+          N056.18.06.630 E010.35.44.998	; TWY MIL Apron SW
+          N056.18.05.833 E010.35.44.956	; TWY MIL Apron SW
+          N056.18.05.545 E010.35.45.204	; TWY MIL Apron SW
+          N056.18.05.339 E010.35.45.547	; TWY MIL Apron SW
+          N056.18.05.174 E010.35.46.065	; TWY MIL Apron SW
+          N056.18.05.119 E010.35.46.364	; TWY MIL Apron SW
+          N056.18.05.092 E010.35.46.601	; TWY MIL Apron SW
+          N056.18.05.105 E010.35.46.841	; TWY MIL Apron SW
+          N056.18.05.160 E010.35.47.010	; TWY MIL Apron SW
+          N056.18.05.270 E010.35.47.147	; TWY MIL Apron SW
+          N056.18.05.366 E010.35.47.291	; TWY MIL Apron SW
+          N056.18.05.435 E010.35.47.494	; TWY MIL Apron SW
+          N056.18.05.476 E010.35.47.775	; TWY MIL Apron SW
+          N056.18.05.490 E010.35.48.026	; TWY MIL Apron SW
+          N056.18.06.012 E010.35.48.149	; TWY MIL Apron SW
+          N056.18.05.751 E010.35.49.509	; TWY MIL Apron SW
+          N056.18.05.050 E010.35.48.791	; TWY MIL Apron SW
+          N056.18.04.941 E010.35.48.826	; TWY MIL Apron SW
+          N056.18.04.721 E010.35.48.572	; TWY MIL Apron SW
+          N056.18.04.542 E010.35.48.218	; TWY MIL Apron SW
+          N056.18.04.460 E010.35.47.985	; TWY MIL Apron SW
+          N056.18.04.474 E010.35.47.617	; TWY MIL Apron SW
+          N056.18.04.501 E010.35.47.380	; TWY MIL Apron SW
+          N056.18.04.625 E010.35.47.071	; TWY MIL Apron SW
+          N056.18.04.693 E010.35.46.759	; TWY MIL Apron SW
+          N056.18.04.693 E010.35.46.357	; TWY MIL Apron SW
+          N056.18.04.556 E010.35.46.007	; TWY MIL Apron SW
+          N056.18.04.364 E010.35.45.619	; TWY MIL Apron SW
+          N056.18.04.048 E010.35.45.296	; TWY MIL Apron SW
+          N056.18.03.773 E010.35.45.255	; TWY MIL Apron SW
+          N056.18.03.197 E010.35.45.523	; TWY MIL Apron SW
+          N056.18.02.565 E010.35.45.973	; TWY MIL Apron SW
+          N056.18.02.153 E010.35.46.361	; TWY MIL Apron SW
+          N056.18.02.002 E010.35.46.670	; TWY MIL Apron SW
+          N056.18.01.919 E010.35.46.989	; TWY MIL Apron SW
+          N056.18.01.906 E010.35.47.339	; TWY MIL Apron SW
+          N056.18.01.906 E010.35.47.696	; TWY MIL Apron SW
+          N056.18.01.961 E010.35.48.084	; TWY MIL Apron SW
+          N056.18.02.139 E010.35.48.678	; TWY MIL Apron SW
+          N056.18.02.276 E010.35.48.661	; TWY MIL Apron SW
+          N056.18.02.427 E010.35.48.719	; TWY MIL Apron SW
+          N056.18.02.592 E010.35.48.922	; TWY MIL Apron SW
+          N056.18.02.702 E010.35.49.197	; TWY MIL Apron SW
+          N056.18.02.757 E010.35.49.368	; TWY MIL Apron SW
+          N056.18.02.743 E010.35.49.636	; TWY MIL Apron SW
+          N056.18.02.730 E010.35.49.880	; TWY MIL Apron SW
+          N056.18.02.963 E010.35.51.157	; TWY MIL Apron SW
+          N056.18.02.249 E010.35.51.497	; TWY MIL Apron SW
+          N056.18.02.249 E010.35.50.553	; TWY MIL Apron SW
+          N056.18.01.988 E010.35.50.436	; TWY MIL Apron SW
+          N056.18.01.837 E010.35.50.240	; TWY MIL Apron SW
+          N056.18.01.713 E010.35.49.904	; TWY MIL Apron SW
+          N056.18.01.713 E010.35.49.591	; TWY MIL Apron SW
+          N056.18.01.768 E010.35.49.227	; TWY MIL Apron SW
+          N056.18.01.782 E010.35.48.956	; TWY MIL Apron SW
+          N056.18.01.576 E010.35.48.585	; TWY MIL Apron SW
+          N056.18.01.356 E010.35.48.266	; TWY MIL Apron SW
+          N056.18.01.205 E010.35.48.112	; TWY MIL Apron SW
+          N056.18.00.944 E010.35.48.053	; TWY MIL Apron SW
+          N056.18.00.697 E010.35.48.108	; TWY MIL Apron SW
+          N056.18.00.477 E010.35.48.276	; TWY MIL Apron SW
+          N056.18.00.120 E010.35.48.829	; TWY MIL Apron SW
+          N056.17.59.461 E010.35.50.003	; TWY MIL Apron SW
+          N056.17.59.351 E010.35.50.426	; TWY MIL Apron SW
+          N056.17.59.338 E010.35.50.690	; TWY MIL Apron SW
+          N056.17.59.351 E010.35.51.023	; TWY MIL Apron SW
+          N056.17.59.434 E010.35.51.456	; TWY MIL Apron SW
+          N056.17.59.557 E010.35.51.799	; TWY MIL Apron SW
+          N056.17.59.818 E010.35.52.159	; TWY MIL Apron SW
+          N056.18.00.010 E010.35.52.125	; TWY MIL Apron SW
+          N056.18.00.148 E010.35.52.115	; TWY MIL Apron SW
+          N056.18.00.326 E010.35.52.197	; TWY MIL Apron SW
+          N056.18.00.464 E010.35.52.372	; TWY MIL Apron SW
+          N056.18.00.574 E010.35.52.633	; TWY MIL Apron SW
+          N056.18.00.656 E010.35.52.925	; TWY MIL Apron SW
+          N056.18.00.656 E010.35.53.217	; TWY MIL Apron SW
+          N056.18.00.615 E010.35.53.646	; TWY MIL Apron SW
+          N056.18.00.450 E010.35.53.989	; TWY MIL Apron SW
+          N056.18.00.244 E010.35.54.144	; TWY MIL Apron SW
+          N056.18.00.010 E010.35.54.212	; TWY MIL Apron SW
+          N056.17.59.777 E010.35.54.075	; TWY MIL Apron SW
+          N056.17.59.612 E010.35.53.828	; TWY MIL Apron SW
+          N056.17.59.502 E010.35.53.536	; TWY MIL Apron SW
+          N056.17.59.489 E010.35.53.186	; TWY MIL Apron SW
+          N056.17.59.489 E010.35.52.825	; TWY MIL Apron SW
+          N056.17.59.406 E010.35.52.729	; TWY MIL Apron SW
+          N056.17.59.241 E010.35.52.547	; TWY MIL Apron SW
+          N056.17.59.035 E010.35.52.379	; TWY MIL Apron SW
+          N056.17.58.857 E010.35.52.352	; TWY MIL Apron SW
+          N056.17.58.678 E010.35.52.338	; TWY MIL Apron SW
+          N056.17.58.555 E010.35.52.420	; TWY MIL Apron SW
+          N056.17.58.376 E010.35.52.592	; TWY MIL Apron SW
+          N056.17.58.184 E010.35.52.873	; TWY MIL Apron SW
+          N056.17.57.896 E010.35.53.790	; TWY MIL Apron SW
+          N056.17.57.525 E010.35.55.084	; TWY MIL Apron SW
+          N056.17.57.511 E010.35.55.315	; TWY MIL Apron SW
+          N056.17.57.511 E010.35.55.637	; TWY MIL Apron SW
+          N056.17.57.552 E010.35.55.874	; TWY MIL Apron SW
+          N056.17.57.593 E010.35.56.169	; TWY MIL Apron SW
+          N056.17.57.745 E010.35.56.454	; TWY MIL Apron SW
+          N056.17.57.978 E010.35.56.791	; TWY MIL Apron SW
+          N056.17.58.170 E010.35.57.024	; TWY MIL Apron SW
+          N056.17.58.266 E010.35.57.079	; TWY MIL Apron SW
+          N056.17.58.349 E010.35.56.935	; TWY MIL Apron SW
+          N056.17.58.459 E010.35.56.808	; TWY MIL Apron SW
+          N056.17.58.623 E010.35.56.743	; TWY MIL Apron SW
+          N056.17.58.816 E010.35.56.798	; TWY MIL Apron SW
+          N056.17.58.981 E010.35.56.945	; TWY MIL Apron SW
+          N056.17.59.077 E010.35.57.175	; TWY MIL Apron SW
+          N056.17.59.571 E010.35.56.660	; TWY MIL Apron SW
+          N056.17.59.846 E010.35.57.955	; TWY MIL Apron SW
+          N056.17.59.132 E010.35.58.192	; TWY MIL Apron SW
+          N056.17.59.049 E010.35.58.312	; TWY MIL Apron SW
+          N056.17.58.926 E010.35.58.483	; TWY MIL Apron SW
+          N056.17.58.788 E010.35.58.604	; TWY MIL Apron SW
+          N056.17.58.610 E010.35.58.617	; TWY MIL Apron SW
+          N056.17.58.404 E010.35.58.497	; TWY MIL Apron SW
+          N056.17.58.239 E010.35.58.271	; TWY MIL Apron SW
+          N056.17.58.157 E010.35.57.992	; TWY MIL Apron SW
+          N056.17.58.129 E010.35.57.732	; TWY MIL Apron SW
+          N056.17.58.005 E010.35.57.611	; TWY MIL Apron SW
+          N056.17.57.841 E010.35.57.604	; TWY MIL Apron SW
+          N056.17.57.621 E010.35.57.604	; TWY MIL Apron SW
+          N056.17.57.470 E010.35.57.632	; TWY MIL Apron SW
+          N056.17.57.236 E010.35.57.780	; TWY MIL Apron SW
+          N056.17.57.113 E010.35.57.900	; TWY MIL Apron SW
+          N056.17.56.962 E010.35.58.178	; TWY MIL Apron SW
+          N056.17.56.852 E010.35.58.507	; TWY MIL Apron SW
+          N056.17.56.742 E010.35.59.349	; TWY MIL Apron SW
+          N056.17.56.591 E010.36.00.818	; TWY MIL Apron SW
+          N056.17.56.605 E010.36.01.199	; TWY MIL Apron SW
+          N056.17.56.673 E010.36.01.522	; TWY MIL Apron SW
+          N056.17.56.742 E010.36.01.786	; TWY MIL Apron SW
+          N056.17.56.921 E010.36.02.133	; TWY MIL Apron SW
+          N056.17.57.168 E010.36.02.335	; TWY MIL Apron SW
+          N056.17.57.442 E010.36.02.449	; TWY MIL Apron SW
+          N056.17.57.621 E010.36.02.414	; TWY MIL Apron SW
+          N056.17.57.745 E010.36.02.081	; TWY MIL Apron SW
+          N056.17.57.937 E010.36.01.865	; TWY MIL Apron SW
+          N056.17.58.170 E010.36.01.762	; TWY MIL Apron SW
+          N056.17.58.431 E010.36.01.941	; TWY MIL Apron SW
+          N056.17.58.610 E010.36.02.202	; TWY MIL Apron SW
+          N056.17.58.733 E010.36.02.758	; TWY MIL Apron SW
+          N056.17.58.692 E010.36.03.252	; TWY MIL Apron SW
+          N056.17.58.555 E010.36.03.602	; TWY MIL Apron SW
+          N056.17.58.363 E010.36.03.884	; TWY MIL Apron SW
+          N056.17.58.143 E010.36.03.959	; TWY MIL Apron SW
+          N056.17.57.951 E010.36.03.898	; TWY MIL Apron SW
+          N056.17.57.772 E010.36.03.729	; TWY MIL Apron SW
+          N056.17.57.662 E010.36.03.513	; TWY MIL Apron SW
+          N056.17.57.593 E010.36.03.280	; TWY MIL Apron SW
+          N056.17.57.374 E010.36.03.286	; TWY MIL Apron SW
+          N056.17.57.168 E010.36.03.348	; TWY MIL Apron SW
+          N056.17.57.017 E010.36.03.444	; TWY MIL Apron SW
+          N056.17.56.838 E010.36.03.647	; TWY MIL Apron SW
+          N056.17.56.715 E010.36.03.901	; TWY MIL Apron SW
+          N056.17.56.618 E010.36.04.237	; TWY MIL Apron SW
+          N056.17.56.577 E010.36.04.684	; TWY MIL Apron SW
+          N056.17.56.632 E010.36.05.964	; TWY MIL Apron SW
+          N056.17.56.742 E010.36.06.998	; TWY MIL Apron SW
+          N056.17.56.838 E010.36.07.410	; TWY MIL Apron SW
+          N056.17.56.962 E010.36.07.702	; TWY MIL Apron SW
+          N056.17.57.168 E010.36.07.949	; TWY MIL Apron SW
+          N056.17.57.456 E010.36.08.103	; TWY MIL Apron SW
+          N056.17.57.745 E010.36.08.155	; TWY MIL Apron SW
+          N056.17.57.992 E010.36.07.993	; TWY MIL Apron SW
+          N056.17.58.033 E010.36.07.842	; TWY MIL Apron SW
+          N056.17.58.102 E010.36.07.616	; TWY MIL Apron SW
+          N056.17.58.198 E010.36.07.396	; TWY MIL Apron SW
+          N056.17.58.349 E010.36.07.211	; TWY MIL Apron SW
+          N056.17.58.514 E010.36.07.169	; TWY MIL Apron SW
+          N056.17.58.747 E010.36.07.252	; TWY MIL Apron SW
+          N056.17.58.884 E010.36.07.358	; TWY MIL Apron SW
+          N056.17.58.994 E010.36.07.557	; TWY MIL Apron SW
+          N056.17.59.035 E010.36.07.784	; TWY MIL Apron SW
+          N056.17.59.118 E010.36.07.880	; TWY MIL Apron SW
+          N056.17.59.708 E010.36.08.076	; TWY MIL Apron SW
+          N056.17.59.379 E010.36.09.267	; TWY MIL Apron SW
+          N056.17.58.981 E010.36.08.659	; TWY MIL Apron SW
+          N056.17.58.898 E010.36.08.769	; TWY MIL Apron SW
+          N056.17.58.747 E010.36.08.927	; TWY MIL Apron SW
+          N056.17.58.596 E010.36.08.982	; TWY MIL Apron SW
+          N056.17.58.404 E010.36.08.955	; TWY MIL Apron SW
+          N056.17.58.253 E010.36.08.859	; TWY MIL Apron SW
+          N056.17.58.157 E010.36.08.694	; TWY MIL Apron SW
+          N056.17.57.951 E010.36.08.735	; TWY MIL Apron SW
+          N056.17.57.799 E010.36.08.907	; TWY MIL Apron SW
+          N056.17.57.607 E010.36.09.240	; TWY MIL Apron SW
+          N056.17.57.470 E010.36.09.559	; TWY MIL Apron SW
+          N056.17.57.374 E010.36.09.930	; TWY MIL Apron SW
+          N056.17.57.360 E010.36.10.325	; TWY MIL Apron SW
+          N056.17.57.415 E010.36.10.771	; TWY MIL Apron SW
+          N056.17.57.593 E010.36.11.537	; TWY MIL Apron SW
+          N056.17.57.909 E010.36.12.601	; TWY MIL Apron SW
+          N056.17.58.019 E010.36.12.968	; TWY MIL Apron SW
+          N056.17.58.129 E010.36.13.150	; TWY MIL Apron SW
+          N056.17.58.294 E010.36.13.311	; TWY MIL Apron SW
+          N056.17.58.472 E010.36.13.408	; TWY MIL Apron SW
+          N056.17.58.747 E010.36.13.452	; TWY MIL Apron SW
+          N056.17.58.981 E010.36.13.339	; TWY MIL Apron SW
+          N056.17.59.145 E010.36.13.202	; TWY MIL Apron SW
+          N056.17.59.269 E010.36.12.978	; TWY MIL Apron SW
+          N056.17.59.310 E010.36.12.690	; TWY MIL Apron SW
+          N056.17.59.324 E010.36.12.422	; TWY MIL Apron SW
+          N056.17.59.393 E010.36.12.127	; TWY MIL Apron SW
+          N056.17.59.544 E010.36.11.852	; TWY MIL Apron SW
+          N056.17.59.722 E010.36.11.718	; TWY MIL Apron SW
+          N056.17.59.969 E010.36.11.732	; TWY MIL Apron SW
+          N056.18.00.216 E010.36.11.883	; TWY MIL Apron SW
+          N056.18.00.381 E010.36.12.213	; TWY MIL Apron SW
+          N056.18.00.464 E010.36.12.591	; TWY MIL Apron SW
+          N056.18.00.464 E010.36.12.879	; TWY MIL Apron SW
+          N056.18.00.368 E010.36.13.315	; TWY MIL Apron SW
+          N056.18.00.189 E010.36.13.658	; TWY MIL Apron SW
+          N056.17.59.969 E010.36.13.806	; TWY MIL Apron SW
+          N056.17.59.791 E010.36.13.806	; TWY MIL Apron SW
+          N056.17.59.598 E010.36.13.675	; TWY MIL Apron SW
+          N056.17.59.393 E010.36.13.926	; TWY MIL Apron SW
+          N056.17.59.255 E010.36.14.225	; TWY MIL Apron SW
+          N056.17.59.145 E010.36.14.630	; TWY MIL Apron SW
+          N056.17.59.118 E010.36.15.014	; TWY MIL Apron SW
+          N056.17.59.118 E010.36.15.317	; TWY MIL Apron SW
+          N056.17.59.228 E010.36.15.807	; TWY MIL Apron SW
+          N056.17.59.365 E010.36.16.079	; TWY MIL Apron SW
+          N056.17.59.914 E010.36.16.985	; TWY MIL Apron SW
+          N056.18.00.560 E010.36.17.768	; TWY MIL Apron SW
+          N056.18.00.711 E010.36.17.871	; TWY MIL Apron SW
+          N056.18.00.917 E010.36.17.926	; TWY MIL Apron SW
+          N056.18.01.095 E010.36.17.854	; TWY MIL Apron SW
+          N056.18.01.274 E010.36.17.716	; TWY MIL Apron SW
+          N056.18.01.439 E010.36.17.521	; TWY MIL Apron SW
+          N056.18.01.604 E010.36.17.225	; TWY MIL Apron SW
+          N056.18.01.782 E010.36.16.669	; TWY MIL Apron SW
+          N056.18.01.700 E010.36.16.405	; TWY MIL Apron SW
+          N056.18.01.658 E010.36.16.096	; TWY MIL Apron SW
+          N056.18.01.672 E010.36.15.753	; TWY MIL Apron SW
+          N056.18.01.727 E010.36.15.468	; TWY MIL Apron SW
+          N056.18.01.796 E010.36.15.286	; TWY MIL Apron SW
+          N056.18.01.919 E010.36.15.176	; TWY MIL Apron SW
+          N056.18.02.070 E010.36.15.059	; TWY MIL Apron SW
+          N056.18.02.565 E010.36.13.967	; TWY MIL Apron SW
+          N056.18.03.059 E010.36.15.086	; TWY MIL Apron SW
+          N056.18.02.606 E010.36.15.567	; TWY MIL Apron SW
+          N056.18.02.647 E010.36.15.783	; TWY MIL Apron SW
+          N056.18.02.661 E010.36.16.110	; TWY MIL Apron SW
+          N056.18.02.620 E010.36.16.405	; TWY MIL Apron SW
+          N056.18.02.496 E010.36.16.710	; TWY MIL Apron SW
+          N056.18.02.304 E010.36.16.885	; TWY MIL Apron SW
+          N056.18.02.153 E010.36.16.954	; TWY MIL Apron SW
+          N056.18.02.112 E010.36.17.112	; TWY MIL Apron SW
+          N056.18.02.043 E010.36.17.315	; TWY MIL Apron SW
+          N056.18.02.029 E010.36.17.658	; TWY MIL Apron SW
+          N056.18.02.043 E010.36.18.067	; TWY MIL Apron SW
+          N056.18.02.098 E010.36.18.489	; TWY MIL Apron SW
+          N056.18.02.221 E010.36.18.932	; TWY MIL Apron SW
+          N056.18.02.469 E010.36.19.251	; TWY MIL Apron SW
+          N056.18.02.743 E010.36.19.426	; TWY MIL Apron SW
+          N056.18.08.745 E010.36.21.349	; TWY MIL Apron SW
+          N056.18.08.951 E010.36.21.301	; TWY MIL Apron SW
+          N056.18.09.170 E010.36.21.184	; TWY MIL Apron SW
+          N056.18.09.335 E010.36.21.005	; TWY MIL Apron SW
+          N056.18.09.472 E010.36.20.734	; TWY MIL Apron SW
+          N056.18.09.596 E010.36.20.415	; TWY MIL Apron SW
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+           N056.18.04.391 E010.35.43.789	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.01.741 E010.35.42.296	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.01.466 E010.35.42.189	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.01.274 E010.35.42.258	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.01.150 E010.35.42.258	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.01.054 E010.35.42.337	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.00.972 E010.35.42.471	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.00.711 E010.35.45.018	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.00.821 E010.35.45.550	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.00.972 E010.35.45.811	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.01.123 E010.35.45.914	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.01.329 E010.35.45.942	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.01.507 E010.35.45.877	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.01.919 E010.35.45.526	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.02.441 E010.35.45.056	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.03.059 E010.35.44.665	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.03.677 E010.35.44.404	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.04.130 E010.35.44.235	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.04.364 E010.35.44.170	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.04.419 E010.35.44.064	; TWY ;Aarhus Background ISLAND MIL SW Small
+          N056.18.04.446 E010.35.43.909	; TWY ;Aarhus Background ISLAND MIL SW Small
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+          N056.17.57.992 E010.38.16.001	; TWY MIL apron SE
+          N056.18.01.205 E010.37.44.011	; TWY MIL apron SE
+          N056.18.01.192 E010.37.43.520	; TWY MIL apron SE
+          N056.18.01.082 E010.37.42.974	; TWY MIL apron SE
+          N056.18.00.917 E010.37.42.579	; TWY MIL apron SE
+          N056.18.00.738 E010.37.42.325	; TWY MIL apron SE
+          N056.18.00.436 E010.37.42.098	; TWY MIL apron SE
+          N056.17.54.174 E010.37.40.093	; TWY MIL apron SE
+          N056.17.53.995 E010.37.40.076	; TWY MIL apron SE
+          N056.17.53.789 E010.37.40.231	; TWY MIL apron SE
+          N056.17.53.583 E010.37.40.522	; TWY MIL apron SE
+          N056.17.53.405 E010.37.40.982	; TWY MIL apron SE
+          N056.17.53.364 E010.37.41.243	; TWY MIL apron SE
+          N056.17.53.336 E010.37.41.583	; TWY MIL apron SE
+          N056.17.53.391 E010.37.42.067	; TWY MIL apron SE
+          N056.17.53.583 E010.37.42.242	; TWY MIL apron SE
+          N056.17.53.707 E010.37.42.404	; TWY MIL apron SE
+          N056.17.53.817 E010.37.42.658	; TWY MIL apron SE
+          N056.17.53.844 E010.37.42.943	; TWY MIL apron SE
+          N056.17.53.844 E010.37.43.118	; TWY MIL apron SE
+          N056.17.54.092 E010.37.43.245	; TWY MIL apron SE
+          N056.17.53.954 E010.37.44.127	; TWY MIL apron SE
+          N056.17.53.597 E010.37.43.986	; TWY MIL apron SE
+          N056.17.53.350 E010.37.44.144	; TWY MIL apron SE
+          N056.17.53.158 E010.37.44.141	; TWY MIL apron SE
+          N056.17.52.856 E010.37.43.904	; TWY MIL apron SE
+          N056.17.52.691 E010.37.43.523	; TWY MIL apron SE
+          N056.17.52.650 E010.37.43.001	; TWY MIL apron SE
+          N056.17.52.732 E010.37.42.582	; TWY MIL apron SE
+          N056.17.52.883 E010.37.42.208	; TWY MIL apron SE
+          N056.17.52.869 E010.37.41.875	; TWY MIL apron SE
+          N056.17.52.787 E010.37.41.556	; TWY MIL apron SE
+          N056.17.52.595 E010.37.41.195	; TWY MIL apron SE
+          N056.17.52.416 E010.37.41.024	; TWY MIL apron SE
+          N056.17.52.238 E010.37.40.866	; TWY MIL apron SE
+          N056.17.51.894 E010.37.40.859	; TWY MIL apron SE
+          N056.17.51.208 E010.37.41.504	; TWY MIL apron SE
+          N056.17.50.549 E010.37.42.236	; TWY MIL apron SE
+          N056.17.50.356 E010.37.42.764	; TWY MIL apron SE
+          N056.17.50.301 E010.37.43.070	; TWY MIL apron SE
+          N056.17.50.288 E010.37.43.526	; TWY MIL apron SE
+          N056.17.50.384 E010.37.44.199	; TWY MIL apron SE
+          N056.17.50.576 E010.37.44.611	; TWY MIL apron SE
+          N056.17.50.809 E010.37.44.580	; TWY MIL apron SE
+          N056.17.51.029 E010.37.44.690	; TWY MIL apron SE
+          N056.17.51.194 E010.37.44.937	; TWY MIL apron SE
+          N056.17.51.318 E010.37.45.373	; TWY MIL apron SE
+          N056.17.51.318 E010.37.45.748	; TWY MIL apron SE
+          N056.17.51.263 E010.37.46.187	; TWY MIL apron SE
+          N056.17.51.153 E010.37.46.441	; TWY MIL apron SE
+          N056.17.50.988 E010.37.46.630	; TWY MIL apron SE
+          N056.17.50.768 E010.37.46.692	; TWY MIL apron SE
+          N056.17.50.521 E010.37.46.603	; TWY MIL apron SE
+          N056.17.50.329 E010.37.46.366	; TWY MIL apron SE
+          N056.17.50.191 E010.37.46.067	; TWY MIL apron SE
+          N056.17.50.178 E010.37.45.552	; TWY MIL apron SE
+          N056.17.50.205 E010.37.45.178	; TWY MIL apron SE
+          N056.17.49.999 E010.37.44.738	; TWY MIL apron SE
+          N056.17.49.615 E010.37.44.491	; TWY MIL apron SE
+          N056.17.49.244 E010.37.44.501	; TWY MIL apron SE
+          N056.17.48.914 E010.37.44.769	; TWY MIL apron SE
+          N056.17.48.104 E010.37.46.537	; TWY MIL apron SE
+          N056.17.48.008 E010.37.47.210	; TWY MIL apron SE
+          N056.17.48.035 E010.37.47.629	; TWY MIL apron SE
+          N056.17.48.090 E010.37.47.924	; TWY MIL apron SE
+          N056.17.48.296 E010.37.48.477	; TWY MIL apron SE
+          N056.17.48.544 E010.37.48.738	; TWY MIL apron SE
+          N056.17.48.667 E010.37.48.642	; TWY MIL apron SE
+          N056.17.48.846 E010.37.48.556	; TWY MIL apron SE
+          N056.17.48.997 E010.37.48.560	; TWY MIL apron SE
+          N056.17.49.203 E010.37.48.700	; TWY MIL apron SE
+          N056.17.49.340 E010.37.48.882	; TWY MIL apron SE
+          N056.17.49.422 E010.37.49.129	; TWY MIL apron SE
+          N056.17.49.464 E010.37.49.363	; TWY MIL apron SE
+          N056.17.49.738 E010.37.49.390	; TWY MIL apron SE
+          N056.17.49.711 E010.37.50.407	; TWY MIL apron SE
+          N056.17.49.354 E010.37.50.331	; TWY MIL apron SE
+          N056.17.49.175 E010.37.50.589	; TWY MIL apron SE
+          N056.17.48.983 E010.37.50.661	; TWY MIL apron SE
+          N056.17.48.777 E010.37.50.668	; TWY MIL apron SE
+          N056.17.48.544 E010.37.50.455	; TWY MIL apron SE
+          N056.17.48.406 E010.37.50.235	; TWY MIL apron SE
+          N056.17.48.324 E010.37.49.809	; TWY MIL apron SE
+          N056.17.48.310 E010.37.49.535	; TWY MIL apron SE
+          N056.17.48.104 E010.37.49.298	; TWY MIL apron SE
+          N056.17.47.871 E010.37.49.212	; TWY MIL apron SE
+          N056.17.47.665 E010.37.49.188	; TWY MIL apron SE
+          N056.17.47.390 E010.37.49.291	; TWY MIL apron SE
+          N056.17.47.184 E010.37.49.555	; TWY MIL apron SE
+          N056.17.47.005 E010.37.49.885	; TWY MIL apron SE
+          N056.17.46.566 E010.37.51.989	; TWY MIL apron SE
+          N056.17.46.566 E010.37.52.432	; TWY MIL apron SE
+          N056.17.46.635 E010.37.52.861	; TWY MIL apron SE
+          N056.17.46.731 E010.37.53.146	; TWY MIL apron SE
+          N056.17.46.882 E010.37.53.435	; TWY MIL apron SE
+          N056.17.47.143 E010.37.53.740	; TWY MIL apron SE
+          N056.17.47.459 E010.37.53.836	; TWY MIL apron SE
+          N056.17.47.720 E010.37.53.970	; TWY MIL apron SE
+          N056.17.48.077 E010.37.54.262	; TWY MIL apron SE
+          N056.17.48.406 E010.37.54.605	; TWY MIL apron SE
+          N056.17.48.626 E010.37.54.887	; TWY MIL apron SE
+          N056.17.48.708 E010.37.54.884	; TWY MIL apron SE
+          N056.17.48.832 E010.37.54.860	; TWY MIL apron SE
+          N056.17.48.969 E010.37.54.901	; TWY MIL apron SE
+          N056.17.49.107 E010.37.55.007	; TWY MIL apron SE
+          N056.17.49.244 E010.37.55.227	; TWY MIL apron SE
+          N056.17.49.299 E010.37.55.381	; TWY MIL apron SE
+          N056.17.49.340 E010.37.55.536	; TWY MIL apron SE
+          N056.17.49.821 E010.37.55.289	; TWY MIL apron SE
+          N056.17.49.862 E010.37.56.686	; TWY MIL apron SE
+          N056.17.49.134 E010.37.56.576	; TWY MIL apron SE
+          N056.17.49.024 E010.37.56.672	; TWY MIL apron SE
+          N056.17.48.873 E010.37.56.737	; TWY MIL apron SE
+          N056.17.48.681 E010.37.56.693	; TWY MIL apron SE
+          N056.17.48.461 E010.37.56.470	; TWY MIL apron SE
+          N056.17.48.351 E010.37.56.161	; TWY MIL apron SE
+          N056.17.48.324 E010.37.55.817	; TWY MIL apron SE
+          N056.17.48.324 E010.37.55.653	; TWY MIL apron SE
+          N056.17.48.255 E010.37.55.508	; TWY MIL apron SE
+          N056.17.48.090 E010.37.55.285	; TWY MIL apron SE
+          N056.17.47.774 E010.37.54.932	; TWY MIL apron SE
+          N056.17.47.459 E010.37.54.722	; TWY MIL apron SE
+          N056.17.47.170 E010.37.54.633	; TWY MIL apron SE
+          N056.17.46.896 E010.37.54.636	; TWY MIL apron SE
+          N056.17.46.662 E010.37.54.774	; TWY MIL apron SE
+          N056.17.46.470 E010.37.54.969	; TWY MIL apron SE
+          N056.17.46.291 E010.37.55.368	; TWY MIL apron SE
+          N056.17.46.168 E010.37.55.859	; TWY MIL apron SE
+          N056.17.46.127 E010.37.56.792	; TWY MIL apron SE
+          N056.17.46.113 E010.37.57.970	; TWY MIL apron SE
+          N056.17.46.140 E010.37.58.241	; TWY MIL apron SE
+          N056.17.46.195 E010.37.58.492	; TWY MIL apron SE
+          N056.17.46.305 E010.37.58.815	; TWY MIL apron SE
+          N056.17.46.442 E010.37.59.051	; TWY MIL apron SE
+          N056.17.46.648 E010.37.59.257	; TWY MIL apron SE
+          N056.17.46.909 E010.37.59.378	; TWY MIL apron SE
+          N056.17.47.115 E010.37.59.374	; TWY MIL apron SE
+          N056.17.47.239 E010.37.59.292	; TWY MIL apron SE
+          N056.17.47.321 E010.37.59.034	; TWY MIL apron SE
+          N056.17.47.445 E010.37.58.818	; TWY MIL apron SE
+          N056.17.47.596 E010.37.58.643	; TWY MIL apron SE
+          N056.17.47.816 E010.37.58.564	; TWY MIL apron SE
+          N056.17.48.022 E010.37.58.619	; TWY MIL apron SE
+          N056.17.48.200 E010.37.58.828	; TWY MIL apron SE
+          N056.17.48.310 E010.37.59.041	; TWY MIL apron SE
+          N056.17.48.392 E010.37.59.354	; TWY MIL apron SE
+          N056.17.48.406 E010.37.59.748	; TWY MIL apron SE
+          N056.17.48.351 E010.38.00.051	; TWY MIL apron SE
+          N056.17.48.283 E010.38.00.267	; TWY MIL apron SE
+          N056.17.48.214 E010.38.01.242	; TWY MIL apron SE
+          N056.17.47.678 E010.38.01.132	; TWY MIL apron SE
+          N056.17.47.706 E010.38.00.665	; TWY MIL apron SE
+          N056.17.47.555 E010.38.00.590	; TWY MIL apron SE
+          N056.17.47.417 E010.38.00.476	; TWY MIL apron SE
+          N056.17.47.335 E010.38.00.287	; TWY MIL apron SE
+          N056.17.47.211 E010.38.00.250	; TWY MIL apron SE
+          N056.17.47.088 E010.38.00.263	; TWY MIL apron SE
+          N056.17.46.950 E010.38.00.363	; TWY MIL apron SE
+          N056.17.46.799 E010.38.00.552	; TWY MIL apron SE
+          N056.17.46.621 E010.38.00.847	; TWY MIL apron SE
+          N056.17.46.470 E010.38.01.266	; TWY MIL apron SE
+          N056.17.46.442 E010.38.01.547	; TWY MIL apron SE
+          N056.17.46.429 E010.38.01.987	; TWY MIL apron SE
+          N056.17.46.607 E010.38.03.061	; TWY MIL apron SE
+          N056.17.46.799 E010.38.04.050	; TWY MIL apron SE
+          N056.17.46.978 E010.38.04.476	; TWY MIL apron SE
+          N056.17.47.115 E010.38.04.699	; TWY MIL apron SE
+          N056.17.47.376 E010.38.04.836	; TWY MIL apron SE
+          N056.17.47.596 E010.38.04.915	; TWY MIL apron SE
+          N056.17.47.843 E010.38.04.850	; TWY MIL apron SE
+          N056.17.48.104 E010.38.04.624	; TWY MIL apron SE
+          N056.17.48.118 E010.38.04.239	; TWY MIL apron SE
+          N056.17.48.200 E010.38.03.930	; TWY MIL apron SE
+          N056.17.48.365 E010.38.03.659	; TWY MIL apron SE
+          N056.17.48.544 E010.38.03.504	; TWY MIL apron SE
+          N056.17.48.708 E010.38.03.501	; TWY MIL apron SE
+          N056.17.48.997 E010.38.03.642	; TWY MIL apron SE
+          N056.17.49.134 E010.38.03.813	; TWY MIL apron SE
+          N056.17.49.230 E010.38.04.085	; TWY MIL apron SE
+          N056.17.49.271 E010.38.04.397	; TWY MIL apron SE
+          N056.17.49.258 E010.38.04.823	; TWY MIL apron SE
+          N056.17.49.189 E010.38.05.197	; TWY MIL apron SE
+          N056.17.48.983 E010.38.05.503	; TWY MIL apron SE
+          N056.17.48.763 E010.38.05.612	; TWY MIL apron SE
+          N056.17.48.516 E010.38.05.578	; TWY MIL apron SE
+          N056.17.48.324 E010.38.05.424	; TWY MIL apron SE
+          N056.17.48.145 E010.38.05.544	; TWY MIL apron SE
+          N056.17.48.049 E010.38.05.719	; TWY MIL apron SE
+          N056.17.47.926 E010.38.05.939	; TWY MIL apron SE
+          N056.17.47.829 E010.38.06.203	; TWY MIL apron SE
+          N056.17.47.761 E010.38.06.526	; TWY MIL apron SE
+          N056.17.47.733 E010.38.06.931	; TWY MIL apron SE
+          N056.17.47.747 E010.38.07.274	; TWY MIL apron SE
+          N056.17.47.857 E010.38.07.696	; TWY MIL apron SE
+          N056.17.48.324 E010.38.08.905	; TWY MIL apron SE
+          N056.17.48.681 E010.38.09.670	; TWY MIL apron SE
+          N056.17.49.052 E010.38.09.925	; TWY MIL apron SE
+          N056.17.49.216 E010.38.09.949	; TWY MIL apron SE
+          N056.17.49.395 E010.38.09.955	; TWY MIL apron SE
+          N056.17.49.560 E010.38.09.870	; TWY MIL apron SE
+          N056.17.49.697 E010.38.09.804	; TWY MIL apron SE
+          N056.17.49.779 E010.38.09.688	; TWY MIL apron SE
+          N056.17.49.862 E010.38.09.492	; TWY MIL apron SE
+          N056.17.49.931 E010.38.09.155	; TWY MIL apron SE
+          N056.17.49.903 E010.38.09.018	; TWY MIL apron SE
+          N056.17.49.889 E010.38.08.750	; TWY MIL apron SE
+          N056.17.49.903 E010.38.08.465	; TWY MIL apron SE
+          N056.17.49.972 E010.38.08.177	; TWY MIL apron SE
+          N056.17.50.054 E010.38.07.974	; TWY MIL apron SE
+          N056.17.50.178 E010.38.07.861	; TWY MIL apron SE
+          N056.17.50.370 E010.38.07.782	; TWY MIL apron SE
+          N056.17.50.535 E010.38.07.806	; TWY MIL apron SE
+          N056.17.50.686 E010.38.07.954	; TWY MIL apron SE
+          N056.17.50.809 E010.38.08.122	; TWY MIL apron SE
+          N056.17.51.565 E010.38.08.376	; TWY MIL apron SE
+          N056.17.51.318 E010.38.09.646	; TWY MIL apron SE
+          N056.17.50.851 E010.38.09.221	; TWY MIL apron SE
+          N056.17.50.727 E010.38.09.434	; TWY MIL apron SE
+          N056.17.50.645 E010.38.09.540	; TWY MIL apron SE
+          N056.17.50.535 E010.38.09.626	; TWY MIL apron SE
+          N056.17.50.384 E010.38.09.633	; TWY MIL apron SE
+          N056.17.50.233 E010.38.09.828	; TWY MIL apron SE
+          N056.17.50.123 E010.38.10.165	; TWY MIL apron SE
+          N056.17.50.082 E010.38.10.429	; TWY MIL apron SE
+          N056.17.50.082 E010.38.10.766	; TWY MIL apron SE
+          N056.17.50.082 E010.38.11.092	; TWY MIL apron SE
+          N056.17.50.150 E010.38.11.418	; TWY MIL apron SE
+          N056.17.50.274 E010.38.11.816	; TWY MIL apron SE
+          N056.17.50.439 E010.38.12.053	; TWY MIL apron SE
+          N056.17.50.631 E010.38.12.328	; TWY MIL apron SE
+          N056.17.50.809 E010.38.12.520	; TWY MIL apron SE
+          N056.17.54.160 E010.38.15.473	; TWY MIL apron SE
+          N056.17.54.270 E010.38.15.452	; TWY MIL apron SE
+          N056.17.54.366 E010.38.15.373	; TWY MIL apron SE
+          N056.17.54.435 E010.38.15.212	; TWY MIL apron SE
+          N056.17.54.531 E010.38.14.686	; TWY MIL apron SE
+          N056.17.54.490 E010.38.14.508	; TWY MIL apron SE
+          N056.17.54.476 E010.38.14.240	; TWY MIL apron SE
+          N056.17.54.449 E010.38.13.993	; TWY MIL apron SE
+          N056.17.54.490 E010.38.13.691	; TWY MIL apron SE
+          N056.17.54.586 E010.38.13.430	; TWY MIL apron SE
+          N056.17.54.627 E010.38.12.043	; TWY MIL apron SE
+          N056.17.55.369 E010.38.12.479	; TWY MIL apron SE
+          N056.17.55.190 E010.38.13.217	; TWY MIL apron SE
+          N056.17.55.286 E010.38.13.330	; TWY MIL apron SE
+          N056.17.55.382 E010.38.13.481	; TWY MIL apron SE
+          N056.17.55.451 E010.38.13.684	; TWY MIL apron SE
+          N056.17.55.492 E010.38.13.914	; TWY MIL apron SE
+          N056.17.55.492 E010.38.14.223	; TWY MIL apron SE
+          N056.17.55.437 E010.38.14.474	; TWY MIL apron SE
+          N056.17.55.341 E010.38.14.721	; TWY MIL apron SE
+          N056.17.55.218 E010.38.14.882	; TWY MIL apron SE
+          N056.17.55.094 E010.38.14.982	; TWY MIL apron SE
+          N056.17.55.012 E010.38.15.057	; TWY MIL apron SE
+          N056.17.54.888 E010.38.15.181	; TWY MIL apron SE
+          N056.17.54.792 E010.38.15.541	; TWY MIL apron SE
+          N056.17.54.765 E010.38.15.799	; TWY MIL apron SE
+          N056.17.54.778 E010.38.15.970	; TWY MIL apron SE
+          N056.17.54.861 E010.38.16.121	; TWY MIL apron SE
+          N056.17.56.316 E010.38.17.392	; TWY MIL apron SE
+          N056.17.56.564 E010.38.17.505	; TWY MIL apron SE
+          N056.17.56.797 E010.38.17.581	; TWY MIL apron SE
+          N056.17.57.072 E010.38.17.584	; TWY MIL apron SE
+          N056.17.57.305 E010.38.17.474	; TWY MIL apron SE
+          N056.17.57.566 E010.38.17.179	; TWY MIL apron SE
+          N056.17.57.745 E010.38.16.904	; TWY MIL apron SE
+          N056.17.57.868 E010.38.16.561	; TWY MIL apron SE
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+    N056.18.27.669 E010.37.24.524 ; Island GA
+          N056.18.27.861 E010.37.24.575 ; Island GA
+          N056.18.28.451 E010.37.23.857 ; Island GA
+          N056.18.28.767 E010.37.20.795 ; Island GA
+          N056.18.28.287 E010.37.20.132 ; Island GA
+          N056.18.28.094 E010.37.20.280 ; Island GA
+          N056.18.27.669 E010.37.24.524 ; Island GA
+;
+;
+;Aarhus Background 
+COLOR_GrasSurface
+    N056.18.27.806 E010.37.27.140 ; Island at GA Grass entrance
+          N056.18.28.081 E010.37.27.232 ;
+          N056.18.28.135 E010.37.27.205 ;
+          N056.18.28.190 E010.37.27.146 ;
+          N056.18.28.245 E010.37.27.019 ;
+          N056.18.28.341 E010.37.24.613 ;
+          N056.18.28.039 E010.37.24.960 ;
+;
+;
+;Aarhus Runways 
+COLOR_RunwayConcrete
+       N056.18.11.070 E010.38.31.010 ; THRS RWY 28R NE
+          N056.18.10.387 E010.38.30.780 ; THRS RWY 28R SE
+          N056.18.26.390 E010.35.51.970 ; THRS RWY 10L SW
+          N056.18.27.130 E010.35.52.000 ; THRS RWY 10L NW
+
+;
+;
+;Aarhus Runways 
+COLOR_RunwayConcrete
+       N056.18.04.858 E010.38.26.105 ; THRS RWY 28L nE
+          N056.18.03.457 E010.38.25.635 ; THRS RWY 28L sE
+          N056.18.19.072 E010.35.50.923 ; THRS RWY 10R SW
+          N056.18.20.514 E010.35.51.363 ; THRS RWY 10R NW
+
+;
+;
+;Aarhus Apron 
+COLOR_ApronSurface
+     N056.18.23.576 E010.37.46.888  ; APRON
+          N056.18.25.032 E010.37.46.194  ; APRON
+          N056.18.25.320 E010.37.45.899  ; APRON
+          N056.18.25.622 E010.37.45.418  ; APRON
+          N056.18.25.870 E010.37.44.670  ; APRON
+          N056.18.25.993 E010.37.43.853  ; APRON
+          N056.18.25.979 E010.37.43.053  ; APRON
+          N056.18.25.883 E010.37.42.325  ; APRON
+          N056.18.25.705 E010.37.41.848  ; APRON
+          N056.18.25.952 E010.37.41.525  ; APRON
+          N056.18.26.117 E010.37.41.044  ; APRON
+          N056.18.26.240 E010.37.40.306  ; APRON
+          N056.18.26.240 E010.37.39.609  ; APRON
+          N056.18.26.103 E010.37.39.046  ; APRON
+          N056.18.25.801 E010.37.38.232  ; APRON
+          N056.18.26.185 E010.37.37.772  ; APRON
+          N056.18.26.460 E010.37.37.244  ; APRON
+          N056.18.26.625 E010.37.36.639  ; APRON
+          N056.18.26.666 E010.37.35.863  ; APRON
+          N056.18.26.639 E010.37.35.280  ; APRON
+          N056.18.26.556 E010.37.34.700  ; APRON
+          N056.18.26.089 E010.37.33.440  ; APRON
+          N056.18.26.831 E010.37.32.389  ; APRON
+          N056.18.27.037 E010.37.31.819  ; APRON
+          N056.18.27.257 E010.37.30.964  ; APRON
+          N056.18.27.325 E010.37.29.993  ; APRON
+          N056.18.27.270 E010.37.29.179  ; APRON
+          N056.18.27.106 E010.37.28.485  ; APRON
+          N056.18.27.339 E010.37.27.620  ; APRON
+          N056.18.28.012 E010.37.20.744  ; APRON
+          N056.18.26.858 E010.37.20.369  ; APRON
+          N056.18.26.721 E010.37.21.811  ; APRON
+          N056.18.26.213 E010.37.23.123  ; APRON
+          N056.18.25.773 E010.37.27.507  ; APRON
+          N056.18.25.265 E010.37.28.190  ; APRON
+;
+;Aarhus Terminal 
+COLOR_ApronSurface
+      N056.18.28.232 E010.37.32.626 ; Terminal
+          N056.18.28.190 E010.37.32.489 ; Terminal
+          N056.18.28.067 E010.37.32.451 ; Terminal
+          N056.18.27.971 E010.37.32.578 ; Terminal
+          N056.18.27.943 E010.37.32.815 ; Terminal
+          N056.18.28.012 E010.37.32.949 ; Terminal
+          N056.18.27.723 E010.37.35.517 ; Terminal
+          N056.18.27.106 E010.37.35.338 ; Terminal
+          N056.18.26.199 E010.37.44.429 ; Terminal
+          N056.18.26.378 E010.37.44.474 ; Terminal
+          N056.18.26.831 E010.37.40.158 ; Terminal
+          N056.18.27.366 E010.37.40.354 ; Terminal
+          N056.18.27.160 E010.37.42.469 ; Terminal
+          N056.18.26.982 E010.37.42.435 ; Terminal
+          N056.18.26.817 E010.37.44.065 ; Terminal
+          N056.18.26.666 E010.37.44.021 ; Terminal
+          N056.18.26.515 E010.37.45.645 ; Terminal
+          N056.18.27.147 E010.37.45.885 ; Terminal
+          N056.18.27.229 E010.37.44.903 ; Terminal
+          N056.18.27.160 E010.37.44.883 ; Terminal
+          N056.18.27.229 E010.37.44.319 ; Terminal
+          N056.18.27.160 E010.37.44.265 ; Terminal
+          N056.18.27.545 E010.37.40.402 ; Terminal
+          N056.18.28.300 E010.37.40.612 ; Terminal
+          N056.18.28.424 E010.37.39.602 ; Terminal
+          N056.18.28.644 E010.37.39.671 ; Terminal
+          N056.18.28.671 E010.37.39.307 ; Terminal
+          N056.18.28.465 E010.37.39.242 ; Terminal
+          N056.18.28.506 E010.37.38.881 ; Terminal
+          N056.18.28.781 E010.37.38.960 ; Terminal
+          N056.18.28.850 E010.37.38.263 ; Terminal
+          N056.18.28.946 E010.37.38.294 ; Terminal
+          N056.18.29.001 E010.37.37.604 ; Terminal
+          N056.18.28.918 E010.37.37.570 ; Terminal
+          N056.18.29.152 E010.37.35.170 ; Terminal
+          N056.18.29.248 E010.37.35.218 ; Terminal
+          N056.18.29.317 E010.37.34.504 ; Terminal
+          N056.18.29.248 E010.37.34.459 ; Terminal
+          N056.18.29.289 E010.37.33.749 ; Terminal
+          N056.18.28.863 E010.37.33.618 ; Terminal
+          N056.18.28.918 E010.37.33.131 ; Terminal
+          N056.18.28.644 E010.37.33.034 ; Terminal
+          N056.18.28.671 E010.37.32.787 ; Terminal
+
+;Aarhus Grasssurfaces 
+COLOR_GrasSurface
+     N056.18.28.616 E010.37.26.566 ; Apron
+          N056.18.31.198 E010.37.27.184 ; GA Grass
+          N056.18.30.662 E010.37.30.587 ; GA Grass
+          N056.18.30.882 E010.37.30.755 ; GA Grass
+          N056.18.30.346 E010.37.32.018 ; GA Grass
+          N056.18.29.042 E010.37.31.582 ; GA Grass
+          N056.18.27.531 E010.37.30.964 ;
+          N056.18.27.847 E010.37.27.840 ;
+          N056.18.27.847 E010.37.27.840 ;
+          N056.18.28.547 E010.37.28.070 ;
+          N056.18.28.575 E010.37.27.184 ;
