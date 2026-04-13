@@ -21,15 +21,15 @@ Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
 RecentFiles	Recent1	\EKDK\ASR\EKCH_APP.asr
 RecentFiles	Recent10	\EKDK\ASR\EKDK_FMP.asr
-RecentFiles	Recent11	\EKDK\ASR\EKAH_GND.asr
+RecentFiles	Recent11	\EKDK\ASR\EKDK_FMP.asr
 RecentFiles	Recent2	\EKDK\ASR\EKCH_GND.asr
 RecentFiles	Recent3	\EKDK\ASR\EKDK_CTR.asr
-RecentFiles	Recent4	\EKDK\ASR\EKBI_GND.asr
-RecentFiles	Recent5	\EKDK\ASR\EKBI_APP.asr
-RecentFiles	Recent6	\EKDK\ASR\EKYT_GND.asr
-RecentFiles	Recent7	\EKDK\ASR\EKYT_APP.asr
-RecentFiles	Recent8	\EKDK\ASR\EKDK_GroundViews.asr
-RecentFiles	Recent9	\EKDK\ASR\EKDK_FMP.asr
+RecentFiles	Recent4	\EKDK\ASR\EKYT_GND.asr
+RecentFiles	Recent5	\EKDK\ASR\EKYT_APP.asr
+RecentFiles	Recent6	\EKDK\ASR\EKDK_FMP.asr
+RecentFiles	Recent7	\EKDK\ASR\EKBI_APP.asr
+RecentFiles	Recent8	\EKDK\ASR\EKBI_GND.asr
+RecentFiles	Recent9	\EKDK\ASR\EKDK_GroundViews.asr
 Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\EKDK\ICAO\ICAO_Airlines.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
@@ -39,7 +39,7 @@ Settings	alias	\EKDK\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	AtisFolder	\ATIS\atisfiles.txt
 Settings	FreqKey	3604480
-Settings	sector	\EKDK-EKDK-Copenhagen_20260318210517-260201-0017.sct
+Settings	sector	\EKDK-EKDK-Copenhagen_20260411171400-260301-0008.sct
 Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileARR	\EKDK\Settings\Lists.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\Lists.txt
@@ -53,3 +53,18 @@ Settings	SettingsfileSIL	\EKDK\Settings\Lists.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
 Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
+LastSession	atis_freq4	118000
+LastSession	connecttype	2
+LastSession	callsign	EKCH_M_APP
+LastSession	realname	Splendor B
+LastSession	certificate	887089
+LastSession	password	Pepper-BSLCPH
+LastSession	facility	5
+LastSession	rating	4
+LastSession	server	SweatBox
+LastSession	tovatsim	1
+LastSession	scenario	C:\Users\splen\Documents\Sweatbox\S3 CPH\3. EKCH_APP_Intermidiate (Rwy04) - TWR Offline.txt
+LastSession	atis2	ATC Mentoring
+LastSession	range	150
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

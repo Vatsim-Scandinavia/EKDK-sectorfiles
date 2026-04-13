@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\splen\Documents\ES Testing\EKDK-sectorfiles\EKDK-EKDK-Copenhagen_20260318210517-260201-0017.sct
-SECTORTITLE:EKDK-EKDK-Copenhagen_20260318210517-260201-0017.sct
+SECTORFILE:C:\Users\splen\Documents\ES Testing\EKDK-sectorfiles\EKDK-EKDK-Copenhagen_20260411171400-260301-0008.sct
+SECTORTITLE:EKDK-EKDK-Copenhagen_20260411171400-260301-0008.sct
 ARTCC boundary:Airspace C EKCH Copenhagen Area:
 ARTCC boundary:Airspace C EKCH Copenhagen CTA:
 ARTCC boundary:Airspace C EKCH Ljungbyhed and Angleholm TMA:
@@ -26,4 +26,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:54.784000:9.795034:56.518847:15.533371
+WINDOWAREA:55.142340:11.195188:56.160507:14.133217

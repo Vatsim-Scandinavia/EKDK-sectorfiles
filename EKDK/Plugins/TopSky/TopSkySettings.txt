@@ -203,17 +203,17 @@ Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:3
 Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:2
 
+{P}
+Setup_Informed=EKCH:*:*:1
+Setup_Informed=*:*:EKCH:3
+MTCD_Sep_Lat=2.5
+Label_WTC_Highlight_WTC=HJ?
+
 {PLN}
 Color_Informed_3=149,214,149
 Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:3
 Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:2
-MTCD_Sep_Lat=2.5
-Label_WTC_Highlight_WTC=HJ?
-
-{P}
-Setup_Informed=EKCH:*:*:1
-Setup_Informed=*:*:EKCH:3
 MTCD_Sep_Lat=2.5
 Label_WTC_Highlight_WTC=HJ?
 
@@ -259,7 +259,7 @@ Color_Rwy_App_Line_Inuse=230,230,230
 Setup_LoadMap=EKYT
 Setup_LoadView=EKYT
 
-[EKDK_FMP]
+[_FMP]
 List_Holding_States=ABC
 System_Filters_Hard=1
 System_Filters_Alt_Allow=10000,35000
