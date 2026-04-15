@@ -1,6 +1,6 @@
 {
   "configFormatVersion": 3,
-  "openAutomatically": true,
+  "openAutomatically": false,
   "logging": true,
   "soundMute": {
     "all": false,
