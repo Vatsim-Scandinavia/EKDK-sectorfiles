@@ -139,12 +139,6 @@ Color_WM_Bg=88,95,99
 Color_WM_Border=88,95,99
 Color_WM_Fg=20,20,21
 Color_WM_Frame=88,95,99
-CPDLC_AutoAcceptLogon=1
-CPDLC_AutoAcceptLogon_Time=5
-CPDLC_Transfer=1
-CPDLC_CFL=1
-CPDLC_DCT=1
-
 List_Holding=1024,50
 List_Holding_Points=OLBIP,LUGAS,ROSBI,TIDVU,ERNOV,AAL,TALSA,GESKA
 List_Holding_Plugin=1
@@ -152,12 +146,16 @@ List_OptionsInGlobalMenu=1
 RwyAppLines_Auto=1
 Window_SM_AppHoldTime=2
 List_Holding_MaxItems=20
+CPDLC_AutoAcceptLogon=1
+CPDLC_AutoAcceptLogon_Time=5
+CPDLC_Transfer=1
+CPDLC_CFL=1
+CPDLC_DCT=1
 Window_DCL_SetCFL=1
 Window_DCL_SetASSR=1
+Window_DCL_SetNFREQ=1
 Window_PDC_SetASSR=1
 Window_PDC_SetCFL=1
-Window_DCL_SetNFREQ=1
-Window_CPDLC_Setting=1,30,100
 
 FINALAPP:EKCH:04L
 SOIR:EKCH:04L/1000:04L/4000  
@@ -166,9 +164,9 @@ FINALAPP:EKCH:22L
 SOIR:EKCH:22L/1000:22L/4000  
 
 [_CTR]
-Window_CPDLC_Setting=1,30,100
 Window_UpperWinds=3,30,400
 Window_CPDLC_Current=1,30,990
+Window_CPDLC_Setting=1,30,100
 Setup_Informed=*:*:EKBI:3
 Setup_Informed=*:*:ESMS:3
 Setup_Informed=*:*:EKAH:3
@@ -189,19 +187,21 @@ Setup_Informed=*:KOR:EKCH:2
 
 [_APP]
 Color_Rwy_App_Line_Inuse=62,160,216
-Window_CPDLC_Setting=1,30,200
 Window_UpperWinds=3,30,400
-Window_CPDLC_Current=1,30,990
 
 {O}
 Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:3
 Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:2
+Window_CPDLC_Current=1,30,990
+Window_CPDLC_Setting=1,30,100
 
 {W}
 Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:3
 Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:2
+Window_CPDLC_Current=1,30,990
+Window_CPDLC_Setting=1,30,100
 
 {P}
 Setup_Informed=EKCH:*:*:1
@@ -221,9 +221,9 @@ Label_WTC_Highlight_WTC=HJ?
 Color_Rwy_App_Line_Inuse=62,160,216
 Setup_Informed=EKCH:*:*:3
 Setup_Informed=*:*:EKCH:2
-Window_CPDLC_Setting=1,30,200
 Window_UpperWinds=3,30,400
 Window_CPDLC_Current=1,30,990
+Window_CPDLC_Setting=1,30,100
 
 [EKBI_APP]
 Color_Rwy_App_Line_Inuse=62,160,216
@@ -231,6 +231,8 @@ Setup_LoadMap=EKBI
 Setup_LoadView=EKBI
 Setup_Informed=EKBI:*:*:3
 Setup_Informed=*:*:EKBI:3
+Window_CPDLC_Current=1,30,990
+Window_CPDLC_Setting=1,30,100
 
 [EKAH_APP]
 Color_Rwy_App_Line_Inuse=230,230,230
@@ -269,8 +271,7 @@ Rings_Number=20
 Rings_Separation=20
 Airspace_No_DUPE_Codes=1000,1234,2000,
 Color_Informed=149,214,149
-//Color_Informed_2=0,163,220
-//Color_Informed_3=164,145,224
+Color_Informed_3=164,145,224
 Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:1
 Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:2
 Setup_Informed=*:*:EKBI:3
