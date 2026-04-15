@@ -481,7 +481,7 @@ N057.05.38.090 E009.50.00.022	; TWY North outer
 ;
 ;
 ;Perimiter south of rwy 26L/08R 
-COLOR_ApronSurface
+COLOR_HardSurface2
     N057.05.38.090 E009.49.59.988
          N057.05.36.616 E009.50.00.413	; TWY RWY 08L
          N057.05.36.524 E009.50.01.151	; TWY Southern part Outer
