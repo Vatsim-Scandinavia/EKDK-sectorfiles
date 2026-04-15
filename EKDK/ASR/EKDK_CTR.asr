@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\splen\Documents\ES Testing\EKDK-sectorfiles\EKDK-EKDK-Copenhagen_20260319163603-260301-0001.sct
-SECTORTITLE:EKDK-EKDK-Copenhagen_20260319163603-260301-0001.sct
 ARTCC boundary:Airspace E EKAH Aarhus CTA 35-65:
 ARTCC boundary:Airspace E EKBI Billund CTA 105-125:
 ARTCC boundary:Airspace E EKKA Karup CTA 35-125:
@@ -34,4 +32,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:53.917221:1.723864:58.356257:16.406823
+WINDOWAREA:54.530822:5.375780:57.136054:13.235167

@@ -1,16 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Fixes:EGTVED:name
-Fixes:EGTVED:symbol
-Fixes:GIVE:name
-Fixes:GIVE:symbol
-Fixes:KARLSKOV:name
-Fixes:KARLSKOV:symbol
-Fixes:VANDEL:name
-Fixes:VANDEL:symbol
-Fixes:VORBASSE:name
-Fixes:VORBASSE:symbol
 Free Text:EKBI TWY & Stands\0:freetext
 Free Text:EKBI TWY & Stands\1:freetext
 Free Text:EKBI TWY & Stands\2:freetext

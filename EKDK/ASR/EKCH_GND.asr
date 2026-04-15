@@ -1,20 +1,7 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\splen\Documents\ES Testing\EKDK-sectorfiles\EKDK-EKDK-Copenhagen_20260411171400-260301-0008.sct
-SECTORTITLE:EKDK-EKDK-Copenhagen_20260411171400-260301-0008.sct
-Fixes:BORUP:name
-Fixes:BORUP:symbol
-Fixes:HOLD-WEST:name
-Fixes:HOLD-WEST:symbol
-Fixes:TUBORG:name
-Fixes:TUBORG:symbol
-Fixes:VALBY:name
-Fixes:VALBY:symbol
-Fixes:VALLENSBAK:name
-Fixes:VALLENSBAK:symbol
 Geo:EKCH Groundlayout Kastrup:
-NDBs:RK:symbol
 Regions:EKCH Kastrup GND:polygon
 SHOWC:1
 SHOWSB:0

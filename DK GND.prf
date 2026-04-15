@@ -15,16 +15,19 @@ Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin3	\EKDK\Plugins\CDM\CDM.dll
-Plugins	Plugin3Display0	Standard ES radar screen
-Plugins	Plugin3Display1	Ground Radar display
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4	\EKDK\Plugins\VCH\VCH.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
-RecentFiles	Recent1	\EKDK\ASR\EKRK_GND.asr
-RecentFiles	Recent2	\EKDK\ASR\EKCH_GND.asr
+RecentFiles	Recent1	\EKDK\ASR\EKCH_GND.asr
+RecentFiles	Recent2	\EKDK\ASR\EKRK_GND.asr
 RecentFiles	Recent3	\EKDK\ASR\EKCH_APP.asr
 RecentFiles	Recent4	\EKDK\ASR\EKBI_GND.asr
 RecentFiles	Recent5	\EKDK\ASR\EKYT_GND.asr
+RecentFiles	Recent6	\EKDK\ASR\EKAH_GND.asr
+RecentFiles	Recent7	\EKDK\ASR\EKRN_GND.asr
+RecentFiles	Recent8	\EKDK\ASR\EKDK_GroundViews.asr
 Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\EKDK\ICAO\ICAO_Airlines.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
@@ -48,8 +51,4 @@ Settings	SettingsfileSIL	\EKDK\Settings\ListsGND.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
 Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
-RecentFiles	Recent6	\EKDK\ASR\EKDK_GroundViews.asr
-LastSession	atis_freq3	118000
-RecentFiles	Recent7	\EKDK\ASR\EKDK_GroundViews.asr
-Plugins	Plugin1Display1	Ground Radar display
-RecentFiles	Recent8	\EKDK\ASR\EKDK_GroundViews.asr
+Plugins	Plugin2Display1	Standard ES radar screen

@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\splen\Documents\ES Testing\EKDK-sectorfiles\EKDK-EKDK-Copenhagen_20260411171400-260301-0008.sct
-SECTORTITLE:EKDK-EKDK-Copenhagen_20260411171400-260301-0008.sct
 Free Text:EKRK TWY & Stand\1:freetext
 Free Text:EKRK TWY & Stand\1:freetext
 Free Text:EKRK TWY & Stand\A:freetext
