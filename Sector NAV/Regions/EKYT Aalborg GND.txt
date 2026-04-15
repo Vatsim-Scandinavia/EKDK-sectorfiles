@@ -2841,7 +2841,7 @@ COLOR_HardSurface2
           N057.05.05.447 E009.52.24.269	; North Flying
 ;
 ;Aalborg Runways 
-COLOR_HardSurface4
+COLOR_RunwayConcrete
           N057.05.48.170 E009.52.36.571 ; 26R/08L N
           N057.05.38.090 E009.49.59.988 ; 26R/08L W
           N057.05.36.607 E009.50.00.273 ; 26R/08L S
@@ -2849,7 +2849,7 @@ COLOR_HardSurface4
 ;
 ;
 ;Aalborg Runways 
-COLOR_HardSurface4
+COLOR_RunwayConcrete
           N057.05.40.933 E009.52.38.325 ; 08R/26L
           N057.05.31.210 E009.50.07.936 ; 08R/26L
           N057.05.30.496 E009.50.08.139 ; 08R/26L

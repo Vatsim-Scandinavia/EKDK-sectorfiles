@@ -2069,7 +2069,7 @@ COLOR_Terrain1
 ;
 ;
 ;Aarhus Runways 
-COLOR_HardSurface4
+COLOR_RunwayConcrete
           N056.18.11.070 E010.38.31.010 ; THRS RWY 28R NE
           N056.18.10.387 E010.38.30.780 ; THRS RWY 28R SE
           N056.18.26.390 E010.35.51.970 ; THRS RWY 10L SW
@@ -2078,7 +2078,7 @@ COLOR_HardSurface4
 ;
 ;
 ;Aarhus Runways 
-COLOR_HardSurface4
+COLOR_RunwayConcrete
           N056.18.04.858 E010.38.26.105 ; THRS RWY 28L nE
           N056.18.03.457 E010.38.25.635 ; THRS RWY 28L sE
           N056.18.19.072 E010.35.50.923 ; THRS RWY 10R SW
