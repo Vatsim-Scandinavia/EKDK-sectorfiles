@@ -1,15 +1,9 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Fixes:EBELTOFT:name
-Fixes:EBELTOFT:symbol
-Fixes:GRENAA:name
-Fixes:GRENAA:symbol
-Fixes:KNEBEL:name
-Fixes:KNEBEL:symbol
-Fixes:RYOMGARD:name
-Fixes:RYOMGARD:symbol
-Free Text:EKAH TWY & Stands & Runways\1:freetext
+Free Text:EKAH TWY & Stands & Runways\1C:freetext
+Free Text:EKAH TWY & Stands & Runways\1L:freetext
+Free Text:EKAH TWY & Stands & Runways\1R:freetext
 Free Text:EKAH TWY & Stands & Runways\10L:freetext
 Free Text:EKAH TWY & Stands & Runways\10R:freetext
 Free Text:EKAH TWY & Stands & Runways\15:freetext
@@ -19,6 +13,9 @@ Free Text:EKAH TWY & Stands & Runways\28L:freetext
 Free Text:EKAH TWY & Stands & Runways\28R:freetext
 Free Text:EKAH TWY & Stands & Runways\3:freetext
 Free Text:EKAH TWY & Stands & Runways\4:freetext
+Free Text:EKAH TWY & Stands & Runways\5:freetext
+Free Text:EKAH TWY & Stands & Runways\6:freetext
+Free Text:EKAH TWY & Stands & Runways\7:freetext
 Free Text:EKAH TWY & Stands & Runways\A:freetext
 Free Text:EKAH TWY & Stands & Runways\A:freetext
 Free Text:EKAH TWY & Stands & Runways\B:freetext
@@ -27,9 +24,9 @@ Free Text:EKAH TWY & Stands & Runways\E:freetext
 Free Text:EKAH TWY & Stands & Runways\E:freetext
 Free Text:EKAH TWY & Stands & Runways\G:freetext
 Free Text:EKAH TWY & Stands & Runways\G:freetext
+Free Text:EKAH TWY & Stands & Runways\T:freetext
+Free Text:EKAH TWY & Stands & Runways\T:freetext
 Free Text:EKAH TWY & Stands & Runways\W:freetext
-Free Text:EKAH TWY & Stands & Runways\T:freetext
-Free Text:EKAH TWY & Stands & Runways\T:freetext
 Free Text:EKAH TWY & Stands & Runways\Y:freetext
 Free Text:EKAH TWY & Stands & Runways\Y:freetext
 Free Text:EKAH TWY & Stands & Runways\Z:freetext
@@ -48,9 +45,9 @@ HISTORY_DOTS:0
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
+DisplayRotation:-10.10000
 TAGFAMILY:TopSky_B
-WINDOWAREA:56.299969:10.595398:56.318194:10.653641
+WINDOWAREA:56.293441:10.592612:56.311666:10.650855
 PLUGIN:Ground Radar plugin:AirportElevation:82
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:GroundMode:EKAH
