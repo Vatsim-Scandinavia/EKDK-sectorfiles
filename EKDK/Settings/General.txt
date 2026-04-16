@@ -133,8 +133,6 @@ m_AutoAssumeOnGroundStateChangeButton:1
 m_ShowTrackMilesInRouteButton:1
 m_FilterOutSquawks:
 m_EquipmentsIcaoFormat:1
-m_DoNotShowMessageHandlersInProxy:0
-m_DoNotShowMessageHandlersInMainIfProxyConnected:0
 PILOTING
 m_Visible:0
 m_X:0

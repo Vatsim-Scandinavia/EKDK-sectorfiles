@@ -53,7 +53,7 @@ m_ShowRAMWarning:1
 m_MagneticNorthUp:0
 m_ShowAForAltitudes:1
 m_Show500ForNonVisual:0
-SET_SetActiveAptBySectors:1
+SET_SetActiveAptBySectors:0
 SET_CapitalizeFPAndScratch:1
 m_SET_WTC_Light:L
 SET_WTC_Medium:M
@@ -168,11 +168,11 @@ m_Column:DATA:7:0:107:0:0:1::::1:0.0
 END
 STUP
 m_Visible:1
-m_X:700
-m_Y:75
+m_X:702
+m_Y:50
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:6
+m_OrderingColumn:9
 m_HeaderOnly:0
 m_Column:GATE:4:1:1:1:0:1:Ground Radar plugin:Ground Radar plugin::0:0.0
 m_Column:REQ:4:1:540:548:0:1:VCH:VCH::0:0.0

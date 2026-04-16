@@ -24,38 +24,33 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2513/1  ++  File-Publisher: VATSIM Scandinavia - Copenhagen FIR - EKDK                                           ;
+;  AIRAC 2603/1  ++  File-Publisher: VATSIM Scandinavia - Copenhagen FIR - EKDK                                           ;
 ;=========================================================================================================================;
 ;*** Approach ***
-.appclr Copenhagen Approach hello, expect vectors ILS 22L, information $1, after $2 fly heading $3
-.final Contact Final with your callsign only on 120.205, bye!
-.ctrb Contact Copenhagen Control on 121.380, bye!
-.ctrd Contact Copenhagen Control on 133.155, bye!
-.esmk Contact Sweden Control on frequency 131.280, bye!
-.esmm Contact Sweden Control on frequency 127.758, bye!
-.esos Contact Sweden Control on frequency 119.805, bye!
+.app expect vectors ILS $arrrwy
+.final Contact Final with your callsign only on 120.205
+.ils Fly heading $2, cleared ILS approach runway $arrrwy
 
 ;*** A_TWR ***
 .conapp Winds are $1, runway $arrrwy, continue approach, you're number $2
 .land Runway $arrrwy, cleared to land, winds are $wind
 .vac Expedite vacate
 .wtaxi Welcome to Copenhagen, taxi via $1, hold short runway 12
-.ga Go around, follow the standart missed approach procedures and call Copenhagen Approach on $1
+.ga Go around, follow the published missed approach procedure
+
+;*** Comms ***
+.cm .contactme
+.co Contact $radioname($1) on frequency $freq($1)
+.unicom Leaving controlled airspace, monitor advisory
+.radio Radio Check! Confirm monitoring frequency on voice?
+.id Identified.
+.sb Stabndby, call you back.
 
 ;*** Control ***
-.inclr Copenhagen Control, hello, radar contact! - Cleared via the $star, runway $arrrwy, when ready descend FL$1
-.rc Copenhagen Control, hello, radar contact.
-.esgg Cleared Göteborg via the $star, runway $arrrwy, when ready descend FL$1, to be level at $2
-.clryt Hello, cleared to destination when passing 2000ft, direct $1, runway $deprwy, climb FL120, expect flight level change on route, squawk $asquawk
-.clrbi Hello, cleared to destination via the $sid, runway $deprwy, climb intially to FL60, and squawk $asquawk
-.dwa Contact Bremen Radar on 123.925, bye bye!
-.dwb Contact Bremen Radar on 123.220, bye bye!
-.eurm Contact Maastricht Radar on 135.45, bye bye!
-.sco Contact Scottish Control on 135.520, bye bye!
-.unicom Unfortunatly there is no further atc avaliable, monitor unicom on 122.8, bye!
-.enos Contact Norway Control on 118.870, bye bye!
-.wapp Contact Copenhagen Approach on 119.800, bye!
-.eapp Contact Copenhagen Approach on 118.450, bye!
+.star Cleared $star arrival, expect runway $arrrwy
+.stara Cleared $star arrival to $arr
+.clryt Cleared to $dest, via flight plan route. Depart runway $deprwy, climb FL120, squawk $asquawk
+.clr Cleared to $dest via $sid, squawk $asquawk
 
 ;*** C_TWR ***
 .contaxi Cross runway 12, continue taxi via $1
@@ -69,27 +64,21 @@
 .readdn Readback not correct, confirm $1
 
 ;*** Departure ***
-.idc Departure, identified, climb FL190
-.idm Departure, identified, maintain FL70
-.idct Departure, identified - climb FL190, direct $1
-.idmt Departure, identified - maintain $1, direct $2
+.dep Identified - climb $1
+.depd Identified - climb $1, direct $1
+.idm Iidentified - maintain $1, direct $2
 
 ;*** D_TWR ***
-.depapp After departure contact Copenhagen Approach on 119.8, winds are $1, runway $deprwy, cleared for take off - bye!
-.depuni After departure monitor unicom on 122.800, winds are $1, runway $deprwy, cleared for take off - bye!
-.depdep After departure contact Copenhagen Departure on 124.97, winds are $1, runway $deprwy, cleared for take off - bye!
-.bedep Behind the departing traffic, runway $deprwy, line up and wait behind.
-
-;*** Final ***
-.ident Final, hello, you're identified.
+.to Wind $wind, runway $deprwy, cleared for take off.
+.touni After departure monitor advisory on 122.800, winds $wind, runway $deprwy, cleared for take off - bye!
+.todep Departure frequency $1, winds $wind, runway $deprwy, cleared for take off - bye!
+.lub Behind departing traffic, runway $deprwy, line up and wait behind. 
+.lu Line up and wait runway $deprwy.
 
 ;*** Ground ***
-.pusha Push and start is approved, QNH $altim(EKCH)
-.pushd Traffic behind, standby i've call you back
-.pushb Traffic is taxiing behind you, push and start behind him is apporved $altim(EKCH)
-.taxirw Taxi to holding point $deprwy, via taxiway $1, hold short runway 12. 
-.taxist Taxi via $1, stand $2
+.push Push and start approved, QNH $altim
+.taxirw Taxi to holding point $deprwy, via taxiway $1 $2 $3 $4 $5
+.taxia Taxi via $1, stand $2
 .taxigi Taxi via $1, give way to the traffic on $2
-.hold Hold position
-.ctwr Contact Tower on 118.57, bye!
+.stop Hold position
 

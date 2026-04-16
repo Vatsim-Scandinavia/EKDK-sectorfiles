@@ -18,7 +18,7 @@ m_ShowTWRControllers:1
 m_ShowGNDControllers:1
 m_ShowATISControllers:0
 m_ShowOBSControllers:0
-m_ShowUnidentifiedControllers:1
+m_ShowUnidentifiedControllers:0
 m_ShowFreqUsers:1
 m_ShowAtisUsers:1
 m_ShowArrivalPlanes:0
@@ -32,7 +32,7 @@ m_ConnectDEPtoSEL:0
 m_ConnectSILtoTOP:0
 m_ScreenNumber:0
 m_ScreenPosition:0
-m_ScreenMaximized:0
+m_ScreenMaximized:1
 m_ShowTitleSelectedAc:0
 m_PlanesListX:1240
 m_PlanesListY:1

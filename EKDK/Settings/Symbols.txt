@@ -2,12 +2,12 @@ SYMBOLOGY
 SYMBOLSIZE
 Airports:symbol:11842739:1.0:0:0:7
 Airports:name:11842739:4.5:0:0:1
-Low airways:line:11842739:3.5:2:0:7
-Low airways:name:11842739:3.2:0:0:8
-High airways:line:11842739:3.5:2:0:7
-High airways:name:11842739:3.5:0:0:8
-Fixes:symbol:11842739:0.7:0:0:7
-Fixes:name:11842739:3.5:0:0:1
+Low airways:line:8684674:3.5:1:0:7
+Low airways:name:4078132:0.5:0:0:8
+High airways:line:8684674:3.5:1:0:7
+High airways:name:4078132:0.5:0:0:8
+Fixes:symbol:8289918:0.7:0:0:7
+Fixes:name:8289918:3.0:0:1:2
 Sids:line:11842739:3.0:0:1:7
 Stars:line:11842739:3.0:1:0:7
 ARTCC high boundary:line:11842739:3.0:0:0:7
