@@ -12,7 +12,7 @@ Shortcut_Map_Target=4,ATC HELP\SECTOR_LVL_LOW
 Shortcut_Map_Xfr_Key=5,0x48 ; H
 Shortcut_Map_Target=5,ATC HELP\SECTOR_LVL_HIGH
 
-Shortcut_Map_Xfr_Key=6,0x52 ; R
+Shortcut_Map_Xfr_Key=6,0x54 ; T
 Shortcut_Map_Target=6,ATC HELP\SECTOR_LVL_APP
 
 System_TransferConfirmation=0
