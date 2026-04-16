@@ -241,16 +241,22 @@ Window_CPDLC_Setting=1,30,100
 Color_Rwy_App_Line_Inuse=230,230,230
 Setup_LoadMap=EKAH
 Setup_LoadView=EKAH
+Setup_Informed=EKAH:*:*:3
+Setup_Informed=*:*:EKAH:3
 
 [EKKA_APP]
 Color_Rwy_App_Line_Inuse=230,230,230
 Setup_LoadMap=EKKA
 Setup_LoadView=EKKA
+Setup_Informed=EKKA:*:*:3
+Setup_Informed=*:*:EKKA:3
 
 [EKSP_APP]
 Color_Rwy_App_Line_Inuse=230,230,230
 Setup_LoadMap=EKSP
 Setup_LoadView=EKSP
+Setup_Informed=EKSP:*:*:3
+Setup_Informed=*:*:EKSP:3
 
 [EKRK_APP]
 Color_Rwy_App_Line_Inuse=230,230,230
@@ -263,6 +269,8 @@ Setup_Informed=*:*:EKRK:3
 Color_Rwy_App_Line_Inuse=230,230,230
 Setup_LoadMap=EKYT
 Setup_LoadView=EKYT
+Setup_Informed=EKYT:*:*:3
+Setup_Informed=*:*:EKYT:3
 
 [_FMP]
 List_Holding_States=ABC
