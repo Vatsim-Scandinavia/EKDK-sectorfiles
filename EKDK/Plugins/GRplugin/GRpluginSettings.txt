@@ -92,7 +92,7 @@ Window_APP=1,1,560,807,550,550
 Window_APP_Scale=1,25
 Color_APP_Background=204,204,204
 Color_Arrival=33,95,154
-Color_Departure=59,125,35
+Color_Departure=28,53,14
 Window_WindRose=10R,1,0,45
 Window_WindRose=28L,1,2400,45
 
@@ -103,7 +103,7 @@ Window_APP=1,1,560,807,550,550
 Window_APP_Scale=1,25
 Color_APP_Background=204,204,204
 Color_Arrival=33,95,154
-Color_Departure=59,125,35
+Color_Departure=28,53,14
 Window_WindRose=08L,1,0,45
 Window_WindRose=26R,1,2400,45
 
