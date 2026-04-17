@@ -1,8 +1,8 @@
 {
   "name": "EKDK",
-  "id": "3f5b0b26-6c8e-4ae3-95d9-50d7b7725e38",
+  "id": "bd97bf0c-18d9-4b14-afb5-cb63cc0cfecd",
   "updateUrl": "https://raw.githubusercontent.com/Vatsim-Scandinavia/EKDK-vATIS/refs/heads/main/vATIS_EKDK.json",
-  "updateSerial": 2026012202,
+  "updateSerial": 2026040302,
   "stations": [
     {
       "id": "d97dd234-2106-4a40-b78d-7e6cc812231b",
@@ -1856,7 +1856,7 @@
           "types": {
             "FEW": {
               "text": "FEW {convective} {altitude}FT ",
-              "voice": "few {convective} clouds, {altitude},"
+              "voice": "few {convective}, {altitude},"
             },
             "SCT": {
               "text": "SCT {convective} {altitude}FT ",
@@ -2165,17 +2165,17 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "6, 6, 6, ALL PARTS 100PERCENT DRY",
+          "text": "6, 6, 6,\r\nALL PARTS 100PERCENT DRY",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT WET",
-          "ordinal": 2,
           "enabled": true
         },
         {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT WET",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
           "ordinal": 3,
           "enabled": false
         },
@@ -2187,7 +2187,7 @@
         {
           "text": "CHEMICALLY TREATED",
           "ordinal": 5,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "LOW VISIBILITY PROCEDURES",
@@ -2199,7 +2199,7 @@
         {
           "text": "ON FIRST CONTACT, STATE IF REQUESTING DEICING",
           "ordinal": 1,
-          "enabled": true
+          "enabled": false
         }
       ]
     },
@@ -4055,7 +4055,7 @@
           "types": {
             "FEW": {
               "text": "FEW {convective} {altitude}FT ",
-              "voice": "few {convective} clouds, {altitude},"
+              "voice": "few {convective}, {altitude},"
             },
             "SCT": {
               "text": "SCT {convective} {altitude}FT ",
@@ -4367,21 +4367,26 @@
           "variableName": "25PERCENT",
           "text": "25 PERCENT",
           "voice": "TWENTY FIVE PERCENT"
+        },
+        {
+          "variableName": "1000FT",
+          "text": "1000FT",
+          "voice": "ONE THOUSAND FEET"
         }
       ],
       "airportConditionDefinitions": [
         {
-          "text": "6, 6, 6, ALL PARTS 100PERCENT DRY",
+          "text": "6, 6, 6,\r\nALL PARTS 100PERCENT DRY",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT WET",
-          "ordinal": 2,
           "enabled": true
         },
         {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT WET",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
           "ordinal": 3,
           "enabled": false
         },
@@ -4393,7 +4398,7 @@
         {
           "text": "CHEMICALLY TREATED",
           "ordinal": 5,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "LOW VISIBILITY PROCEDURES",
@@ -4403,9 +4408,14 @@
       ],
       "notamDefinitions": [
         {
+          "text": "AFTER PASSING 1000FT, CONTACT AALBORG\r\nAPPROACH USING FREQ STATED ON CHARTS,\r\nUNLESS OTHERWISE INSTRUCTED",
+          "ordinal": 1,
+          "enabled": false
+        },
+        {
           "text": "ON FIRST CONTACT, STATE IF REQUESTING DEICING",
           "ordinal": 1,
-          "enabled": true
+          "enabled": false
         }
       ]
     },
@@ -6261,7 +6271,7 @@
           "types": {
             "FEW": {
               "text": "FEW {convective} {altitude}FT ",
-              "voice": "few {convective} clouds, {altitude},"
+              "voice": "few {convective}, {altitude},"
             },
             "SCT": {
               "text": "SCT {convective} {altitude}FT ",
@@ -6582,17 +6592,17 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "6, 6, 6, ALL PARTS 100PERCENT DRY",
+          "text": "6, 6, 6,\r\nALL PARTS 100PERCENT DRY",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT WET",
-          "ordinal": 2,
           "enabled": true
         },
         {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT WET",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
           "ordinal": 3,
           "enabled": false
         },
@@ -6602,9 +6612,9 @@
           "enabled": false
         },
         {
-          "text": "CHEMICALLY TREATED",
+          "text": "CHEMICALS HAVE BEEN SPREAD OUT",
           "ordinal": 5,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "LOW VISIBILITY PROCEDURES",
@@ -8466,7 +8476,7 @@
           "types": {
             "FEW": {
               "text": "FEW {convective} {altitude}FT ",
-              "voice": "few {convective} clouds, {altitude},"
+              "voice": "few {convective}, {altitude},"
             },
             "SCT": {
               "text": "SCT {convective} {altitude}FT ",
@@ -8781,21 +8791,26 @@
           "variableName": "25PERCENT",
           "text": "25 PERCENT",
           "voice": "TWENTY FIVE PERCENT"
+        },
+        {
+          "variableName": "1500FT",
+          "text": "1500FT",
+          "voice": "ONE THOUSAND FIVE HUNDRED FEET"
         }
       ],
       "airportConditionDefinitions": [
         {
-          "text": "6, 6, 6, ALL PARTS 100PERCENT DRY",
+          "text": "6, 6, 6,\r\nALL PARTS 100PERCENT DRY",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT WET",
-          "ordinal": 2,
           "enabled": true
         },
         {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT WET",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
           "ordinal": 3,
           "enabled": false
         },
@@ -8805,9 +8820,9 @@
           "enabled": false
         },
         {
-          "text": "CHEMICALLY TREATED",
+          "text": "CHEMICALS HAVE BEEN SPREAD OUT",
           "ordinal": 5,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "LOW VISIBILITY PROCEDURES",
@@ -8817,9 +8832,14 @@
       ],
       "notamDefinitions": [
         {
-          "text": "ON FIRST CONTACT, STATE IF REQUESTING DEICING",
+          "text": "AFTER PASSING 1500FT, CONTACT BILLUND\r\nAPPROACH USING FREQ STATED ON CHARTS,\r\nUNLESS OTHERWISE INSTRUCTED",
           "ordinal": 1,
-          "enabled": true
+          "enabled": false
+        },
+        {
+          "text": "ON FIRST CONTACT, STATE IF REQUESTING DEICING",
+          "ordinal": 2,
+          "enabled": false
         }
       ]
     },
@@ -10675,7 +10695,7 @@
           "types": {
             "FEW": {
               "text": "FEW {convective} {altitude}FT ",
-              "voice": "few {convective} clouds, {altitude},"
+              "voice": "few {convective}, {altitude},"
             },
             "SCT": {
               "text": "SCT {convective} {altitude}FT ",
@@ -11076,17 +11096,17 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "6, 6, 6, ALL PARTS 100PERCENT DRY",
+          "text": "6, 6, 6,\r\nALL PARTS 100PERCENT DRY",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT WET",
-          "ordinal": 2,
           "enabled": true
         },
         {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT WET",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
           "ordinal": 3,
           "enabled": false
         },
@@ -11098,7 +11118,7 @@
         {
           "text": "CHEMICALLY TREATED",
           "ordinal": 5,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "LOW VISIBILITY PROCEDURES IN OPERATION",
@@ -11115,7 +11135,7 @@
         {
           "text": "RISK OF TURB BLW 300 FT ON RWY 22L",
           "ordinal": 1,
-          "enabled": true
+          "enabled": false
         }
       ]
     },
@@ -12971,7 +12991,7 @@
           "types": {
             "FEW": {
               "text": "FEW {convective} {altitude}FT ",
-              "voice": "few {convective} clouds, {altitude},"
+              "voice": "few {convective}, {altitude},"
             },
             "SCT": {
               "text": "SCT {convective} {altitude}FT ",
@@ -13366,21 +13386,26 @@
           "variableName": "25PERCENT",
           "text": "25 PERCENT",
           "voice": "TWENTY FIVE PERCENT"
+        },
+        {
+          "variableName": "1000FT",
+          "text": "1000FT",
+          "voice": "ONE THOUSAND FEET"
         }
       ],
       "airportConditionDefinitions": [
         {
-          "text": "6, 6, 6, ALL PARTS 100PERCENT DRY",
+          "text": "6, 6, 6,\r\nALL PARTS 100PERCENT DRY",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT WET",
-          "ordinal": 2,
           "enabled": true
         },
         {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT WET",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
           "ordinal": 3,
           "enabled": false
         },
@@ -13392,7 +13417,7 @@
         {
           "text": "CHEMICALLY TREATED",
           "ordinal": 5,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "LOW VISIBILITY PROCEDURES IN OPERATION",
@@ -13404,22 +13429,17 @@
         {
           "text": "DELIVERY FREQ 119.905 ACTIVE",
           "ordinal": 1,
-          "enabled": true
-        }
+          "enabled": false
+        },
         {
-          "text": "ON FIRST CONTACT WITH KASTRUP APRON,\r\nADVISE IF UNABLE TO PERFORM PUSHBACK\r\nTO A RELEASE POINT",
+          "text": "\r\nAFTER PASSING 1000FT, CONTACT KASTRUP\r\nDEPARTURE USING FREQ STATED ON CHARTS,\r\nUNLESS OTHERWISE INSTRUCTED",
           "ordinal": 2,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "STATE IF REQUESTING DEICING",
           "ordinal": 3,
-          "enabled": true
-        }
-        {
-          "text": "AFTER PASSING 1000FT, CONTACT KASTRUP DEPARTURE\r\nUSING FREQ STATED ON CHARTS",
-          "ordinal": 4,
-          "enabled": true
+          "enabled": false
         }
       ]
     },
@@ -15275,7 +15295,7 @@
           "types": {
             "FEW": {
               "text": "FEW {convective} {altitude}FT ",
-              "voice": "few {convective} clouds, {altitude},"
+              "voice": "few {convective}, {altitude},"
             },
             "SCT": {
               "text": "SCT {convective} {altitude}FT ",
@@ -15666,17 +15686,17 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "6, 6, 6, ALL PARTS 100PERCENT DRY",
+          "text": "6, 6, 6,\r\nALL PARTS 100PERCENT DRY",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT WET",
-          "ordinal": 2,
           "enabled": true
         },
         {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT WET",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
           "ordinal": 3,
           "enabled": false
         },
@@ -15688,7 +15708,7 @@
         {
           "text": "CHEMICALLY TREATED",
           "ordinal": 5,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "LOW VISIBILITY PROCEDURES IN OPERATION",
@@ -15700,7 +15720,7 @@
         {
           "text": "ON FIRST CONTACT, STATE IF REQUESTING DEICING",
           "ordinal": 1,
-          "enabled": true
+          "enabled": false
         }
       ]
     },
@@ -17556,7 +17576,7 @@
           "types": {
             "FEW": {
               "text": "FEW {convective} {altitude}FT ",
-              "voice": "few {convective} clouds, {altitude},"
+              "voice": "few {convective}, {altitude},"
             },
             "SCT": {
               "text": "SCT {convective} {altitude}FT ",
@@ -17870,17 +17890,17 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "6, 6, 6, ALL PARTS 100PERCENT DRY",
+          "text": "6, 6, 6,\r\nALL PARTS 100PERCENT DRY",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT WET",
-          "ordinal": 2,
           "enabled": true
         },
         {
-          "text": "5, 5, 5, ALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT WET",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "5, 5, 5,\r\nALL PARTS 100PERCENT 03 MILLIMETERS DRY SNOW",
           "ordinal": 3,
           "enabled": false
         },
@@ -17892,7 +17912,7 @@
         {
           "text": "CHEMICALLY TREATED",
           "ordinal": 5,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "LOW VISIBILITY PROCEDURES",
@@ -17904,7 +17924,7 @@
         {
           "text": "ON FIRST CONTACT, STATE IF REQUESTING DEICING",
           "ordinal": 1,
-          "enabled": true
+          "enabled": false
         }
       ]
     },
@@ -19760,7 +19780,7 @@
           "types": {
             "FEW": {
               "text": "FEW {convective} {altitude}FT ",
-              "voice": "few {convective} clouds, {altitude},"
+              "voice": "few {convective}, {altitude},"
             },
             "SCT": {
               "text": "SCT {convective} {altitude}FT ",
@@ -20049,29 +20069,29 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "6, 6, 6, ALL PARTS 100 PERCENT DRY",
+          "text": "6, 6, 6,\r\nALL PARTS 100 PERCENT DRY",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "5, 5, 5, ALL PARTS 100 PERCENT WET",
-          "ordinal": 2,
           "enabled": true
         },
         {
-          "text": "5, 5, 5, ALL PARTS 100 PERCENT 03 MILLIMETERS DRY SNOW",
+          "text": "5, 5, 5,\r\nALL PARTS 100 PERCENT WET",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "5, 5, 5,\r\nALL PARTS 100 PERCENT 03 MILLIMETERS DRY SNOW",
           "ordinal": 3,
           "enabled": false
         },
         {
           "text": "4, 2, 2, DOWNGRADED.\r\nFIRST PART 100 PERCENT 03 MILLIMETERS WET SNOW,\r\nSECOND PART 100 PERCENT 04 MILLIMETERS DRY SNOW,\r\nTHIRD PART 100 PERCENT 04 MILLIMETERS DRY SNOW",
-          "ordinal": 3,
+          "ordinal": 4,
           "enabled": false
         },
         {
           "text": "CHEMICALLY TREATED",
           "ordinal": 5,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "LOW VISIBILITY PROCEDURES",
@@ -20083,7 +20103,7 @@
         {
           "text": "ON FIRST CONTACT, STATE IF REQUESTING DEICING",
           "ordinal": 1,
-          "enabled": true
+          "enabled": false
         }
       ]
     }
