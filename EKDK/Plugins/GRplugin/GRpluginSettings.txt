@@ -88,24 +88,16 @@ AppPath=EKRN:29:55.060834:14.769179:293.7:R:051:3.0:1.0:1.0
 [EKAH]
 AppPath=EKAH:10R:56.305101:10.601546:100.7:L:081:2.8:1.0:1.0
 AppPath=EKAH:28L:56.301576:10.636361:281.7:L:075:2.8:1.0:1.0
-Window_APP=1,1,560,807,550,550
-Window_APP_Scale=1,25
-Color_APP_Background=204,204,204
-Color_Arrival=33,95,154
-Color_Departure=28,53,14
-Window_WindRose=10R,1,0,45
-Window_WindRose=28L,1,2400,45
+Window_APP=1,1,2154,2011,450,450
+Window_APP_Scale=15
+Color_APP_Background=46,46,62
 
 [EKYT]
 AppPath=EKYT:08L:57.094136:9.839838:083.7:R:06:3.0:1.0:1.0
 AppPath=EKYT:26R:57.096167:9.871325:263.7:L:008:3.0:1.0:1.0
-Window_APP=1,1,560,807,550,550
-Window_APP_Scale=1,25
-Color_APP_Background=204,204,204
-Color_Arrival=33,95,154
-Color_Departure=28,53,14
-Window_WindRose=08L,1,0,45
-Window_WindRose=26R,1,2400,45
+Window_APP=1,1,2154,2011,450,450
+Window_APP_Scale=15
+Color_APP_Background=46,46,62
 
 [EKBI]
 AppPath=EKBI:09:55.739970:9.140030:088:R:15:3.0:1.0:1.0
