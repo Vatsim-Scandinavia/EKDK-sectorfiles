@@ -12,6 +12,7 @@ Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
 Plugins	Plugin1	\EKDK\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin3	\EKDK\Plugins\CDM\CDM.dll
