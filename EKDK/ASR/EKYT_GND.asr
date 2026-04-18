@@ -3,9 +3,13 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 Free Text:EKSN TWY\A:freetext
 Free Text:EKSN TWY\B:freetext
+Free Text:EKYT TWY & Stands & Runways\08L:freetext
+Free Text:EKYT TWY & Stands & Runways\08R:freetext
 Free Text:EKYT TWY & Stands & Runways\1:freetext
 Free Text:EKYT TWY & Stands & Runways\10:freetext
 Free Text:EKYT TWY & Stands & Runways\2:freetext
+Free Text:EKYT TWY & Stands & Runways\26L:freetext
+Free Text:EKYT TWY & Stands & Runways\26R:freetext
 Free Text:EKYT TWY & Stands & Runways\3:freetext
 Free Text:EKYT TWY & Stands & Runways\4:freetext
 Free Text:EKYT TWY & Stands & Runways\5:freetext
@@ -23,6 +27,7 @@ Free Text:EKYT TWY & Stands & Runways\H:freetext
 Free Text:EKYT TWY & Stands & Runways\J:freetext
 Free Text:EKYT TWY & Stands & Runways\K:freetext
 Free Text:EKYT TWY & Stands & Runways\N:freetext
+Free Text:EKYT TWY & Stands & Runways\SAR ONLY:freetext
 Geo:EKSN Groundlayout Sindal:
 Geo:EKYT Groundlayout Aalborg:
 Geo:GEO:
@@ -39,9 +44,9 @@ HISTORY_DOTS:0
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:6.50000
+DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:57.0813328:9.8302746:57.1047409:9.8816013
+WINDOWAREA:57.079911:9.817131:57.107288:9.904620
 PLUGIN:Ground Radar plugin:AirportElevation:10
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:GroundMode:EKYT
