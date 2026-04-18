@@ -1,13 +1,13 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Free Text:EKAH TWY & Stands & Runways\1C:freetext
-Free Text:EKAH TWY & Stands & Runways\1L:freetext
-Free Text:EKAH TWY & Stands & Runways\1R:freetext
 Free Text:EKAH TWY & Stands & Runways\10L:freetext
 Free Text:EKAH TWY & Stands & Runways\10R:freetext
 Free Text:EKAH TWY & Stands & Runways\15:freetext
 Free Text:EKAH TWY & Stands & Runways\16:freetext
+Free Text:EKAH TWY & Stands & Runways\1C:freetext
+Free Text:EKAH TWY & Stands & Runways\1L:freetext
+Free Text:EKAH TWY & Stands & Runways\1R:freetext
 Free Text:EKAH TWY & Stands & Runways\2:freetext
 Free Text:EKAH TWY & Stands & Runways\28L:freetext
 Free Text:EKAH TWY & Stands & Runways\28R:freetext
@@ -45,9 +45,9 @@ HISTORY_DOTS:0
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:-10.10000
+DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:56.293441:10.592612:56.311666:10.650855
+WINDOWAREA:56.296027:10.593664:56.314253:10.651908
 PLUGIN:Ground Radar plugin:AirportElevation:82
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:GroundMode:EKAH

@@ -1,12 +1,33 @@
 ;Aarhus Base 
-COLOR_Terrain1
+COLOR_HardSurface3
       N056.20.38.999 E010.54.06.199 ;BASE
           N056.12.28.999 E010.51.46.000 ; BASE
           N056.15.47.998 E010.19.54.998 ; BASE
           N056.23.38.000 E010.22.24.999 ; BASE
 ;
+;Aarhus Taxiways 
+COLOR_ApronSurface
+       N056.18.05.696 E010.38.24.818 ; RWY 28R Lowest
+          N056.18.05.682 E010.38.24.162 ; RWY 28R Lowest
+          N056.18.06.163 E010.38.19.507 ; RWY 28R Lowest
+          N056.18.05.833 E010.38.19.393 ; RWY 28R Lowest
+          N056.18.09.170 E010.37.46.472 ; RWY 28R Lowest
+          N056.18.09.843 E010.37.43.430 ; RWY 28R Lowest
+          N056.18.09.651 E010.37.42.757 ; RWY 28R Lowest
+          N056.18.09.624 E010.37.42.153 ; RWY 28R Lowest
+          N056.18.16.243 E010.36.36.163 ; RWY 28R Lowest
+          N056.18.14.320 E010.36.35.559 ; RWY 28R Lowest
+          N056.18.03.677 E010.38.20.725 ; RWY 28R Lowest
+          N056.18.03.512 E010.38.21.436 ; RWY 28R Lowest
+          N056.18.03.210 E010.38.21.893 ; RWY 28R Lowest
+          N056.18.02.853 E010.38.22.243 ; RWY 28R Lowest
+          N056.18.02.606 E010.38.22.370 ; RWY 28R Lowest
+          N056.18.02.002 E010.38.22.452 ; RWY 28R Lowest
+          N056.18.03.320 E010.38.24.622 ; RWY 28R Lowest
+          N056.18.03.224 E010.38.25.553 ; RWY 28R Lowest
+          N056.18.04.858 E010.38.26.105 ;
 ;Aarhus Taxiways  
-COLOR_HardSurface2
+COLOR_ApronSurface
        N056.18.18.491 E010.37.17.534 ; TWY Apron
           N056.18.18.509 E010.37.18.014	; TWY Apron
           N056.18.18.536 E010.37.18.302	; TWY Apron
@@ -1045,9 +1066,24 @@ COLOR_HardSurface2
           N056.18.23.428 E010.36.28.652	; TWY MIL Apron NW
 ;
 ;
+;Aarhus Taxiways  
+COLOR_ApronSurface
+       N056.18.04.858 E010.38.26.105 ; THRS RWY 28L nw
+          N056.18.03.595 E010.38.38.812 ; THRS RWY 28L ne
+          N056.18.02.167 E010.38.38.345 ;               se
+          N056.18.03.457 E010.38.25.635 ; THRS RWY 28L sw
+;
+;
+;Aarhus Taxiways  
+COLOR_ApronSurface
+       N056.18.20.514 E010.35.51.363 ; THRS RWY 10R NE
+          N056.18.22.162 E010.35.34.997 ; THRS RWY 10R NW
+          N056.18.20.720 E010.35.34.509 ; THRS RWY 10R SW
+          N056.18.19.072 E010.35.50.923 ; THRS RWY 10R SE
+;
 ; ISLAND
 ;Aarhus Background 
-COLOR_Terrain1
+COLOR_GrasSurface
           N056.18.08.896 E010.37.46.204	; TWY TWY E X
           N056.18.09.239 E010.37.45.913	; TWY TWY E X
           N056.18.11.175 E010.37.45.864	; TWY TWY E X
@@ -1070,7 +1106,7 @@ COLOR_Terrain1
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
+COLOR_GrasSurface
           N056.18.16.951 E010.36.26.581	; TWY TWY Y E
           N056.18.17.067 E010.36.26.608	; TWY TWY Y E
           N056.18.17.904 E010.36.25.554	; TWY TWY Y E
@@ -1089,7 +1125,7 @@ COLOR_Terrain1
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
+COLOR_GrasSurface
           N056.18.20.157 E010.35.54.892	; TWY TWY Z Y
           N056.18.20.404 E010.35.54.127	; TWY TWY Z Y
           N056.18.20.555 E010.35.53.790	; TWY TWY Z Y
@@ -1111,12 +1147,12 @@ COLOR_Terrain1
           N056.18.22.574 E010.36.25.623	; TWY TWY Z Y
           N056.18.17.781 E010.36.24.082	; TWY TWY Z Y
           N056.18.17.630 E010.36.23.797	; TWY TWY Z Y
-          N056.18.17.324 E010.36.22.890	; RWY-LINE
           N056.18.20.157 E010.35.54.892	; RWY-LINE
+          N056.18.17.324 E010.36.22.890	; RWY-LINE
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
+COLOR_GrasSurface
           N056.18.15.791 E010.37.44.273 ;	RWY-LINE ; TWY W Apron E
           N056.18.17.992 E010.37.22.475	; TWY TWY W Apron E (west)
           N056.18.18.179 E010.37.22.089	; TWY TWY W Apron E
@@ -1153,7 +1189,7 @@ COLOR_Terrain1
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
+COLOR_GrasSurface
           N056.18.18.719 E010.35.54.429	; TWY South TWY Z Y
           N056.18.18.687 E010.35.53.855	; TWY South TWY Z Y
           N056.18.18.646 E010.35.53.285	; TWY South TWY Z Y
@@ -1176,12 +1212,12 @@ COLOR_Terrain1
           N056.18.15.281 E010.36.23.271	; TWY South TWY Z Y
           N056.18.15.515 E010.36.23.076	; TWY South TWY Z Y
           N056.18.15.666 E010.36.22.815	; TWY South TWY Z Y
-          N056.18.15.916 E010.36.22.196	; RWY-LINE
           N056.18.18.719 E010.35.54.429	; RWY-LINE
+          N056.18.15.916 E010.36.22.196	; RWY-LINE
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
+COLOR_GrasSurface
           N056.18.15.440 E010.36.26.915	; TWY South TWY Y E
           N056.18.15.405 E010.36.26.234	; TWY South TWY Y E
           N056.18.15.336 E010.36.25.829	; TWY South TWY Y E
@@ -1207,7 +1243,7 @@ COLOR_Terrain1
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
+COLOR_GrasSurface
           N056.18.07.424 E010.37.46.340	; TWY South TWY E X
           N056.18.07.220 E010.37.45.758	; TWY South TWY E X
           N056.18.07.097 E010.37.44.972	; TWY South TWY E X
@@ -1231,8 +1267,8 @@ COLOR_Terrain1
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
-          N056.18.23.831 E010.36.24.665	; RWY 10L/28R
+COLOR_GrasSurface
+     N056.18.23.831 E010.36.24.665	; RWY 10L/28R
           N056.18.26.905 E010.35.54.230	; TWY MIL Apron NW Inner
           N056.18.26.982 E010.35.53.986	; TWY MIL Apron NW Inner
           N056.18.27.147 E010.35.53.598	; TWY MIL Apron NW Inner
@@ -1478,8 +1514,8 @@ COLOR_Terrain1
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
-          N056.18.09.692 E010.36.19.986	; TWY MIL Apron SW
+COLOR_GrasSurface
+     N056.18.09.692 E010.36.19.986	; TWY MIL Apron SW
           N056.18.12.755 E010.35.49.763	; TWY MIL Apron SW
           N056.18.12.700 E010.35.49.197	; TWY MIL Apron SW
           N056.18.12.617 E010.35.48.815	; TWY MIL Apron SW
@@ -1751,8 +1787,8 @@ COLOR_Terrain1
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
-          N056.18.04.391 E010.35.43.789	; TWY ;Aarhus Background ISLAND MIL SW Small
+COLOR_GrasSurface
+           N056.18.04.391 E010.35.43.789	; TWY ;Aarhus Background ISLAND MIL SW Small
           N056.18.01.741 E010.35.42.296	; TWY ;Aarhus Background ISLAND MIL SW Small
           N056.18.01.466 E010.35.42.189	; TWY ;Aarhus Background ISLAND MIL SW Small
           N056.18.01.274 E010.35.42.258	; TWY ;Aarhus Background ISLAND MIL SW Small
@@ -1776,7 +1812,7 @@ COLOR_Terrain1
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
+COLOR_GrasSurface
           N056.17.57.992 E010.38.16.001	; TWY MIL apron SE
           N056.18.01.205 E010.37.44.011	; TWY MIL apron SE
           N056.18.01.192 E010.37.43.520	; TWY MIL apron SE
@@ -2047,8 +2083,8 @@ COLOR_Terrain1
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
-          N056.18.27.669 E010.37.24.524 ; Island GA
+COLOR_GrasSurface
+    N056.18.27.669 E010.37.24.524 ; Island GA
           N056.18.27.861 E010.37.24.575 ; Island GA
           N056.18.28.451 E010.37.23.857 ; Island GA
           N056.18.28.767 E010.37.20.795 ; Island GA
@@ -2058,8 +2094,8 @@ COLOR_Terrain1
 ;
 ;
 ;Aarhus Background 
-COLOR_Terrain1
-          N056.18.27.806 E010.37.27.140 ; Island at GA Grass entrance
+COLOR_GrasSurface
+    N056.18.27.806 E010.37.27.140 ; Island at GA Grass entrance
           N056.18.28.081 E010.37.27.232 ;
           N056.18.28.135 E010.37.27.205 ;
           N056.18.28.190 E010.37.27.146 ;
@@ -2070,7 +2106,7 @@ COLOR_Terrain1
 ;
 ;Aarhus Runways 
 COLOR_RunwayConcrete
-          N056.18.11.070 E010.38.31.010 ; THRS RWY 28R NE
+       N056.18.11.070 E010.38.31.010 ; THRS RWY 28R NE
           N056.18.10.387 E010.38.30.780 ; THRS RWY 28R SE
           N056.18.26.390 E010.35.51.970 ; THRS RWY 10L SW
           N056.18.27.130 E010.35.52.000 ; THRS RWY 10L NW
@@ -2079,15 +2115,99 @@ COLOR_RunwayConcrete
 ;
 ;Aarhus Runways 
 COLOR_RunwayConcrete
-          N056.18.04.858 E010.38.26.105 ; THRS RWY 28L nE
+       N056.18.04.858 E010.38.26.105 ; THRS RWY 28L nE
           N056.18.03.457 E010.38.25.635 ; THRS RWY 28L sE
           N056.18.19.072 E010.35.50.923 ; THRS RWY 10R SW
           N056.18.20.514 E010.35.51.363 ; THRS RWY 10R NW
 
 ;
 ;
+;Aarhus Apron 
+COLOR_ApronSurface
+     N056.18.23.576 E010.37.46.888  ; APRON
+          N056.18.25.032 E010.37.46.194  ; APRON
+          N056.18.25.320 E010.37.45.899  ; APRON
+          N056.18.25.622 E010.37.45.418  ; APRON
+          N056.18.25.870 E010.37.44.670  ; APRON
+          N056.18.25.993 E010.37.43.853  ; APRON
+          N056.18.25.979 E010.37.43.053  ; APRON
+          N056.18.25.883 E010.37.42.325  ; APRON
+          N056.18.25.705 E010.37.41.848  ; APRON
+          N056.18.25.952 E010.37.41.525  ; APRON
+          N056.18.26.117 E010.37.41.044  ; APRON
+          N056.18.26.240 E010.37.40.306  ; APRON
+          N056.18.26.240 E010.37.39.609  ; APRON
+          N056.18.26.103 E010.37.39.046  ; APRON
+          N056.18.25.801 E010.37.38.232  ; APRON
+          N056.18.26.185 E010.37.37.772  ; APRON
+          N056.18.26.460 E010.37.37.244  ; APRON
+          N056.18.26.625 E010.37.36.639  ; APRON
+          N056.18.26.666 E010.37.35.863  ; APRON
+          N056.18.26.639 E010.37.35.280  ; APRON
+          N056.18.26.556 E010.37.34.700  ; APRON
+          N056.18.26.089 E010.37.33.440  ; APRON
+          N056.18.26.831 E010.37.32.389  ; APRON
+          N056.18.27.037 E010.37.31.819  ; APRON
+          N056.18.27.257 E010.37.30.964  ; APRON
+          N056.18.27.325 E010.37.29.993  ; APRON
+          N056.18.27.270 E010.37.29.179  ; APRON
+          N056.18.27.106 E010.37.28.485  ; APRON
+          N056.18.27.339 E010.37.27.620  ; APRON
+          N056.18.28.012 E010.37.20.744  ; APRON
+          N056.18.26.858 E010.37.20.369  ; APRON
+          N056.18.26.721 E010.37.21.811  ; APRON
+          N056.18.26.213 E010.37.23.123  ; APRON
+          N056.18.25.773 E010.37.27.507  ; APRON
+          N056.18.25.265 E010.37.28.190  ; APRON
+;
+;Aarhus Terminal 
+COLOR_ApronSurface
+      N056.18.28.232 E010.37.32.626 ; Terminal
+          N056.18.28.190 E010.37.32.489 ; Terminal
+          N056.18.28.067 E010.37.32.451 ; Terminal
+          N056.18.27.971 E010.37.32.578 ; Terminal
+          N056.18.27.943 E010.37.32.815 ; Terminal
+          N056.18.28.012 E010.37.32.949 ; Terminal
+          N056.18.27.723 E010.37.35.517 ; Terminal
+          N056.18.27.106 E010.37.35.338 ; Terminal
+          N056.18.26.199 E010.37.44.429 ; Terminal
+          N056.18.26.378 E010.37.44.474 ; Terminal
+          N056.18.26.831 E010.37.40.158 ; Terminal
+          N056.18.27.366 E010.37.40.354 ; Terminal
+          N056.18.27.160 E010.37.42.469 ; Terminal
+          N056.18.26.982 E010.37.42.435 ; Terminal
+          N056.18.26.817 E010.37.44.065 ; Terminal
+          N056.18.26.666 E010.37.44.021 ; Terminal
+          N056.18.26.515 E010.37.45.645 ; Terminal
+          N056.18.27.147 E010.37.45.885 ; Terminal
+          N056.18.27.229 E010.37.44.903 ; Terminal
+          N056.18.27.160 E010.37.44.883 ; Terminal
+          N056.18.27.229 E010.37.44.319 ; Terminal
+          N056.18.27.160 E010.37.44.265 ; Terminal
+          N056.18.27.545 E010.37.40.402 ; Terminal
+          N056.18.28.300 E010.37.40.612 ; Terminal
+          N056.18.28.424 E010.37.39.602 ; Terminal
+          N056.18.28.644 E010.37.39.671 ; Terminal
+          N056.18.28.671 E010.37.39.307 ; Terminal
+          N056.18.28.465 E010.37.39.242 ; Terminal
+          N056.18.28.506 E010.37.38.881 ; Terminal
+          N056.18.28.781 E010.37.38.960 ; Terminal
+          N056.18.28.850 E010.37.38.263 ; Terminal
+          N056.18.28.946 E010.37.38.294 ; Terminal
+          N056.18.29.001 E010.37.37.604 ; Terminal
+          N056.18.28.918 E010.37.37.570 ; Terminal
+          N056.18.29.152 E010.37.35.170 ; Terminal
+          N056.18.29.248 E010.37.35.218 ; Terminal
+          N056.18.29.317 E010.37.34.504 ; Terminal
+          N056.18.29.248 E010.37.34.459 ; Terminal
+          N056.18.29.289 E010.37.33.749 ; Terminal
+          N056.18.28.863 E010.37.33.618 ; Terminal
+          N056.18.28.918 E010.37.33.131 ; Terminal
+          N056.18.28.644 E010.37.33.034 ; Terminal
+          N056.18.28.671 E010.37.32.787 ; Terminal
+
 ;Aarhus Grasssurfaces 
-COLOR_Terrain1
+COLOR_GrasSurface
      N056.18.28.616 E010.37.26.566 ; Apron
           N056.18.31.198 E010.37.27.184 ; GA Grass
           N056.18.30.662 E010.37.30.587 ; GA Grass
