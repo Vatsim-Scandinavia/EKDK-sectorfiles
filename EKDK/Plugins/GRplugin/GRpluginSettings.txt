@@ -1,3 +1,5 @@
+Maps_URL=https://raw.githubusercontent.com/Vatsim-Scandinavia/EKDK-sectorfiles/refs/heads/main/EKDK/Plugins/GRplugin/GRpluginMaps.txt
+
 System_State_OnFreq=STBY
 System_State_Push=PUSH
 System_State_DeIce=DEICE
