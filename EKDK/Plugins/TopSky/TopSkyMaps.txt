@@ -1,3 +1,6 @@
+//VERSION:2606
+
+
 ;Definitions
 
 SYMBOLDEF:OBS

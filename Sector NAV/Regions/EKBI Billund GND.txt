@@ -302,38 +302,40 @@ COLOR_ApronSurface
           N055.44.20.037 E009.08.50.093	 ; South Term
           N055.44.20.078 E009.08.49.815	 ; South Term
           N055.44.20.050 E009.08.49.530	 ; GA Area
-          N055.44.19.790 E009.08.48.555	 ; South Term
-          N055.44.19.474 E009.08.47.251	 ; South Term
-          N055.44.19.158 E009.08.45.761	 ; South Term
-          N055.44.18.842 E009.08.44.133	 ; South Term
-          N055.44.18.650 E009.08.42.856	 ; South Term
-          N055.44.18.485 E009.08.41.644	 ; South Term
-          N055.44.18.306 E009.08.39.845	 ; South Term
-          N055.44.18.155 E009.08.37.957	 ; South Term
-          N055.44.18.114 E009.08.37.112	 ; South Term
-          N055.44.18.004 E009.08.36.230	 ; South Term
-          N055.44.17.839 E009.08.35.505	 ; South Term
-          N055.44.17.771 E009.08.35.262	 ; South Term
-          N055.44.17.675 E009.08.35.076	 ; South Term
-          N055.44.17.579 E009.08.34.963	 ; South Term
-          N055.44.17.414 E009.08.34.860	 ; South Term
-          N055.44.16.851 E009.08.34.695	 ; South Term
-          N055.44.16.631 E009.08.34.647	 ; South Term
-          N055.44.16.507 E009.08.34.929	 ; South Term
-          N055.44.16.562 E009.08.36.807	 ; South Term
-          N055.44.14.640 E009.08.37.002	 ; South Term
-          N055.44.14.557 E009.08.34.263	 ; South Term
-          N055.44.14.722 E009.08.33.899	 ; South Term
-          N055.44.14.173 E009.08.16.238	 ; South Term
-          N055.44.14.035 E009.08.16.245	 ; South Term
-          N055.44.14.035 E009.08.16.245	 ; South Term
-          N055.44.13.994 E009.08.15.033	 ; South Term
-          N055.44.13.802 E009.08.15.043	 ; South Term
-          N055.44.13.514 E009.08.05.269	 ; South Term
-          N055.44.13.678 E009.08.05.231	 ; South Term
-          N055.44.13.610 E009.08.03.209	 ; South Term
-          N055.44.14.461 E009.08.03.120	 ; South Term
-          N055.44.14.393 E009.08.01.650	 ; South Term
+          N055.44.19.982 E009.08.49.425	 ; South Term
+          N055.44.19.155 E009.08.46.064	 ; South Term
+          N055.44.19.155 E009.08.46.064	 ; South Term
+          N055.44.18.764 E009.08.43.979	 ; South Term
+          N055.44.18.764 E009.08.43.979	 ; South Term
+          N055.44.18.492 E009.08.42.009	 ; South Term
+          N055.44.18.492 E009.08.42.009	 ; South Term
+          N055.44.18.275 E009.08.40.213	 ; South Term
+          N055.44.18.275 E009.08.40.213	 ; South Term
+          N055.44.18.123 E009.08.38.610	 ; South Term
+          N055.44.18.123 E009.08.38.610	 ; South Term
+          N055.44.18.014 E009.08.38.610	 ; South Term
+          N055.44.18.014 E009.08.38.610	 ; South Term
+          N055.44.17.970 E009.08.37.432	 ; South Term
+          N055.44.17.970 E009.08.37.432	 ; South Term
+          N055.44.14.144 E009.08.37.702	 ; South Term
+          N055.44.14.144 E009.08.37.702	 ; South Term
+          N055.44.14.046 E009.08.33.203	 ; South Term
+          N055.44.14.046 E009.08.33.203	 ; South Term
+          N055.44.13.991 E009.08.30.557	 ; South Term
+          N055.44.13.991 E009.08.30.557	 ; South Term
+          N055.44.14.067 E009.08.29.804	 ; South Term
+          N055.44.14.067 E009.08.29.804	 ; South Term
+          N055.44.14.383 E009.08.27.390	 ; South Term
+          N055.44.14.383 E009.08.27.390	 ; South Term
+          N055.44.14.502 E009.08.26.482	 ; South Term
+          N055.44.14.502 E009.08.26.482	 ; South Term
+          N055.44.13.779 E009.08.03.298	 ; South Term
+          N055.44.13.779 E009.08.03.298	 ; South Term
+          N055.44.13.942 E009.08.03.182	 ; South Term
+          N055.44.13.942 E009.08.03.182	 ; South Term
+          N055.44.13.937 E009.08.02.922	 ; South Term
+          N055.44.13.937 E009.08.02.922	 ; South Term
+          N055.44.14.464 E009.08.02.844	 ; South Term
           N055.44.14.214 E009.07.55.927	 ; South Term
           N055.44.13.623 E009.07.54.956	 ; South Term
           N055.44.13.376 E009.07.54.444	 ; South Term
@@ -463,19 +465,21 @@ COLOR_GrasSurface
           N055.44.23.236 E009.08.42.667	 ; ;Billund Background ISLAND B C
           N055.44.22.907 E009.08.41.641	 ; ;Billund Background ISLAND B C
           N055.44.22.385 E009.08.40.370	 ; ;Billund Background ISLAND B C
-          N055.44.21.643 E009.08.38.918	 ; ;Billund Background ISLAND B C
-          N055.44.20.435 E009.08.36.872	 ; ;Billund Background ISLAND B C
-          N055.44.20.023 E009.08.36.069	 ; ;Billund Background ISLAND B C
-          N055.44.19.638 E009.08.35.196	 ; ;Billund Background ISLAND B C
-          N055.44.19.309 E009.08.34.294	 ; ;Billund Background ISLAND B C
-          N055.44.19.007 E009.08.33.528	 ; ;Billund Background ISLAND B C
-          N055.44.18.911 E009.08.33.511	 ; ;Billund Background ISLAND B C
-          N055.44.18.815 E009.08.33.576	 ; ;Billund Background ISLAND B C
-          N055.44.18.732 E009.08.33.682	 ; ;Billund Background ISLAND B C
-          N055.44.18.691 E009.08.33.813	 ; ;Billund Background ISLAND B C
-          N055.44.18.677 E009.08.33.947	 ; ;Billund Background ISLAND B C
-          N055.44.18.883 E009.08.38.177	 ; ;Billund Background ISLAND B C
-          N055.44.19.020 E009.08.39.845	 ; ;Billund Background ISLAND B C
+          N055.44.21.406 E009.08.38.649	 ; ;Billund Background ISLAND B C
+          N055.44.21.123 E009.08.38.340	 ; ;Billund Background ISLAND B C
+          N055.44.20.504 E009.08.37.664	 ; ;Billund Background ISLAND B C
+          N055.44.19.884 E009.08.37.142	 ; ;Billund Background ISLAND B C
+          N055.44.19.536 E009.08.37.007	 ; ;Billund Background ISLAND B C
+          N055.44.19.433 E009.08.37.017	 ; ;Billund Background ISLAND B C
+          N055.44.19.373 E009.08.37.094	 ; ;Billund Background ISLAND B C
+          N055.44.19.270 E009.08.37.306	 ; ;Billund Background ISLAND B C
+          N055.44.19.210 E009.08.37.528	 ; ;Billund Background ISLAND B C
+          N055.44.19.145 E009.08.37.760	 ; ;Billund Background ISLAND B C
+          N055.44.19.069 E009.08.38.340	 ; ;Billund Background ISLAND B C
+          N055.44.18.976 E009.08.39.189	 ; ;Billund Background ISLAND B C
+          N055.44.18.971 E009.08.39.498	 ; ;Billund Background ISLAND B C
+          N055.44.19.003 E009.08.39.865	 ; ;Billund Background ISLAND B C
+          N055.44.19.221 E009.08.42.009	 ; ;Billund Background ISLAND B C
           N055.44.19.350 E009.08.42.695	 ; ;Billund Background ISLAND B C
           N055.44.19.721 E009.08.44.834	 ; ;Billund Background ISLAND B C
           N055.44.20.160 E009.08.46.935	 ; ;Billund Background ISLAND B C

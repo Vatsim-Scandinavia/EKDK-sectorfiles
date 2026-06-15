@@ -75,7 +75,7 @@ PROFILE:EKCH_K_DEP:150:5
 ATIS2:Kastrup Departure - CPDLC/DCL [EKCK]
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKCH_C_TWR:50:4
+PROFILE:EKCH_GW_TWR:50:4
 ATIS2:Kastrup Tower - DCL [EKCH]
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!

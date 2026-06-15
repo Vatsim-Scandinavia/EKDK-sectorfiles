@@ -188,4 +188,7 @@ Arrival Load Balance:ACList/ALB RT Issues/m_OrderingColumn:1
 Arrival Load Balance:ACList/ALB RT Issues/m_Column_0:C/S:7:0:9:0:7:1:::
 Arrival Load Balance:ACList/ALB RT Issues/m_Column_1:ADES:5:0:17:0:1:1:::
 Arrival Load Balance:ACList/ALB RT Issues/m_Column_2:WHY:7:0:1291:0:0:1:Arrival Load Balance::
+CDM Plugin:CDMWindowPositionX:357
+CDM Plugin:CDMWindowPositionY:26
+CDM Plugin:CDMMinimized:1
 END
