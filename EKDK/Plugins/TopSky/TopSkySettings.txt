@@ -1,3 +1,5 @@
+Maps_URL=https://raw.githubusercontent.com/Vatsim-Scandinavia/EKDK-sectorfiles/refs/heads/main/EKDK/Plugins/TopSky/TopSkyMaps.txt
+
 Setup_COOPANS=1
 Setup=DK
 
