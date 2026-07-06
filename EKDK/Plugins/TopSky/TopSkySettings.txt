@@ -181,6 +181,7 @@ Setup_Informed=*:TESPI,TNO,TUDLO,KOR,MONAK,NEKSO:EKCH:3
 Setup_Informed=*:*:EKYT:3
 Setup_Informed=*:LOBBI,MAKUR:ESGG:3
 List_Holding_States=23457BC
+FAST_Min_State=2
 
 {B}
 Setup_Informed=*:TIDVU:EKCH:2
@@ -195,12 +196,14 @@ Setup_Informed=*:KOR:EKCH:2
 Color_Rwy_App_Line_Inuse=62,160,216
 Window_UpperWinds=3,30,400
 
+
 {O}
 Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:3
 Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:2
 Window_CPDLC_Current=1,30,990
 Window_CPDLC_Setting=1,30,100
+FAST_Min_State=0
 
 {W}
 Setup_Informed=EKCH:*:*:1
@@ -208,12 +211,14 @@ Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:3
 Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:2
 Window_CPDLC_Current=1,30,990
 Window_CPDLC_Setting=1,30,100
+FAST_Min_State=0
 
 {P}
 Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:*:EKCH:3
 MTCD_Sep_Lat=2.5
 Label_WTC_Highlight_WTC=HJ?
+FAST_Min_State=0
 
 {PLN}
 Color_Informed_3=149,214,149
@@ -222,6 +227,7 @@ Setup_Informed=*:ABEGI,ERPUK,FEDJO,HOFFO:EKCH:3
 Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:2
 MTCD_Sep_Lat=2.5
 Label_WTC_Highlight_WTC=HJ?
+FAST_Min_State=0
 
 [_DEP]
 Color_Rwy_App_Line_Inuse=62,160,216
@@ -230,6 +236,7 @@ Setup_Informed=*:*:EKCH:2
 Window_UpperWinds=3,30,400
 Window_CPDLC_Current=1,30,990
 Window_CPDLC_Setting=1,30,100
+FAST_Min_State=2
 
 [EKBI_APP]
 Color_Rwy_App_Line_Inuse=62,160,216
