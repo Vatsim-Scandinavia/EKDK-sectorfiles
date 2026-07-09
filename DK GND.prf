@@ -15,12 +15,9 @@ Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
 Plugins	Plugin2Display0	Ground Radar display
-Plugins	Plugin3	\EKDK\Plugins\CDM\CDM.dll
-Plugins	Plugin3Display0	Ground Radar display
-Plugins	Plugin3Display1	Standard ES radar screen
-Plugins	Plugin4	\EKDK\Plugins\VCH\VCH.dll
-Plugins	Plugin4Display0	Standard ES radar screen
-Plugins	Plugin4Display1	Ground Radar display
+Plugins	Plugin3	\EKDK\Plugins\VCH\VCH.dll
+Plugins	Plugin3Display0	Standard ES radar screen
+Plugins	Plugin3Display1	Ground Radar display
 RecentFiles	Recent1	\EKDK\ASR\EKCH_GND.asr
 RecentFiles	Recent2	\EKDK\ASR\EKRK_GND.asr
 RecentFiles	Recent3	\EKDK\ASR\EKCH_APP.asr
@@ -38,7 +35,7 @@ Settings	alias	\EKDK\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	AtisFolder	\ATIS\atisfiles.txt
 Settings	FreqKey	3604480
-Settings	sector	\EKDK-EKDK-Copenhagen_20260411171400-260301-0008.sct
+Settings	sector	\EKDK-EKDK-Copenhagen_20260613120901-260601-0002.sct
 Settings	Settingsfile	\EKDK\Settings\GeneralGND.txt
 Settings	SettingsfileARR	\EKDK\Settings\ListsGND.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\ListsGND.txt
@@ -53,3 +50,4 @@ Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
 Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
 Plugins	Plugin2Display1	Standard ES radar screen
+LastSession	atis_freq4	118000

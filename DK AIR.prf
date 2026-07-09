@@ -11,9 +11,8 @@ Plugins	Plugin0	\EKDK\Plugins\FlightStrips\FlightStripsPlugin.dll
 Plugins	Plugin1	\EKDK\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
-Plugins	Plugin3	\EKDK\Plugins\CDM\CDM.dll
-Plugins	Plugin4	\EKDK\Plugins\VCH\VCH.dll
-Plugins	Plugin5	\EKDK\Plugins\ALB\Alb.dll
+Plugins	Plugin3	\EKDK\Plugins\VCH\VCH.dll
+Plugins	Plugin4	\EKDK\Plugins\ALB\Alb.dll
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin4Display1	Standard ES radar screen
@@ -38,7 +37,7 @@ Settings	alias	\EKDK\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	AtisFolder	\ATIS\atisfiles.txt
 Settings	FreqKey	3604480
-Settings	sector	\EKDK-EKDK-Copenhagen_20260411171400-260301-0008.sct
+Settings	sector	\EKDK-EKDK-Copenhagen_20260613120901-260601-0002.sct
 Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileARR	\EKDK\Settings\Lists.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\Lists.txt
@@ -63,5 +62,3 @@ Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4Display0	Ground Radar display
-Plugins	Plugin5Display0	Ground Radar display
-Plugins	Plugin5Display1	Standard ES radar screen
