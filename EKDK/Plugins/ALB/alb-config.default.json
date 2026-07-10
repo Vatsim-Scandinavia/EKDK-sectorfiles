@@ -1,15 +1,24 @@
 {
   "logBackendIO": false,
   "configFormatVersion": 3,
-  "openAutomatically": false,
+  "openAutomatically": true,
   "logging": true,
   "housekeeping": {
       "enabled": true,
-      "textLogRetentionDays": 8,
+      "textLogRetentionDays": 16,
       "textLogMaxFilesPerFamily": 20,
       "backendRecordingRetentionDays": 16,
       "backendRecordingMaxFolderMb": 500
   }, 
+  "backendPeerHealth": {
+    "enabled": true,
+    "warnAverageMs": 100,
+    "recoverAverageMs": 50,
+    "windowSec": 10,
+    "consecutiveWarnWindows": 1,
+    "consecutiveRecoverWindows": 1,
+    "repeatWarnCooldownSec": 30  
+  },
   "debugging": false,
   "soundMute": {
     "all": false,
@@ -72,6 +81,32 @@
         "Priority-W": [ 5, 5, 6, 6, 0 ],
         "Priority-O": [ 0, 0, 0, 2, 4 ],
         "Stop": [ 0, 0, 0, 0, 0 ]
+      }
+    },
+    "EKCH-SI-12": {
+      "destinationAirports": [ "EKCH" ],
+      "runways": [ "04L", "04R", "12", "22L", "22R", "30" ],
+      "tagLayout": "Maestro-Feeder",
+      "targetFixes": [ "CH4LF", "CH4RF", "CH12F", "CH2LF", "CH2RF", "CH30F" ],
+      "forceSingleTimeline": true,
+      "aimingPointFt": 1000,
+      "viaFixes": [      "ERNOV", "TIDVU", "-----", "ROSBI",  "LUGAS",  "OLPIB",  "-----" ],
+      "viaFixColors": [ "6E996E", "00BFFF",         "96D796", "00FF7F", "00FFFF" ],
+      "ArrivalScenarios": {
+        "Green": [ 2, 2, 2, 2, 2 ]
+      }
+    },
+    "EKCH-SI-12VTC": {
+      "destinationAirports": [ "EKCH" ],
+      "runways": [ "04L", "04R", "12", "22L", "22R", "30" ],
+      "tagLayout": "Maestro-Feeder",
+      "targetFixes": [ "CH4LF", "CH4RF", "CH12F", "CH2LF", "CH2RF", "CH30F" ],
+      "forceSingleTimeline": true,
+      "aimingPointFt": 1000,
+      "viaFixes": [     "ERNOV",  "TIDVU",  "OLPIB",  "-----", "ROSBI",  "LUGAS", "-----" ],
+      "viaFixColors": [ "6E996E", "00BFFF", "00FFFF",          "96D796", "00FF7F" ],
+      "ArrivalScenarios": {
+        "Green": [ 2, 2, 2, 2, 2 ]
       }
     },
     "ENGM-SI": {

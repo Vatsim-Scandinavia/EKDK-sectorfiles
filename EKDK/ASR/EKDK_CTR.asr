@@ -5,7 +5,7 @@ ARTCC boundary:Airspace E EKAH Aarhus CTA 35-65:
 ARTCC boundary:Airspace E EKBI Billund CTA 105-125:
 ARTCC boundary:Airspace E EKKA Karup CTA 35-125:
 ARTCC boundary:Airspace E EKRK Roskilde WEST 35-65:
-ARTCC boundary:Airspace E EKSP Skrydstrup CTR 35-65:
+ARTCC boundary:Airspace E EKSP Skrydstrup CTA 35-65:
 ARTCC boundary:Airspace E EKYT Aalborg CTA 35-125:
 ARTCC boundary:AoR CTR EKDK EKDK_A:
 ARTCC boundary:AoR CTR EKDK EKDK_B:
@@ -32,4 +32,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:54.530822:5.375780:57.136054:13.235167
+WINDOWAREA:52.252266:-1.211164:58.918933:20.093659

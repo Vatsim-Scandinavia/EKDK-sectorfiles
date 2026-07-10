@@ -4,20 +4,23 @@
 	<rateLvo ops="10" />
 	<expiredCtot time="5" />
 	<realMode mode="true" />
+	<bmi mode="false" />
 	<pilotTobt mode="true" />
 	<autoAtot mode="true" />
 	<invalidateAtTsat mode="true" />
 	<invalidateAtTobt mode="false" />
+	<readySetTsac mode="true" />
 	<Rates url="" />
 	<Taxizones url="" />
-	<Ctot url="" />
+	<Slots url="" />
 	<sidInterval url="" />
 	<DefaultTaxiTime minutes="12" />
 	<DeIceTimes light="3" medium="5" heavy="7" super="9"/>
 	<DeIceRemTaxi rem1Name= "A" rem1="5" rem2Name= "B" rem2="6" rem3Name= "V" rem3="10"/>
+	<eventModeMin time="3" />
 	<RefreshTime seconds="5" />
 	<Debug mode="false" />
-	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
+	<FlowRestrictions url="" />
 	<vdgsFileType type="3"/>
 	<ftpHost host="" />
 	<ftpUser user="" />
@@ -25,4 +28,11 @@
 	<sftpConnection mode="false" />
 	<Server mode="true" />
 	<Su_Wait mode="false" />
+	<flashingMode tobtLastMin= "false" tsatFirstMin="false" tsatLastMin= "false"/>
+	<reqTobtPriority mode="true" />
+	<eventPriority mode="true" />
+	<autoSetTobtFromEvSlot mode="true" />
+	<remarksOptionCtot mode="false" />
+	<PrivateMessage text="[CDM MSG] PLEASE, MONITOR https://vats.im/vdgs FOR CDM AND ATFCM UPDATES. [END OF CDM MSG]" />
+	<loading text="...." />
 </CDM>
