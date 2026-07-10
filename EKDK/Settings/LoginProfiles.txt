@@ -52,11 +52,11 @@ ATIS2:Copenhagen Control - CPDLC [EKUV]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_O_APP:150:5
-ATIS2:Copenhagen Approach - CPDLC/DCL [EKCO]
+ATIS2:Copenhagen Approach - DCL [EKCH]
 ATIS3:Briefing at vats.im/ekch | Departing A/C contact 124.980 / 120.255
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_W_APP:150:5
-ATIS2:Copenhagen Approach - CPDLC/DCL [EKCW]
+ATIS2:Copenhagen Approach - DCL [EKCH]
 ATIS3:Briefing at vats.im/ekch | Departing A/C contact 120.255 / 124.980
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_F_APP:150:5
@@ -68,11 +68,11 @@ ATIS2:Kastrup Final - Report Callsign ONLY!
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_R_DEP:150:5
-ATIS2:Kastrup Departure - CPDLC/DCL [EKCR]
+ATIS2:Kastrup Departure - CPDLC [EKCR]
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_K_DEP:150:5
-ATIS2:Kastrup Departure - CPDLC/DCL [EKCK]
+ATIS2:Kastrup Departure - CPDLC [EKCK]
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
 PROFILE:EKCH_GW_TWR:50:4
@@ -163,7 +163,15 @@ PROFILE:EKRN_TWR:50:4
 ATIS2:Roenne Tower
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:[ICAO]_M_:150:5
+PROFILE:[ICAO]_M_CTR:150:5
+ATIS2:ATC Mentoring
+ATIS3:
+ATIS4:
+PROFILE:[ICAO]_M_APP:150:5
+ATIS2:ATC Mentoring
+ATIS3:
+ATIS4:
+PROFILE:[ICAO]_M_TWR:150:5
 ATIS2:ATC Mentoring
 ATIS3:
 ATIS4:
