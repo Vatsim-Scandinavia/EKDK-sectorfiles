@@ -62,16 +62,3 @@ Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4Display0	Ground Radar display
-LastSession	connecttype	2
-LastSession	callsign	EKDK_M_CTR
-LastSession	realname	SB
-LastSession	certificate	887089
-LastSession	password	pepper-GVABSL
-LastSession	facility	6
-LastSession	rating	4
-LastSession	server	SweatBox
-LastSession	tovatsim	1
-LastSession	scenario	C:\Users\splen\Documents\Sweatbox\S3 CPH\3. EKCH_APP_Intermidiate (Rwy04) - TWR Offline.txt
-LastSession	range	600
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
