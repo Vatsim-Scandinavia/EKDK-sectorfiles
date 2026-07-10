@@ -3,9 +3,8 @@
 *.sct
 EKDK/Settings/LoginProfiles.txt
 EKDK/Plugins/TopSky/TopSkyCPDLChoppieCode.txt
-/EKDK/Plugins/ALB
-/EKDK/Plugins/CDM
-/EKDK/Plugins/ALB
-/EKDK/Plugins/FlightStrips
-EKDK/Plugins/TopSky/TopSkyCPDLChoppieCode.txt
 EKDK/Settings/VoiceChannels.txt
+EKDK/Plugins/ALB/ALBLoader.log
+EKDK/Plugins/FlightStrips/flightstrips.log
+EKDK/Plugins/FlightStrips/flightstripsloader.log
+EKDK/Plugins/FlightStrips/flightstrips_user.ini
