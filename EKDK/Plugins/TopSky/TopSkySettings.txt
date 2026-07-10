@@ -196,7 +196,6 @@ Setup_Informed=*:KOR:EKCH:2
 Color_Rwy_App_Line_Inuse=62,160,216
 Window_UpperWinds=3,30,400
 
-
 {O}
 Setup_Informed=EKCH:*:*:1
 Setup_Informed=*:ADOVI,DOPEM,AGTIC,COPHO:EKCH:3
