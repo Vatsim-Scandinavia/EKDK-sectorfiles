@@ -329,3 +329,7 @@ DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
 WINDOWAREA:54.943697:9.743822:54.973969:9.843919
 PLUGIN:TopSky plugin:NoDraw:1
+
+PLUGIN:Ground Radar plugin:AirportElevation:80
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:GroundMode:EKAH
