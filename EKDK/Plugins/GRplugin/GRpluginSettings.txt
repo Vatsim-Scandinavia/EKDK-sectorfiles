@@ -52,6 +52,7 @@ Airport_Runway_MaxCode=30:E
 Window_APP=1,1,2154,2011,450,450
 Window_APP_Scale=30
 Color_APP_Background=46,46,62
+Color_TSW_Background=68,68,68
 List_Outbound=22R,2,35,422
 List_Outbound=04R,2,904,800
 List_Outbound=12,2,288,196
