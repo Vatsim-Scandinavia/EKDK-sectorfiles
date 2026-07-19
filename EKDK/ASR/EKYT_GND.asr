@@ -1,5 +1,5 @@
 DisplayTypeName:Ground Radar display
-DisplayTypeNeedRadarContent:1
+DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 Free Text:EKSN TWY\A:freetext
 Free Text:EKSN TWY\B:freetext
