@@ -3,36 +3,9 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 Free Text:EKSN TWY\A:freetext
 Free Text:EKSN TWY\B:freetext
-Free Text:EKYT TWY & Stands & Runways\08L:freetext
-Free Text:EKYT TWY & Stands & Runways\08R:freetext
-Free Text:EKYT TWY & Stands & Runways\1:freetext
-Free Text:EKYT TWY & Stands & Runways\10:freetext
-Free Text:EKYT TWY & Stands & Runways\2:freetext
-Free Text:EKYT TWY & Stands & Runways\26L:freetext
-Free Text:EKYT TWY & Stands & Runways\26R:freetext
-Free Text:EKYT TWY & Stands & Runways\3:freetext
-Free Text:EKYT TWY & Stands & Runways\4:freetext
-Free Text:EKYT TWY & Stands & Runways\5:freetext
-Free Text:EKYT TWY & Stands & Runways\6:freetext
-Free Text:EKYT TWY & Stands & Runways\7:freetext
-Free Text:EKYT TWY & Stands & Runways\8:freetext
-Free Text:EKYT TWY & Stands & Runways\A:freetext
-Free Text:EKYT TWY & Stands & Runways\B:freetext
-Free Text:EKYT TWY & Stands & Runways\C:freetext
-Free Text:EKYT TWY & Stands & Runways\D:freetext
-Free Text:EKYT TWY & Stands & Runways\E:freetext
-Free Text:EKYT TWY & Stands & Runways\F:freetext
-Free Text:EKYT TWY & Stands & Runways\G:freetext
-Free Text:EKYT TWY & Stands & Runways\H:freetext
-Free Text:EKYT TWY & Stands & Runways\J:freetext
-Free Text:EKYT TWY & Stands & Runways\K:freetext
-Free Text:EKYT TWY & Stands & Runways\N:freetext
-Free Text:EKYT TWY & Stands & Runways\SAR ONLY:freetext
 Geo:EKSN Groundlayout Sindal:
-Geo:EKYT Groundlayout Aalborg:
 Geo:GEO:
 Regions:EKSN Sindal GND:polygon
-Regions:EKYT Aalborg GND:polygon
 SHOWC:0
 SHOWSB:0
 BELOW:0
