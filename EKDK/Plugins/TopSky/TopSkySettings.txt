@@ -175,7 +175,7 @@ CPDLC_DCT=1
 Window_ASM=1,550,1350,100,300
 Window_UpperWinds=3,80,400
 Window_View=3,0,400
-Window_Zoom=3,900,0
+Window_Zoom=3,660,0
 Window_FastConfig=-3,0,850
 
 Window_CPDLC_Current=1,800,1350
