@@ -1,0 +1,25 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:AoR CTR EKDK EKDK_E:
+ARTCC boundary:AoR CTR EKDK EKDK_L:
+ARTCC boundary:AoR CTR EKDK EKDK_N:
+ARTCC boundary:AoR CTR EKDK EKDK_V:
+ARTCC boundary:R RADIS Airspace:
+Geo:R RADIS Coastlines:
+Geo:R RADIS Coastline:
+Regions:R RADIS Map:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:RADIS
+WINDOWAREA:56.362774:7.785313:57.846592:12.051570

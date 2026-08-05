@@ -92,7 +92,7 @@ m_CoordinationRefuseLevel:2
 m_ServerMessageLevel:2
 m_AtcMessageLevel:2
 m_BroadcastMessageLevel:2
-m_SupMessageLevel:4
+m_SupMessageLevel:0
 m_AtisMessageLevel:0
 m_PrivateMessageLevel:4
 m_FreqMessageLevel:4
