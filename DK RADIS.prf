@@ -1,6 +1,6 @@
 RecentFiles	Recent1	\EKDK\ASR\EKYT RADIS.asr
 Settings	Settingsfile	\EKDK\Settings\General.txt
-Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
+Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\SymbolsRADIS.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\EKDK\Settings\LoginProfiles.txt
 Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
@@ -18,8 +18,6 @@ Settings	airports	\EKDK\ICAO\ICAO_Airports.txt
 Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
 Settings	alias	\EKDK\Alias\alias.txt
-Plugins	Plugin0	\EKDK\Plugins\GRplugin.dll
-Plugins	Plugin0Display0	Ground Radar display
 Settings	AtisFolder	\ATIS\atisfiles.txt
 ASRFastKeys	1	\EKDK\ASR\EKCH_GND.asr
 ASRFastKeys	2	\EKDK\ASR\EKCH_APP.asr
@@ -30,3 +28,17 @@ ASRFastKeys	6	\EKDK\ASR\EKYT_GND.asr
 ASRFastKeys	7	\EKDK\ASR\EKYT RADIS.asr
 ASRFastKeys	8	\EKDK\ASR\EKAH_GND.asr
 ASRFastKeys	9	\EKDK\ASR\EKAH RADIS.asr
+Plugins	Plugin0	\EKDK\Plugins\FlightStrips\FlightStripsPlugin.dll
+Plugins	Plugin1	\EKDK\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
+Plugins	Plugin3	\EKDK\Plugins\VCH\VCH.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2Display1	Ground Radar display
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen

@@ -34,8 +34,8 @@ TopSky plugin:ACList/LOAD/m_OrderingColumn:1
 TopSky plugin:ACList/LOAD/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/LOAD/m_Column_1: CFL:5:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
 TopSky plugin:ACList/ETWR List/m_Visible:1
-TopSky plugin:ACList/ETWR List/m_X:256
-TopSky plugin:ACList/ETWR List/m_Y:1071
+TopSky plugin:ACList/ETWR List/m_X:257
+TopSky plugin:ACList/ETWR List/m_Y:1022
 TopSky plugin:ACList/ETWR List/m_LineNumber:6
 TopSky plugin:ACList/ETWR List/m_Resizable:1
 TopSky plugin:ACList/ETWR List/m_OrderingColumn:1
@@ -87,7 +87,7 @@ TopSky plugin:ACList/Sector List/m_Column_28:OP_TEXT:7:0:10058:11:0:0:TopSky plu
 TopSky plugin:ACList/Sector List/m_Column_29:C:2:1:10099:127:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 1/m_Visible:1
 TopSky plugin:ACList/Uncontrolled List 1/m_X:418
-TopSky plugin:ACList/Uncontrolled List 1/m_Y:1070
+TopSky plugin:ACList/Uncontrolled List 1/m_Y:1022
 TopSky plugin:ACList/Uncontrolled List 1/m_LineNumber:6
 TopSky plugin:ACList/Uncontrolled List 1/m_Resizable:1
 TopSky plugin:ACList/Uncontrolled List 1/m_OrderingColumn:14
@@ -131,7 +131,7 @@ TopSky plugin:ACList/Uncontrolled List 2/m_Column_14:OP_TEXT:7:0:10058:11:0:1:To
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_15:C:2:1:10101:129:0:0:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Traffic Management List 1/m_Visible:1
 TopSky plugin:ACList/Traffic Management List 1/m_X:0
-TopSky plugin:ACList/Traffic Management List 1/m_Y:1071
+TopSky plugin:ACList/Traffic Management List 1/m_Y:1022
 TopSky plugin:ACList/Traffic Management List 1/m_LineNumber:6
 TopSky plugin:ACList/Traffic Management List 1/m_Resizable:1
 TopSky plugin:ACList/Traffic Management List 1/m_OrderingColumn:15
