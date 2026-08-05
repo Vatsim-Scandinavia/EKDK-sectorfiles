@@ -183,8 +183,4 @@ PROFILE:EKDK_FMP:600:6
 ATIS2:Flow Management for Denmark
 ATIS3:
 ATIS4:
-PROFILE:EKCH_A1_GND:20:3
-ATIS2:Kastrup Apron - Clearance via DCL [EKCH] or 119.905
-ATIS3:Briefing and TOBT at vats.im/ekch
-ATIS4:vatsca.org/feedback - Thank you for your feedback!
 END
