@@ -31,8 +31,8 @@ Plugins	Plugin0	\EKDK\Plugins\FlightStrips\FlightStripsPlugin.dll
 Plugins	Plugin1	\EKDK\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
 Plugins	Plugin3	\EKDK\Plugins\VCH\VCH.dll
-Plugins	Plugin1Display0	Standard ES radar screen
-Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display1	Standard ES radar screen
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2Display1	Ground Radar display
@@ -41,3 +41,7 @@ Plugins	Plugin0Display1	Standard ES radar screen
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
+RecentFiles	Recent1	\EKDK\ASR\EKYT RADIS.asr
+RecentFiles	Recent2	\EKDK\ASR\EKYT_GND.asr
+LastSession	atis_freq4	118000
+Settings	sector	\EKDK-EKDK-Copenhagen_20260806172554-260801-0001.sct

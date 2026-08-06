@@ -64,16 +64,16 @@ m_Column:C:2:1:10099:127:0:1:TopSky plugin:TopSky plugin::1:0.0
 END
 DEP
 m_Visible:1
-m_X:0
-m_Y:74
-m_LineNumber:10
+m_X:719
+m_Y:71
+m_LineNumber:4
 m_Resizable:1
 m_OrderingColumn:14
 m_HeaderOnly:0
 m_Column:U:2:0:10043:3:0:0:TopSky plugin:TopSky plugin::0:0.0
 m_Column:C/S:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:TIME:5:1:10018:95:0:1:TopSky plugin:TopSky plugin::1:0.0
-m_Column:CTOT:5:0:10:19:0:1:vACDM:vACDM::1:0.0
+m_Column:CTOT:5:0:6:2015:2007:1:FlightStrips:FlightStrips:FlightStrips:1:0.0
 m_Column:No:3:0:10040:0:0:0:TopSky plugin:::1:0.0
 m_Column:ATYP:5:0:10028:24:0:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:W:2:0:10032:104:0:1:TopSky plugin:TopSky plugin::1:0.0
