@@ -1,6 +1,4 @@
-RecentFiles	Recent1	\EKDK\ASR\EKYT_GND.asr
-Settings	sector	\EKDK-EKDK-Copenhagen_20260712173301-260701-0003.sct
-Settings	Settingsfile	\EKDK\Settings\GeneralRADIS.txt
+Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\SymbolsRADIS.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\EKDK\Settings\LoginProfiles.txt
@@ -19,29 +17,27 @@ Settings	airports	\EKDK\ICAO\ICAO_Airports.txt
 Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
 Settings	alias	\EKDK\Alias\alias.txt
-Plugins	Plugin0	\EKDK\Plugins\GRplugin\GRplugin.dll
-Plugins	Plugin0Display0	Ground Radar display
 Settings	AtisFolder	\ATIS\atisfiles.txt
-LastSession	atis_airport	EKYT
-LastSession	atis_letter	81
-ASRFastKeys	1	\EKDK\ASR\EKYT_GND_RADIS.asr
-Settings	AselKey	5111808
-Settings	FreqKey	3604480
-LastSession	atis_freq4	118000
-RecentFiles	Recent10	\EKDK\ASR\EKYT RADIS.asr
-LastSession	atis2	Aalborg Approach - Voice ATIS on 121.150
-LastSession	atis3	Info, charts and forums at wiki.vatsim-scandinavia.org/books/danish-airports-charts | Thank you for your feedback!
-LastSession	atis4	vatsca.org/feedback - Enjoy your flight in Denmark!
-LastSession	range	100
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
+ASRFastKeys	1	\EKDK\ASR\EKSB_GND.asr
+ASRFastKeys	2	\EKDK\ASR\EKSP_GND.asr
+ASRFastKeys	3	\EKDK\ASR\EKSP RADIS.asr
+ASRFastKeys	4	\EKDK\ASR\EKKA_GND.asr
+ASRFastKeys	5	\EKDK\ASR\EKKA RADIS.asr
+ASRFastKeys	6	\EKDK\ASR\EKYT_GND.asr
+ASRFastKeys	7	\EKDK\ASR\EKYT RADIS.asr
+ASRFastKeys	8	\EKDK\ASR\EKAH_GND.asr
+ASRFastKeys	9	\EKDK\ASR\EKAH RADIS.asr
+Plugins	Plugin0	\EKDK\Plugins\FlightStrips\FlightStripsPlugin.dll
 Plugins	Plugin1	\EKDK\Plugins\TopSky\TopSky.dll
-Plugins	Plugin1Display0	Ground Radar display
-Plugins	Plugin1Display1	Standard ES radar screen
-RecentFiles	Recent2	\EKDK\ASR\EKYT RADIS.asr
-RecentFiles	Recent3	\EKDK\ASR\EKYT RADIS.asr
-RecentFiles	Recent4	\EKDK\ASR\EKYT RADIS.asr
-RecentFiles	Recent5	\EKDK\ASR\EKYT RADIS.asr
-RecentFiles	Recent6	\EKDK\ASR\EKYT RADIS.asr
-RecentFiles	Recent7	\EKDK\ASR\EKYT RADIS.asr
-RecentFiles	Recent8	\EKDK\ASR\EKYT RADIS.asr
+Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
+Plugins	Plugin3	\EKDK\Plugins\VCH\VCH.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2Display1	Ground Radar display
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen

@@ -17,6 +17,8 @@ Airspace_ModeS_Code_VFR=7000
 Airspace_ModeS_Code=1000
 Airspace_No_DUPE_Codes=1000,1234,2000
 
+MSAW_VFR=0
+
 System_GUI_Scale_GlobalMenu=1.1
 System_GUI_Scale_Menus=1.1
 System_GUI_Scale_Tracks=1.1
@@ -175,7 +177,7 @@ CPDLC_DCT=1
 Window_ASM=1,550,1350,100,300
 Window_UpperWinds=3,80,400
 Window_View=3,0,400
-Window_Zoom=3,900,0
+Window_Zoom=3,660,0
 Window_FastConfig=-3,0,850
 
 Window_CPDLC_Current=1,800,1350
