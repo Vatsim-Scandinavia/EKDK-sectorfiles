@@ -1,8 +1,8 @@
 {
-  "logBackendIO": true,
-  "debugging": true,
+  "logBackendIO": false,
+  "debugging": false,
   "configFormatVersion": 3,
-  "openAutomatically": true,
+  "openAutomatically": false,
   "logging": true,
   "housekeeping": {
       "enabled": true,
