@@ -9,7 +9,7 @@ Settings	SettingsfileDEP	\EKDK\Settings\ListsRADIS.txt
 Settings	SettingsfileARR	\EKDK\Settings\ListsRADIS.txt
 Settings	SettingsfileFP	\EKDK\Settings\ListsRADIS.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\ListsRADIS.txt
-Settings	SettingsfilePLUGINS	\EKDK\Settings\PluginGND.txt
+Settings	SettingsfilePLUGINS	\EKDK\Settings\PluginRADIS.txt
 Settings	SettingsfileSCREEN	\EKDK\Settings\Screen.txt
 Settings	airways	\EKDK\NavData\airway.txt
 Settings	airlines	\EKDK\ICAO\ICAO_Airlines.txt
@@ -20,13 +20,13 @@ Settings	alias	\EKDK\Alias\alias.txt
 Settings	AtisFolder	\ATIS\atisfiles.txt
 ASRFastKeys	1	\EKDK\ASR\EKSB_GND.asr
 ASRFastKeys	2	\EKDK\ASR\EKSP_GND.asr
-ASRFastKeys	3	\EKDK\ASR\EKSP RADIS.asr
+ASRFastKeys	3	\EKDK\ASR\RADIS.asr
 ASRFastKeys	4	\EKDK\ASR\EKKA_GND.asr
-ASRFastKeys	5	\EKDK\ASR\EKKA RADIS.asr
+ASRFastKeys	5	\EKDK\ASR\RADIS.asr
 ASRFastKeys	6	\EKDK\ASR\EKYT_GND.asr
-ASRFastKeys	7	\EKDK\ASR\EKYT RADIS.asr
+ASRFastKeys	7	\EKDK\ASR\RADIS.asr
 ASRFastKeys	8	\EKDK\ASR\EKAH_GND.asr
-ASRFastKeys	9	\EKDK\ASR\EKAH RADIS.asr
+ASRFastKeys	9	\EKDK\ASR\RADIS.asr
 Plugins	Plugin0	\EKDK\Plugins\FlightStrips\FlightStripsPlugin.dll
 Plugins	Plugin1	\EKDK\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
@@ -41,7 +41,5 @@ Plugins	Plugin0Display1	Standard ES radar screen
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
-RecentFiles	Recent1	\EKDK\ASR\EKYT RADIS.asr
+RecentFiles	Recent1	\EKDK\ASR\RADIS.asr
 RecentFiles	Recent2	\EKDK\ASR\EKYT_GND.asr
-LastSession	atis_freq4	118000
-Settings	sector	\EKDK-EKDK-Copenhagen_20260806172554-260801-0001.sct
