@@ -1,6 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\mail\AppData\Roaming\EuroScope\EKDK-EKDK-Copenhagen_20260712173301-260701-0003.sct
+SECTORTITLE:EKDK-EKDK-Copenhagen_20260712173301-260701-0003.sct
 Free Text:EKSN TWY\A:freetext
 Free Text:EKSN TWY\B:freetext
 Geo:EKSN Groundlayout Sindal:

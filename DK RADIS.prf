@@ -1,4 +1,4 @@
-RecentFiles	Recent1	\EKDK\ASR\EKYT_GND_RADIS.asr
+RecentFiles	Recent1	\EKDK\ASR\EKYT_GND.asr
 Settings	sector	\EKDK-EKDK-Copenhagen_20260712173301-260701-0003.sct
 Settings	Settingsfile	\EKDK\Settings\GeneralRADIS.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\SymbolsRADIS.txt
@@ -11,7 +11,7 @@ Settings	SettingsfileDEP	\EKDK\Settings\ListsRADIS.txt
 Settings	SettingsfileARR	\EKDK\Settings\ListsRADIS.txt
 Settings	SettingsfileFP	\EKDK\Settings\ListsRADIS.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\ListsRADIS.txt
-Settings	SettingsfilePLUGINS	\EKDK\Settings\Plugin.txt
+Settings	SettingsfilePLUGINS	\EKDK\Settings\PluginGND.txt
 Settings	SettingsfileSCREEN	\EKDK\Settings\Screen.txt
 Settings	airways	\EKDK\NavData\airway.txt
 Settings	airlines	\EKDK\ICAO\ICAO_Airlines.txt
