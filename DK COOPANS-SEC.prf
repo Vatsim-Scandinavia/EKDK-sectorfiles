@@ -27,7 +27,7 @@ RecentFiles	Recent7	\EKDK\ASR\EKDK_FMP.asr
 RecentFiles	Recent8	\EKDK\ASR\EKYT_APP.asr
 RecentFiles	Recent9	\EKDK\ASR\EKAH_GND.asr
 RecentFiles	Recent10	\EKDK\ASR\EKAH_GND.asr
-RecentFiles	Recent11	\EKDK\ASR\EKRK_GND.asr
+RecentFiles	Recent11	\EKDK\ASR\EKAH_GND.asr
 Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\EKDK\ICAO\ICAO_Airlines.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
@@ -37,7 +37,7 @@ Settings	alias	\EKDK\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	AtisFolder	\ATIS\atisfiles.txt
 Settings	FreqKey	3604480
-Settings	sector	\EKDK-EKDK-Copenhagen_20260712173301-260701-0003.sct
+Settings	sector	\EKDK-EKDK-Copenhagen_20260806223716-260801-0006.sct
 Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileARR	\EKDK\Settings\Lists.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\Lists.txt
@@ -53,12 +53,19 @@ Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2Display1	Ground Radar display
-LastSession	atis3	Briefing at vats.im/ekdk
-LastSession	atis4	vatsca.org/feedback - Thank you for your feedback!
-LastSession	atis_freq4	118000
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4Display0	Ground Radar display
+LastSession	connecttype	1
+LastSession	callsign	AUX_OBS
+LastSession	realname	Auxiliary
+LastSession	certificate	800000
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

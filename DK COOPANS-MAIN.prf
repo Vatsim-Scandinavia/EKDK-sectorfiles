@@ -37,7 +37,7 @@ Settings	alias	\EKDK\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	AtisFolder	\ATIS\atisfiles.txt
 Settings	FreqKey	3604480
-Settings	sector	\EKDK-EKDK-Copenhagen_20260805173937-260701-0010.sct
+Settings	sector	\EKDK-EKDK-Copenhagen_20260806223716-260801-0006.sct
 Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileARR	\EKDK\Settings\Lists.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\Lists.txt
