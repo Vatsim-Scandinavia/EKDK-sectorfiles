@@ -1,15 +1,25 @@
 {
   "logBackendIO": false,
+  "debugging": false,
   "configFormatVersion": 3,
   "openAutomatically": false,
   "logging": true,
   "housekeeping": {
       "enabled": true,
-      "textLogRetentionDays": 8,
+      "textLogRetentionDays": 16,
       "textLogMaxFilesPerFamily": 20,
       "backendRecordingRetentionDays": 16,
       "backendRecordingMaxFolderMb": 500
   }, 
+  "backendPeerHealth": {
+    "enabled": true,
+    "warnAverageMs": 100,
+    "recoverAverageMs": 50,
+    "windowSec": 10,
+    "consecutiveWarnWindows": 1,
+    "consecutiveRecoverWindows": 1,
+    "repeatWarnCooldownSec": 30  
+  },
   "debugging": false,
   "soundMute": {
     "all": false,
@@ -20,16 +30,41 @@
     }
   },
   "layout": {
-    "EatDisplayPrecisionSec": 15,
-    "EatDisplayIntervalChars": ["", "a", "b", "c", "d"]
+    "EatDisplayIntervalChars": ["", "", "", "", ""],
+    "EatDisplayIntervalChars-off": ["", "a", "b", "c", "d"],
+    "EatDisplayPrecisionSec": 15
   },    
   "scratchpadRunwayOverride": true,
   "timeSyncBeacons": true,
   "timelineSort-off": "targetFixEta",
   "timelineSort": "landingEta",
+  "eatModeOnStartup": "LT",
+  "etaModeOnStartup": "ALB",
+  "holdEatWriteOnStartup": true,
   "holdEatLockWindowMinutes": 5,
   "holdEatRecentChangeMinutes": 2,
+  "glEatCombiDisplay": {
+    "gainLooseEmptyText": "G00",
+
+    "unknownState": "GainLoose",
+    "unsequencedState": "GainLoose",
+    "sequenced1State": "GainLoose",
+    "sequenced2State": "GainLoose",
+    "frozen1State": "GainLoose",
+    "frozen2State": "GainLoose",
+    "switchPeriodSec": 2,
+    "holdXSec": 120,
+    "holdGtXState": "Eat",
+    "holdLeXState": "Eat",
+    "aircraftLastSeenSweepMinutes": 2,
+    "aircraftOfflineResetMinutes": 5,
+    "afterPassYMinutes": 2,
+    "afterPassFirstYState": "Blank",
+    "afterPassAfterYState": "Blank"
+  },
   "glEatCombiDisplay-off": {
+    "gainLooseEmptyText": "G00",
+
     "unknownState": "SwitchGainLooseEat",
     "unsequencedState": "SwitchGainLooseEat",
     "sequenced1State": "GainLoose",
@@ -50,7 +85,7 @@
     "EKCH-SI": {
       "destinationAirports": [ "EKCH" ],
       "runways": [ "04L", "04R", "12", "22L", "22R", "30" ],
-      "tagLayout": "Maestro-Feeder",
+      "tagLayout": "ALB-Feeder",
       "targetFixes": [ "CH4LF", "CH4RF", "CH12F", "CH2LF", "CH2RF", "CH30F" ],
       "forceSingleTimeline": true,
       "aimingPointFt": 1000,
@@ -74,10 +109,36 @@
         "Stop": [ 0, 0, 0, 0, 0 ]
       }
     },
+    "EKCH-SI-12": {
+      "destinationAirports": [ "EKCH" ],
+      "runways": [ "04L", "04R", "12", "22L", "22R", "30" ],
+      "tagLayout": "ALB-Feeder",
+      "targetFixes": [ "CH4LF", "CH4RF", "CH12F", "CH2LF", "CH2RF", "CH30F" ],
+      "forceSingleTimeline": true,
+      "aimingPointFt": 1000,
+      "viaFixes": [      "ERNOV", "TIDVU", "-----", "ROSBI",  "LUGAS",  "OLPIB",  "-----" ],
+      "viaFixColors": [ "6E996E", "00BFFF",         "96D796", "00FF7F", "00FFFF" ],
+      "ArrivalScenarios": {
+        "Green": [ 2, 2, 2, 2, 2 ]
+      }
+    },
+    "EKCH-SI-12VTC": {
+      "destinationAirports": [ "EKCH" ],
+      "runways": [ "04L", "04R", "12", "22L", "22R", "30" ],
+      "tagLayout": "ALB-Feeder",
+      "targetFixes": [ "CH4LF", "CH4RF", "CH12F", "CH2LF", "CH2RF", "CH30F" ],
+      "forceSingleTimeline": true,
+      "aimingPointFt": 1000,
+      "viaFixes": [     "ERNOV",  "TIDVU",  "OLPIB",  "-----", "ROSBI",  "LUGAS", "-----" ],
+      "viaFixColors": [ "6E996E", "00BFFF", "00FFFF",          "96D796", "00FF7F" ],
+      "ArrivalScenarios": {
+        "Green": [ 2, 2, 2, 2, 2 ]
+      }
+    },
     "ENGM-SI": {
       "destinationAirports": [ "ENGM" ],
       "runways": [ "01L", "01R", "19L", "19R" ],
-      "tagLayout": "Maestro-Feeder",
+      "tagLayout": "ALB-Feeder",
       "targetFixes": [ "XIKLA", "XEMEN", "XIVTA", "XINLO" ],
       "forceSingleTimeline": true,
       "aimingPointFt": 1000,
@@ -92,7 +153,7 @@
     "ESGG-SI": {
       "destinationAirports": [ "ESGG" ],
       "runways": [ "03", "21" ],
-      "tagLayout": "Maestro-Runway",
+      "tagLayout": "ALB-Runway",
       "targetFixes": [ "FF03", "FF21" ],
       "forceSingleTimeline": true,
       "aimingPointFt": 1000,
@@ -107,33 +168,32 @@
     }
   },
 "tagLayouts": {
-    "Maestro-Runway": {
+    "ALB-Runway": {
       "hideDeselectedViaFixes": false,
       "timelineLayout": "Runway",
       "items": [
+        { "source": "assignedRunwayOverride", "width": 1, "rightAligned": false, "defaultValue": " " },
         { "source": "assignedRunway", "width": 4 },
-        { "source": "acno", "width": 3 },
+        { "source": "static", "width": 1 },
         { "source": "callsign", "width": 8 },
         { "source": "static", "width": 1 },
         { "source": "obsNote3", "width": 3 },
         { "source": "static", "width": 1 },
-        { "source": "ATCShort", "width": 4 },
-        { "source": "static", "width": 1 },
-        { "source": "plannedLandingTime", "format": "HH:MM", "rightAligned": true }, 
-        { "source": "static", "width": 1 },
-        { "source": "estimatedLandingTime", "format": "HH:MM", "rightAligned": true }, 
-        { "source": "static", "width": 1 },
-        { "source": "underlyingEAT", "format": "HHMMx", "rightAligned": false },
-        { "source": "static", "width": 1 },
-        { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
+        { "source": "plannedLandingTime", "format": "HHMM", "rightAligned": true }, 
+        { "source": "static", "width": 2, "defaultValue": " (" },
+        { "source": "estimatedLandingTime", "format": "HHMM", "rightAligned": true }, 
+        { "source": "static", "width": 3, "defaultValue": ") [" },
+        { "source": "underlyingEAT", "format": "HHMM", "rightAligned": false },
+        { "source": "static", "width": 3, "defaultValue": "] /" },
+        { "source": "viaFixETO", "format": "HHMM", "rightAligned": false },
+        { "source": "static", "width": 2, "defaultValue": "/ " },
+        { "source": "viaFixLooseGain", "width": 4 },
         { "source": "static", "width": 1 },
         { "source": "remainingDistance", "width": 4, "rightAligned": true },
         { "source": "static", "width": 1 },
-        { "source": "glEatCombi", "width": 6, "rightAligned": false },
-        { "source": "static", "width": 1, "defaultValue": " " },
-        { "source": "holdingFix", "width": 5 },
+        { "source": "ATCShort", "width": 4, "defaultValue": "--" },
         { "source": "static", "width": 1 },
-        { "source": "holdPhase", "width": 3 },
+        { "source": "directRouting", "width": 5, "defaultValue": "" },
         { "source": "static", "width": 1 },
         { "source": "cadAssignedHeading", "width": 3, "defaultValue": "" , "rightAligned": true},
         { "source": "static", "width": 1 },
@@ -141,33 +201,36 @@
         { "source": "static", "width": 1 },
         { "source": "cadAssignedSpeedMach", "width": 4, "defaultValue": "", "rightAligned": true },
         { "source": "static", "width": 1 },
-        { "source": "FlightPhase", "width": 3 },
+        { "source": "holdingFix", "width": 5 },
         { "source": "static", "width": 1 },
-        { "source": "ArrivalState", "width": 3 }
+        { "source": "holdPhase", "width": 3 },
+        { "source": "static", "width": 1 },
+        { "source": "holdingEAT", "width": 4, "defaultValue": "----" },
+        { "source": "holdingEATm", "width": 1 },
+        { "source": "static", "width": 1 },
+        { "source": "acno", "width": 2 }
       ]
     },
-    "Maestro-Feeder": {
+    "ALB-Feeder": {
       "hideDeselectedViaFixes": true,
       "timelineLayout": "Feeder",
       "items": [
+        { "source": "assignedRunwayOverride", "width": 1, "rightAligned": false, "defaultValue": " " },
+        { "source": "assignedRunway", "width": 4 },
+        { "source": "static", "width": 1 },
         { "source": "callsign", "width": 8 },
         { "source": "static", "width": 1 },
         { "source": "obsNote3", "width": 3 },
         { "source": "static", "width": 1 },
         { "source": "viaFix", "width": 5 },
         { "source": "static", "width": 1 },
-        { "source": "assignedRunwayOverride", "width": 1, "rightAligned": false, "defaultValue": " " },
-        { "source": "assignedRunway", "width": 4 },
-        { "source": "static", "width": 1 },
-        { "source": "acno", "width": 2 },
-        { "source": "static", "width": 1, "defaultValue": " " },
-        { "source": "viaFixSeqIndexCurrent", "width": 2, "rightAligned": true },
-        { "source": "static", "width": 1 },
-        { "source": "viaFixETO", "format": "HH:MM"},
-        { "source": "static", "width": 1 },
-        { "source": "ArrivalState", "width": 3 },
-        { "source": "static", "width": 1 },
         { "source": "glEatCombi", "width": 6, "rightAligned": false },
+        { "source": "static", "width": 1 },
+        { "source": "underlyingEAT", "format": "HHMM", "rightAligned": false },
+        { "source": "static", "width": 2, "defaultValue": " (" },
+        { "source": "viaFixETO", "format": "HHMM"},
+        { "source": "static", "width": 2, "defaultValue": ") " },
+        { "source": "viaFixLooseGain", "width": 4 },
         { "source": "static", "width": 1 },
         { "source": "directRouting", "width": 5, "defaultValue": "-----" },
         { "source": "static", "width": 1 },
@@ -178,9 +241,16 @@
         { "source": "holdingEAT", "width": 4, "defaultValue": "----" },
         { "source": "holdingEATm", "width": 1 },
         { "source": "static", "width": 1 },
-        { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
+        { "source": "cadAssignedHeading", "width": 3, "defaultValue": "" , "rightAligned": true},
         { "source": "static", "width": 1 },
-        { "source": "ATCShort", "width": 4 }
+        { "source": "cadTempAlt", "width": 5, "defaultValue": "", "rightAligned": true },
+        { "source": "static", "width": 1 },
+        { "source": "cadAssignedSpeedMach", "width": 4, "defaultValue": "", "rightAligned": true },
+        { "source": "static", "width": 1 },
+        { "source": "ATCShort", "width": 4 },
+        { "source": "static", "width": 1 },
+        { "source": "acno", "width": 2 },
+        { "source": "static", "width": 1}
       ]
     },
     "Analysis-Runway": {
@@ -537,6 +607,25 @@
           "extraBufferIasKt": 280.0,
           "extraBufferAltFt": 15000.0
       },
+      "eat_lt_spacing": {
+        "unknownCategory": "M",
+        "expectedRateWindowMinutes": 30,
+
+        "behindSec": {
+          "L": { "L": 30,  "M": 30,  "H": 30,  "J": 30 },
+          "M": { "L": 60,  "M": 60,  "H": 60,  "J": 60 },
+          "H": { "L": 120, "M": 120, "H": 120, "J": 120 },
+          "J": { "L": 180, "M": 180, "H": 180, "J": 180 }
+        },
+
+        "inFrontSec": {
+          "L": { "L": 120, "M": 120, "H": 120, "J": 120 },
+          "M": { "L": 60,  "M": 60,  "H": 60,  "J": 60 },
+          "H": { "L": 60,  "M": 60,  "H": 60,  "J": 60 },
+          "J": { "L": 60,  "M": 60,  "H": 60,  "J": 60 }
+        }
+      },
+
       "viafix_track_nm_orange": {
          "ERNOV3A": 61.9,
          "TIDVU3A": 62.8,

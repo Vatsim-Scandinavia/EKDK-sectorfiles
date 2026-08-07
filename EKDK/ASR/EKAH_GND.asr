@@ -1,5 +1,5 @@
 DisplayTypeName:Ground Radar display
-DisplayTypeNeedRadarContent:1
+DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 Free Text:EKAH TWY & Stands & Runways\10L:freetext
 Free Text:EKAH TWY & Stands & Runways\10R:freetext

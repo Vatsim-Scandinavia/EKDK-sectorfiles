@@ -1,5 +1,5 @@
 DisplayTypeName:Ground Radar display
-DisplayTypeNeedRadarContent:1
+DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 Free Text:EKBI TWY & Stands\1:freetext
 Free Text:EKBI TWY & Stands\2:freetext
