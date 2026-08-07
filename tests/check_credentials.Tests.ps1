@@ -206,17 +206,17 @@ Invoke-Test "default mode scans staged content and ignores deleted files" {
 Invoke-Test "all-tracked mode scans unstaged files with spaces" {
     param($root)
     Initialize-TestRepository $root
-    $sample = Join-Path $root "tracked credentials.conf"
+    $sample = Join-Path $root "DK AIR.prf"
     $deleted = Join-Path $root "deleted tracked.txt"
     Write-Utf8File $sample "safe initial content`n"
     Write-Utf8File $deleted "safe deleted content`n"
-    Invoke-Git $root @("add", "--", "tracked credentials.conf", "deleted tracked.txt")
+    Invoke-Git $root @("add", "--", "DK AIR.prf", "deleted tracked.txt")
     Invoke-Git $root @("commit", "-m", "initial")
     Write-Utf8File $sample "section certificate hidden-value`n"
     Remove-Item -LiteralPath $deleted
     $result = Invoke-Scanner $root @("-AllTracked")
     Assert-Equal 1 $result.ExitCode "all-tracked credential must fail"
-    Assert-Contains $result.Output "tracked credentials.conf:1" "tracked filename"
+    Assert-Contains $result.Output "DK AIR.prf:1" "tracked filename"
     Assert-NotContains $result.Output "hidden-value" "tracked value must be redacted"
     Assert-NotContains $result.Output "deleted tracked.txt" "deleted tracked file must be ignored"
 }
