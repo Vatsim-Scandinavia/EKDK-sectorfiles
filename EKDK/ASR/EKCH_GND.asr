@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Geo:EKCH Groundlayout Kastrup:
-Regions:EKCH Kastrup GND:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
