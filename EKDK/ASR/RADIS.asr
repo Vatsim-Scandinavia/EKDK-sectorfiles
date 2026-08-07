@@ -1,0 +1,33 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:AoR CTR EKDK EKDK_E:
+ARTCC boundary:AoR CTR EKDK EKDK_L:
+ARTCC boundary:AoR CTR EKDK EKDK_N:
+ARTCC boundary:AoR CTR EKDK EKDK_V:
+ARTCC low boundary:RMZ EKEB Esbjerg (G) 15-35:
+ARTCC low boundary:RMZ EKOD Odense (G) 00-35:
+ARTCC low boundary:RMZ EKSB Sonderborg (G) 00-35:
+ARTCC low boundary:Tower CTR EKAH Aarhus (D) 00-15:
+ARTCC low boundary:Tower CTR EKBI Billund (D) 00-15:
+ARTCC low boundary:Tower CTR EKCH Kastrup (D) 00-15:
+ARTCC low boundary:Tower CTR EKKA Karup (D) 00-15:
+ARTCC low boundary:Tower CTR EKRK Roskilde (C) 00-15:
+ARTCC low boundary:Tower CTR EKRN Roenne (D) 00-15:
+ARTCC low boundary:Tower CTR EKSP Skrydstrup (D) 00-15:
+ARTCC low boundary:Tower CTR EKYT Aalborg (D) 00-15:
+Regions:R RADIS Denmark:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:RADIS
+WINDOWAREA:53.965410:3.879796:58.691568:14.295467
