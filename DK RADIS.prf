@@ -1,3 +1,4 @@
+Settings	sector	\EKDK-EKDK-Copenhagen_20260806223716-260801-0006.sct
 Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\SymbolsRADIS.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
@@ -18,15 +19,19 @@ Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
 Settings	alias	\EKDK\Alias\alias.txt
 Settings	AtisFolder	\ATIS\atisfiles.txt
+RecentFiles	Recent1	\EKDK\ASR\RADIS.asr
+RecentFiles	Recent2	\EKDK\ASR\EKYT_GND.asr
+RecentFiles	Recent3	\EKDK\ASR\EKAH_GND.asr
+RecentFiles	Recent4	\EKDK\ASR\EKDK_GroundViews.asr
 ASRFastKeys	1	\EKDK\ASR\EKSB_GND.asr
 ASRFastKeys	2	\EKDK\ASR\EKSP_GND.asr
-ASRFastKeys	3	\EKDK\ASR\EKSP RADIS.asr
+ASRFastKeys	3	\EKDK\ASR\RADIS.asr
 ASRFastKeys	4	\EKDK\ASR\EKKA_GND.asr
-ASRFastKeys	5	\EKDK\ASR\EKKA RADIS.asr
+ASRFastKeys	5	\EKDK\ASR\ERADIS.asr
 ASRFastKeys	6	\EKDK\ASR\EKYT_GND.asr
-ASRFastKeys	7	\EKDK\ASR\EKYT RADIS.asr
+ASRFastKeys	7	\EKDK\ASR\RADIS.asr
 ASRFastKeys	8	\EKDK\ASR\EKAH_GND.asr
-ASRFastKeys	9	\EKDK\ASR\EKAH RADIS.asr
+ASRFastKeys	9	\EKDK\ASR\EKDK_GroundViews.asr
 Plugins	Plugin0	\EKDK\Plugins\FlightStrips\FlightStripsPlugin.dll
 Plugins	Plugin1	\EKDK\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
