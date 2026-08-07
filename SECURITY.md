@@ -16,28 +16,33 @@ Enable the version-controlled hook once in your clone:
 git config core.hooksPath .githooks
 ```
 
-The hook runs `python3 scripts/check_credentials.py`, which examines staged Git
-content and blocks a commit when a credential-like record is present.
+The hook uses PowerShell to run `scripts/check_credentials.ps1 -AllTracked`. It
+prefers PowerShell 7 (`pwsh`) and falls back to Windows PowerShell
+(`powershell.exe`). Every tracked file with a supported extension is examined,
+including tracked working-tree changes that have not been staged. A
+credential-like record blocks the commit.
 
 ## Manual use
 
-Scan staged content:
+Scan staged content with Windows PowerShell:
 
-```bash
-python3 scripts/check_credentials.py
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File scripts/check_credentials.ps1
 ```
 
 Scan specific working-tree files (filenames containing spaces are supported):
 
-```bash
-python3 scripts/check_credentials.py "path/to/example file.txt"
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File scripts/check_credentials.ps1 "path/to/example file.txt"
 ```
 
 Scan every tracked file with a supported extension, as CI does:
 
-```bash
-python3 scripts/check_credentials.py --all-tracked
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File scripts/check_credentials.ps1 -AllTracked
 ```
+
+With PowerShell 7, replace `powershell` with `pwsh` in these commands.
 
 ## False positives
 

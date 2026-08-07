@@ -1,3 +1,13 @@
 #!/bin/sh
 
-python3 scripts/check_credentials.py
+if command -v pwsh >/dev/null 2>&1; then
+    exec pwsh -NoProfile -NonInteractive -File scripts/check_credentials.ps1 -AllTracked
+fi
+
+if command -v powershell.exe >/dev/null 2>&1; then
+    exec powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass \
+        -File scripts/check_credentials.ps1 -AllTracked
+fi
+
+echo "Credential scan error: PowerShell is required (pwsh or powershell.exe)." >&2
+exit 2
