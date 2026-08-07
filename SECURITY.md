@@ -5,8 +5,8 @@ whitespace-delimited columns: an identifier or section, a sensitive field, and
 a non-empty value. The field match is case-insensitive. The sensitive fields
 are `username`, `user`, `password`, `passwd`, and `certificate`.
 
-Only files ending in `.conf`, `.md`, or `.txt` are scanned. Binary files are
-ignored, and detected values are always displayed as `[REDACTED]`.
+Only files ending in `.conf`, `.md`, `.prf`, or `.txt` are scanned. Binary
+files are ignored, and detected values are always displayed as `[REDACTED]`.
 
 ## Local pre-commit hook
 

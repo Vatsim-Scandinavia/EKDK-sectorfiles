@@ -12,7 +12,7 @@ $ErrorActionPreference = "Stop"
 $script:ScannedExtensions = [System.Collections.Generic.HashSet[string]]::new(
     [System.StringComparer]::OrdinalIgnoreCase
 )
-foreach ($extension in ".conf", ".md", ".txt") {
+foreach ($extension in ".conf", ".md", ".prf", ".txt") {
     [void]$script:ScannedExtensions.Add($extension)
 }
 
