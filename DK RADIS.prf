@@ -18,6 +18,7 @@ Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
 Settings	alias	\EKDK\Alias\alias.txt
 Settings	AtisFolder	\ATIS\atisfiles.txt
+Settings	sector	\EKDK-Copenhagen_20260808132633-260801-0002.sct
 ASRFastKeys	1	\EKDK\ASR\EKSB_GND.asr
 ASRFastKeys	2	\EKDK\ASR\EKSP_GND.asr
 ASRFastKeys	3	\EKDK\ASR\RADIS.asr

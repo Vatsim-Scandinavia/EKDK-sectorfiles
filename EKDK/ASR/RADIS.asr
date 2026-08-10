@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\splen\Documents\ES Testing\EKDK-sectorfiles\EKDK-EKDK-Copenhagen_20260806223716-260801-0006.sct
-SECTORTITLE:EKDK-EKDK-Copenhagen_20260806223716-260801-0006.sct
 ARTCC boundary:AoR CTR EKDK EKDK_E:
 ARTCC boundary:AoR CTR EKDK EKDK_L:
 ARTCC boundary:AoR CTR EKDK EKDK_N:
