@@ -53,7 +53,6 @@ Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2Display1	Ground Radar display
-LastSession	atis_freq4	118000
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
 Plugins	Plugin2Display0	Ground Radar display

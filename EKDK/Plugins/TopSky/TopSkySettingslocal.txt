@@ -24,10 +24,24 @@ Shortcut_Map_Target=8,ATC HELP\SECTOR_LVL_EXT
 Shortcut_Map_Xfr_Key=8,0x4C ; L
 Shortcut_Map_Target=8,ATC HELP\TMA_BASE
 
+Shortcut_Notepad=0x70
+Shortcut_SEP=0x71
+Shortcut_QDM=0x72
+Shortcut_Quick_Look=0x73
+Shortcut_Vector=0x74
+Shortcut_Rwy_Line=0x75
+Shortcut_FPL_Search=0x76
+Shortcut_Find_Track=0x77
+Shortcut_Create_APL=0x78
+Shortcut_Uncoupled_Label_Combo=0x12
+Shortcut_Uncoupled_Label=0x79
+Shortcut_QNHTL=0x7A
+Shortcut_Track_Control=0x7B
+Shortcut_FPL=0x00
+
 System_TransferConfirmation=0
 
 [_APP]
-Color_Rwy_App_Line_Inuse=62,160,216
 SYMBOLDEF:OBS
 POLYGON:6:8:0:0:-6:8:-6:10:0:2:6:10
 POLYGON:-0.75:-4:-0.75:10:0.75:10:0.75:-4

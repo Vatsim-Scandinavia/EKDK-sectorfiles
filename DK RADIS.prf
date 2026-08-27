@@ -2,7 +2,7 @@ Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\SymbolsRADIS.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\EKDK\Settings\LoginProfiles.txt
-Settings	SettingsfileTAGS	\EKDK\Settings\TagsRADIS.txt
+Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
 Settings	SettingsfileSIL	\EKDK\Settings\ListsRADIS.txt
 Settings	SettingsfileSEL	\EKDK\Settings\ListsRADIS.txt
 Settings	SettingsfileDEP	\EKDK\Settings\ListsRADIS.txt
@@ -44,3 +44,4 @@ Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 RecentFiles	Recent1	\EKDK\ASR\RADIS.asr
 RecentFiles	Recent2	\EKDK\ASR\EKYT_GND.asr
+RecentFiles	Recent3	\EKDK\ASR\EKAH_GND.asr
