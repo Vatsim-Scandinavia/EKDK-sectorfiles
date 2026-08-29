@@ -132,51 +132,51 @@ Track_PredictionLine=2
 
 {B}
 Setup_Informed=*:TIDVU:EKCH:2
-Setup_LoadView=ACC-E
+Setup_LoadView=ACC E
 
 {D}
 Setup_Informed=*:TNO:EKCH:2
 List_TfcMgmt2_ADES=EKBI
-Setup_LoadView=ACC-E
+Setup_LoadView=ACC E
 
 {E}
 Setup_Informed=*:KOR:EKCH:2
 List_TfcMgmt2_ADES=EKBI
-Setup_LoadView=ACC-E
+Setup_LoadView=ACC E
 
 {I}
 List_TfcMgmt2_ADES=EKBI
-Setup_LoadView=ACC-E
+Setup_LoadView=ACC E
 
 {A}
-Setup_LoadView=ACC-E
+Setup_LoadView=ACC E
 
 {C}
-Setup_LoadView=ACC-E
+Setup_LoadView=ACC E
 
 {UC}
-Setup_LoadView=ACC-E
+Setup_LoadView=ACC E
 
 {UA}
-Setup_LoadView=ACC-E
+Setup_LoadView=ACC E
 
 {L}
-Setup_LoadView=ACC-W
+Setup_LoadView=ACC W
 List_TfcMgmt1_Via=TNO
 List_TfcMgmt2_ADES=EKYT
 
 {N}
-Setup_LoadView=ACC-W
+Setup_LoadView=ACC W
 List_TfcMgmt1_Via=TNO
 List_TfcMgmt2_ADES=EKBI
 
 {V}
-Setup_LoadView=ACC-W
+Setup_LoadView=ACC W
 List_TfcMgmt1_Via=TNO
 List_TfcMgmt2_ADES=EKYT
 
 {UV}
-Setup_LoadView=ACC-W
+Setup_LoadView=ACC W
 List_TfcMgmt1_Via=TNO
 List_TfcMgmt2_ADES=EKBI
 

@@ -24,22 +24,29 @@ Shortcut_Map_Target=8,ATC HELP\SECTOR_LVL_EXT
 Shortcut_Map_Xfr_Key=8,0x4C ; L
 Shortcut_Map_Target=8,ATC HELP\TMA_BASE
 
-Shortcut_Notepad=0x70
-Shortcut_SEP=0x71
-Shortcut_QDM=0x72
-Shortcut_Quick_Look=0x73
-Shortcut_Vector=0x74
-Shortcut_Rwy_Line=0x75
-Shortcut_FPL_Search=0x76
-Shortcut_Find_Track=0x77
-Shortcut_Create_APL=0x78
+// Function Keys
+Shortcut_Notepad=0x70 ; F1
+Shortcut_SEP=0x71 ; F2
+Shortcut_QDM=0x72 ; F3
+Shortcut_Quick_Look=0x73 ; F4
+Shortcut_Vector=0x74 ; F5
+Shortcut_Rwy_Line=0x75 ; F6
+Shortcut_FPL_Search=0x76 ; F6
+Shortcut_Find_Track=0x77 ; F7
+Shortcut_Create_APL=0x78 ; F8
 Shortcut_Uncoupled_Label_Combo=0x12
-Shortcut_Uncoupled_Label=0x79
-Shortcut_QNHTL=0x7A
-Shortcut_Track_Control=0x7B
-Shortcut_FPL=0x00
+Shortcut_Uncoupled_Label=0x79 ; F9
+Shortcut_QNHTL=0x7A ; F10
+Shortcut_Track_Control=0x7B ; F11
+Shortcut_FPL=0x00 ; F12
+
+//Legacy Function Keys
+
+Shortcut_SEP=0x53 ; S
+Shortcut_QDM=0x51 ; Q
 
 System_TransferConfirmation=0
+Window_Zoom_Max=450
 
 [_APP]
 SYMBOLDEF:OBS
