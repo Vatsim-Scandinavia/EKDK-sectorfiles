@@ -43,7 +43,7 @@ Settings	SettingsfileDEP	\EKDK\Settings\ListsGND.txt
 Settings	SettingsfileFP	\EKDK\Settings\ListsGND.txt
 Settings	SettingsfilePLUGINS	\EKDK\Settings\PluginGND.txt
 Settings	SettingsfilePROFILE	\EKDK\Settings\LoginProfiles.txt
-Settings	SettingsfileSCREEN	\EKDK\Settings\Screen.txt
+Settings	SettingsfileSCREEN	\EKDK\Settings\ScreenNITOS.txt
 Settings	SettingsfileSEL	\EKDK\Settings\ListsGND.txt
 Settings	SettingsfileSIL	\EKDK\Settings\ListsGND.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
