@@ -1,0 +1,59 @@
+VOICE
+AG:Copenhagen ACC -  A:135.290
+AG:Copenhagen ACC -  B:119.555
+AG:Copenhagen ACC -  C:128.215
+AG:Copenhagen ACC -  D:133.155
+AG:Copenhagen ACC -  E:123.730
+AG:Copenhagen ACC -  I:121.380
+AG:Copenhagen ACC -  L:124.555
+AG:Copenhagen ACC -  N:134.680
+AG:Copenhagen ACC -  V:135.565
+AG:Copenhagen ACC - UA:136.485
+AG:Copenhagen ACC - UC:127.865
+AG:Copenhagen ACC - UN:136.555
+AG:Copenhagen ACC - UV:126.055
+AG:Copenhagen FMP:131.040
+AG:Copenhagen ACC SUP/Mentor:130.990
+AG:EKAH Aarhus Approach:119.280
+AG:EKAH Aarhus Tower:118.530
+AG:EKBI Billund Tower:119.005
+AG:EKBI Billund Tower 2:129.505
+AG:EKBI Billund Approach:127.580
+AG:EKBI Billund Arrival:119.255
+AG:EKBI Billund SUP/Mentor:130.980
+AG:EKCH Kastrup De-Ice A:123.405
+AG:EKCH Kastrup De-Ice B:131.655
+AG:EKCH Kastrup De-Ice V:131.980
+AG:EKCH Kastrup Delivery:119.905
+AG:EKCH Kastrup Apron ARR:121.630
+AG:EKCH Kastrup Apron SEQ:121.905
+AG:EKCH Kastrup Apron Departure:121.730
+AG:EKCH Kastrup Tower GE:121.830
+AG:EKCH Kastrup Tower GW:118.580
+AG:EKCH Kastrup Tower ARR:118.105
+AG:EKCH Kastrup Tower Departure:119.355
+AG:EKCH Kastrup Tower VFR:118.705
+AG:Copenhagen TMA -  K DEP:124.980
+AG:Copenhagen TMA -  O APP:118.455
+AG:Copenhagen TMA -  R DEP:120.255
+AG:Copenhagen TMA -  W APP:119.805
+AG:Copenhagen TMA - P FINAL:120.205
+AG:Copenhagen TMA - P APPCO:131.405
+AG:Copenhagen TMA SUP/Mentor:130.985
+AG:EKEB Esbjerg AFIS:120.155
+AG:EKKA Karup Tower:119.580
+AG:EKKA Karup Approach:120.430
+AG:EKOD Odense AFIS:119.530
+AG:EKRK Roskilde Tower:118.905
+AG:EKRK Roskilde Approach:125.530
+AG:EKRN Roenne Tower:118.330
+AG:EKSB Sonderborg AFIS:126.405
+AG:EKSP Skrydstrup Tower:118.280
+AG:EKSP Skrydstrup Approach:124.105
+AG:EKSP Skrydstrup Arrival:122.205
+AG:EKVD Vamdrup AFIS:118.655
+AG:EKVJ Stauning AFIS:121.405
+AG:EKYT Aalborg Tower:118.305
+AG:EKYT Aalborg Approach:123.980
+AG:EKYT Aalborg Arrival:120.705
+END
