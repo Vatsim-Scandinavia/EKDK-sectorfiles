@@ -17,17 +17,17 @@ Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin4Display1	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
-RecentFiles	Recent1	\EKDK\ASR\EKDK_CTR.asr
-RecentFiles	Recent2	\EKDK\ASR\EKDK_FMP.asr
-RecentFiles	Recent3	\EKDK\ASR\EKCH_APP.asr
-RecentFiles	Recent4	\EKDK\ASR\EKYT_GND.asr
-RecentFiles	Recent5	\EKDK\ASR\EKYT_APP.asr
-RecentFiles	Recent6	\EKDK\ASR\EKCH_GND.asr
-RecentFiles	Recent7	\EKDK\ASR\EKBI_GND.asr
-RecentFiles	Recent8	\EKDK\ASR\EKBI_APP.asr
-RecentFiles	Recent9	\EKDK\ASR\EKAH_GND.asr
-RecentFiles	Recent10	\EKDK\ASR\EKAH_GND.asr
-RecentFiles	Recent11	\EKDK\ASR\EKAH_GND.asr
+RecentFiles	Recent1	\EKDK\ASR\RADIS.asr
+RecentFiles	Recent2	\EKDK\ASR\EKRN_GND.asr
+RecentFiles	Recent3	\EKDK\ASR\EKRK_GND.asr
+RecentFiles	Recent4	\EKDK\ASR\EKAH_GND.asr
+RecentFiles	Recent5	\EKDK\ASR\EKAH_APP.asr
+RecentFiles	Recent6	\EKDK\ASR\EKDK_FMP.asr
+RecentFiles	Recent7	\EKDK\ASR\EKDK_GroundViews.asr
+RecentFiles	Recent8	\EKDK\ASR\EKYT_APP.asr
+RecentFiles	Recent9	\EKDK\ASR\EKYT_GND.asr
+RecentFiles	Recent10	\EKDK\ASR\EKBI_APP.asr
+RecentFiles	Recent11	\EKDK\ASR\EKBI_GND.asr
 Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\EKDK\ICAO\ICAO_Airlines.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
@@ -37,7 +37,7 @@ Settings	alias	\EKDK\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	AtisFolder	\ATIS\atisfiles.txt
 Settings	FreqKey	3604480
-Settings	sector	\EKDK-EKDK-Copenhagen_20260806223716-260801-0006.sct
+Settings	sector	\EKDK-EKDK-Copenhagen_20260827134846-260801-0006.sct
 Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileARR	\EKDK\Settings\Lists.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\Lists.txt
@@ -53,7 +53,6 @@ Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2Display1	Ground Radar display
-LastSession	atis_freq4	118000
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
 Plugins	Plugin2Display0	Ground Radar display

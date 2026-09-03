@@ -10,11 +10,11 @@ m_AllowConcernedACTagDown:0
 m_CenterlineDme:0.0
 m_CenterlineLength:15.0
 m_CenterlineTickDme:2.0
-m_CenterlineTickInterval:2.0
+m_CenterlineTickInterval:6.0
 m_CenterlineTickLength:0.2
 m_CenterlineMarkerLength:0.4
 m_CenterlineMarkerInterval:10.0
-m_CenterlineVectorDme:10.0
+m_CenterlineVectorDme:3.0
 m_CenterlineVectorLength:0.0
 m_CenterlineVectorAngle:30.0
 m_CenterlineVectorBase:0.0
@@ -65,10 +65,10 @@ m_KeepScratchPadAfterDirect:1
 m_HiliteASELAircraft:0
 m_EnableVoiceRecognition:0
 m_VoiceRecognitionStyle:2
-m_SModeTransponders:
+m_SModeTransponders:ABCGHIJLMNPSTUVWYZ
 m_CorrelationMode:2
 m_CorrelationDistance:100
-m_SimulateRadars:0
+m_SimulateRadars:1
 m_AllowCorrelatedTAGDown:1
 m_ShowDetailedOverUntagged:1
 m_ShowRectAroundFPTrack:1
@@ -81,9 +81,9 @@ m__AutoStartFlightPlanTracks:1
 m_UnicomFrequency:122.8
 m_MessageInfoLevel:1
 m_MessageWarningLevel:2
-m_MessageErrorLevel:4
+m_MessageErrorLevel:2
 m_PointOutLevel:4
-m_HandoffRequestLevel:4
+m_HandoffRequestLevel:2
 m_CoordinationRequestLevel:4
 m_HandoffAcceptLevel:0
 m_HandoffRefuseLevel:2
@@ -94,7 +94,7 @@ m_AtcMessageLevel:2
 m_BroadcastMessageLevel:2
 m_SupMessageLevel:0
 m_AtisMessageLevel:0
-m_PrivateMessageLevel:4
+m_PrivateMessageLevel:2
 m_FreqMessageLevel:4
 m_MericUnits:0
 m_ShowCorrelatedInFpList:1
@@ -112,7 +112,7 @@ m_STCA_HighWarnTime:240
 m_STCA_ShowCFL:1
 m_STCA_PlaySoundOnCFL:0
 m_STCA_PlaySoundOnTrackedOnly:1
-m_AutoCorrelateDisabledSQs:2000,2200,1200,0000
+m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
 m_DontAutoCorrelateDuplicated:1
 m_AcceptPilotSquawkForCorrelation:0
 m_MTCA_Floor:25000
@@ -122,7 +122,7 @@ m_UseIsectForScratchPad:1
 m_RotateRadarTargetSymbol:0
 m_RotateFlightPlanTrackSymbol:0
 m_RubberHeadingRounding:5
-SqawkForSModeTransponder:1000
+SqawkForSModeTransponder:
 m_TransparentTagBackground:1
 m_UseArrDepTagBgColor:0
 SET_MTCA_Show:1
