@@ -1,6 +1,6 @@
 Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\SymbolsRADIS.txt
-Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
+Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannelsDK.txt
 Settings	SettingsfilePROFILE	\EKDK\Settings\LoginProfiles.txt
 Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
 Settings	SettingsfileSIL	\EKDK\Settings\ListsRADIS.txt

@@ -48,7 +48,7 @@ Settings	SettingsfileSEL	\EKDK\Settings\ListsGND.txt
 Settings	SettingsfileSIL	\EKDK\Settings\ListsGND.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
 Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
-Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
+Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannelsDK.txt
 Plugins	Plugin2Display1	Standard ES radar screen
 LastSession	atis_freq4	118000
 RecentFiles	Recent9	\EKDK\ASR\EKDK_GroundViews.asr

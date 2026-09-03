@@ -50,7 +50,7 @@ Settings	SettingsfileSEL	\EKDK\Settings\Lists.txt
 Settings	SettingsfileSIL	\EKDK\Settings\Lists.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
 Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
-Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
+Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannelsDK.txt
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2Display1	Ground Radar display
 Plugins	Plugin0Display0	Ground Radar display
