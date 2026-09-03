@@ -37,7 +37,7 @@ Settings	alias	\EKDK\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	AtisFolder	\ATIS\atisfiles.txt
 Settings	FreqKey	3604480
-Settings	sector	\EKDK-Copenhagen_20260808132633-260801-0002.sct
+Settings	sector	\EKDK-EKDK-Copenhagen_20260827134846-260801-0006.sct
 Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileARR	\EKDK\Settings\Lists.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\Lists.txt
@@ -69,3 +69,4 @@ LastSession	tovatsim	1
 LastSession	range	100
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+LastSession	atis_freq4	118000

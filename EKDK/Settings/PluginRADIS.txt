@@ -86,8 +86,8 @@ TopSky plugin:ACList/Sector List/m_Column_27:STAR:11:0:10012:18:124:1:TopSky plu
 TopSky plugin:ACList/Sector List/m_Column_28:ARWY:5:0:10010:19:0:1:TopSky plugin::
 TopSky plugin:ACList/Sector List/m_Column_29:STD:5:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin:
 TopSky plugin:ACList/Uncontrolled List 1/m_Visible:1
-TopSky plugin:ACList/Uncontrolled List 1/m_X:844
-TopSky plugin:ACList/Uncontrolled List 1/m_Y:71
+TopSky plugin:ACList/Uncontrolled List 1/m_X:1204
+TopSky plugin:ACList/Uncontrolled List 1/m_Y:1163
 TopSky plugin:ACList/Uncontrolled List 1/m_LineNumber:4
 TopSky plugin:ACList/Uncontrolled List 1/m_Resizable:1
 TopSky plugin:ACList/Uncontrolled List 1/m_OrderingColumn:1

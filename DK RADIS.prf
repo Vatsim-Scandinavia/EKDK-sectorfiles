@@ -18,7 +18,7 @@ Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
 Settings	alias	\EKDK\Alias\alias.txt
 Settings	AtisFolder	\ATIS\atisfiles.txt
-Settings	sector	\EKDK-Copenhagen_20260808132633-260801-0002.sct
+Settings	sector	\EKDK-EKDK-Copenhagen_20260827134846-260801-0006.sct
 ASRFastKeys	1	\EKDK\ASR\EKSB_GND.asr
 ASRFastKeys	2	\EKDK\ASR\EKSP_GND.asr
 ASRFastKeys	3	\EKDK\ASR\RADIS.asr
@@ -45,3 +45,5 @@ Plugins	Plugin3Display1	Standard ES radar screen
 RecentFiles	Recent1	\EKDK\ASR\RADIS.asr
 RecentFiles	Recent2	\EKDK\ASR\EKYT_GND.asr
 RecentFiles	Recent3	\EKDK\ASR\EKAH_GND.asr
+LastSession	atis_freq4	118000
+RecentFiles	Recent4	\EKDK\ASR\EKAH_GND.asr

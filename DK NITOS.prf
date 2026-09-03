@@ -35,7 +35,7 @@ Settings	alias	\EKDK\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	AtisFolder	\ATIS\atisfiles.txt
 Settings	FreqKey	3604480
-Settings	sector	\EKDK-Copenhagen_20260808132633-260801-0002.sct
+Settings	sector	\EKDK-EKDK-Copenhagen_20260827134846-260801-0006.sct
 Settings	Settingsfile	\EKDK\Settings\GeneralGND.txt
 Settings	SettingsfileARR	\EKDK\Settings\ListsGND.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\ListsGND.txt
@@ -50,3 +50,5 @@ Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
 Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannels.txt
 Plugins	Plugin2Display1	Standard ES radar screen
+LastSession	atis_freq4	118000
+RecentFiles	Recent9	\EKDK\ASR\EKDK_GroundViews.asr
