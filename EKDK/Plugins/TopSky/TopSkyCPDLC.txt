@@ -1,7 +1,7 @@
 [DCL]
 //Deactivated due FLightStrips
-DCL:EKXX:AHDG:CLRD TO: <ades> RWY: <drwy> HDG: <ahdg> CLIMB TO: <cfl> VECTORS: <npt> SQK: <assr> <atis> NEXT FRQ: <freq_own> <rmk>
-DCL:EKXX:SID:CLRD TO: <ades> RWY: <drwy> SID: <sid> SQK: <assr> <atis> NEXT FRQ: <freq_own> <rmk>
+DCL:EKCH:AHDG:CLRD TO: <ades> RWY: <drwy> HDG: <ahdg> CLIMB TO: <cfl> VECTORS: <npt> SQK: <assr> <atis> NEXT FRQ: <freq_own> <rmk>
+DCL:EKCH:SID:CLRD TO: <ades> RWY: <drwy> SID: <sid> SQK: <assr> <atis> NEXT FRQ: <freq_own> <rmk>
 
 [FREETEXT]
 FREETEXT:NE:NEXT ATC INSTRUCTION: WHEN READY
