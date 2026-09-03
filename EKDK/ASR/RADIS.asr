@@ -1,13 +1,26 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+ARTCC boundary:Airspace C EKCH Copenhagen CTA:
+ARTCC boundary:Airspace E EKAH Aarhus CTA 35-65:
+ARTCC boundary:Airspace E EKBI Billund CTA 105-125:
+ARTCC boundary:Airspace E EKKA Karup CTA 35-125:
+ARTCC boundary:Airspace E EKRK Roskilde WEST 35-65:
+ARTCC boundary:Airspace E EKSP Skrydstrup CTA 35-65:
+ARTCC boundary:Airspace E EKYT Aalborg CTA 35-125:
 ARTCC boundary:AoR CTR EKDK EKDK_E:
+ARTCC boundary:AoR CTR EKDK EKDK_I:
 ARTCC boundary:AoR CTR EKDK EKDK_L:
 ARTCC boundary:AoR CTR EKDK EKDK_N:
-ARTCC boundary:AoR CTR EKDK EKDK_V:
 ARTCC low boundary:RMZ EKEB Esbjerg (G) 15-35:
 ARTCC low boundary:RMZ EKOD Odense (G) 00-35:
 ARTCC low boundary:RMZ EKSB Sonderborg (G) 00-35:
+ARTCC low boundary:TMA EKAH Aarhus (D) 15-35:
+ARTCC low boundary:TMA EKBI Billund (C) 25-45:
+ARTCC low boundary:TMA EKBI Billund (C) 45-75:
+ARTCC low boundary:TMA EKKA Karup (D) 15-35:
+ARTCC low boundary:TMA EKSP Skrydstrup (D):
+ARTCC low boundary:TMA EKYT Aalborg (D) 15-35:
 ARTCC low boundary:Tower CTR EKAH Aarhus (D) 00-15:
 ARTCC low boundary:Tower CTR EKBI Billund (D) 00-15:
 ARTCC low boundary:Tower CTR EKCH Kastrup (D) 00-15:
@@ -16,12 +29,13 @@ ARTCC low boundary:Tower CTR EKRK Roskilde (C) 00-15:
 ARTCC low boundary:Tower CTR EKRN Roenne (D) 00-15:
 ARTCC low boundary:Tower CTR EKSP Skrydstrup (D) 00-15:
 ARTCC low boundary:Tower CTR EKYT Aalborg (D) 00-15:
-Regions:R RADIS Denmark:polygon
+Regions:RADI Background:polygon
+Regions:RADI Denmark:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
-LEADER:-1
+LEADER:-2
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -30,5 +44,5 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:RADIS
-WINDOWAREA:53.657896:5.993528:56.682637:12.659556
+WINDOWAREA:54.469746:6.135500:57.724955:13.309441
 PLUGIN:TopSky plugin:ShowMaps:RADIS\AIRSPACE
