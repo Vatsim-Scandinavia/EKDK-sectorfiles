@@ -64,39 +64,41 @@ Free Text:EKBI TWY & Stands\J:freetext
 Free Text:EKBI TWY & Stands\K:freetext
 Free Text:EKBI TWY & Stands\M:freetext
 Free Text:EKBI TWY & Stands\N:freetext
+Free Text:EKDK VFR\ r  North:freetext
+Free Text:EKDK VFR\B jden:freetext
 Free Text:EKDK VFR\Biersted:freetext
 Free Text:EKDK VFR\Bogense:freetext
 Free Text:EKDK VFR\Borup:freetext
 Free Text:EKDK VFR\Bovrup:freetext
 Free Text:EKDK VFR\Broager:freetext
-Free Text:EKDK VFR\B jden:freetext
 Free Text:EKDK VFR\Dorid:freetext
 Free Text:EKDK VFR\Dueodde:freetext
 Free Text:EKDK VFR\Ebeltoft:freetext
 Free Text:EKDK VFR\Fynshav:freetext
+Free Text:EKDK VFR\G rding:freetext
 Free Text:EKDK VFR\Gelting:freetext
 Free Text:EKDK VFR\Give:freetext
 Free Text:EKDK VFR\Grenaa:freetext
-Free Text:EKDK VFR\G rding:freetext
+Free Text:EKDK VFR\H jen:freetext
 Free Text:EKDK VFR\Hasle:freetext
 Free Text:EKDK VFR\Hasseris:freetext
 Free Text:EKDK VFR\Holding West:freetext
-Free Text:EKDK VFR\H jen:freetext
 Free Text:EKDK VFR\Ikast:freetext
 Free Text:EKDK VFR\Ilskov:freetext
 Free Text:EKDK VFR\Ish j:freetext
+Free Text:EKDK VFR\K ge:freetext
 Free Text:EKDK VFR\Karlskov:freetext
 Free Text:EKDK VFR\Knebel:freetext
 Free Text:EKDK VFR\Kongenshus:freetext
-Free Text:EKDK VFR\K ge:freetext
 Free Text:EKDK VFR\Langs :freetext
 Free Text:EKDK VFR\Lem:freetext
 Free Text:EKDK VFR\Lind :freetext
 Free Text:EKDK VFR\Lumby:freetext
+Free Text:EKDK VFR\N dager:freetext
 Free Text:EKDK VFR\Nordborg:freetext
 Free Text:EKDK VFR\North:freetext
-Free Text:EKDK VFR\N dager:freetext
 Free Text:EKDK VFR\Ryomg rd:freetext
+Free Text:EKDK VFR\S nder Omme:freetext
 Free Text:EKDK VFR\Sj rup:freetext
 Free Text:EKDK VFR\Skads:freetext
 Free Text:EKDK VFR\Skjern West:freetext
@@ -104,9 +106,8 @@ Free Text:EKDK VFR\South:freetext
 Free Text:EKDK VFR\Stensby:freetext
 Free Text:EKDK VFR\Store Darum:freetext
 Free Text:EKDK VFR\Svenstrup:freetext
-Free Text:EKDK VFR\S nder Omme:freetext
-Free Text:EKDK VFR\Tuborg:freetext
 Free Text:EKDK VFR\T rring:freetext
+Free Text:EKDK VFR\Tuborg:freetext
 Free Text:EKDK VFR\Valby:freetext
 Free Text:EKDK VFR\Vallensb k:freetext
 Free Text:EKDK VFR\Vandel:freetext
@@ -115,7 +116,6 @@ Free Text:EKDK VFR\Vester Nebel:freetext
 Free Text:EKDK VFR\Vildmosen:freetext
 Free Text:EKDK VFR\Vissenbjerg:freetext
 Free Text:EKDK VFR\Vorbasse Vest:freetext
-Free Text:EKDK VFR\ r  North:freetext
 Free Text:EKEB TWY & Stands\1:freetext
 Free Text:EKEB TWY & Stands\2:freetext
 Free Text:EKEB TWY & Stands\3:freetext
@@ -208,6 +208,8 @@ Free Text:EKSP Stauning twy\W:freetext
 Geo:EKAH Groundlayout Aarhus:
 Geo:EKBI Groundlayout Billund:
 Geo:EKDK Coastline Bornholm:
+Geo:EKDK Coastline Denmark:
+Geo:EKDK Coastline Sweden:
 Geo:EKEB Groundlayout Esbjerg:
 Geo:EKKA Groundlayout Karup:
 Geo:EKOD Groundlayout Odense:
@@ -215,8 +217,6 @@ Geo:EKRK Groundlayout Roskilde:
 Geo:EKRN Groundlayout Roenne:
 Geo:EKSB Groundlayout Sonderborg:
 Geo:EKSN Groundlayout Sindal:
-Geo:EKDK Coastline Denmark:
-Geo:EKDK Coastline Sweden:
 Regions:EKAH Aarhus GND:polygon
 Regions:EKBI Billund GND:polygon
 Regions:EKEB Esbjerg GND:polygon
@@ -241,7 +241,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:54.943697:9.743822:54.973969:9.843919
+WINDOWAREA:54.936123:9.743822:54.981543:9.843919
 PLUGIN:Ground Radar plugin:AirportElevation:80
 PLUGIN:Ground Radar plugin:AirportRadius:125
 PLUGIN:Ground Radar plugin:GroundMode:EKXX

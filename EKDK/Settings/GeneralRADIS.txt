@@ -1,6 +1,6 @@
 m_PlaySounds:1
 m_AssumeSlowAcAsStandby:1
-m_ShowAirspaceLines:1
+m_ShowAirspaceLines:0
 m_ShowRouteFixName:1
 m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
@@ -8,8 +8,8 @@ m_ShowSimulatedData:0
 m_TransitionAltitude:5000
 m_AllowConcernedACTagDown:0
 m_CenterlineDme:0.0
-m_CenterlineLength:15.0
-m_CenterlineTickDme:2.0
+m_CenterlineLength:5.0
+m_CenterlineTickDme:3.0
 m_CenterlineTickInterval:2.0
 m_CenterlineTickLength:0.2
 m_CenterlineMarkerLength:0.4
