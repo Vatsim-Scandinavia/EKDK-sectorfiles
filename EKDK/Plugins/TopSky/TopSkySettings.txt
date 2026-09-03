@@ -120,7 +120,7 @@ Setup_Informed=*:TESPI,TNO,TUDLO,KOR,MONAK,NEKSO:EKCH:3
 Setup_Informed=*:*:EKYT:3
 Setup_Informed=*:LOBBI,MAKUR:ESGG:3
 
-Color_Rwy_App_Line_Inuse_ACC=82,190,115
+Color_Rwy_App_Line_Inuse=82,190,115
 
 Window_CPDLC_Setting=1,330,400
 Window_CARD=1,1200,1100
