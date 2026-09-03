@@ -10,7 +10,6 @@ ARTCC boundary:AoR CTR ESMM ESMM_KL:
 ARTCC low boundary:Tower CTR EKCH Kastrup (D) 00-15:
 Geo:EKDK Coastline Denmark:
 Geo:EKDK Coastline Sweden:
-Regions:EKCH Copenhagen CTA:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
