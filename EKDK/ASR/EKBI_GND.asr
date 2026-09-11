@@ -1,55 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Free Text:EKBI TWY & Stands\1:freetext
-Free Text:EKBI TWY & Stands\2:freetext
-Free Text:EKBI TWY & Stands\25:freetext
-Free Text:EKBI TWY & Stands\26:freetext
-Free Text:EKBI TWY & Stands\27:freetext
-Free Text:EKBI TWY & Stands\28:freetext
-Free Text:EKBI TWY & Stands\29:freetext
-Free Text:EKBI TWY & Stands\3:freetext
-Free Text:EKBI TWY & Stands\31:freetext
-Free Text:EKBI TWY & Stands\32:freetext
-Free Text:EKBI TWY & Stands\34:freetext
-Free Text:EKBI TWY & Stands\35:freetext
-Free Text:EKBI TWY & Stands\36:freetext
-Free Text:EKBI TWY & Stands\37:freetext
-Free Text:EKBI TWY & Stands\38:freetext
-Free Text:EKBI TWY & Stands\39:freetext
-Free Text:EKBI TWY & Stands\4:freetext
-Free Text:EKBI TWY & Stands\40:freetext
-Free Text:EKBI TWY & Stands\5:freetext
-Free Text:EKBI TWY & Stands\6:freetext
-Free Text:EKBI TWY & Stands\65:freetext
-Free Text:EKBI TWY & Stands\66:freetext
-Free Text:EKBI TWY & Stands\67:freetext
-Free Text:EKBI TWY & Stands\68:freetext
-Free Text:EKBI TWY & Stands\69:freetext
-Free Text:EKBI TWY & Stands\7:freetext
-Free Text:EKBI TWY & Stands\90:freetext
-Free Text:EKBI TWY & Stands\91:freetext
-Free Text:EKBI TWY & Stands\92:freetext
-Free Text:EKBI TWY & Stands\93:freetext
-Free Text:EKBI TWY & Stands\94:freetext
-Free Text:EKBI TWY & Stands\A:freetext
-Free Text:EKBI TWY & Stands\B:freetext
-Free Text:EKBI TWY & Stands\C:freetext
-Free Text:EKBI TWY & Stands\D:freetext
-Free Text:EKBI TWY & Stands\F:freetext
-Free Text:EKBI TWY & Stands\G:freetext
-Free Text:EKBI TWY & Stands\G2:freetext
-Free Text:EKBI TWY & Stands\G3:freetext
-Free Text:EKBI TWY & Stands\G4:freetext
-Free Text:EKBI TWY & Stands\J:freetext
-Free Text:EKBI TWY & Stands\K:freetext
-Free Text:EKBI TWY & Stands\M:freetext
-Free Text:EKBI TWY & Stands\N:freetext
-Free Text:EKBI TWY & Stands\S:freetext
-Geo:EKBI Groundlayout Billund:
 Geo:EKEB Groundlayout Esbjerg:
-Geo:EKVJ Groundlayout Stauning:
-Regions:EKBI Billund GND:polygon
+Geo:EKVJ Groundlayout Stauning:n
 Regions:EKEB Esbjerg GND:polygon
 Regions:EKVJ Stauning GND:polygon
 SHOWC:0
