@@ -16,6 +16,8 @@ SECTIONS = [
     "03_ekch.txt",
     "04_ekyt.txt",
     "05_ekah.txt",
+    "06_eksb.txt",
+    "07_eksp.txt",
 ]
 
 here = pathlib.Path(__file__).parent
@@ -25,6 +27,12 @@ missing = [name for name in SECTIONS if not (here / name).exists()]
 if missing:
     raise SystemExit(f"Missing section file(s): {', '.join(missing)}")
 
-data = b"".join((here / name).read_bytes() for name in SECTIONS)
+# Guard against a section file missing its own trailing newline, which would
+# otherwise merge its last line with the next section's first line.
+chunks = [(here / name).read_bytes() for name in SECTIONS]
+for i in range(len(chunks) - 1):
+    if not chunks[i].endswith((b"\r\n", b"\n")):
+        chunks[i] += b"\r\n"
+data = b"".join(chunks)
 out_path.write_bytes(data)
 print(f"Wrote {out_path} ({len(data)} bytes) from {len(SECTIONS)} sections.")
