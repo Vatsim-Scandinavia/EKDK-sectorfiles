@@ -1,4 +1,6 @@
-//VERSION:2606
+// DO NOT EDIT ../GRpluginMaps.txt DIRECTLY.
+// It is generated from the section files in ...\GRPluginMapSources\ by build.py.
+// Edit these section files instead, then rerun: python ...\GRPluginMapSources\build.py
 
 COLORDEF:Runway:200:0:0
 COLORDEF:Stand:255:200:50
