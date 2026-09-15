@@ -1,9 +1,13 @@
 """
-Rebuilds ../GRpluginMaps.txt from the section files in this folder.
+Rebuilds GRpluginMaps.txt from the section files in this folder.
 
 GRplugin reads GRpluginMaps.txt as a single file, so this script just
 concatenates the sections below in order. Edit the section files, then
 rerun this script (from anywhere) before committing or reloading EuroScope.
+
+The output is written into this folder, alongside the section files, not
+into ../GRpluginMaps.txt directly. Copy it over manually before reloading
+EuroScope.
 
 Usage: python build.py
 """
@@ -21,7 +25,7 @@ SECTIONS = [
 ]
 
 here = pathlib.Path(__file__).parent
-out_path = here.parent / "GRpluginMaps.txt"
+out_path = here / "GRpluginMaps.txt"
 
 missing = [name for name in SECTIONS if not (here / name).exists()]
 if missing:
