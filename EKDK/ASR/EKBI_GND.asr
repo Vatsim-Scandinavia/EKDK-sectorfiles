@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Geo:EKVJ Groundlayout Stauning:n
-Regions:EKVJ Stauning GND:polygon
 SHOWC:0
 SHOWSB:0
 BELOW:0

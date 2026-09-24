@@ -53,8 +53,6 @@ Free Text:EKDK VFR\Vester Nebel:freetext
 Free Text:EKDK VFR\Vildmosen:freetext
 Free Text:EKDK VFR\Vissenbjerg:freetext
 Free Text:EKDK VFR\Vorbasse Vest:freetext
-Free Text:EKSN TWY\A:freetext
-Free Text:EKSN TWY\B:freetext
 Free Text:EKSP Stauning twy\09:freetext
 Free Text:EKSP Stauning twy\27:freetext
 Free Text:EKSP Stauning twy\C:freetext
@@ -63,8 +61,6 @@ Free Text:EKSP Stauning twy\W:freetext
 Geo:EKDK Coastline Bornholm:
 Geo:EKDK Coastline Denmark:
 Geo:EKDK Coastline Sweden:
-Geo:EKSN Groundlayout Sindal:
-Regions:EKSN Sindal GND:polygon
 Regions:EKVJ Stauning GND:polygon
 SHOWC:0
 SHOWSB:0
