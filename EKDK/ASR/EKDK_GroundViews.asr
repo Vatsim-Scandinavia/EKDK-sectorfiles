@@ -1,67 +1,9 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Free Text:EKDK VFR\ r  North:freetext
-Free Text:EKDK VFR\B jden:freetext
-Free Text:EKDK VFR\Biersted:freetext
-Free Text:EKDK VFR\Bogense:freetext
-Free Text:EKDK VFR\Borup:freetext
-Free Text:EKDK VFR\Bovrup:freetext
-Free Text:EKDK VFR\Broager:freetext
-Free Text:EKDK VFR\Dorid:freetext
-Free Text:EKDK VFR\Dueodde:freetext
-Free Text:EKDK VFR\Ebeltoft:freetext
-Free Text:EKDK VFR\Fynshav:freetext
-Free Text:EKDK VFR\G rding:freetext
-Free Text:EKDK VFR\Gelting:freetext
-Free Text:EKDK VFR\Give:freetext
-Free Text:EKDK VFR\Grenaa:freetext
-Free Text:EKDK VFR\H jen:freetext
-Free Text:EKDK VFR\Hasle:freetext
-Free Text:EKDK VFR\Hasseris:freetext
-Free Text:EKDK VFR\Holding West:freetext
-Free Text:EKDK VFR\Ikast:freetext
-Free Text:EKDK VFR\Ilskov:freetext
-Free Text:EKDK VFR\Ish j:freetext
-Free Text:EKDK VFR\K ge:freetext
-Free Text:EKDK VFR\Karlskov:freetext
-Free Text:EKDK VFR\Knebel:freetext
-Free Text:EKDK VFR\Kongenshus:freetext
-Free Text:EKDK VFR\Langs :freetext
-Free Text:EKDK VFR\Lem:freetext
-Free Text:EKDK VFR\Lind :freetext
-Free Text:EKDK VFR\Lumby:freetext
-Free Text:EKDK VFR\N dager:freetext
-Free Text:EKDK VFR\Nordborg:freetext
-Free Text:EKDK VFR\North:freetext
-Free Text:EKDK VFR\Ryomg rd:freetext
-Free Text:EKDK VFR\S nder Omme:freetext
-Free Text:EKDK VFR\Sj rup:freetext
-Free Text:EKDK VFR\Skads:freetext
-Free Text:EKDK VFR\Skjern West:freetext
-Free Text:EKDK VFR\South:freetext
-Free Text:EKDK VFR\Stensby:freetext
-Free Text:EKDK VFR\Store Darum:freetext
-Free Text:EKDK VFR\Svenstrup:freetext
-Free Text:EKDK VFR\T rring:freetext
-Free Text:EKDK VFR\Tuborg:freetext
-Free Text:EKDK VFR\Valby:freetext
-Free Text:EKDK VFR\Vallensb k:freetext
-Free Text:EKDK VFR\Vandel:freetext
-Free Text:EKDK VFR\Varde:freetext
-Free Text:EKDK VFR\Vester Nebel:freetext
-Free Text:EKDK VFR\Vildmosen:freetext
-Free Text:EKDK VFR\Vissenbjerg:freetext
-Free Text:EKDK VFR\Vorbasse Vest:freetext
-Free Text:EKSP Stauning twy\09:freetext
-Free Text:EKSP Stauning twy\27:freetext
-Free Text:EKSP Stauning twy\C:freetext
-Free Text:EKSP Stauning twy\E:freetext
-Free Text:EKSP Stauning twy\W:freetext
 Geo:EKDK Coastline Bornholm:
 Geo:EKDK Coastline Denmark:
 Geo:EKDK Coastline Sweden:
-Regions:EKVJ Stauning GND:polygon
 SHOWC:0
 SHOWSB:0
 BELOW:0
