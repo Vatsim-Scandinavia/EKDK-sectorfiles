@@ -26,6 +26,7 @@ SECTIONS = [
     "09_ekod.txt",
     "10_ekrk.txt",
     "11_ekka.txt",
+    "12_ekrn.txt",
 ]
 
 here = pathlib.Path(__file__).parent
