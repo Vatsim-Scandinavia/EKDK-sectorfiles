@@ -75,8 +75,6 @@ Free Text:EKKA Twy & Stands\P:freetext
 Free Text:EKKA Twy & Stands\S:freetext
 Free Text:EKKA Twy & Stands\W:freetext
 Free Text:EKKA Twy & Stands\X:freetext
-Free Text:EKOD Twy & stand\A:freetext
-Free Text:EKOD Twy & stand\B:freetext
 Free Text:EKRK TWY & Stand\1:freetext
 Free Text:EKRK TWY & Stand\A:freetext
 Free Text:EKRK TWY & Stand\A1:freetext
@@ -115,12 +113,10 @@ Geo:EKDK Coastline Bornholm:
 Geo:EKDK Coastline Denmark:
 Geo:EKDK Coastline Sweden:
 Geo:EKKA Groundlayout Karup:
-Geo:EKOD Groundlayout Odense:
 Geo:EKRK Groundlayout Roskilde:
 Geo:EKRN Groundlayout Roenne:
 Geo:EKSN Groundlayout Sindal:
 Regions:EKKA Karup GND:polygon
-Regions:EKOD Odense GND:polygon
 Regions:EKRK Roskilde GND:polygon
 Regions:EKRN Roenne GND:polygon
 Regions:EKSN Sindal GND:polygon
