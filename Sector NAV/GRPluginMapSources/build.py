@@ -23,6 +23,7 @@ SECTIONS = [
     "06_eksb.txt",
     "07_eksp.txt",
     "08_ekeb.txt",
+    "09_ekod.txt",
 ]
 
 here = pathlib.Path(__file__).parent
