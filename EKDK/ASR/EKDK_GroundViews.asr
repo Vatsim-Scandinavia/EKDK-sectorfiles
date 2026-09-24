@@ -53,28 +53,6 @@ Free Text:EKDK VFR\Vester Nebel:freetext
 Free Text:EKDK VFR\Vildmosen:freetext
 Free Text:EKDK VFR\Vissenbjerg:freetext
 Free Text:EKDK VFR\Vorbasse Vest:freetext
-Free Text:EKKA Twy & Stands\03:freetext
-Free Text:EKKA Twy & Stands\09:freetext
-Free Text:EKKA Twy & Stands\09L:freetext
-Free Text:EKKA Twy & Stands\09R:freetext
-Free Text:EKKA Twy & Stands\1:freetext
-Free Text:EKKA Twy & Stands\14:freetext
-Free Text:EKKA Twy & Stands\2:freetext
-Free Text:EKKA Twy & Stands\21:freetext
-Free Text:EKKA Twy & Stands\27:freetext
-Free Text:EKKA Twy & Stands\27L:freetext
-Free Text:EKKA Twy & Stands\27R:freetext
-Free Text:EKKA Twy & Stands\3:freetext
-Free Text:EKKA Twy & Stands\32:freetext
-Free Text:EKKA Twy & Stands\4:freetext
-Free Text:EKKA Twy & Stands\5:freetext
-Free Text:EKKA Twy & Stands\E:freetext
-Free Text:EKKA Twy & Stands\E1:freetext
-Free Text:EKKA Twy & Stands\MIL:freetext
-Free Text:EKKA Twy & Stands\P:freetext
-Free Text:EKKA Twy & Stands\S:freetext
-Free Text:EKKA Twy & Stands\W:freetext
-Free Text:EKKA Twy & Stands\X:freetext
 Free Text:EKRN TWY & Stands\1:freetext
 Free Text:EKRN TWY & Stands\2:freetext
 Free Text:EKRN TWY & Stands\A:freetext
@@ -91,10 +69,8 @@ Free Text:EKSP Stauning twy\W:freetext
 Geo:EKDK Coastline Bornholm:
 Geo:EKDK Coastline Denmark:
 Geo:EKDK Coastline Sweden:
-Geo:EKKA Groundlayout Karup:
 Geo:EKRN Groundlayout Roenne:
 Geo:EKSN Groundlayout Sindal:
-Regions:EKKA Karup GND:polygon
 Regions:EKRN Roenne GND:polygon
 Regions:EKSN Sindal GND:polygon
 Regions:EKVJ Stauning GND:polygon
