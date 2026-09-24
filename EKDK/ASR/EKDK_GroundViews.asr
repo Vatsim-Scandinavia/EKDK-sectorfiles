@@ -75,27 +75,6 @@ Free Text:EKKA Twy & Stands\P:freetext
 Free Text:EKKA Twy & Stands\S:freetext
 Free Text:EKKA Twy & Stands\W:freetext
 Free Text:EKKA Twy & Stands\X:freetext
-Free Text:EKRK TWY & Stand\1:freetext
-Free Text:EKRK TWY & Stand\A:freetext
-Free Text:EKRK TWY & Stand\A1:freetext
-Free Text:EKRK TWY & Stand\A2:freetext
-Free Text:EKRK TWY & Stand\A3:freetext
-Free Text:EKRK TWY & Stand\A4:freetext
-Free Text:EKRK TWY & Stand\A5:freetext
-Free Text:EKRK TWY & Stand\B:freetext
-Free Text:EKRK TWY & Stand\B1:freetext
-Free Text:EKRK TWY & Stand\B2:freetext
-Free Text:EKRK TWY & Stand\B3:freetext
-Free Text:EKRK TWY & Stand\B4:freetext
-Free Text:EKRK TWY & Stand\B5:freetext
-Free Text:EKRK TWY & Stand\C:freetext
-Free Text:EKRK TWY & Stand\D:freetext
-Free Text:EKRK TWY & Stand\E:freetext
-Free Text:EKRK TWY & Stand\F:freetext
-Free Text:EKRK TWY & Stand\G:freetext
-Free Text:EKRK TWY & Stand\H:freetext
-Free Text:EKRK TWY & Stand\J:freetext
-Free Text:EKRK TWY & Stand\M:freetext
 Free Text:EKRN TWY & Stands\1:freetext
 Free Text:EKRN TWY & Stands\2:freetext
 Free Text:EKRN TWY & Stands\A:freetext
@@ -113,11 +92,9 @@ Geo:EKDK Coastline Bornholm:
 Geo:EKDK Coastline Denmark:
 Geo:EKDK Coastline Sweden:
 Geo:EKKA Groundlayout Karup:
-Geo:EKRK Groundlayout Roskilde:
 Geo:EKRN Groundlayout Roenne:
 Geo:EKSN Groundlayout Sindal:
 Regions:EKKA Karup GND:polygon
-Regions:EKRK Roskilde GND:polygon
 Regions:EKRN Roenne GND:polygon
 Regions:EKSN Sindal GND:polygon
 Regions:EKVJ Stauning GND:polygon
