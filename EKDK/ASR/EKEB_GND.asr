@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Geo:EKVJ Groundlayout Stauning:n
-Regions:EKVJ Stauning GND:polygon
 SHOWC:0
 SHOWSB:0
 BELOW:0
@@ -16,8 +14,8 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_B
-WINDOWAREA:55.725076:9.118116:55.755814:9.185857
-PLUGIN:Ground Radar plugin:AirportElevation:247
+WINDOWAREA:55.512840:8.514825:55.537430:8.593211
+PLUGIN:Ground Radar plugin:AirportElevation:97
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
-PLUGIN:Ground Radar plugin:GroundMode:EKBI
+PLUGIN:Ground Radar plugin:GroundMode:EKEB
 PLUGIN:TopSky plugin:NoDraw:1
