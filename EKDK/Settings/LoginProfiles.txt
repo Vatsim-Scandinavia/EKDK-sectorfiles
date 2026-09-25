@@ -59,11 +59,11 @@ PROFILE:EKCH_W_APP:150:5
 ATIS2:Copenhagen Approach - DCL [EKCH]
 ATIS3:Briefing at vats.im/ekch | Departing A/C contact 120.255 / 124.980
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKCH_F_APP:150:5
+PROFILE:EKCH_P_APP:150:5
 ATIS2:Kastrup Final - Report Callsign ONLY!
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKCH_P_APP:150:5
+PROFILE:EKCH_P2_APP:150:5
 ATIS2:Kastrup Final - Report Callsign ONLY!
 ATIS3:Briefing at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
