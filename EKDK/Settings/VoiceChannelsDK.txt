@@ -13,14 +13,14 @@ AG:Copenhagen ACC - UC:127.865
 AG:Copenhagen ACC - UN:136.555
 AG:Copenhagen ACC - UV:126.055
 AG:Copenhagen FMP:131.040
-AG:Copenhagen ACC SUP/Mentor:130.990
+AG:Copenhagen ACC SP/Mentor:130.990
 AG:EKAH Aarhus Approach:119.280
 AG:EKAH Aarhus Tower:118.530
 AG:EKBI Billund Tower:119.005
 AG:EKBI Billund Tower 2:129.505
 AG:EKBI Billund Approach:127.580
 AG:EKBI Billund Arrival:119.255
-AG:EKBI Billund SUP/Mentor:130.980
+AG:EKBI Billund SP/Mentor:130.980
 AG:EKCH Kastrup De-Ice A:123.405
 AG:EKCH Kastrup De-Ice B:131.655
 AG:EKCH Kastrup De-Ice V:131.980
@@ -39,7 +39,7 @@ AG:Copenhagen TMA -  R DEP:120.255
 AG:Copenhagen TMA -  W APP:119.805
 AG:Copenhagen TMA - P FINAL:120.205
 AG:Copenhagen TMA - P APPCO:131.405
-AG:Copenhagen TMA SUP/Mentor:130.985
+AG:Copenhagen TMA SP/Mentor:130.985
 AG:EKEB Esbjerg AFIS:120.155
 AG:EKKA Karup Tower:119.580
 AG:EKKA Karup Approach:120.430
