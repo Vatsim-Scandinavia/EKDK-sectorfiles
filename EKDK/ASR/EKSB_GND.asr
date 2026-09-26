@@ -17,5 +17,5 @@ TAGFAMILY:TopSky_B
 WINDOWAREA:54.954693:9.781902:54.971058:9.806230
 PLUGIN:Ground Radar plugin:AirportElevation:14
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
-PLUGIN:Ground Radar plugin:GroundMode:EKSB
+PLUGIN:Ground Radar plugin:GroundMode:EKXX
 PLUGIN:TopSky plugin:NoDraw:1

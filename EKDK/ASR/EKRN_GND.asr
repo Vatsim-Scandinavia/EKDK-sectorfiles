@@ -1,10 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Fixes:DUEODDE:name
-Fixes:DUEODDE:symbol
-Fixes:HASLE:name
-Fixes:HASLE:symbol
 Geo:GEO:
 SHOWC:0
 SHOWSB:0
@@ -22,5 +18,5 @@ TAGFAMILY:TopSky_B
 WINDOWAREA:55.052904:14.716618:55.086352:14.790330
 PLUGIN:Ground Radar plugin:AirportElevation:52
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
-PLUGIN:Ground Radar plugin:GroundMode:EKRN
+PLUGIN:Ground Radar plugin:GroundMode:EKXX
 PLUGIN:TopSky plugin:NoDraw:1
