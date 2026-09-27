@@ -86,8 +86,8 @@ TopSky plugin:ACList/Sector List/m_Column_27:ALB:5:0:1291:0:0:1:Arrival Load Bal
 TopSky plugin:ACList/Sector List/m_Column_28:STD:5:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin:
 TopSky plugin:ACList/Sector List/m_Column_29:OP_TEXT:7:0:10058:11:0:0:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 1/m_Visible:1
-TopSky plugin:ACList/Uncontrolled List 1/m_X:1090
-TopSky plugin:ACList/Uncontrolled List 1/m_Y:1195
+TopSky plugin:ACList/Uncontrolled List 1/m_X:0
+TopSky plugin:ACList/Uncontrolled List 1/m_Y:930
 TopSky plugin:ACList/Uncontrolled List 1/m_LineNumber:6
 TopSky plugin:ACList/Uncontrolled List 1/m_Resizable:1
 TopSky plugin:ACList/Uncontrolled List 1/m_OrderingColumn:14
@@ -130,8 +130,8 @@ TopSky plugin:ACList/Uncontrolled List 2/m_Column_13:LFUNC:5:0:10069:20:41:1:Top
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_14:OP_TEXT:7:0:10058:11:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_15:C:2:1:10101:129:0:0:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Traffic Management List 1/m_Visible:1
-TopSky plugin:ACList/Traffic Management List 1/m_X:799
-TopSky plugin:ACList/Traffic Management List 1/m_Y:1195
+TopSky plugin:ACList/Traffic Management List 1/m_X:0
+TopSky plugin:ACList/Traffic Management List 1/m_Y:894
 TopSky plugin:ACList/Traffic Management List 1/m_LineNumber:6
 TopSky plugin:ACList/Traffic Management List 1/m_Resizable:1
 TopSky plugin:ACList/Traffic Management List 1/m_OrderingColumn:15
