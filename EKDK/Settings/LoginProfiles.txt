@@ -1,53 +1,53 @@
 PROFILE
-PROFILE:EKDK_CTR:210:6
+PROFILE:EKDK_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKDK]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_B_CTR:180:6
+PROFILE:EKDK_B_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKDB]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_I_CTR:180:6
+PROFILE:EKDK_I_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKDI]
 ATIS3:Briefing at vats.im/ekdk  
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_D_CTR:180:6
+PROFILE:EKDK_D_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKDD]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_E_CTR:180:6
+PROFILE:EKDK_E_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKDE]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_L_CTR:180:6
+PROFILE:EKDK_L_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKDL]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_V_CTR:180:6
+PROFILE:EKDK_V_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKDV]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_N_CTR:180:6
+PROFILE:EKDK_N_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKDN]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_A_CTR:180:6
+PROFILE:EKDK_A_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKDA]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_C_CTR:180:6
+PROFILE:EKDK_C_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKDC]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_UA_CTR:180:6
+PROFILE:EKDK_UA_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKUA]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_UC_CTR:180:6
+PROFILE:EKDK_UC_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKUC]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKDK_UV_CTR:210:6
+PROFILE:EKDK_UV_CTR:250:6
 ATIS2:Copenhagen Control - CPDLC [EKUV]
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
@@ -103,23 +103,23 @@ PROFILE:EKCH_DEL:20:2
 ATIS2:Kastrup Delivery - DCL [EKCH]
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKBI_APP:130:5
+PROFILE:EKBI_APP:150:5
 ATIS2:Billund Approach
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKYT_APP:100:5
+PROFILE:EKYT_APP:150:5
 ATIS2:Aalborg Approach
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKAH_APP:100:5
+PROFILE:EKAH_APP:150:5
 ATIS2:Aarhus Approach
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKKA_APP:100:5
+PROFILE:EKKA_APP:150:5
 ATIS2:Karup Approach
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKSP_APP:100:5
+PROFILE:EKSP_APP:150:5
 ATIS2:Skrydstrup Approach
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
@@ -163,7 +163,7 @@ PROFILE:EKRN_TWR:50:4
 ATIS2:Roenne Tower
 ATIS3:Briefing at vats.im/ekdk
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:[ICAO]_M_CTR:150:5
+PROFILE:[ICAO]_M_CTR:250:5
 ATIS2:ATC Mentoring
 ATIS3:
 ATIS4:
