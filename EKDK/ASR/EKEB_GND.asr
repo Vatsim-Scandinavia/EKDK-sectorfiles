@@ -4,7 +4,7 @@ DisplayTypeGeoReferenced:1
 SHOWC:0
 SHOWSB:0
 BELOW:0
-ABOVE:0
+ABOVE:4000
 LEADER:0
 SHOWLEADER:0
 TURNLEADER:0
@@ -17,5 +17,5 @@ TAGFAMILY:TopSky_B
 WINDOWAREA:55.512840:8.514825:55.537430:8.593211
 PLUGIN:Ground Radar plugin:AirportElevation:97
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
-PLUGIN:Ground Radar plugin:GroundMode:EKXX
+PLUGIN:Ground Radar plugin:GroundMode:EKEB
 PLUGIN:TopSky plugin:NoDraw:1
