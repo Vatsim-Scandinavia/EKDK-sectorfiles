@@ -63,14 +63,4 @@ Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4Display0	Ground Radar display
 Plugins	Plugin4Display1	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
-LastSession	atis_freq4	118000
-LastSession	connecttype	0
-LastSession	callsign	EKDK_FMP
-LastSession	facility	6
-LastSession	rating	4
-LastSession	server	AUTOMATIC
-LastSession	tovatsim	1
-LastSession	atis2	Flow Management for Denmark
-LastSession	range	600
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
+
