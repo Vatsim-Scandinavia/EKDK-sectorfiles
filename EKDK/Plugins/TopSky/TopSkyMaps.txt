@@ -1258,7 +1258,7 @@ LINE:EKRK/21:EKRK/03
 
 //--------------------------------CTA--------------------------------
 
-MAP:EKCH CTA
+MAP:AIRSPACE
 FOLDER:EKCH
 ACTIVE:ID:W,O,R,K,P,PLN,ARR,DEP:*:*:*
 ACTIVE:ID:A,B,C,D,E,I,UC,UN:*:*:W,O,R,K,P

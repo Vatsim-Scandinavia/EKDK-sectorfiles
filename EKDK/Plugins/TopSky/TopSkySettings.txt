@@ -126,6 +126,9 @@ Window_CPDLC_Setting=1,330,400
 Window_CARD=1,1200,1100
 Window_CPDLC_Current=1,800,1350
 
+Setup_LoadView=ACC
+Setup_LoadMap=WPT / AWY\ACC WPT
+
 List_Holding_States=23457BC
 List_ETWR_ADEP=EKAH,EKSB,EKEB,EKYT,EKKA,EKSP,EKRN
 FAST_Min_State=2
@@ -185,10 +188,13 @@ List_TfcMgmt2_ADES=EKBI
 {UN}
 Setup_LoadView=ACC
 
-{FMP}
+[_FMP]
 List_Holding_States=ABC
 System_Filters_Hard=1
 System_Filters_Alt_Allow=7500,41500
+
+Setup_LoadView=FMP
+Setup_LoadMap=ACC\FMP
 
 Rings_CenterPos=EKCH
 Rings_Highlight=1
@@ -213,7 +219,6 @@ Window_CPDLC_Setting=0
 Window_ASM=0
 List_TfcMgmt1_ADES=EKCH
 List_TfcMgmt1_Via=EKCH
-Setup_LoadView=FMP
 FAST_Min_State=0
 List_ETWR_ADEP=EK
 Track_PredictionLine=0
@@ -222,6 +227,8 @@ Track_PredictionLine=0
 
 [EKCH_]
 Setup_LoadView=EKCH
+Setup_LoadMap=EKCH\AIRSPACE
+Setup_LoadMap=WPT / AWY\EKCH WPT
 
 Color_Rwy_App_Line_Inuse=62,160,216
 
@@ -281,8 +288,11 @@ Window_CPDLC_Current=1,800,1350
 
 //---Unit Settings EKBI
 
-[EKBI_APP]
+[EKBI_]
 Setup_LoadView=EKBI
+Setup_LoadMap=EKBI\AIRSPACE
+//Setup_LoadMap=EKBI\RWY-ALL
+Setup_LoadMap=WPT / AWY\ACC WPT
 Setup_Informed=EKBI:*:*:3
 Setup_Informed=*:*:EKBI:3
 
@@ -302,9 +312,6 @@ System_Filters_Alt_Allow=00000,21500
 
 Color_Rwy_App_Line_Not_Inuse=210,210,210
 Color_Rwy_App_Line_Inuse=210,210,210
-//RwyAppLines_MarkerSpacing=2
-//RwyAppLines_Markers=10
-//RwyAppLines_Length=14
 RwyAppLines_Auto=1
 
 //---Unit Settings EKRK
@@ -312,6 +319,8 @@ RwyAppLines_Auto=1
 [EKRK_]
 System_Filters_Hard=1
 System_Filters_Alt_Allow=00000,21500
+Setup_LoadView=EKRK
+Setup_LoadMap=EKCH\AIRSPACE
 
 Rings_CenterPos=EKRK
 Rings_Highlight=1
@@ -324,7 +333,6 @@ RwyAppLines_MarkerSpacing=1
 RwyAppLines_Markers=10
 RwyAppLines_Length=14
 
-Setup_LoadView=EKRK
 Setup_Informed=EKRK:*:*:3
 Setup_Informed=*:*:EKRK:3
 
@@ -334,6 +342,7 @@ Track_PredictionLine=1
 
 [EKAH_]
 Setup_LoadView=EKAH
+Setup_LoadMap=RADIS\EKAH
 Setup_Informed=*:*:EKAH:1
 
 Rings_CenterPos=EKAH
@@ -371,6 +380,7 @@ Color_QDM=22,230,50
 
 [EKKA_]
 Setup_LoadView=EKKA
+Setup_LoadMap=RADIS\EKKA
 Setup_Informed=*:*:EKKA:1
 
 Rings_CenterPos=EKKA
@@ -408,6 +418,7 @@ Color_QDM=22,230,50
 
 [EKSP_]
 Setup_LoadView=EKSP
+Setup_LoadMap=RADIS\EKSP
 Setup_Informed=*:*:EKSP:1
 
 Rings_CenterPos=EKSP
@@ -445,6 +456,7 @@ Color_QDM=22,230,50
 
 [EKYT_]
 Setup_LoadView=EKYT
+Setup_LoadMap=RADIS\EKYT
 Setup_Informed=*:*:EKYT:1
 
 Rings_CenterPos=EKYT
