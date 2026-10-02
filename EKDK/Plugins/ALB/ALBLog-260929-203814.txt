@@ -1,4 +1,0 @@
-=== ALB LOG START 260929-203814Z ===
-20:38:14.834Z HOUSEKEEPING_START textDays=16 textMaxFiles=20 backendDays=16 backendMaxMb=500
-20:38:14.835Z HOUSEKEEPING_TEXT family=ALBLog matched=1 deletedAge=0 deletedCount=0 kept=1
-20:38:14.835Z HOUSEKEEPING_DONE deletedFiles=0 deletedMb=0 warnings=0

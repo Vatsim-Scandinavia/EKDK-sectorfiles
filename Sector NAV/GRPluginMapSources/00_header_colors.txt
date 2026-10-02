@@ -2,7 +2,7 @@
 // It is generated from the section files in this folder (MapSources\) by build.py.
 // Edit these section files instead, then rerun: python MapSources\build.py
 
-//VERSION:2606
+//VERSION:2610
 
 SCTFILEPATH:..\..\..\EKDK-*
 COLORDEF:Runway:200:0:0
