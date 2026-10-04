@@ -1,0 +1,21 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Regions:RADI Background:polygon
+Regions:RADI Denmark:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:RADIS
+WINDOWAREA:54.416667:1.159266:58.750000:15.007401
+PLUGIN:TopSky plugin:ShowMaps:RADIS\AIRSPACE
+PLUGIN:TopSky plugin:ShowMapData:RADIS

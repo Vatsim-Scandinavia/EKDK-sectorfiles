@@ -1,0 +1,22 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Geo:EKDK Coastline Denmark:
+Geo:EKDK Coastline Sweden:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:6
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_B
+WINDOWAREA:54.166667:6.739035:56.833333:15.260965
+PLUGIN:TopSky plugin:HideMapData:HIGH,RADIS
+PLUGIN:TopSky plugin:ShowMapData:LOW
+PLUGIN:TopSky plugin:ShowMaps:ACC\LOW SECTORS:ACC\OUTLINE

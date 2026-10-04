@@ -1,0 +1,22 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Geo:GEO:
+SHOWC:0
+SHOWSB:0
+BELOW:0
+ABOVE:4000
+LEADER:0
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_B
+WINDOWAREA:55.052904:14.705389:55.086352:14.801559
+PLUGIN:Ground Radar plugin:AirportElevation:52
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:GroundMode:EKRN
+PLUGIN:TopSky plugin:NoDraw:1

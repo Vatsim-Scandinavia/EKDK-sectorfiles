@@ -1,33 +1,26 @@
-ASRFastKeys	1	\EKDK\ASR\EKCH_GND.asr
-ASRFastKeys	2	\EKDK\ASR\EKCH_APP.asr
-ASRFastKeys	3	\EKDK\ASR\EKDK_CTR.asr
-ASRFastKeys	4	\EKDK\ASR\EKBI_GND.asr
-ASRFastKeys	5	\EKDK\ASR\EKBI_APP.asr
-ASRFastKeys	6	\EKDK\ASR\EKYT_GND.asr
-ASRFastKeys	7	\EKDK\ASR\EKYT_APP.asr
-ASRFastKeys	8	\EKDK\ASR\EKDK_GroundViews.asr
-ASRFastKeys	9	\EKDK\ASR\EKDK_FMP.asr
-Plugins	Plugin0	\EKDK\Plugins\FlightStrips\FlightStripsPlugin.dll
-Plugins	Plugin1	\EKDK\Plugins\TopSky\TopSky.dll
-Plugins	Plugin1Display0	Standard ES radar screen
-Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
-Plugins	Plugin3	\EKDK\Plugins\VCH\VCH.dll
-Plugins	Plugin4	\EKDK\Plugins\ALB\Alb.dll
-Plugins	Plugin1Display1	Ground Radar display
-Plugins	Plugin2Display1	Standard ES radar screen
-Plugins	Plugin4Display1	Standard ES radar screen
-Plugins	Plugin4Display1	Ground Radar display
-RecentFiles	Recent1	\EKDK\ASR\RADIS.asr
-RecentFiles	Recent2	\EKDK\ASR\EKRN_GND.asr
-RecentFiles	Recent3	\EKDK\ASR\EKRK_GND.asr
-RecentFiles	Recent4	\EKDK\ASR\EKAH_GND.asr
-RecentFiles	Recent5	\EKDK\ASR\EKAH_APP.asr
-RecentFiles	Recent6	\EKDK\ASR\EKDK_FMP.asr
-RecentFiles	Recent7	\EKDK\ASR\EKDK_GroundViews.asr
-RecentFiles	Recent8	\EKDK\ASR\EKYT_APP.asr
-RecentFiles	Recent9	\EKDK\ASR\EKYT_GND.asr
-RecentFiles	Recent10	\EKDK\ASR\EKBI_APP.asr
-RecentFiles	Recent11	\EKDK\ASR\EKBI_GND.asr
+ASRFastKeys	1	\EKDK\ASR\1_EKCH.asr
+ASRFastKeys	2	\EKDK\ASR\2_APP-COOPANS.asr
+ASRFastKeys	3	\EKDK\ASR\3_ACC-COOPANS.asr
+ASRFastKeys	4	\EKDK\ASR\4_EKBI.asr
+ASRFastKeys	5	\EKDK\ASR\5_EKKA.asr
+ASRFastKeys	6	\EKDK\ASR\6_EKYT.asr
+ASRFastKeys	7	\EKDK\ASR\7_EKAH.asr
+ASRFastKeys	8	\EKDK\ASR\8_EKSP.asr
+ASRFastKeys	9	\EKDK\ASR\9_AFIS-EKRN.asr
+RecentFiles	Recent1	\EKDK\ASR\2_APP-COOPANS.asr
+RecentFiles	Recent2	\EKDK\ASR\3_ACC-COOPANS.asr
+RecentFiles	Recent3	\EKDK\ASR\1_EKCH.asr
+RecentFiles	Recent4	\EKDK\ASR\4_EKBI.asr
+RecentFiles	Recent5	\EKDK\ASR\5_EKKA.asr
+RecentFiles	Recent6	\EKDK\ASR\6_EKYT.asr
+RecentFiles	Recent7	\EKDK\ASR\7_EKAH.asr
+RecentFiles	Recent8	\EKDK\ASR\8_EKSP.asr
+RecentFiles	Recent9	\EKDK\ASR\3a_EKRK.asr
+RecentFiles	Recent10	\EKDK\ASR\9_AFIS-EKRN.asr
+RecentFiles	Recent11	\EKDK\ASR\_EKEB.asr
+RecentFiles	Recent12	\EKDK\ASR\_EKSB.asr
+RecentFiles	Recent13	\EKDK\ASR\_EKOD.asr
+RecentFiles	Recent13	\EKDK\ASR\_EKRN.asr
 Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\EKDK\ICAO\ICAO_Airlines.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
@@ -37,7 +30,7 @@ Settings	alias	\EKDK\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	AtisFolder	\ATIS\atisfiles.txt
 Settings	FreqKey	3604480
-Settings	sector	\EKDK-EKDK-Copenhagen_20260827134846-260801-0006.sct
+Settings	sector	\EKDK-EKDK-Copenhagen_20260927013701-260901-0002.sct
 Settings	Settingsfile	\EKDK\Settings\General.txt
 Settings	SettingsfileARR	\EKDK\Settings\Lists.txt
 Settings	SettingsfileCONFLICT	\EKDK\Settings\Lists.txt
@@ -51,11 +44,22 @@ Settings	SettingsfileSIL	\EKDK\Settings\Lists.txt
 Settings	SettingsfileSYMBOLOGY	\EKDK\Settings\Symbols.txt
 Settings	SettingsfileTAGS	\EKDK\Settings\Tags.txt
 Settings	SettingsfileVOICE	\EKDK\Settings\VoiceChannelsDK.txt
-Plugins	Plugin1Display1	Ground Radar display
-Plugins	Plugin2Display1	Ground Radar display
+Plugins	Plugin0	\EKDK\Plugins\FlightStrips\FlightStripsPlugin.dll
+Plugins	Plugin1	\EKDK\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
+Plugins	Plugin3	\EKDK\Plugins\VCH\VCH.dll
+Plugins	Plugin4	\EKDK\Plugins\ALB\Alb.dll
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin2Display1	Ground Radar display
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin4Display1	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
+
