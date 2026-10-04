@@ -98,6 +98,7 @@ Color_Map_Info=0,0,0
 Label_AHDG_ShowDct=2
 MSAW_VFR=0
 RwyAppLines_Auto=1
+System_Filters_Hard=1
 
 List_TfcMgmt1_ADES=EKCH
 List_TfcMgmt1_Via=
@@ -190,8 +191,7 @@ Setup_LoadView=ACC
 
 [_FMP]
 List_Holding_States=ABC
-System_Filters_Hard=1
-System_Filters_Alt_Allow=7500,41500
+System_Filters_Alt_Allow=1500
 
 Setup_LoadView=FMP
 Setup_LoadMap=ACC\FMP
@@ -232,8 +232,7 @@ Setup_LoadMap=WPT / AWY\EKCH WPT
 
 Color_Rwy_App_Line_Inuse=62,160,216
 
-System_Filters_Hard=1
-System_Filters_Alt_Allow=00000,28500
+System_Filters_Alt_Allow=28500
 FAST_Min_State=0
 Track_PredictionLine=2
 
@@ -307,8 +306,7 @@ Rings_HighlightStep=2
 Rings_Number=15
 Rings_Separation=10
 
-System_Filters_Hard=1
-System_Filters_Alt_Allow=00000,21500
+System_Filters_Alt_Allow=21500
 
 Color_Rwy_App_Line_Not_Inuse=210,210,210
 Color_Rwy_App_Line_Inuse=210,210,210
@@ -317,8 +315,7 @@ RwyAppLines_Auto=1
 //---Unit Settings EKRK
 
 [EKRK_]
-System_Filters_Hard=1
-System_Filters_Alt_Allow=00000,21500
+System_Filters_Alt_Allow=21500
 Setup_LoadView=EKRK
 Setup_LoadMap=EKCH\AIRSPACE
 
@@ -351,8 +348,7 @@ Rings_HighlightStep=2
 Rings_Number=20
 Rings_Separation=5
 
-System_Filters_Hard=1
-System_Filters_Alt_Allow=00000,21500
+System_Filters_Alt_Allow=21500
 
 Color_Rwy_App_Line_Not_Inuse=210,210,210
 Color_Rwy_App_Line_Inuse=210,210,210
@@ -389,8 +385,7 @@ Rings_HighlightStep=2
 Rings_Number=20
 Rings_Separation=5
 
-System_Filters_Hard=1
-System_Filters_Alt_Allow=00000,21500
+System_Filters_Alt_Allow=21500
 
 Color_Rwy_App_Line_Not_Inuse=210,210,210
 Color_Rwy_App_Line_Inuse=210,210,210
@@ -427,8 +422,7 @@ Rings_HighlightStep=2
 Rings_Number=20
 Rings_Separation=5
 
-System_Filters_Hard=1
-System_Filters_Alt_Allow=00000,21500
+System_Filters_Alt_Allow=21500
 
 Color_Rwy_App_Line_Not_Inuse=210,210,210
 Color_Rwy_App_Line_Inuse=210,210,210
@@ -465,8 +459,7 @@ Rings_HighlightStep=2
 Rings_Number=20
 Rings_Separation=5
 
-System_Filters_Hard=1
-System_Filters_Alt_Allow=00000,21500
+System_Filters_Alt_Allow=21500
 
 Color_Rwy_App_Line_Not_Inuse=210,210,210
 Color_Rwy_App_Line_Inuse=210,210,210
