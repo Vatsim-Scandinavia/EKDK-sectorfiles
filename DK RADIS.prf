@@ -33,7 +33,7 @@ Settings	aircraft	\EKDK\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\EKDK\NavData\icao.txt
 Settings	alias	\EKDK\Alias\alias.txt
 Settings	AtisFolder	\ATIS\atisfiles.txt
-Settings	sector	\EKDK-EKDK-Copenhagen_20260930213140-260901-0006.sct
+Settings	sector	\EKDK-Copenhagen_20261002183818-261001-0001.sct
 Plugins	Plugin0	\EKDK\Plugins\FlightStrips\FlightStripsPlugin.dll
 Plugins	Plugin1	\EKDK\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\EKDK\Plugins\GRplugin\GRplugin.dll
