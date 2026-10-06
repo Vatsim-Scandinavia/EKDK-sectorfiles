@@ -82,9 +82,9 @@ TopSky plugin:ACList/Sector List/m_Column_23::1:1:65:25:0:1:::
 TopSky plugin:ACList/Sector List/m_Column_24:ETA:5:1:10033:0:0:0:TopSky plugin::
 TopSky plugin:ACList/Sector List/m_Column_25:STAR:11:0:10012:18:124:1:TopSky plugin::TopSky plugin
 TopSky plugin:ACList/Sector List/m_Column_26:ARWY:5:0:10010:19:0:1:TopSky plugin::
-TopSky plugin:ACList/Sector List/m_Column_27:ALB:5:0:1291:0:0:1:Arrival Load Balance::
-TopSky plugin:ACList/Sector List/m_Column_28:STD:5:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin:
-TopSky plugin:ACList/Sector List/m_Column_29:OP_TEXT:7:0:10058:11:0:0:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Sector List/m_Column_27:STD:5:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin:
+TopSky plugin:ACList/Sector List/m_Column_28:OP_TEXT:7:0:10058:11:0:0:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Sector List/m_Column_29:C:2:1:10099:127:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 1/m_Visible:1
 TopSky plugin:ACList/Uncontrolled List 1/m_X:0
 TopSky plugin:ACList/Uncontrolled List 1/m_Y:930
@@ -194,5 +194,4 @@ CDM Plugin:CDMWindowPositionX:357
 CDM Plugin:CDMWindowPositionY:26
 CDM Plugin:CDMMinimized:1
 TopSky plugin:ACList/ETWR List/m_Column_2:WPT:7:0:233:45:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Sector List/m_Column_30:C:2:1:10099:127:0:1:TopSky plugin:TopSky plugin:
 END
