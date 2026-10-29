@@ -9,26 +9,23 @@ AG:Copenhagen ACC -  L:124.555
 AG:Copenhagen ACC -  N:134.680
 AG:Copenhagen ACC -  V:135.565
 AG:Copenhagen ACC - UA:136.485
-AG:Copenhagen ACC - UC:127.865
-AG:Copenhagen ACC - UN:136.555
-AG:Copenhagen ACC - UV:126.055
+AG:Copenhagen ACC - UC | East:127.865
+AG:Copenhagen ACC - UN | All:136.555
+AG:Copenhagen ACC - UV | West:126.055
 AG:EKAH Aarhus Approach:119.280
 AG:EKAH Aarhus Tower:118.530
 AG:EKBI Billund Tower:119.005
-AG:EKBI Billund Tower 2:129.505
+AG:EKBI Billund Tower 2 | DEL:129.505
 AG:EKBI Billund Approach:127.580
 AG:EKBI Billund Arrival:119.255
-AG:EKCH Kastrup De-Ice A:123.405
-AG:EKCH Kastrup De-Ice B:131.655
-AG:EKCH Kastrup De-Ice V:131.980
 AG:EKCH Kastrup Delivery:119.905
 AG:EKCH Kastrup Apron ARR:121.630
 AG:EKCH Kastrup Apron SEQ:121.905
-AG:EKCH Kastrup Apron Departure:121.730
+AG:EKCH Kastrup Apron DEP:121.730
 AG:EKCH Kastrup Tower GE:121.830
 AG:EKCH Kastrup Tower GW:118.580
 AG:EKCH Kastrup Tower ARR:118.105
-AG:EKCH Kastrup Tower Departure:119.355
+AG:EKCH Kastrup Tower DEP:119.355
 AG:EKCH Kastrup Tower VFR:118.705
 AG:Copenhagen TMA -  K DEP:124.980
 AG:Copenhagen TMA -  O APP:118.455
@@ -48,14 +45,17 @@ AG:EKSP Skrydstrup Tower:118.280
 AG:EKSP Skrydstrup Approach:124.105
 AG:EKSP Skrydstrup Arrival:122.205
 AG:EKVD Vamdrup AFIS:118.655
-AG:EKVJ Stauning AFIS:121.405
 AG:EKYT Aalborg Tower:118.305
 AG:EKYT Aalborg Approach:123.980
 AG:EKYT Aalborg Arrival:120.705
 AG:Flow Management / FMP:131.040
-AG:Flight Information - F:129.475
-AG:Flight Information - Y:124.000
-AG:SP/Mentor EKBI:130.980
-AG:SP/Mentor EKCH:130.985
-AG:SP/Mentor EKDK:130.990
+AG:Flight Information - F | Denmark:129.475
+AG:Flight Information - Y | "COIF":124.000
+AG:SP/ Mentor EKBI:130.980
+AG:SP/ Mentor EKCH:130.985
+AG:SP/ Mentor EKDK:130.990
+AG:X/ Denmil Information:129.875
+AG:X/ EKCH De-Ice A:123.405
+AG:X/ EKCH De-Ice B:131.655
+AG:X/ EKCH De-Ice V:131.980
 END
