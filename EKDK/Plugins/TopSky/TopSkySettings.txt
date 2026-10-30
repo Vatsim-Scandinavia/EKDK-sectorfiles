@@ -109,6 +109,7 @@ System_Filters_Hard=1
 //---Map Settings Lines
 
 Maps_URL=https://raw.githubusercontent.com/Vatsim-Scandinavia/EKDK-sectorfiles/refs/heads/main/EKDK/Plugins/TopSky/TopSkyMaps.txt
+
 Areas_URL=https://raw.githubusercontent.com/Vatsim-Scandinavia/EKDK-sectorfiles/refs/heads/main/EKDK/Plugins/TopSky/TopSkyAreas.txt
 
 //---Unit Settings ACC
