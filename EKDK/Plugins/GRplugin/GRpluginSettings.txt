@@ -23,6 +23,9 @@ Label=APP:ALL:2:AFL,0,0:GS,0,1:ATYP,0,1
 Label=APP:ALL:3:
 
 [EKCH]
+Airport_LVP=1
+System_RMCA_APP_Distance_LVP_Info=3.2
+System_RMCA_APP_Distance_LVP=2.7
 Maps_Font=Tahoma
 Maps_FontStyle=500,0,0,0
 Maps_FontSize=10

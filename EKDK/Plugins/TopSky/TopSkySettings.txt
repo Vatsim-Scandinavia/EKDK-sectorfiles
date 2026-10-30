@@ -98,12 +98,13 @@ Color_Map_Info=0,0,0
 Label_AHDG_ShowDct=2
 MSAW_VFR=0
 RwyAppLines_Auto=1
-System_Filters_Hard=1
 
 List_TfcMgmt1_ADES=EKCH
 List_TfcMgmt1_Via=
 List_TfcMgmt1_Sorting=3
 List_TfcMgmt2_Sorting=3
+
+System_Filters_Hard=1
 
 //---Map Settings Lines
 
@@ -133,6 +134,8 @@ Setup_LoadMap=WPT / AWY\ACC WPT
 List_Holding_States=23457BC
 List_ETWR_ADEP=EKAH,EKSB,EKEB,EKYT,EKKA,EKSP,EKRN
 FAST_Min_State=2
+
+System_Filters_Alt_Allow=28500
 
 Track_PredictionLine=2
 
@@ -191,7 +194,7 @@ Setup_LoadView=ACC
 
 [_FMP]
 List_Holding_States=ABC
-System_Filters_Alt_Allow=1500
+System_Filters_Alt_Allow=43500
 
 Setup_LoadView=FMP
 Setup_LoadMap=ACC\FMP
@@ -227,8 +230,10 @@ Track_PredictionLine=0
 
 [EKCH_]
 Setup_LoadView=EKCH
+Setup_ScreenLat=DOBEL
 Setup_LoadMap=EKCH\AIRSPACE
 Setup_LoadMap=WPT / AWY\EKCH WPT
+List_Holding_States=345
 
 Color_Rwy_App_Line_Inuse=62,160,216
 
@@ -289,6 +294,7 @@ Window_CPDLC_Current=1,800,1350
 
 [EKBI_]
 Setup_LoadView=EKBI
+Setup_ScreenLat=EKBI
 Setup_LoadMap=EKBI\AIRSPACE
 //Setup_LoadMap=EKBI\RWY-ALL
 Setup_LoadMap=WPT / AWY\ACC WPT
@@ -315,7 +321,6 @@ RwyAppLines_Auto=1
 //---Unit Settings EKRK
 
 [EKRK_]
-System_Filters_Alt_Allow=21500
 Setup_LoadView=EKRK
 Setup_LoadMap=EKCH\AIRSPACE
 
@@ -324,6 +329,8 @@ Rings_Highlight=1
 Rings_HighlightStep=2
 Rings_Number=20
 Rings_Separation=5
+
+System_Filters_Alt_Allow=21500
 
 Color_Rwy_App_Line_Inuse=150,187,245
 RwyAppLines_MarkerSpacing=1
@@ -339,6 +346,7 @@ Track_PredictionLine=1
 
 [EKAH_]
 Setup_LoadView=EKAH
+Setup_ScreenLat=EKAH
 Setup_LoadMap=RADIS\EKAH
 Setup_Informed=*:*:EKAH:1
 
@@ -376,6 +384,7 @@ Color_QDM=22,230,50
 
 [EKKA_]
 Setup_LoadView=EKKA
+Setup_ScreenLat=EKKA
 Setup_LoadMap=RADIS\EKKA
 Setup_Informed=*:*:EKKA:1
 
@@ -413,6 +422,7 @@ Color_QDM=22,230,50
 
 [EKSP_]
 Setup_LoadView=EKSP
+Setup_ScreenLat=EKSP
 Setup_LoadMap=RADIS\EKSP
 Setup_Informed=*:*:EKSP:1
 
@@ -450,6 +460,7 @@ Color_QDM=22,230,50
 
 [EKYT_]
 Setup_LoadView=EKYT
+Setup_ScreenLat=EKYT
 Setup_LoadMap=RADIS\EKYT
 Setup_Informed=*:*:EKYT:1
 
