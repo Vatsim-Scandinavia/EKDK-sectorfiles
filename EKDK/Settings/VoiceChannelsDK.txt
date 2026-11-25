@@ -31,7 +31,7 @@ AG:EKCH Kastrup APRON - ARR:121.630
 AG:EKCH Kastrup APRON - DEP:121.730
 AG:EKCH Kastrup APRON - SEQ:121.905
 AG:EKCH Kastrup CLR DEL:119.905
-AG:EKCH Kastrup I------------------------I :1.00
+AG:EKCH Kastrup I------------------------I :0.00
 AG:EKCH Kastrup TWR - ARR:118.105
 AG:EKCH Kastrup TWR - DEP:119.355
 AG:EKCH Kastrup TWR - GE:121.830
