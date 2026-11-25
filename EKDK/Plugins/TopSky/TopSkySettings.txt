@@ -17,6 +17,7 @@ Equip_Use_SUR_Mode_S_EHS=0
 Equip_Use_SUR_Mode_S_FLTID=0
 
 Areas_NOTAM_Activation=0
+Maps_NOTAM_Activation=0
 Areas_Remote_Activation=1
 Areas_Altitude_Filtering=1
 Areas_PreActiveTime=900
@@ -24,6 +25,9 @@ Areas_Label_Font=Lucida Sans Unicode
 System_UseAUP=1
 HTTP_AUP_URL=https://eaup.vatsim.pt/api/v2/areas/EK/
 HTTP_Areas_Remote_URL=https://lara-backend.lusep.fi/topsky/ekdk.txt
+HTTP_NOTAM_Server=https://notams.blip-radar.org/
+HTTP_NOTAM_Page_Prefix=api/legacy/query?loc=
+HTTP_NOTAM_Page_Suffix=
 HTTP_GRIB_Latitude_Max=59
 HTTP_GRIB_Latitude_Min=54
 HTTP_GRIB_Longitude_Max=15
