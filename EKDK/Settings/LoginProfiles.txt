@@ -91,19 +91,19 @@ PROFILE:EKCH_A_TWR:50:4
 ATIS2:Kastrup Tower - DCL [EKCH]
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKCH_A_GND:20:3
+PROFILE:EKCH_AA_GND:20:3
 ATIS2:Kastrup Apron - Clearance via DCL [EKCH] or 119.905
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKCH_B_GND:20:3
+PROFILE:EKCH_AD_GND:20:3
 ATIS2:Kastrup Apron - Clearance via DCL [EKCH] or 119.905
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKCH_C_GND:20:3
+PROFILE:EKCH_SP_GND:20:3
 ATIS2:Kastrup Apron - Clearance via DCL [EKCH] or 119.905
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!
-PROFILE:EKCH_DEL:20:2
+PROFILE:EKCH_CL_DEL:20:2
 ATIS2:Kastrup Delivery - DCL [EKCH]
 ATIS3:Briefing and TOBT at vats.im/ekch
 ATIS4:vatsca.org/feedback - Thank you for your feedback!

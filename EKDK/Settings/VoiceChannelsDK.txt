@@ -27,12 +27,12 @@ AG:EKCH Kastrup Tower GW:118.580
 AG:EKCH Kastrup Tower ARR:118.105
 AG:EKCH Kastrup Tower DEP:119.355
 AG:EKCH Kastrup Tower VFR:118.705
-AG:Copenhagen TMA -  K DEP:124.980
-AG:Copenhagen TMA -  O APP:118.455
-AG:Copenhagen TMA -  R DEP:120.255
-AG:Copenhagen TMA -  W APP:119.805
+AG:Copenhagen TMA - K DEP:124.980
+AG:Copenhagen TMA - O APP:118.455
 AG:Copenhagen TMA - P FINAL:120.205
 AG:Copenhagen TMA - P APPCO:131.405
+AG:Copenhagen TMA - R DEP:120.255
+AG:Copenhagen TMA - W APP:119.805
 AG:EKEB Esbjerg AFIS:120.155
 AG:EKKA Karup Tower:119.580
 AG:EKKA Karup Approach:120.430
