@@ -24,6 +24,9 @@ Shortcut_Map_Target=8,ATC HELP\SECTOR LVL EXT
 Shortcut_Map_Xfr_Key=8,0x4C ; L
 Shortcut_Map_Target=8,ATC HELP\TMA BASE
 
+Shortcut_Map_Xfr_Key=1,0x4F ; O
+Shortcut_Map_Target=1,ACC\FOREIGN OWNERS
+
 // Function Keys
 Shortcut_Notepad=0x70 ; F1
 Shortcut_SEP=0x71 ; F2

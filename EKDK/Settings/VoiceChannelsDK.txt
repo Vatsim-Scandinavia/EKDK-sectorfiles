@@ -9,53 +9,53 @@ AG:Copenhagen ACC -  L:124.555
 AG:Copenhagen ACC -  N:134.680
 AG:Copenhagen ACC -  V:135.565
 AG:Copenhagen ACC - UA:136.485
-AG:Copenhagen ACC - UC | East:127.865
-AG:Copenhagen ACC - UN | All:136.555
-AG:Copenhagen ACC - UV | West:126.055
-AG:EKAH Aarhus Approach:119.280
-AG:EKAH Aarhus Tower:118.530
-AG:EKBI Billund Tower:119.005
-AG:EKBI Billund Tower 2 | DEL:129.505
-AG:EKBI Billund Approach:127.580
-AG:EKBI Billund Arrival:119.255
-AG:EKCH Kastrup Delivery:119.905
-AG:EKCH Kastrup Apron ARR:121.630
-AG:EKCH Kastrup Apron SEQ:121.905
-AG:EKCH Kastrup Apron DEP:121.730
-AG:EKCH Kastrup Tower GE:121.830
-AG:EKCH Kastrup Tower GW:118.580
-AG:EKCH Kastrup Tower ARR:118.105
-AG:EKCH Kastrup Tower DEP:119.355
-AG:EKCH Kastrup Tower VFR:118.705
-AG:Copenhagen TMA -  K DEP:124.980
-AG:Copenhagen TMA -  O APP:118.455
-AG:Copenhagen TMA -  R DEP:120.255
-AG:Copenhagen TMA -  W APP:119.805
-AG:Copenhagen TMA - P FINAL:120.205
-AG:Copenhagen TMA - P APPCO:131.405
+AG:Copenhagen ACC - UC | east:127.865
+AG:Copenhagen ACC - UN | all:136.555
+AG:Copenhagen ACC - UV | west:126.055
+AG:Copenhagen FMP:131.040
+
+AG:Copenhagen TMA - APPCO:131.405
+AG:Copenhagen TMA - FINAL:120.205
+AG:Copenhagen TMA - K DEP | east:124.980
+AG:Copenhagen TMA - O APP | east:118.455
+AG:Copenhagen TMA - R DEP | west:120.255
+AG:Copenhagen TMA - W APP | west:119.805
+
+AG:EKAH Aarhus APP:119.280
+AG:EKAH Aarhus TWR:118.530
+AG:EKBI Billund APP:127.580
+AG:EKBI Billund ARRIVAL:119.255
+AG:EKBI Billund TWR:119.005
+AG:EKBI Billund TWR 2 | CLR:129.505
+AG:EKCH Kastrup APRON - ARR:121.630
+AG:EKCH Kastrup APRON - DEP:121.730
+AG:EKCH Kastrup APRON - SEQ:121.905
+AG:EKCH Kastrup CLR DEL:119.905
+AG:EKCH Kastrup I------------------------I :0.00
+AG:EKCH Kastrup TWR - ARR:118.105
+AG:EKCH Kastrup TWR - DEP:119.355
+AG:EKCH Kastrup TWR - GE:121.830
+AG:EKCH Kastrup TWR - GW:118.580
 AG:EKEB Esbjerg AFIS:120.155
-AG:EKKA Karup Tower:119.580
-AG:EKKA Karup Approach:120.430
+AG:EKKA Karup APP:120.430
+AG:EKKA Karup TWR:119.580
 AG:EKOD Odense AFIS:119.530
-AG:EKRK Roskilde Tower:118.905
-AG:EKRK Roskilde Approach:125.530
-AG:EKRN Roenne Tower:118.330
+AG:EKRK Roskilde APP:125.530
+AG:EKRK Roskilde TWR:118.905
+AG:EKRN Roenne TWR:118.330
 AG:EKSB Sonderborg AFIS:126.405
-AG:EKSP Skrydstrup Tower:118.280
-AG:EKSP Skrydstrup Approach:124.105
-AG:EKSP Skrydstrup Arrival:122.205
+AG:EKSP Skrydstrup APP:124.105
+AG:EKSP Skrydstrup ARRIVAL:122.205
+AG:EKSP Skrydstrup TWR:118.280
 AG:EKVD Vamdrup AFIS:118.655
-AG:EKYT Aalborg Tower:118.305
-AG:EKYT Aalborg Approach:123.980
-AG:EKYT Aalborg Arrival:120.705
-AG:Flow Management / FMP:131.040
-AG:Flight Information - F | Denmark:129.475
-AG:Flight Information - Y | "COIF":124.000
+AG:EKYT Aalborg APP:123.980
+AG:EKYT Aalborg ARRIVAL:120.705
+AG:EKYT Aalborg TWR:118.305
+
 AG:SP/ Mentor EKBI:130.980
 AG:SP/ Mentor EKCH:130.985
 AG:SP/ Mentor EKDK:130.990
+AG:X/ Copenhagen FIC - F | Denmark:129.475
+AG:X/ Copenhagen FIC - Y | "COIF":124.000
 AG:X/ Denmil Information:129.875
-AG:X/ EKCH De-Ice A:123.405
-AG:X/ EKCH De-Ice B:131.655
-AG:X/ EKCH De-Ice V:131.980
 END
