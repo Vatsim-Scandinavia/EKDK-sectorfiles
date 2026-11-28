@@ -1,3 +1,6 @@
+Maps_URL=https://raw.githubusercontent.com/Vatsim-Scandinavia/EKDK-sectorfiles/refs/heads/main/EKDK/Plugins/TopSky/TopSkyMaps.txt
+Areas_URL=https://raw.githubusercontent.com/Vatsim-Scandinavia/EKDK-sectorfiles/refs/heads/main/EKDK/Plugins/TopSky/TopSkyAreas.txt
+
 Setup_COOPANS=1
 
 Airspace_AOR_Airports=EK
@@ -25,6 +28,7 @@ Areas_Label_Font=Lucida Sans Unicode
 System_UseAUP=1
 HTTP_AUP_URL=https://eaup.vatsim.pt/api/v2/areas/EK/
 HTTP_Areas_Remote_URL=https://lara-backend.lusep.fi/topsky/ekdk.txt
+HTTP_NOTAM_Source=0
 HTTP_NOTAM_Server=https://notams.blip-radar.org/
 HTTP_NOTAM_Page_Prefix=api/legacy/query?loc=
 HTTP_NOTAM_Page_Suffix=
@@ -109,12 +113,6 @@ List_TfcMgmt1_Sorting=3
 List_TfcMgmt2_Sorting=3
 
 System_Filters_Hard=1
-
-//---Map Settings Lines
-
-Maps_URL=https://raw.githubusercontent.com/Vatsim-Scandinavia/EKDK-sectorfiles/refs/heads/main/EKDK/Plugins/TopSky/TopSkyMaps.txt
-
-Areas_URL=https://raw.githubusercontent.com/Vatsim-Scandinavia/EKDK-sectorfiles/refs/heads/main/EKDK/Plugins/TopSky/TopSkyAreas.txt
 
 //---Unit Settings ACC
 
